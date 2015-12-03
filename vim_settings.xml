@@ -3,47 +3,55 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1449059944706">
+      <file name="/Dummy.css" timestamp="1448876736959">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="E:/hwj/project/lab/helloword/package.json" timestamp="1448379409792">
-        <mark key="[" line="25" column="4" />
         <mark key="]" line="25" column="4" />
-        <mark key="." line="25" column="4" />
         <mark key="^" line="26" column="4" />
+        <mark key="." line="25" column="4" />
+        <mark key="[" line="25" column="4" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1449059944706">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/blackbox/backend-cms/.env" timestamp="1449126806051">
+        <mark key="]" line="7" column="15" />
+        <mark key="^" line="7" column="15" />
+        <mark key="." line="7" column="15" />
+        <mark key="[" line="5" column="12" />
       </file>
       <file name="/a.dummy" timestamp="1449059944750">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.css" timestamp="1448876736959">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="F:/project/blackbox/backend-cms/.env" timestamp="1449107257761" />
       <file name="E:/hwj/project/lab/cms/requirements.txt" timestamp="1449059984724">
-        <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
+        <mark key="[" line="0" column="9" />
       </file>
     </filemarks>
     <jumps />
     <registers>
-      <register name="1" type="4">
-        <text>==4.0.1</text>
+      <register name="3" type="4">
+        <text>psi</text>
       </register>
       <register name="&quot;" type="4">
-        <text>==4.0.1</text>
+        <text>homestead</text>
       </register>
       <register name="2" type="4">
-        <text>psi</text>
+        <text>==4.0.1</text>
+      </register>
+      <register name="1" type="4">
+        <text>homestead</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="-" type="4">
-        <text>==4.0.1</text>
-      </register>
       <register name="/" type="4">
         <text>sass</text>
+      </register>
+      <register name="-" type="4">
+        <text>homestead</text>
       </register>
     </registers>
     <search>
@@ -55,7 +63,9 @@
     </search>
     <history>
       <history-search />
-      <history-cmd />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
