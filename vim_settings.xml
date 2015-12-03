@@ -15,6 +15,9 @@
       <file name="/a.dummy" timestamp="1449059944750">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/Dummy.css" timestamp="1448876736959">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="E:/hwj/project/lab/cms/requirements.txt" timestamp="1449059984724">
         <mark key="[" line="0" column="9" />
         <mark key="]" line="0" column="9" />
@@ -50,12 +53,8 @@
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search>
-        <entry>sass</entry>
-      </history-search>
-      <history-cmd>
-        <entry>w</entry>
-      </history-cmd>
+      <history-search />
+      <history-cmd />
       <history-expr />
       <history-input />
     </history>
