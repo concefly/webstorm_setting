@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/project/blackbox/backend-cms/resources/views/cms/index.blade.php" timestamp="1449129631455">
+        <mark key="]" line="57" column="91" />
+        <mark key="^" line="57" column="91" />
+        <mark key="." line="57" column="91" />
+        <mark key="[" line="57" column="76" />
+      </file>
       <file name="/Dummy.css" timestamp="1448876736959">
         <mark key="[" line="0" column="0" />
       </file>
@@ -30,7 +36,18 @@
         <mark key="[" line="0" column="9" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="184" column="4" filename="$USER_HOME$/project/blackbox/backend-cms/resources/views/cms/index.blade.php" />
+      <jump line="173" column="78" filename="$USER_HOME$/project/blackbox/backend-cms/resources/views/cms/index.blade.php" />
+      <jump line="57" column="76" filename="$USER_HOME$/project/blackbox/backend-cms/resources/views/cms/index.blade.php" />
+      <jump line="81" column="65" filename="$USER_HOME$/project/blackbox/backend-cms/resources/views/cms/index.blade.php" />
+      <jump line="91" column="78" filename="$USER_HOME$/project/blackbox/backend-cms/resources/views/cms/index.blade.php" />
+      <jump line="105" column="63" filename="$USER_HOME$/project/blackbox/backend-cms/resources/views/cms/index.blade.php" />
+      <jump line="126" column="65" filename="$USER_HOME$/project/blackbox/backend-cms/resources/views/cms/index.blade.php" />
+      <jump line="136" column="78" filename="$USER_HOME$/project/blackbox/backend-cms/resources/views/cms/index.blade.php" />
+      <jump line="148" column="63" filename="$USER_HOME$/project/blackbox/backend-cms/resources/views/cms/index.blade.php" />
+      <jump line="164" column="65" filename="$USER_HOME$/project/blackbox/backend-cms/resources/views/cms/index.blade.php" />
+    </jumps>
     <registers>
       <register name="3" type="4">
         <text>psi</text>
@@ -45,26 +62,29 @@
         <text>homestead</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
       <register name="/" type="4">
-        <text>sass</text>
+        <text>target</text>
       </register>
       <register name="-" type="4">
         <text>homestead</text>
       </register>
     </registers>
     <search>
-      <last-search>sass</last-search>
+      <last-search>target</last-search>
       <last-offset />
-      <last-pattern>sass</last-pattern>
+      <last-pattern>target</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry>target</entry>
+      </history-search>
       <history-cmd>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -72,6 +92,15 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
