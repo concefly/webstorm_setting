@@ -27,6 +27,7 @@
       <file name="/Dummy.txt" timestamp="1449059944706">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/project/blackbox/backend-cms/app/Http/routes.php" timestamp="1449136450190" />
       <file name="$USER_HOME$/project/blackbox/backend-cms/.env" timestamp="1449130747657">
         <mark key="]" line="5" column="17" />
         <mark key="^" line="5" column="17" />
@@ -115,6 +116,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
