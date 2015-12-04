@@ -12,6 +12,11 @@
       <file name="/Dummy.css" timestamp="1448876736959">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/basic.scss" timestamp="1449215018447">
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+        <mark key="[" line="41" column="0" />
+      </file>
       <file name="$USER_HOME$/project/pet/backend/resources/views/wechat/check/bak/index.blade.php" timestamp="1449201681897">
         <mark key="]" line="38" column="6" />
         <mark key="." line="19" column="122" />
@@ -35,11 +40,16 @@
         <mark key="." line="112" column="0" />
         <mark key="[" line="96" column="26" />
       </file>
-      <file name="$USER_HOME$/project/pet/wechat/fis-conf.js" timestamp="1449212630852">
-        <mark key="]" line="58" column="2" />
-        <mark key="^" line="58" column="2" />
-        <mark key="." line="58" column="2" />
-        <mark key="[" line="58" column="2" />
+      <file name="$USER_HOME$/project/pet/wechat/views/check/demo.html" timestamp="1449214594841">
+        <mark key="]" line="5" column="36" />
+        <mark key="^" line="5" column="36" />
+        <mark key="." line="5" column="36" />
+        <mark key="[" line="3" column="26" />
+      </file>
+      <file name="$USER_HOME$/project/pet/wechat/fis-conf.js" timestamp="1449215061410">
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="[" line="22" column="0" />
       </file>
       <file name="E:/hwj/project/lab/helloword/package.json" timestamp="1448379409792">
         <mark key="]" line="25" column="4" />
@@ -106,47 +116,47 @@
       <jump line="8" column="25" filename="$USER_HOME$/project/pet/wechat/fis-config.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>clean-css</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZmlzLmNvbmZpZy5zZXQoInByb2plY3Qud2F0Y2gudXNlUG9sbGluZyIsIHRydWUpOwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZmlzLm1hdGNoKCcvY29tcG9uZW50cy9mcm96ZW51aS9kaXN0LyoqLyouY3NzJyx7CiAgICBvcHRpbWl6ZXI6IGZpcy5wbHVnaW4oJ2NsZWFuLWNzcycpCn0pCg==</text>
+      <register name="3" type="4">
+        <text>,</text>
       </register>
-      <register name="2" type="4">
-        <text>css</text>
-      </register>
-      <register name="1" type="4">
-        <text>clean-css</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZmlzLm1hdGNoKCcvY29tcG9uZW50cy8qKi8qLmNzcycsewogICAgb3B0aW1pemVyOiBmaXMucGx1Z2luKCdjbGVhbi1jc3MnKQp9KQo=</text>
-      </register>
-      <register name="7" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>/combponents/**/*.css</text>
+      <register name="1" type="2">
+        <text encoding="base64">ZmlzLmNvbmZpZy5zZXQoInByb2plY3Qud2F0Y2gudXNlUG9sbGluZyIsIHRydWUpOwo=</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHJlbGVhc2U6IGFzc2V0UGF0aCArICckMCcsCiAgICB1cmw6IGFzc2V0VXJsUHJlZml4ICsgJyQwJwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZmlzLm1hdGNoKCcvY29tcG9uZW50cy8qKi8qLmNzcycsewogICAgb3B0aW1pemVyOiBmaXMucGx1Z2luKCdjbGVhbi1jc3MnKQp9KTsKZmlzLm1hdGNoKCcvY29tcG9uZW50cy8qKi8qLmpzJyx7CiAgICBvcHRpbWl6ZXI6IGZpcy5wbHVnaW4oJ3VnbGlmeS1qcycpCn0pOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZmlzLm1hdGNoKCcvY29tcG9uZW50cy8qKi8qLmNzcycsewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gaHRtbCB0ZW1wbGF0ZQpmaXMubWF0Y2goJy9jb21wb25lbnRzLyoqLyouaHRtbCcsewogICAgcmVsZWFzZTogYXNzZXRQYXRoICsgJyQwJywKICAgIHVybDogYXNzZXRVcmxQcmVmaXggKyAnJDAnLAp9KTsKLy8gY3NzCmZpcy5tYXRjaCgnL2NvbXBvbmVudHMvKiovKi5jc3MnLHsKICAgIHJlbGVhc2U6IGFzc2V0UGF0aCArICckMCcsCiAgICB1cmw6IGFzc2V0VXJsUHJlZml4ICsgJyQwJywKICAgIG9wdGltaXplcjogZmlzLnBsdWdpbignY2xlYW4tY3NzJyksCn0pOwovLyBqcwpmaXMubWF0Y2goJy9jb21wb25lbnRzLyoqLyouanMnLHsKICAgIHJlbGVhc2U6IGFzc2V0UGF0aCArICckMCcsCiAgICB1cmw6IGFzc2V0VXJsUHJlZml4ICsgJyQwJywKICAgIG9wdGltaXplcjogZmlzLnBsdWdpbigndWdsaWZ5LWpzJyksCn0pOwovLyBmb250cwpmaXMubWF0Y2goJy9jb21wb25lbnRzLyoqLyoue290Zix0dGYsd29mZjIsd29mZixlb3Qsc3ZnfScsewogICAgcmVsZWFzZTogYXNzZXRQYXRoICsgJyQwJywKICAgIHVybDogYXNzZXRVcmxQcmVmaXggKyAnJDAnLAp9KTsKLy8gaW1nCmZpcy5tYXRjaCgnL2NvbXBvbmVudHMvKiovKi57aW1nLHBuZyxwbmc4LHdlYlAsZ2lmfScsewogICAgcmVsZWFzZTogYXNzZXRQYXRoICsgJyQwJywKICAgIHVybDogYXNzZXRVcmxQcmVmaXggKyAnJDAnCn0pCgo=</text>
+        <text encoding="base64">ZmlzLm1hdGNoKCcvY29tcG9uZW50cy8qKi8qLmpzJyx7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG9wdGltaXplcjogZmlzLnBsdWdpbignY2xlYW4tY3NzJykK</text>
+        <text encoding="base64">ICAgIGZpcy5tYXRjaCgnL2NvbXBvbmVudHMvZnJvemVudWkvZGlzdC8qKi8qJyx7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>,</text>
+        <text>css</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSBsZXNz57yW6K+R5Y+K5Y+R5biDCi8vIOWPque8luivkXZpZXfkuIvnmoRsZXNzCmZpcy5tYXRjaCgnL3ZpZXdzLyoqLyoubGVzcycsewogICAgcGFyc2VyOiBmaXMucGx1Z2luKCdsZXNzJyksCiAgICByRXh0OiAnLmNzcycsCiAgICB1c2VIYXNoOiB0cnVlLAogICAgcmVsZWFzZTogYXNzZXRQYXRoICsgJyQwJywKICAgIHVybDogYXNzZXRVcmxQcmVmaXggKyAnJDAnLAogICAgb3B0aW1pemVyOiBmaXMucGx1Z2luKCdjbGVhbi1jc3MnKQp9KTsK</text>
+      <register name="8" type="4">
+        <text>clean-css</text>
       </register>
       <register name="/" type="4">
         <text>tag</text>
       </register>
       <register name="-" type="4">
-        <text>clean-css</text>
+        <text>,</text>
       </register>
     </registers>
     <search>
@@ -193,6 +203,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
