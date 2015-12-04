@@ -14,11 +14,17 @@
         <mark key="." line="19" column="122" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/project/pet/wechat/fis-conf.js" timestamp="1449219998366">
-        <mark key="]" line="73" column="7" />
-        <mark key="^" line="60" column="37" />
-        <mark key="." line="63" column="0" />
-        <mark key="[" line="63" column="0" />
+      <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/hr.scss" timestamp="1449224068166">
+        <mark key="]" line="16" column="30" />
+        <mark key="^" line="16" column="30" />
+        <mark key="." line="16" column="30" />
+        <mark key="[" line="16" column="2" />
+      </file>
+      <file name="$USER_HOME$/project/pet/wechat/fis-conf.js" timestamp="1449223540713">
+        <mark key="]" line="59" column="22" />
+        <mark key="^" line="59" column="22" />
+        <mark key="." line="59" column="22" />
+        <mark key="[" line="59" column="7" />
       </file>
       <file name="E:/hwj/project/lab/helloword/package.json" timestamp="1448379409792">
         <mark key="]" line="25" column="4" />
@@ -61,7 +67,7 @@
         <mark key="." line="0" column="9" />
         <mark key="[" line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/image.scss" timestamp="1449218891098">
+      <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/image.scss" timestamp="1449223893132">
         <mark key="]" line="6" column="17" />
         <mark key="^" line="6" column="17" />
         <mark key="." line="6" column="17" />
@@ -78,6 +84,12 @@
         <mark key="." line="18" column="32" />
         <mark key="[" line="18" column="32" />
       </file>
+      <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/title.scss" timestamp="1449223800677">
+        <mark key="]" line="12" column="18" />
+        <mark key="^" line="12" column="18" />
+        <mark key="." line="12" column="18" />
+        <mark key="[" line="12" column="12" />
+      </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/base/variable.scss" timestamp="1449221606741">
         <mark key="'" line="19" column="48" />
         <mark key="]" line="21" column="24" />
@@ -91,11 +103,11 @@
         <mark key="." line="112" column="0" />
         <mark key="[" line="96" column="26" />
       </file>
-      <file name="$USER_HOME$/project/pet/wechat/views/check/demo.html" timestamp="1449222036022">
-        <mark key="]" line="33" column="17" />
-        <mark key="^" line="27" column="25" />
-        <mark key="." line="30" column="0" />
-        <mark key="[" line="38" column="14" />
+      <file name="$USER_HOME$/project/pet/wechat/views/check/demo.html" timestamp="1449223764706">
+        <mark key="]" line="44" column="37" />
+        <mark key="^" line="44" column="37" />
+        <mark key="." line="44" column="37" />
+        <mark key="[" line="44" column="30" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/border.scss" timestamp="1449221727429" />
       <file name="$USER_HOME$/project/pet/backend/.env" timestamp="1449199882844">
@@ -115,6 +127,12 @@
         <mark key="^" line="159" column="23" />
         <mark key="." line="159" column="23" />
         <mark key="[" line="155" column="2" />
+      </file>
+      <file name="$USER_HOME$/project/pet/wechat/views/check/all.scss" timestamp="1449224090477">
+        <mark key="]" line="26" column="35" />
+        <mark key="^" line="26" column="35" />
+        <mark key="." line="26" column="35" />
+        <mark key="[" line="26" column="34" />
       </file>
     </filemarks>
     <jumps>
@@ -145,46 +163,46 @@
     </jumps>
     <registers>
       <register name="3" type="4">
-        <text>color</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>primary</text>
-      </register>
-      <register name="2" type="4">
-        <text>-</text>
-      </register>
-      <register name="1" type="4">
-        <text>primary</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAmLm1hcmtlZC0tcGlybWFyeSB7CiAgICBib3JkZXItbGVmdC1jb2xvcjogJGNvbG9yLXByaW1hcnk7CiAgfQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBwYWRkaW4K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBwYWRkaW4K</text>
-      </register>
-      <register name="5" type="4">
         <text>pirmary</text>
       </register>
+      <register name="&quot;" type="4">
+        <text>title</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICBib3JkZXItdG9wOiAxcHggc29saWQgJGNvbG9yLW11dGU7Cg==</text>
+      </register>
+      <register name="1" type="4">
+        <text>title</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAiL2NvbXBvbmVudHMvZnJvemVudWkvc2Fzcy91dGlsL3RpdGxlIiwK</text>
+      </register>
+      <register name="7" type="4">
+        <text>image</text>
+      </register>
+      <register name="6" type="4">
+        <text>article</text>
+      </register>
+      <register name="5" type="4">
+        <text>article</text>
+      </register>
       <register name="4" type="4">
-        <text>$</text>
+        <text>article</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGgxIGNsYXNzPSJ1aS1hcnRpY2xlLXRpdGxlIHVpLWFydGljbGUtdGl0bGUtLW1hcmtlZCBtYXJrZWQtLXByaW1hcnkiPkhlYWRlcjwvaDE+Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>fc_3</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="/" type="4">
         <text>tag</text>
       </register>
       <register name="-" type="4">
-        <text>primary</text>
+        <text>title</text>
       </register>
     </registers>
     <search>
