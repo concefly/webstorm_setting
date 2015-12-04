@@ -17,6 +17,12 @@
         <mark key="." line="19" column="122" />
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/project/pet/wechat/package.json" timestamp="1449210492981">
+        <mark key="]" line="18" column="32" />
+        <mark key="^" line="10" column="20" />
+        <mark key="." line="18" column="32" />
+        <mark key="[" line="18" column="32" />
+      </file>
       <file name="/Dummy.txt" timestamp="1449059944706">
         <mark key="[" line="0" column="0" />
       </file>
@@ -40,6 +46,11 @@
         <mark key="^" line="7" column="15" />
         <mark key="." line="7" column="15" />
         <mark key="[" line="5" column="12" />
+      </file>
+      <file name="$USER_HOME$/project/pet/wechat/fis-config.js" timestamp="1449210390965">
+        <mark key="]" line="58" column="17" />
+        <mark key="^" line="58" column="17" />
+        <mark key="." line="58" column="17" />
       </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/gulpfile.js" timestamp="1449193727910">
         <mark key="]" line="61" column="28" />
@@ -84,47 +95,47 @@
       <jump line="99" column="126" filename="$USER_HOME$/project/blackbox/backend-cms/resources/views/cms/post/post_normal.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CjxkaXYgY2xhc3M9InVpLWNvbnRhaW5lciB1aS13aGl0ZXNwYWNlLWJvdHRvbUxpbmUiIHN0eWxlPSJwYWRkaW5nLXJpZ2h0OjAiPgo=</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="3" type="4">
-        <text>homestead</text>
+        <text>packy</text>
       </register>
-      <register name="2" type="4">
-        <text>症状自诊</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICJub2RlLXNhc3MiOiAiXjMuMy4zIgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CjxkaXYgY2xhc3M9InVpLWNvbnRhaW5lciB1aS13aGl0ZXNwYWNlLWJvdHRvbUxpbmUiIHN0eWxlPSJwYWRkaW5nLXJpZ2h0OjAiPgo=</text>
+      <register name="1" type="4">
+        <text>,</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">PCFkb2N0eXBlIGh0bWw+CjxodG1sIGxhbmc9ImVuIj4KPGhlYWQ+Cgk8bWV0YSBjaGFyc2V0PSJVVEYtOCIgLz4KCTx0aXRsZT7nl4fnirboh6ror4o8L3RpdGxlPgoJPG1ldGEgbmFtZT0idmlld3BvcnQiIGNvbnRlbnQ9IndpZHRoPWRldmljZS13aWR0aCwgdXNlci1zY2FsYWJsZT1ubywgaW5pdGlhbC1zY2FsZT0xLjAsIG1heGltdW0tc2NhbGU9MS4wLCBtaW5pbXVtLXNjYWxlPTEuMCI+Cgk8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVR5cGUiIGNvbnRlbnQ9InRleHQvaHRtbDtjaGFyc2V0PVVURi04Ij4KCTxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iL2Fzc2V0cy93ZWNoYXQvdmlld3MvY2hlY2svaW5kZXhfZGQ3OWQ5My5jc3MiIC8+CgkgICAgCjwvaGVhZD4KPGJvZHkgaWQ9J21haW4nPgoKCTxkaXYgY2xhc3M9InVpLWNvbnRhaW5lciB1aS13aGl0ZXNwYWNlLWJvdHRvbUxpbmUiPgoJCTxoMSBjbGFzcz0idWktd2hpdGVzcGFjZS10aXRsZSB1aS13aGl0ZXNwYWNlLXRpdGxlLWluZm8iPjxzcGFuIGNsYXNzPSJ1aS13aGl0ZXNwYWNlLXRpdGxlLW1hcmsiPjwvc3Bhbj7mmK/lkKblh7rnjrDku6XkuIvnl4fnirY8c3BhbiBzdHlsZT0iZmxvYXQ6cmlnaHQ7bWFyZ2luLXJpZ2h0OiAxMHB4O2NvbG9yOiAjNWFjZGNhOyIgaWQ9J2ktYW0tc3VyZSc+56Gu5a6aPC9zcGFuPjwvaDE+CgkJPGRpdiBpZD0ic3ltcHRvbS10YWciPgoJCTwvZGl2PgoJPC9kaXY+CgoJPGRpdiBjbGFzcz0idWktY29udGFpbmVyIHVpLXdoaXRlc3BhY2UtYm90dG9tTGluZSIgc3R5bGU9InBhZGRpbmctcmlnaHQ6MCI+CgkJPGgxIGNsYXNzPSJ1aS13aGl0ZXNwYWNlLXRpdGxlIHVpLXdoaXRlc3BhY2UtdGl0bGUtaW5mbyI+PHNwYW4gY2xhc3M9InVpLXdoaXRlc3BhY2UtdGl0bGUtbWFyayI+PC9zcGFuPuWPr+iDveeahOaCo+eXhee7k+aenDwvaDI+CgkJPHVsIGNsYXNzPSJ1aS1saXN0IHVpLWxpc3QtbGluayB1aS1saXN0LXB1cmUiIGlkPSJkaXNlYXNlIj4KCQk8L3VsPgoJPC9kaXY+CgkKCTxzY3JpcHQgc3JjPSJodHRwOi8vYXBwcy5iZGltZy5jb20vbGlicy9yZXF1aXJlLmpzLzIuMS4xMi9yZXF1aXJlLm1pbi5qcyI+PC9zY3JpcHQ+Cgk8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCI+cmVxdWlyZS5jb25maWcoe3BhdGhzOnsKICAiY29tcG9uZW50cy9qcXVlcnkvanF1ZXJ5Lm1pbiI6ICIvYXNzZXRzL3dlY2hhdC9jb21wb25lbnRzL2pxdWVyeS9qcXVlcnkubWluXzc0NWViMjUiLAogICJjb21wb25lbnRzL2pxdWVyeS5xdWVyeS5qcy9qcXVlcnkucXVlcnkiOiAiL2Fzc2V0cy93ZWNoYXQvY29tcG9uZW50cy9qcXVlcnkucXVlcnkuanMvanF1ZXJ5LnF1ZXJ5Xzg5YWY3ZjMiLAogICJjb21wb25lbnRzL3BldC13ZWNoYXQvYXBpIjogIi9hc3NldHMvd2VjaGF0L2NvbXBvbmVudHMvcGV0LXdlY2hhdC9hcGlfNTE2ZDhkNyIsCiAgImNvbXBvbmVudHMvcGV0LXdlY2hhdC9wZXQtd2VjaGF0IjogIi9hc3NldHMvd2VjaGF0L2NvbXBvbmVudHMvcGV0LXdlY2hhdC9wZXQtd2VjaGF0XzgxOGI4MWMiLAogICJ2aWV3cy9jaGVjay9pbmRleCI6ICIvYXNzZXRzL3dlY2hhdC9jaGVjay9pbmRleCIKfX0pOzwvc2NyaXB0PgogICAgPHNjcmlwdD4KICAgICAgICByZXF1aXJlKFsndmlld3MvY2hlY2svaW5kZXgnXSk7CiAgICA8L3NjcmlwdD4KCgo8L2JvZHk+CjwvaHRtbD4K</text>
       </register>
-      <register name="7" type="4">
-        <text>s</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAiZGVzY3JpcHRpb24iOiAi5YmN56uv5p6E5bu66aG555uuIiwK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="6" type="4">
+        <text>laravel</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEBmb3JlYWNoICgkYXJ0aWNsZS0+dGFncyBhcyAkdGFnKQogICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJiYi10YWcgYmItdGFnX2RlZmF1bHQiPjxhIGNsYXNzPSJiYi1hIGJiLWFfbWFqb3IiIGhyZWY9Ii90YWcve3sgJHRhZy0+aWQgfX0iIHRhcmdldD0iX2JsYW5rIj57eyAkdGFnLT50aXRsZSB9fTwvYT48L3NwYW4+CiAgICAgICAgICAgICAgICBAZW5kZm9yZWFjaAo=</text>
+      <register name="5" type="4">
+        <text>-</text>
       </register>
       <register name="4" type="4">
-        <text>www</text>
+        <text>frontend</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>==4.0.1</text>
+        <text>症状自诊</text>
       </register>
-      <register name="8" type="4">
-        <text>homestead</text>
+      <register name="8" type="2">
+        <text encoding="base64">CjxkaXYgY2xhc3M9InVpLWNvbnRhaW5lciB1aS13aGl0ZXNwYWNlLWJvdHRvbUxpbmUiIHN0eWxlPSJwYWRkaW5nLXJpZ2h0OjAiPgo=</text>
       </register>
       <register name="/" type="4">
         <text>tag</text>
       </register>
       <register name="-" type="4">
-        <text>症状自诊</text>
+        <text>,</text>
       </register>
     </registers>
     <search>
