@@ -24,6 +24,12 @@
         <mark key="." line="25" column="4" />
         <mark key="[" line="25" column="4" />
       </file>
+      <file name="$USER_HOME$/project/pet/backend/.env" timestamp="1449199882844">
+        <mark key="]" line="7" column="15" />
+        <mark key="^" line="7" column="15" />
+        <mark key="." line="7" column="15" />
+        <mark key="[" line="5" column="12" />
+      </file>
       <file name="/Dummy.txt" timestamp="1449059944706">
         <mark key="[" line="0" column="0" />
       </file>
@@ -68,40 +74,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ASSETS_DIR</text>
+        <text>homestead</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIEBmb3JlYWNoICgkYXJ0aWNsZS0+dGFncyBhcyAkdGFnKQogICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJiYi10YWcgYmItdGFnX2RlZmF1bHQiPjxhIGNsYXNzPSJiYi1hIGJiLWFfbWFqb3IiIGhyZWY9Ii90YWcve3sgJHRhZy0+aWQgfX0iIHRhcmdldD0iX2JsYW5rIj57eyAkdGFnLT50aXRsZSB9fTwvYT48L3NwYW4+CiAgICAgICAgICAgICAgICBAZW5kZm9yZWFjaAo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="2" type="4">
         <text>www</text>
+      </register>
+      <register name="1" type="4">
+        <text>homestead</text>
       </register>
       <register name="0" type="4">
         <text>ASSETS_DIR</text>
       </register>
       <register name="7" type="4">
-        <text>psi</text>
-      </register>
-      <register name="6" type="4">
         <text>==4.0.1</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>homestead</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>s</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
+      </register>
+      <register name="8" type="4">
+        <text>psi</text>
       </register>
       <register name="/" type="4">
         <text>tag</text>
       </register>
       <register name="-" type="4">
-        <text>www</text>
+        <text>homestead</text>
       </register>
     </registers>
     <search>
