@@ -3,14 +3,14 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.css" timestamp="1448876736959">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/resources/views/cms/index.blade.php" timestamp="1449138116188">
         <mark key="]" line="136" column="44" />
         <mark key="^" line="136" column="44" />
         <mark key="." line="136" column="44" />
         <mark key="[" line="136" column="34" />
-      </file>
-      <file name="/Dummy.css" timestamp="1448876736959">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/resources/views/cms/post/post_normal.blade.php" timestamp="1449193764673">
         <mark key="'" line="99" column="126" />
@@ -27,12 +27,8 @@
       <file name="/Dummy.txt" timestamp="1449059944706">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/backend-cms/app/Http/routes.php" timestamp="1449136450190" />
-      <file name="$USER_HOME$/project/blackbox/backend-cms/gulpfile.js" timestamp="1449193727910">
-        <mark key="]" line="61" column="28" />
-        <mark key="^" line="61" column="28" />
-        <mark key="." line="61" column="28" />
-        <mark key="[" line="61" column="28" />
+      <file name="/a.dummy" timestamp="1449059944750">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/.env" timestamp="1449193779786">
         <mark key="]" line="4" column="11" />
@@ -40,8 +36,11 @@
         <mark key="." line="4" column="11" />
         <mark key="[" line="4" column="10" />
       </file>
-      <file name="/a.dummy" timestamp="1449059944750">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/project/blackbox/backend-cms/gulpfile.js" timestamp="1449193727910">
+        <mark key="]" line="61" column="28" />
+        <mark key="^" line="61" column="28" />
+        <mark key="." line="61" column="28" />
+        <mark key="[" line="61" column="28" />
       </file>
       <file name="E:/hwj/project/lab/cms/requirements.txt" timestamp="1449059984724">
         <mark key="]" line="0" column="9" />
@@ -68,11 +67,11 @@
       <jump line="99" column="126" filename="$USER_HOME$/project/blackbox/backend-cms/resources/views/cms/post/post_normal.blade.php" />
     </jumps>
     <registers>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
       <register name="&quot;" type="4">
         <text>ASSETS_DIR</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIEBmb3JlYWNoICgkYXJ0aWNsZS0+dGFncyBhcyAkdGFnKQogICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJiYi10YWcgYmItdGFnX2RlZmF1bHQiPjxhIGNsYXNzPSJiYi1hIGJiLWFfbWFqb3IiIGhyZWY9Ii90YWcve3sgJHRhZy0+aWQgfX0iIHRhcmdldD0iX2JsYW5rIj57eyAkdGFnLT50aXRsZSB9fTwvYT48L3NwYW4+CiAgICAgICAgICAgICAgICBAZW5kZm9yZWFjaAo=</text>
