@@ -3,43 +3,49 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/project/blackbox/backend-cms/resources/views/cms/index.blade.php" timestamp="1449129631455">
-        <mark key="]" line="57" column="91" />
-        <mark key="^" line="57" column="91" />
-        <mark key="." line="57" column="91" />
-        <mark key="[" line="57" column="76" />
+      <file name="/Dummy.txt" timestamp="1449059944706">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/hwj/project/lab/helloword/package.json" timestamp="1448379409792">
+        <mark key="[" line="25" column="4" />
+        <mark key="]" line="25" column="4" />
+        <mark key="." line="25" column="4" />
+        <mark key="^" line="26" column="4" />
+      </file>
+      <file name="/a.dummy" timestamp="1449059944750">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.css" timestamp="1448876736959">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/resources/views/cms/post/post_normal.blade.php" timestamp="1449130533046">
         <mark key="'" line="112" column="36" />
+        <mark key="[" line="113" column="93" />
         <mark key="]" line="113" column="93" />
         <mark key="." line="113" column="93" />
-        <mark key="[" line="113" column="93" />
       </file>
-      <file name="E:/hwj/project/lab/helloword/package.json" timestamp="1448379409792">
-        <mark key="]" line="25" column="4" />
-        <mark key="^" line="26" column="4" />
-        <mark key="." line="25" column="4" />
-        <mark key="[" line="25" column="4" />
+      <file name="$USER_HOME$/project/blackbox/backend-cms/resources/views/cms/index.blade.php" timestamp="1449129631455">
+        <mark key="[" line="57" column="76" />
+        <mark key="]" line="57" column="91" />
+        <mark key="^" line="57" column="91" />
+        <mark key="." line="57" column="91" />
       </file>
-      <file name="/Dummy.txt" timestamp="1449059944706">
-        <mark key="[" line="0" column="0" />
+      <file name="E:/hwj/project/lab/roam-demo/index.html" timestamp="1449294557992">
+        <mark key="[" line="4" column="16" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="E:/hwj/project/lab/cms/requirements.txt" timestamp="1449059984724">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/.env" timestamp="1449130747657">
+        <mark key="[" line="5" column="17" />
         <mark key="]" line="5" column="17" />
         <mark key="^" line="5" column="17" />
         <mark key="." line="5" column="17" />
-        <mark key="[" line="5" column="17" />
-      </file>
-      <file name="/a.dummy" timestamp="1449059944750">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="E:/hwj/project/lab/cms/requirements.txt" timestamp="1449059984724">
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
-        <mark key="[" line="0" column="9" />
       </file>
     </filemarks>
     <jumps>
@@ -59,8 +65,8 @@
       <jump line="112" column="36" filename="$USER_HOME$/project/blackbox/backend-cms/resources/views/cms/post/post_normal.blade.php" />
     </jumps>
     <registers>
-      <register name="3" type="4">
-        <text>==4.0.1</text>
+      <register name="1" type="4">
+        <text>s</text>
       </register>
       <register name="&quot;" type="4">
         <text>s</text>
@@ -68,8 +74,8 @@
       <register name="2" type="4">
         <text>homestead</text>
       </register>
-      <register name="1" type="4">
-        <text>s</text>
+      <register name="3" type="4">
+        <text>==4.0.1</text>
       </register>
       <register name="4" type="4">
         <text>psi</text>
@@ -77,11 +83,11 @@
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="/" type="4">
-        <text>tags</text>
-      </register>
       <register name="-" type="4">
         <text>s</text>
+      </register>
+      <register name="/" type="4">
+        <text>tags</text>
       </register>
     </registers>
     <search>
@@ -93,11 +99,9 @@
     </search>
     <history>
       <history-search>
-        <entry>target</entry>
-        <entry>tags</entry>
+        <entry>sass</entry>
       </history-search>
       <history-cmd>
-        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
