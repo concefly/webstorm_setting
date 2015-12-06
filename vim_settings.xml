@@ -12,6 +12,12 @@
         <mark key="." line="25" column="4" />
         <mark key="^" line="26" column="4" />
       </file>
+      <file name="$USER_HOME$/Desktop/roam/img.htm" timestamp="1449393194734">
+        <mark key="[" line="112" column="8" />
+        <mark key="]" line="113" column="9" />
+        <mark key="." line="113" column="9" />
+        <mark key="^" line="113" column="9" />
+      </file>
       <file name="/a.dummy" timestamp="1449059944750">
         <mark key="[" line="0" column="0" />
       </file>
@@ -68,32 +74,44 @@
       <jump line="5" column="8" filename="E:/hwj/project/lab/roam-demo/index.html" />
     </jumps>
     <registers>
-      <register name="1" type="4">
-        <text>00</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>00</text>
-      </register>
-      <register name="2" type="4">
-        <text>s</text>
-      </register>
-      <register name="3" type="4">
-        <text>homestead</text>
-      </register>
-      <register name="4" type="4">
-        <text>==4.0.1</text>
-      </register>
-      <register name="5" type="4">
-        <text>psi</text>
-      </register>
-      <register name=":" type="4">
-        <text>w</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAtd2Via2l0LWJveC1zaGFkb3c6IDVweCA1cHggMTBweCByZ2IoMTgwLDE4MCwxODApOwogIC1tb3otYm94LXNoYWRvdzogNXB4IDVweCAxMHB4IHJnYigxODAsMTgwLDE4MCk7CiAgYm94LXNoYWRvdzogNXB4IDVweCAxMHB4IHJnYigxODAsMTgwLDE4MCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>00</text>
+        <text>Panorama</text>
       </register>
       <register name="/" type="4">
         <text>canvas</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAtd2Via2l0LWJveC1zaGFkb3c6IDVweCA1cHggMTBweCByZ2IoMTgwLDE4MCwxODApOwogIC1tb3otYm94LXNoYWRvdzogNXB4IDVweCAxMHB4IHJnYigxODAsMTgwLDE4MCk7CiAgYm94LXNoYWRvdzogNXB4IDVweCAxMHB4IHJnYigxODAsMTgwLDE4MCk7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICBwYWRkaW5nLWxlZnQ6IDIwcHg7CiAgcGFkZGluZy1yaWdodDogMjBweDsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgPHRyPiAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgPHRkIGlkPSJ0b3B0ZCI+CiAgICAgICAgICA8aDE+UGFub3JhbWE8L2gxPgogICAgICAgIDwvdGQ+CiAgICAgIDwvdHI+Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIDxkaXYgaWQ9Im5vdGljZSI+Y3JlYXRlZCB3aXRoIFBUR3VpIDxhIGhyZWY9Imh0dHA6Ly93d3cucHRndWkuY29tLyIgdGFyZ2V0PSJfYmxhbmsiPnBhbm9yYW1hIHN0aXRjaGluZyBzb2Z0d2FyZTwvYT48L2Rpdj4K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgPHRyPiAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgPHRkIGlkPSJ0b3B0ZCI+CiAgICAgICAgICA8aDE+UGFub3JhbWE8L2gxPgogICAgICAgIDwvdGQ+CiAgICAgIDwvdHI+Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIDxkaXYgaWQ9Im5vdGljZSI+Y3JlYXRlZCB3aXRoIFBUR3VpIDxhIGhyZWY9Imh0dHA6Ly93d3cucHRndWkuY29tLyIgdGFyZ2V0PSJfYmxhbmsiPnBhbm9yYW1hIHN0aXRjaGluZyBzb2Z0d2FyZTwvYT48L2Rpdj4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBmb250LWZhbWlseTogVmVyZGFuYSwgQXJpYWwsIEhlbHZldGljYSwgU2Fucy1TZXJpZjsK</text>
+      </register>
+      <register name="8" type="4">
+        <text>Panorama</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIDxtZXRhIG5hbWU9InZpZXdwb3J0IiBjb250ZW50PSJ3aWR0aD04MDAsdXNlci1zY2FsYWJsZT1mYWxzZSIgLz4K</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -109,6 +127,7 @@
         <entry>canvas</entry>
       </history-search>
       <history-cmd>
+        <entry>52</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
