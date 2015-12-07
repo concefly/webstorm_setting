@@ -68,16 +68,28 @@
         <mark key="." line="0" column="9" />
         <mark key="[" line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/image.scss" timestamp="1449223893132">
-        <mark key="]" line="6" column="17" />
+      <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/image.scss" timestamp="1449452579159">
+        <mark key="]" line="3" column="20" />
         <mark key="^" line="6" column="17" />
         <mark key="." line="6" column="17" />
-        <mark key="[" line="4" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/margin.scss" timestamp="1449453963480">
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="9" column="35" />
+        <mark key="." line="9" column="35" />
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/basic.scss" timestamp="1449215018447">
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
         <mark key="[" line="41" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/padding.scss" timestamp="1449453267488">
+        <mark key="'" line="0" column="0" />
+        <mark key="]" line="21" column="17" />
+        <mark key="." line="21" column="17" />
+        <mark key="[" line="21" column="16" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/package.json" timestamp="1449210492981">
         <mark key="]" line="18" column="32" />
@@ -104,11 +116,18 @@
         <mark key="." line="112" column="0" />
         <mark key="[" line="96" column="26" />
       </file>
-      <file name="$USER_HOME$/project/pet/wechat/views/check/demo.html" timestamp="1449227101555">
-        <mark key="]" line="55" column="44" />
-        <mark key="^" line="55" column="44" />
-        <mark key="." line="55" column="44" />
-        <mark key="[" line="55" column="33" />
+      <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/lineheight.scss" timestamp="1449453803046">
+        <mark key="]" line="9" column="14" />
+        <mark key="^" line="9" column="14" />
+        <mark key="." line="9" column="14" />
+        <mark key="[" line="9" column="15" />
+      </file>
+      <file name="$USER_HOME$/project/pet/wechat/views/check/demo.html" timestamp="1449454122902">
+        <mark key="'" line="57" column="17" />
+        <mark key="]" line="28" column="42" />
+        <mark key="^" line="28" column="42" />
+        <mark key="." line="37" column="42" />
+        <mark key="[" line="37" column="35" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/border.scss" timestamp="1449221727429" />
       <file name="$USER_HOME$/project/pet/backend/.env" timestamp="1449199882844">
@@ -122,6 +141,12 @@
         <mark key="." line="24" column="0" />
         <mark key="[" line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/textalign.scss" timestamp="1449454193632">
+        <mark key="]" line="13" column="31" />
+        <mark key="^" line="13" column="31" />
+        <mark key="." line="13" column="31" />
+        <mark key="[" line="7" column="18" />
+      </file>
       <file name="$USER_HOME$/project/pet/wechat/fis-config.js" timestamp="1449212054175">
         <mark key="'" line="8" column="25" />
         <mark key="]" line="159" column="23" />
@@ -129,11 +154,11 @@
         <mark key="." line="159" column="23" />
         <mark key="[" line="155" column="2" />
       </file>
-      <file name="$USER_HOME$/project/pet/wechat/views/check/all.scss" timestamp="1449224090477">
-        <mark key="]" line="26" column="35" />
-        <mark key="^" line="26" column="35" />
-        <mark key="." line="26" column="35" />
-        <mark key="[" line="26" column="34" />
+      <file name="$USER_HOME$/project/pet/wechat/views/check/all.scss" timestamp="1449454089494">
+        <mark key="]" line="30" column="42" />
+        <mark key="^" line="30" column="42" />
+        <mark key="." line="30" column="42" />
+        <mark key="[" line="30" column="34" />
       </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/resources/assets/sass/cms/bb/mixin.scss" timestamp="1449227274341" />
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/component/label.scss" timestamp="1449227059072">
@@ -168,57 +193,61 @@
       <jump line="0" column="0" filename="$USER_HOME$/project/pet/wechat/components/frozenui/Gruntfile.js" />
       <jump line="1" column="0" filename="$USER_HOME$/project/pet/wechat/views/check/all.scss" />
       <jump line="19" column="48" filename="$USER_HOME$/project/pet/wechat/components/frozenui/sass/base/variable.scss" />
+      <jump line="66" column="17" filename="$USER_HOME$/project/pet/wechat/views/check/demo.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/padding.scss" />
+      <jump line="12" column="2" filename="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/lineheight.scss" />
+      <jump line="5" column="2" filename="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/textalign.scss" />
     </jumps>
     <registers>
       <register name="3" type="4">
-        <text>mute</text>
+        <text>left</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InVpLWxhYmVsIGxhYmVsLS1wcmltYXJ5Ij5MYWJlbDE8L2Rpdj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InVpLWxhYmVsIGxhYmVsLS1wcmltYXJ5Ij5MYWJlbDI8L2Rpdj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InVpLWxhYmVsIGxhYmVsLS1wcmltYXJ5Ij5MYWJlbDM8L2Rpdj4K</text>
+      <register name="&quot;" type="4">
+        <text>lineheight</text>
       </register>
       <register name="2" type="4">
-        <text>mute</text>
+        <text>left</text>
       </register>
       <register name="1" type="4">
-        <text>mute</text>
+        <text>lineheight</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InVpLWxhYmVsIGxhYmVsLS1wcmltYXJ5Ij5MYWJlbDE8L2Rpdj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InVpLWxhYmVsIGxhYmVsLS1wcmltYXJ5Ij5MYWJlbDI8L2Rpdj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InVpLWxhYmVsIGxhYmVsLS1wcmltYXJ5Ij5MYWJlbDM8L2Rpdj4K</text>
+        <text encoding="base64">ICAiL2NvbXBvbmVudHMvZnJvemVudWkvc2Fzcy91dGlsL2xpbmVoZWlnaHQiLAo=</text>
       </register>
-      <register name="7" type="8">
-        <text>ui-
-ui-
-ui-</text>
+      <register name="7" type="2">
+        <text encoding="base64">JHRleHQtYWxpZ24tbGlzdDogNSAxMCAxNSAyMCAyNSAzMCAzNSA0MCA0NSA1MCA1NSA2MCA2NSA3MCA3NSA4MCA4NSA5MCA5NSAxMDA7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QGVhY2ggJG0gaW4gJHRleHQtYWxpZ24tbGlzdCB7CiAgLnVpLW1sLSN7JG19IHsKICAgIHRleHQtYWxpZ24tbGVmdDogI3skbX1weCAhaW1wb3J0YW50OwogIH0KfQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>primary</text>
+      <register name="5" type="2">
+        <text encoding="base64">LnVpLXRhLWwgewogIHRleHQtYWxpZ246IGxlZnQ7Cn0K</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJ1aS13aGl0ZXNwYWNlLWxlZnQiPgogICAgICAgICAgICA8aHIgY2xhc3M9InVpLWhyIHVpLWhyLS1tdXRlIj4KICAgICAgICA8L2Rpdj4K</text>
+      <register name="4" type="4">
+        <text>left</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxhYmVsLnVpLQo=</text>
+      <register name="9" type="4">
+        <text>left</text>
       </register>
-      <register name="8" type="4">
-        <text>label</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAudWktbXItI3skbX0gewogICAgdGV4dC1hbGlnbi1yaWdodDogI3skbX1weCAhaW1wb3J0YW50OwogIH0KICAudWktbXQtI3skbX0gewogICAgdGV4dC1hbGlnbi10b3A6ICN7JG19cHggIWltcG9ydGFudDsKICB9CiAgLnVpLW1iLSN7JG19IHsKICAgIHRleHQtYWxpZ24tYm90dG9tOiAjeyRtfXB4ICFpbXBvcnRhbnQ7CiAgfQogIC51aS1tLSN7JG19IHsKICAgIHRleHQtYWxpZ246ICN7JG19cHggIWltcG9ydGFudDsKICB9Cg==</text>
       </register>
       <register name="/" type="4">
-        <text>tag</text>
+        <text>margin</text>
       </register>
       <register name="-" type="4">
-        <text>mute</text>
+        <text>lineheight</text>
       </register>
     </registers>
     <search>
       <last-search>tag</last-search>
       <last-offset />
-      <last-pattern>tag</last-pattern>
+      <last-pattern>margin</last-pattern>
+      <last-replace>text-align</last-replace>
+      <last-substitute>margin</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -227,10 +256,16 @@ ui-</text>
         <entry>target</entry>
         <entry>tags</entry>
         <entry>tag</entry>
+        <entry>info</entry>
+        <entry>margin</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
         <entry>q</entry>
+        <entry>69,78 s/info/mute</entry>
+        <entry>%s/margin/padding/g</entry>
+        <entry>%s/margin/line-height/g</entry>
+        <entry>%s/margin/text-align/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

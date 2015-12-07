@@ -890,6 +890,11 @@
         <option name="BACKGROUND" value="232323" />
       </value>
     </option>
+    <option name="LESS_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="d0d0ff" />
+      </value>
+    </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="3a6da0" />
