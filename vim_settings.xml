@@ -21,11 +21,11 @@
         <mark key="." line="16" column="30" />
         <mark key="[" line="16" column="2" />
       </file>
-      <file name="$USER_HOME$/project/pet/wechat/fis-conf.js" timestamp="1449223540713">
-        <mark key="]" line="59" column="22" />
+      <file name="$USER_HOME$/project/pet/wechat/fis-conf.js" timestamp="1449475610500">
+        <mark key="]" line="118" column="0" />
         <mark key="^" line="59" column="22" />
-        <mark key="." line="59" column="22" />
-        <mark key="[" line="59" column="7" />
+        <mark key="." line="118" column="0" />
+        <mark key="[" line="118" column="0" />
       </file>
       <file name="E:/hwj/project/lab/helloword/package.json" timestamp="1448379409792">
         <mark key="]" line="25" column="4" />
@@ -209,41 +209,41 @@
       <jump line="23" column="35" filename="$USER_HOME$/project/pet/wechat/views/check/demo.html" />
     </jumps>
     <registers>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>ui</text>
-      </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="1" type="4">
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text>ui</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAmLm1hcmtlZC0taW5mbyB7CiAgICB0ZXh0LWluZGVudDotNnB4OwogICAgYm9yZGVyLWxlZnQtd2lkdGg6IDZweDsKICAgIGJvcmRlci1sZWZ0LWNvbG9yOiAkY29sb3ItaW5mbzsKICB9Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">LnVpLXRpdGxlLS1tYXJrZWQgewogIHBhZGRpbmctbGVmdDogMTBweDsKICB0ZXh0LWluZGVudDogLTZweDsKICBib3JkZXItbGVmdDogNnB4IHNvbGlkIHRyYW5zcGFyZW50OwogICYubWFya2VkLS1wcmltYXJ5IHsKICAgIHRleHQtaW5kZW50Oi02cHg7CiAgICBib3JkZXItbGVmdC13aWR0aDogNnB4OwogICAgYm9yZGVyLWxlZnQtY29sb3I6ICRjb2xvci1wcmltYXJ5OwogIH0KICAmLm1hcmtlZC0taW5mbyB7CiAgICB0ZXh0LWluZGVudDotNnB4OwogICAgYm9yZGVyLWxlZnQtd2lkdGg6IDZweDsKICAgIGJvcmRlci1sZWZ0LWNvbG9yOiAkY29sb3ItaW5mbzsKICB9Cn0KCg==</text>
-      </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>info</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICA8aW1nIGNsYXNzPSJpbWctcmVzcG9uc2l2ZSIgc3JjPSIuL3BpY19wZXRfYm9keS5wbmciIGFsdD0iIj4K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>marked</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">LnVpLXRpdGxlLS1tYXJrZWQgewogIHBhZGRpbmctbGVmdDogMTBweDsKICB0ZXh0LWluZGVudDogLTZweDsKICBib3JkZXItbGVmdDogNnB4IHNvbGlkIHRyYW5zcGFyZW50OwogICYubWFya2VkLS1wcmltYXJ5IHsKICAgIHRleHQtaW5kZW50Oi02cHg7CiAgICBib3JkZXItbGVmdC13aWR0aDogNnB4OwogICAgYm9yZGVyLWxlZnQtY29sb3I6ICRjb2xvci1wcmltYXJ5OwogIH0KICAmLm1hcmtlZC0taW5mbyB7CiAgICB0ZXh0LWluZGVudDotNnB4OwogICAgYm9yZGVyLWxlZnQtd2lkdGg6IDZweDsKICAgIGJvcmRlci1sZWZ0LWNvbG9yOiAkY29sb3ItaW5mbzsKICB9Cn0KCg==</text>
       </register>
       <register name="/" type="4">
         <text>More</text>
