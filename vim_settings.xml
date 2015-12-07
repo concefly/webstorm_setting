@@ -21,17 +21,23 @@
         <mark key="." line="16" column="30" />
         <mark key="[" line="16" column="2" />
       </file>
-      <file name="$USER_HOME$/project/pet/wechat/fis-conf.js" timestamp="1449475610500">
-        <mark key="]" line="118" column="0" />
-        <mark key="^" line="59" column="22" />
-        <mark key="." line="118" column="0" />
-        <mark key="[" line="118" column="0" />
+      <file name="$USER_HOME$/project/pet/wechat/fis-conf.js" timestamp="1449480350129">
+        <mark key="]" line="72" column="34" />
+        <mark key="^" line="52" column="31" />
+        <mark key="." line="72" column="34" />
+        <mark key="[" line="72" column="34" />
       </file>
       <file name="E:/hwj/project/lab/helloword/package.json" timestamp="1448379409792">
         <mark key="]" line="25" column="4" />
         <mark key="^" line="26" column="4" />
         <mark key="." line="25" column="4" />
         <mark key="[" line="25" column="4" />
+      </file>
+      <file name="$USER_HOME$/project/pet/wechat/views/check/all.js" timestamp="1449478893276">
+        <mark key="]" line="6" column="28" />
+        <mark key="^" line="6" column="28" />
+        <mark key="." line="6" column="28" />
+        <mark key="[" line="4" column="25" />
       </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/gulpfile.js" timestamp="1449193727910">
         <mark key="]" line="61" column="28" />
@@ -56,6 +62,12 @@
         <mark key="^" line="16" column="0" />
         <mark key="." line="16" column="0" />
         <mark key="[" line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/pet/wechat/components/app/js/config.js" timestamp="1449478097516">
+        <mark key="]" line="6" column="15" />
+        <mark key="^" line="6" column="15" />
+        <mark key="." line="6" column="15" />
+        <mark key="[" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/image.scss" timestamp="1449455803785">
         <mark key="]" line="3" column="20" />
@@ -87,11 +99,11 @@
         <mark key="." line="5" column="15" />
         <mark key="[" line="5" column="14" />
       </file>
-      <file name="$USER_HOME$/project/pet/wechat/package.json" timestamp="1449210492981">
-        <mark key="]" line="18" column="32" />
+      <file name="$USER_HOME$/project/pet/wechat/package.json" timestamp="1449479047622">
+        <mark key="]" line="21" column="0" />
         <mark key="^" line="10" column="20" />
-        <mark key="." line="18" column="32" />
-        <mark key="[" line="18" column="32" />
+        <mark key="." line="21" column="0" />
+        <mark key="[" line="21" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1449465214053">
         <mark key="[" line="0" column="0" />
@@ -120,18 +132,23 @@
         <mark key="." line="72" column="0" />
         <mark key="[" line="72" column="0" />
       </file>
+      <file name="$USER_HOME$/project/pet/wechat/components/app/js/api.js" timestamp="1449478842446">
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+        <mark key="[" line="50" column="0" />
+      </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/lineheight.scss" timestamp="1449453803046">
         <mark key="]" line="9" column="14" />
         <mark key="^" line="9" column="14" />
         <mark key="." line="9" column="14" />
         <mark key="[" line="9" column="15" />
       </file>
-      <file name="$USER_HOME$/project/pet/wechat/views/check/demo.html" timestamp="1449474206885">
-        <mark key="'" line="23" column="35" />
-        <mark key="]" line="124" column="91" />
-        <mark key="^" line="124" column="91" />
-        <mark key="." line="124" column="91" />
-        <mark key="[" line="124" column="81" />
+      <file name="$USER_HOME$/project/pet/wechat/views/check/demo.html" timestamp="1449477284334">
+        <mark key="'" line="24" column="35" />
+        <mark key="]" line="204" column="26" />
+        <mark key="^" line="204" column="26" />
+        <mark key="." line="204" column="26" />
+        <mark key="[" line="6" column="23" />
       </file>
       <file name="$USER_HOME$/project/pet/backend/.env" timestamp="1449199882844">
         <mark key="]" line="7" column="15" />
@@ -210,46 +227,46 @@
     </jumps>
     <registers>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>*</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="2" type="4">
-        <text>ui</text>
+        <text>*</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>/</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAmLm1hcmtlZC0taW5mbyB7CiAgICB0ZXh0LWluZGVudDotNnB4OwogICAgYm9yZGVyLWxlZnQtd2lkdGg6IDZweDsKICAgIGJvcmRlci1sZWZ0LWNvbG9yOiAkY29sb3ItaW5mbzsKICB9Cg==</text>
+        <text encoding="base64">ICAgIHJlbGVhc2U6IGFzc2V0UGF0aCArICckMCcsCiAgICB1cmw6IGFzc2V0VXJsUHJlZml4ICsgJyQwJywK</text>
       </register>
       <register name="7" type="4">
-        <text>info</text>
+        <text>/</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="6" type="4">
+        <text>*</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8aW1nIGNsYXNzPSJpbWctcmVzcG9uc2l2ZSIgc3JjPSIuL3BpY19wZXRfYm9keS5wbmciIGFsdD0iIj4K</text>
+      <register name="5" type="4">
+        <text>*</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>/</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>marked</text>
+        <text>*</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">LnVpLXRpdGxlLS1tYXJrZWQgewogIHBhZGRpbmctbGVmdDogMTBweDsKICB0ZXh0LWluZGVudDogLTZweDsKICBib3JkZXItbGVmdDogNnB4IHNvbGlkIHRyYW5zcGFyZW50OwogICYubWFya2VkLS1wcmltYXJ5IHsKICAgIHRleHQtaW5kZW50Oi02cHg7CiAgICBib3JkZXItbGVmdC13aWR0aDogNnB4OwogICAgYm9yZGVyLWxlZnQtY29sb3I6ICRjb2xvci1wcmltYXJ5OwogIH0KICAmLm1hcmtlZC0taW5mbyB7CiAgICB0ZXh0LWluZGVudDotNnB4OwogICAgYm9yZGVyLWxlZnQtd2lkdGg6IDZweDsKICAgIGJvcmRlci1sZWZ0LWNvbG9yOiAkY29sb3ItaW5mbzsKICB9Cn0KCg==</text>
+      <register name="8" type="4">
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text>More</text>
       </register>
       <register name="-" type="4">
-        <text>ui</text>
+        <text>/</text>
       </register>
     </registers>
     <search>
@@ -282,6 +299,7 @@
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>57,67 s/mute/post</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
