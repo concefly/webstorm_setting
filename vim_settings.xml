@@ -81,6 +81,11 @@
         <mark key="." line="8" column="36" />
         <mark key="[" line="8" column="35" />
       </file>
+      <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/base/mixin.scss" timestamp="1449465178658">
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
+        <mark key="[" line="95" column="0" />
+      </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/padding.scss" timestamp="1449453267488">
         <mark key="'" line="0" column="0" />
         <mark key="]" line="21" column="17" />
@@ -93,18 +98,27 @@
         <mark key="." line="18" column="32" />
         <mark key="[" line="18" column="32" />
       </file>
+      <file name="/a.dummy" timestamp="1449465214053">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/title.scss" timestamp="1449225173902">
         <mark key="]" line="20" column="27" />
         <mark key="^" line="14" column="19" />
         <mark key="." line="19" column="0" />
         <mark key="[" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/base/variable.scss" timestamp="1449456363244">
+      <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/base/variable.scss" timestamp="1449459377782">
         <mark key="'" line="19" column="48" />
-        <mark key="]" line="24" column="24" />
+        <mark key="]" line="29" column="134" />
         <mark key="^" line="24" column="24" />
         <mark key="." line="24" column="24" />
-        <mark key="[" line="22" column="23" />
+        <mark key="[" line="29" column="24" />
+      </file>
+      <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/component/step.scss" timestamp="1449465246025">
+        <mark key="]" line="21" column="21" />
+        <mark key="^" line="17" column="19" />
+        <mark key="." line="21" column="0" />
+        <mark key="[" line="21" column="0" />
       </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/resources/views/cms/post/post_normal.blade.php" timestamp="1449193764673">
         <mark key="'" line="99" column="126" />
@@ -118,11 +132,12 @@
         <mark key="." line="9" column="14" />
         <mark key="[" line="9" column="15" />
       </file>
-      <file name="$USER_HOME$/project/pet/wechat/views/check/demo.html" timestamp="1449456302230">
-        <mark key="'" line="60" column="17" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-        <mark key="[" line="51" column="0" />
+      <file name="$USER_HOME$/project/pet/wechat/views/check/demo.html" timestamp="1449460845048">
+        <mark key="'" line="62" column="17" />
+        <mark key="]" line="27" column="44" />
+        <mark key="^" line="27" column="44" />
+        <mark key="." line="27" column="44" />
+        <mark key="[" line="25" column="39" />
       </file>
       <file name="$USER_HOME$/project/pet/backend/.env" timestamp="1449199882844">
         <mark key="]" line="7" column="15" />
@@ -160,6 +175,10 @@
         <mark key="." line="62" column="26" />
         <mark key="[" line="61" column="24" />
       </file>
+      <file name="$USER_HOME$/project/blackbox/backend-cms/resources/assets/sass/cms/bb/mixin.scss" timestamp="1449465163089">
+        <mark key="]" line="11" column="0" />
+        <mark key="[" line="2" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="184" column="4" filename="$USER_HOME$/project/blackbox/backend-cms/resources/views/cms/index.blade.php" />
@@ -190,49 +209,50 @@
       <jump line="0" column="0" filename="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/padding.scss" />
       <jump line="12" column="2" filename="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/lineheight.scss" />
       <jump line="5" column="2" filename="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/textalign.scss" />
+      <jump line="17" column="50" filename="$USER_HOME$/project/pet/wechat/components/frozenui/sass/component/step.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICBwb3NpdGlvbjogYWJzb2x1dGU7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>left</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBoZWlnaHQ6MTAwJTsK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxociBjbGFzcz0idWktaHIgdWktaHItLW11dGUiPgo=</text>
+      <register name="2" type="4">
+        <text>static</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0idWktd2hpdGVzcGFjZS1sZWZ0Ij4KICAgICAgICAgICAgICAgIDxociBjbGFzcz0idWktaHIgdWktaHItLW11dGUiPgogICAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICBwb3NpdGlvbjogYWJzb2x1dGU7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>/</text>
+        <text>;</text>
       </register>
-      <register name="6" type="4">
-        <text>/</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBoZWlnaHQ6IDEwMCU7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICB3aWR0aDogMTAwJTsK</text>
       </register>
-      <register name="4" type="4">
-        <text>-</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LnVpLWJnLXdoaXRlIHsgYmFja2dyb3VuZDojZmZmICFpbXBvcnRhbnQ7IH0K</text>
+        <text encoding="base64">ICB0ZXh0LWFsaWduOiBjZW50ZXI7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>textalign</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwo=</text>
       </register>
       <register name="/" type="4">
         <text>margin</text>
       </register>
       <register name="-" type="4">
-        <text>left</text>
+        <text>static</text>
       </register>
     </registers>
     <search>
@@ -254,11 +274,11 @@
       </history-search>
       <history-cmd>
         <entry>wq</entry>
-        <entry>q</entry>
         <entry>69,78 s/info/mute</entry>
         <entry>%s/margin/padding/g</entry>
         <entry>%s/margin/line-height/g</entry>
         <entry>%s/margin/text-align/g</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
