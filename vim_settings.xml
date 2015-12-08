@@ -9,6 +9,12 @@
         <mark key="." line="136" column="44" />
         <mark key="[" line="136" column="34" />
       </file>
+      <file name="$USER_HOME$/project/pet/wechat/views/disease/detail.scss" timestamp="1449570472131">
+        <mark key="]" line="32" column="39" />
+        <mark key="^" line="32" column="39" />
+        <mark key="." line="32" column="39" />
+        <mark key="[" line="32" column="39" />
+      </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/whitespace.scss" timestamp="1449469632633">
         <mark key="]" line="34" column="19" />
         <mark key="^" line="34" column="19" />
@@ -56,11 +62,11 @@
         <mark key="." line="14" column="0" />
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/project/pet/wechat/fis-conf.js" timestamp="1449481980272">
-        <mark key="]" line="132" column="25" />
-        <mark key="^" line="132" column="25" />
-        <mark key="." line="132" column="25" />
-        <mark key="[" line="131" column="43" />
+      <file name="$USER_HOME$/project/pet/wechat/fis-conf.js" timestamp="1449571200196">
+        <mark key="]" line="165" column="22" />
+        <mark key="^" line="165" column="22" />
+        <mark key="." line="165" column="22" />
+        <mark key="[" line="165" column="12" />
       </file>
       <file name="E:/hwj/project/lab/helloword/package.json" timestamp="1448379409792">
         <mark key="]" line="25" column="4" />
@@ -105,11 +111,17 @@
         <mark key="." line="17" column="31" />
         <mark key="[" line="17" column="31" />
       </file>
-      <file name="$USER_HOME$/project/pet/wechat/views/check/detail.js" timestamp="1449568501088">
-        <mark key="]" line="16" column="18" />
-        <mark key="^" line="16" column="18" />
-        <mark key="." line="16" column="18" />
-        <mark key="[" line="15" column="6" />
+      <file name="$USER_HOME$/project/pet/wechat/views/check/detail.js" timestamp="1449569791124">
+        <mark key="]" line="21" column="44" />
+        <mark key="^" line="21" column="44" />
+        <mark key="." line="21" column="44" />
+        <mark key="[" line="21" column="28" />
+      </file>
+      <file name="$USER_HOME$/project/pet/wechat/views/disease/detail.html" timestamp="1449570429016">
+        <mark key="]" line="8" column="40" />
+        <mark key="^" line="8" column="40" />
+        <mark key="." line="8" column="40" />
+        <mark key="[" line="8" column="35" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/title.scss" timestamp="1449472384511">
         <mark key="]" line="42" column="32" />
@@ -159,11 +171,6 @@
         <mark key="." line="1" column="49" />
         <mark key="[" line="1" column="49" />
       </file>
-      <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/frozen.scss" timestamp="1449220054862">
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="[" line="24" column="0" />
-      </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/label/label-primary.html" timestamp="1449541357036">
         <mark key="]" line="1" column="16" />
         <mark key="^" line="1" column="16" />
@@ -212,11 +219,17 @@
         <mark key="." line="13" column="40" />
         <mark key="[" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/project/pet/wechat/views/check/detail.html" timestamp="1449568476373">
-        <mark key="]" line="19" column="4" />
-        <mark key="^" line="13" column="5" />
-        <mark key="." line="19" column="4" />
-        <mark key="[" line="19" column="0" />
+      <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/component/loading.scss" timestamp="1449569238770">
+        <mark key="]" line="25" column="31" />
+        <mark key="^" line="25" column="31" />
+        <mark key="." line="25" column="31" />
+        <mark key="[" line="16" column="23" />
+      </file>
+      <file name="$USER_HOME$/project/pet/wechat/views/check/detail.html" timestamp="1449570166651">
+        <mark key="]" line="26" column="43" />
+        <mark key="^" line="26" column="43" />
+        <mark key="." line="26" column="43" />
+        <mark key="[" line="26" column="43" />
       </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/gulpfile.js" timestamp="1449193727910">
         <mark key="]" line="61" column="28" />
@@ -235,6 +248,12 @@
         <mark key="^" line="4" column="28" />
         <mark key="." line="4" column="0" />
         <mark key="[" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/pet/wechat/views/disease/index.html" timestamp="1449570886757">
+        <mark key="]" line="8" column="39" />
+        <mark key="^" line="8" column="39" />
+        <mark key="." line="8" column="39" />
+        <mark key="[" line="8" column="35" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/paragraph/paragraph-tp.html" timestamp="1449555120511">
         <mark key="]" line="2" column="0" />
@@ -260,11 +279,6 @@
         <mark key="." line="21" column="0" />
         <mark key="[" line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/base/mixin.scss" timestamp="1449465178658">
-        <mark key="]" line="95" column="0" />
-        <mark key="." line="95" column="0" />
-        <mark key="[" line="95" column="0" />
-      </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/paragraph/title-info.html" timestamp="1449555759494">
         <mark key="]" line="2" column="27" />
         <mark key="^" line="2" column="20" />
@@ -282,11 +296,6 @@
         <mark key="^" line="2" column="33" />
         <mark key="." line="4" column="0" />
         <mark key="[" line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/component/step.scss" timestamp="1449468501308">
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
-        <mark key="[" line="72" column="0" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/views/check/second.html" timestamp="1449564920797">
         <mark key="]" line="8" column="45" />
@@ -318,11 +327,6 @@
         <mark key="^" line="31" column="43" />
         <mark key="." line="31" column="43" />
         <mark key="[" line="31" column="34" />
-      </file>
-      <file name="$USER_HOME$/project/pet/wechat/components/app/js/list/main.js" timestamp="1449558462400">
-        <mark key="]" line="4" column="25" />
-        <mark key="." line="32" column="0" />
-        <mark key="[" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/step/step-default.html" timestamp="1449561741693">
         <mark key="]" line="0" column="19" />
@@ -374,47 +378,47 @@
       <jump line="7" column="0" filename="$USER_HOME$/project/pet/wechat/views/check/demo.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGVkOiBmdW5jdGlvbigpewogICAgICAgIHJldHVybjsKICAgIH07LAo=</text>
+      <register name="&quot;" type="4">
+        <text>localDeliver</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InVpLWNvbnRhaW5lciB1aS1wYi02MCIgaWQ9ImRldGFpbCI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAg</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGVkOiBmdW5jdGlvbigpewogICAgICAgIHJldHVybjsKICAgIH07LAo=</text>
+      <register name="1" type="4">
+        <text>localDeliver</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InVpLWNvbnRhaW5lciB1aS1wYi02MCIgaWQ9ImRldGFpbCI+Cg==</text>
+        <text encoding="base64">ICAgIGRlcGxveTogZmlzLnBsdWdpbigibG9jYWwtZGVsaXZlciIsIHsKICAgICAgICB0bzogbG9jYWxEZWxpdmVyCiAgICB9KQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>all</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IHYtaWY9InBhcmFzIj4K</text>
+      <register name="6" type="4">
+        <text>,</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2IHYtZWxzZT4KICAgICAgICAgICAgTG9kaW5nLi4uCiAgICAgICAgPC9kaXY+Cg==</text>
+      <register name="5" type="4">
+        <text>detail</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>detail</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">PGRpdiBjbGFzcz0idWktY29udGFpbmVyIHVpLXBiLTYwIiBpZD0iZGV0YWlsIj4KICAgIDxkaXYgdi1pZj0icGFyYXMiPgogICAgICAgIDxkaXYgY2xhc3M9InVpLWJnLXdoaXRlIHVpLXB0LTE1IHVpLW1iLTE1IiB2LWZvcj0icGFyYSBpbiBwYXJhcyI+CiAgICAgICAgICAgIDx1aS10aXRsZT57e3BhcmEudGl0bGV9fTwvdWktdGl0bGU+CiAgICAgICAgICAgIDx1aS1jb250ZW50IGNsYXNzPSJ1aS13aGl0ZXNwYWNlLS1idCB1aS1wYi0xMCI+e3twYXJhLmNvbnRlbnR9fTwvdWktY29udGVudD4KICAgICAgICA8L2Rpdj4KICAgIDwvZGl2PgogICAgPGRpdiB2LWVsc2U+CiAgICAgICAgTG9kaW5nLi4uCiAgICA8L2Rpdj4KPC9kaXY+Cg==</text>
+      <register name="9" type="4">
+        <text>Disease</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>table</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>localDeliver</text>
       </register>
     </registers>
     <search>
