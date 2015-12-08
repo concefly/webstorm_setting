@@ -39,11 +39,17 @@
         <mark key="." line="1" column="7" />
         <mark key="[" line="1" column="5" />
       </file>
-      <file name="$USER_HOME$/project/pet/wechat/components/app/js/label/main.js" timestamp="1449542138430">
-        <mark key="]" line="30" column="23" />
-        <mark key="^" line="30" column="23" />
-        <mark key="." line="30" column="23" />
-        <mark key="[" line="30" column="20" />
+      <file name="$USER_HOME$/project/pet/wechat/components/app/js/label/main.js" timestamp="1449544516670">
+        <mark key="]" line="25" column="12" />
+        <mark key="^" line="25" column="12" />
+        <mark key="." line="25" column="12" />
+        <mark key="[" line="25" column="8" />
+      </file>
+      <file name="$USER_HOME$/project/pet/wechat/components/app/js/label/label-default.html" timestamp="1449543552205">
+        <mark key="]" line="0" column="20" />
+        <mark key="^" line="0" column="47" />
+        <mark key="." line="0" column="20" />
+        <mark key="[" line="0" column="20" />
       </file>
       <file name="E:/hwj/project/lab/helloword/package.json" timestamp="1448379409792">
         <mark key="]" line="25" column="4" />
@@ -57,11 +63,11 @@
         <mark key="." line="132" column="25" />
         <mark key="[" line="131" column="43" />
       </file>
-      <file name="$USER_HOME$/project/pet/wechat/views/check/all.js" timestamp="1449541665916">
-        <mark key="]" line="16" column="28" />
-        <mark key="^" line="16" column="28" />
-        <mark key="." line="16" column="28" />
-        <mark key="[" line="14" column="21" />
+      <file name="$USER_HOME$/project/pet/wechat/views/check/all.js" timestamp="1449544541757">
+        <mark key="]" line="20" column="30" />
+        <mark key="^" line="20" column="30" />
+        <mark key="." line="20" column="30" />
+        <mark key="[" line="18" column="5" />
       </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/.env" timestamp="1449193779786">
         <mark key="]" line="4" column="11" />
@@ -124,6 +130,9 @@
         <mark key="." line="21" column="0" />
         <mark key="[" line="21" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1449543472360">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/title.scss" timestamp="1449472384511">
         <mark key="]" line="42" column="32" />
         <mark key="^" line="42" column="32" />
@@ -137,11 +146,11 @@
         <mark key="." line="67" column="25" />
         <mark key="[" line="67" column="26" />
       </file>
-      <file name="$USER_HOME$/project/pet/wechat/components/app/js/label/label-info.html" timestamp="1449542110105">
-        <mark key="]" line="0" column="31" />
-        <mark key="^" line="0" column="31" />
-        <mark key="." line="0" column="31" />
-        <mark key="[" line="0" column="28" />
+      <file name="$USER_HOME$/project/pet/wechat/components/app/js/label/label-info.html" timestamp="1449542202870">
+        <mark key="]" line="0" column="48" />
+        <mark key="^" line="0" column="48" />
+        <mark key="." line="0" column="48" />
+        <mark key="[" line="0" column="49" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/label/label-mute.html" timestamp="1449539760161">
         <mark key="]" line="0" column="68" />
@@ -250,46 +259,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Primary</text>
+        <text>Info</text>
       </register>
-      <register name="3" type="4">
-        <text>primary</text>
+      <register name="3" type="2">
+        <text encoding="base64">ZXhwb3J0cy5MaXN0ID0gTGlzdDsK</text>
       </register>
       <register name="2" type="4">
-        <text>primary</text>
+        <text>var</text>
       </register>
       <register name="1" type="4">
-        <text>Primary</text>
+        <text>Info</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dmFyIFByaW1hcnkgPSBWdWUuZXh0ZW5kKHsKICAgIG1peGluczogW21peGluXSwKICAgIHRlbXBsYXRlOiBfX2lubGluZSgiLi9sYWJlbC1wcmltYXJ5Lmh0bWwiKQp9KTsK</text>
+        <text encoding="base64">ICAgIHRlbXBsYXRlOiBfX2lubGluZSgiLi9sYWJlbC1pbmZvLmh0bWwiKQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>mylabel</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbXB1dGVkOiB7CiAgICAgICAgIl9leHRyYUNsYXNzIjogZnVuY3Rpb24oKXsKICAgICAgICAgICAgdmFyIHJlID0gW107CiAgICAgICAgICAgIHJlLnB1c2godGhpcy4kb3B0aW9ucy5sYWJlbFR5cGUgfHwgImxhYmVsLS1pbmZvIik7CiAgICAgICAgICAgIHRoaXMuZXh0cmFDbGFzcy5tYXAoZnVuY3Rpb24oaXRlbSl7CiAgICAgICAgICAgICAgICByZS5wdXNoKGl0ZW0pOwogICAgICAgICAgICB9KTsKICAgICAgICAgICAgcmV0dXJuIHJlOwogICAgICAgIH0sCiAgICAgICAgImNvbSI6IGZ1bmN0aW9uKCl7CiAgICAgICAgICAgIHJldHVybiAiaGVsbG8iOwogICAgICAgIH0KICAgIH0K</text>
       </register>
       <register name="6" type="4">
-        <text>mylabel</text>
+        <text>,</text>
       </register>
-      <register name="5" type="4">
-        <text>i</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC8vIOiuoeeul+WAvOWlveWDj+eUqOS4jeS6hu+8nwo=</text>
       </register>
-      <register name="4" type="4">
-        <text>Primary</text>
+      <register name="4" type="2">
+        <text encoding="base64">ZXhwb3J0cy5JbmZvID0gSW5mbzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gWyJBIiwiQiIsIkMiXTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcyk7Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>div</text>
+        <text encoding="base64">IHVpLW1yLTEwIHVpLW1iLTU=</text>
       </register>
       <register name="/" type="4">
         <text>More</text>
       </register>
       <register name="-" type="4">
-        <text>Primary</text>
+        <text>Info</text>
       </register>
     </registers>
     <search>
