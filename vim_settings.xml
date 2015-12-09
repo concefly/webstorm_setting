@@ -9,11 +9,11 @@
         <mark key="." line="136" column="44" />
         <mark key="[" line="136" column="34" />
       </file>
-      <file name="$USER_HOME$/project/pet/wechat/views/check/index.js" timestamp="1449646779487">
-        <mark key="]" line="47" column="5" />
-        <mark key="^" line="34" column="45" />
-        <mark key="." line="47" column="5" />
-        <mark key="[" line="47" column="5" />
+      <file name="$USER_HOME$/project/pet/wechat/views/check/index.js" timestamp="1449650208201">
+        <mark key="'" line="11" column="37" />
+        <mark key="]" line="100" column="22" />
+        <mark key="^" line="100" column="22" />
+        <mark key="." line="100" column="22" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/views/disease/detail.scss" timestamp="1449570472131">
         <mark key="]" line="32" column="39" />
@@ -190,10 +190,8 @@
         <mark key="." line="7" column="15" />
         <mark key="[" line="5" column="12" />
       </file>
-      <file name="$USER_HOME$/project/pet/wechat/views/check/template-index-analyze.html" timestamp="1449643774501">
-        <mark key="]" line="1" column="64" />
-        <mark key="." line="1" column="64" />
-        <mark key="[" line="1" column="63" />
+      <file name="$USER_HOME$/project/pet/wechat/views/check/template-index-analyze.html" timestamp="1449650227452">
+        <mark key="[" line="7" column="62" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/list/list-default.html" timestamp="1449558086217">
         <mark key="]" line="1" column="49" />
@@ -376,12 +374,12 @@
         <mark key="." line="4" column="31" />
         <mark key="[" line="4" column="32" />
       </file>
-      <file name="$USER_HOME$/project/pet/wechat/views/check/demo.html" timestamp="1449631497483">
-        <mark key="'" line="7" column="0" />
-        <mark key="]" line="144" column="13" />
+      <file name="$USER_HOME$/project/pet/wechat/views/check/demo.html" timestamp="1449650277353">
+        <mark key="'" line="177" column="16" />
+        <mark key="]" line="104" column="21" />
         <mark key="^" line="22" column="25" />
         <mark key="." line="70" column="0" />
-        <mark key="[" line="131" column="0" />
+        <mark key="[" line="94" column="0" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/textalign.scss" timestamp="1449454193632">
         <mark key="]" line="13" column="31" />
@@ -456,55 +454,59 @@
       <jump line="35" column="7" filename="$USER_HOME$/project/pet/wechat/views/check/index.js" />
       <jump line="80" column="0" filename="$USER_HOME$/project/pet/wechat/views/check/index.js" />
       <jump line="24" column="37" filename="$USER_HOME$/project/pet/wechat/views/check/index.js" />
+      <jump line="11" column="37" filename="$USER_HOME$/project/pet/wechat/views/check/index.js" />
+      <jump line="177" column="16" filename="$USER_HOME$/project/pet/wechat/views/check/demo.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InVpLWxhYmxlLWxpc3QgIj4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJ1aS1sYWJlbCBsYWJlbC0taW5mbyB1aS1tci0xMCB1aS1tYi01IGFjdGl2ZSI+TGFiZWwxPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0idWktbGFiZWwgbGFiZWwtLWluZm8gdWktbXItMTAgdWktbWItNSI+TGFiZWwyPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0idWktbGFiZWwgbGFiZWwtLWluZm8gdWktbXItMTAgdWktbWItNSBhY3RpdmUiPkxhYmVsMzwvZGl2PgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InVpLWxhYmVsIGxhYmVsLS1pbmZvIHVpLW1yLTEwIHVpLW1iLTUiPkxhYmVsMTwvZGl2PgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InVpLWxhYmVsIGxhYmVsLS1pbmZvIHVpLW1yLTEwIHVpLW1iLTUiPkxhYmVsMTwvZGl2PgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InVpLWxhYmVsIGxhYmVsLS1pbmZvIHVpLW1yLTEwIHVpLW1iLTUiPkxhYmVsMjwvZGl2PgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InVpLWxhYmVsIGxhYmVsLS1pbmZvIHVpLW1yLTEwIHVpLW1iLTUiPkxhYmVsMzwvZGl2PgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InVpLWxhYmVsIGxhYmVsLS1pbmZvIHVpLW1yLTEwIHVpLW1iLTUiPkxhYmVsMjwvZGl2PgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InVpLWxhYmVsIGxhYmVsLS1pbmZvIHVpLW1yLTEwIHVpLW1iLTUiPkxhYmVsMzwvZGl2PgogICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogQHByb3A6CiAqICBkYXRhIHN5bXB0b21MaXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGluZGV4ID0gXyh3aW5kb3cuc3RvcmFnZS5zeW1wdG9tTGlzdCkuZmluZEluZGV4KGZ1bmN0aW9uKGl0ZW0pe2l0ZW0uaWQ9PXNpZH0pOwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlYWR5OiBmdW5jdGlvbigpewogICAgICAgIGNvbnNvbGUubG9nKHRoaXMuc3RvcmFnZSk7CiAgICB9Cg==</text>
+      <register name="2" type="4">
+        <text>window.storage.symptomList.map(function(item){
+                
+            })</text>
       </register>
-      <register name="1" type="4">
-        <text>,</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHVpLWxhYmVsTGlzdCA6dGl0bGVzPSJbJ2EnLCdiJ10iPjwvdWktbGFiZWxMaXN0Pgo=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InVpLWxvYWRpbmctYmxvY2sgc2hvdyI+CiAgICAgICAgPGRpdiBjbGFzcz0idWktbG9hZGluZy1jbnQiPgogICAgICAgICAgICA8aSBjbGFzcz0idWktbG9hZGluZy1icmlnaHQiPjwvaT4KICAgICAgICAgICAgPHA+5Yqg6L295LitLi4uPC9wPgogICAgICAgIDwvZGl2PgogICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InVpLWxhYmxlLWxpc3QgIj4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJ1aS1sYWJlbCBsYWJlbC0taW5mbyB1aS1tci0xMCB1aS1tYi01IGFjdGl2ZSI+TGFiZWwxPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0idWktbGFiZWwgbGFiZWwtLWluZm8gdWktbXItMTAgdWktbWItNSI+TGFiZWwyPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0idWktbGFiZWwgbGFiZWwtLWluZm8gdWktbXItMTAgdWktbWItNSBhY3RpdmUiPkxhYmVsMzwvZGl2PgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InVpLWxhYmVsIGxhYmVsLS1pbmZvIHVpLW1yLTEwIHVpLW1iLTUiPkxhYmVsMTwvZGl2PgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InVpLWxhYmVsIGxhYmVsLS1pbmZvIHVpLW1yLTEwIHVpLW1iLTUiPkxhYmVsMTwvZGl2PgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InVpLWxhYmVsIGxhYmVsLS1pbmZvIHVpLW1yLTEwIHVpLW1iLTUiPkxhYmVsMjwvZGl2PgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InVpLWxhYmVsIGxhYmVsLS1pbmZvIHVpLW1yLTEwIHVpLW1iLTUiPkxhYmVsMzwvZGl2PgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InVpLWxhYmVsIGxhYmVsLS1pbmZvIHVpLW1yLTEwIHVpLW1iLTUiPkxhYmVsMjwvZGl2PgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InVpLWxhYmVsIGxhYmVsLS1pbmZvIHVpLW1yLTEwIHVpLW1iLTUiPkxhYmVsMzwvZGl2PgogICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>a</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3ltcHRvbUxpc3Q6IHt9Cg==</text>
+      <register name="6" type="4">
+        <text>.</text>
       </register>
-      <register name="5" type="4">
-        <text>,</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHR1cwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zeW1wdG9tTGlzdCA9IGRhdGE7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHN5bXB0b21zID0gd2luZG93LnN0b3JhZ2Uuc3ltcHRvbUxpc3RbaW5kZXhdOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>a</text>
+        <text>,</text>
       </register>
-      <register name="8" type="4">
-        <text>t</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGRhdGE6IHsKICAgICAgICB0YWdzOgogICAgfSwK</text>
       </register>
       <register name="/" type="4">
-        <text>table</text>
+        <text>not</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>.</text>
       </register>
     </registers>
     <search>
-      <last-search>table</last-search>
+      <last-search>not</last-search>
       <last-offset />
-      <last-pattern>table</last-pattern>
+      <last-pattern>not</last-pattern>
       <last-replace>post</last-replace>
       <last-substitute>mute</last-substitute>
       <last-dir>1</last-dir>
@@ -521,6 +523,8 @@
         <entry>more</entry>
         <entry>More</entry>
         <entry>table</entry>
+        <entry>if</entry>
+        <entry>not</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
