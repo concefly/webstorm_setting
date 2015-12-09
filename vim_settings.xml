@@ -9,10 +9,9 @@
         <mark key="." line="136" column="44" />
         <mark key="[" line="136" column="34" />
       </file>
-      <file name="$USER_HOME$/project/pet/wechat/views/check/index.js" timestamp="1449651025339">
+      <file name="$USER_HOME$/project/pet/wechat/views/check/index.js" timestamp="1449652952341">
         <mark key="'" line="11" column="37" />
         <mark key="]" line="101" column="0" />
-        <mark key="^" line="108" column="5" />
         <mark key="." line="101" column="0" />
         <mark key="[" line="101" column="0" />
       </file>
@@ -131,13 +130,6 @@
         <mark key="." line="21" column="44" />
         <mark key="[" line="21" column="28" />
       </file>
-      <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/padding.scss" timestamp="1449469780777">
-        <mark key="'" line="0" column="0" />
-        <mark key="]" line="5" column="15" />
-        <mark key="^" line="5" column="15" />
-        <mark key="." line="5" column="15" />
-        <mark key="[" line="5" column="14" />
-      </file>
       <file name="$USER_HOME$/project/pet/wechat/views/check/index.blade.php" timestamp="1449646527208">
         <mark key="]" line="13" column="39" />
         <mark key="^" line="13" column="39" />
@@ -198,11 +190,11 @@
         <mark key="." line="7" column="15" />
         <mark key="[" line="5" column="12" />
       </file>
-      <file name="$USER_HOME$/project/pet/wechat/views/check/template-index-analyze.html" timestamp="1449650885435">
-        <mark key="]" line="9" column="87" />
-        <mark key="^" line="9" column="85" />
-        <mark key="." line="9" column="67" />
-        <mark key="[" line="9" column="67" />
+      <file name="$USER_HOME$/project/pet/wechat/views/check/template-index-analyze.html" timestamp="1449652194690">
+        <mark key="]" line="24" column="27" />
+        <mark key="^" line="24" column="27" />
+        <mark key="." line="24" column="27" />
+        <mark key="[" line="23" column="61" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/list/list-default.html" timestamp="1449558086217">
         <mark key="]" line="1" column="49" />
@@ -214,13 +206,6 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
         <mark key="[" line="24" column="0" />
-      </file>
-      <file name="$USER_HOME$/project/pet/wechat/fis-config.js" timestamp="1449212054175">
-        <mark key="'" line="8" column="25" />
-        <mark key="]" line="159" column="23" />
-        <mark key="^" line="159" column="23" />
-        <mark key="." line="159" column="23" />
-        <mark key="[" line="155" column="2" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/label/label-primary.html" timestamp="1449541357036">
         <mark key="]" line="1" column="16" />
@@ -352,13 +337,6 @@
         <mark key="." line="4" column="22" />
         <mark key="[" line="4" column="19" />
       </file>
-      <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/base/variable.scss" timestamp="1449472147895">
-        <mark key="'" line="19" column="48" />
-        <mark key="]" line="67" column="25" />
-        <mark key="^" line="67" column="25" />
-        <mark key="." line="67" column="25" />
-        <mark key="[" line="67" column="26" />
-      </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/paragraph/title-info.html" timestamp="1449555759494">
         <mark key="]" line="2" column="27" />
         <mark key="^" line="2" column="20" />
@@ -484,46 +462,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coc2VsZi50YWdJZHMsdGFncyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXAoZnVuY3Rpb24oaXRlbSl7CiAgICAgICAgICAgICAgICAgICAgOwogICAgICAgICAgICAgICAgfSkK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IHYtZm9yPSJ0YWcgaW4gdGFncyI=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGRhdGE6IHsKICAgICAgICB0YWdJZHM6IFtdCiAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHRhZ3NJbmplY3RBY3RpdmUgPSB0YWdzLm1hcChmdW5jdGlvbihpdGVtKXsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coc2VsZi50YWdJZHMsdGFncyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXAoZnVuY3Rpb24oaXRlbSl7CiAgICAgICAgICAgICAgICAgICAgOwogICAgICAgICAgICAgICAgfSkK</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InVpLWxhYmxlLWxpc3QgIj4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJ1aS1sYWJlbCBsYWJlbC0taW5mbyB1aS1tci0xMCB1aS1tYi01IGFjdGl2ZSI+TGFiZWwxPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0idWktbGFiZWwgbGFiZWwtLWluZm8gdWktbXItMTAgdWktbWItNSI+TGFiZWwyPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0idWktbGFiZWwgbGFiZWwtLWluZm8gdWktbXItMTAgdWktbWItNSBhY3RpdmUiPkxhYmVsMzwvZGl2PgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InVpLWxhYmVsIGxhYmVsLS1pbmZvIHVpLW1yLTEwIHVpLW1iLTUiPkxhYmVsMTwvZGl2PgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InVpLWxhYmVsIGxhYmVsLS1pbmZvIHVpLW1yLTEwIHVpLW1iLTUiPkxhYmVsMTwvZGl2PgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InVpLWxhYmVsIGxhYmVsLS1pbmZvIHVpLW1yLTEwIHVpLW1iLTUiPkxhYmVsMjwvZGl2PgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InVpLWxhYmVsIGxhYmVsLS1pbmZvIHVpLW1yLTEwIHVpLW1iLTUiPkxhYmVsMzwvZGl2PgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InVpLWxhYmVsIGxhYmVsLS1pbmZvIHVpLW1yLTEwIHVpLW1iLTUiPkxhYmVsMjwvZGl2PgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InVpLWxhYmVsIGxhYmVsLS1pbmZvIHVpLW1yLTEwIHVpLW1iLTUiPkxhYmVsMzwvZGl2PgogICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>.</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIAo=</text>
       </register>
       <register name="6" type="4">
-        <text>id</text>
+        <text>Wrapped</text>
       </register>
       <register name="5" type="4">
-        <text>active</text>
+        <text>rn</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHUgewogICAgICAgICAgICAgICAgICAgIHRpdGxlOgogICAgICAgICAgICAgICAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>Label1</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7e2xhYmVsfX0K</text>
       </register>
-      <register name="8" type="4">
-        <text>item</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYWN0aXZlVGFnSWRzOiBbXSwK</text>
       </register>
       <register name="/" type="4">
         <text>not</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHYtZm9yPSJ0YWcgaW4gdGFncyI=</text>
+        <text>rn</text>
       </register>
     </registers>
     <search>
