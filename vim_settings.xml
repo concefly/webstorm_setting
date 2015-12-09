@@ -33,11 +33,11 @@
         <mark key="." line="16" column="30" />
         <mark key="[" line="16" column="2" />
       </file>
-      <file name="$USER_HOME$/project/pet/wechat/views/check/template-index-symptoms.html" timestamp="1449635014453">
+      <file name="$USER_HOME$/project/pet/wechat/views/check/template-index-symptoms.html" timestamp="1449641800387">
         <mark key="]" line="2" column="32" />
         <mark key="^" line="2" column="32" />
         <mark key="." line="2" column="32" />
-        <mark key="[" line="2" column="29" />
+        <mark key="[" line="2" column="21" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/step/main.js" timestamp="1449634952518">
         <mark key="]" line="5" column="0" />
@@ -155,11 +155,11 @@
         <mark key="." line="8" column="22" />
         <mark key="[" line="8" column="19" />
       </file>
-      <file name="$USER_HOME$/project/pet/wechat/components/app/js/grid/grid2.html" timestamp="1449639999907">
-        <mark key="]" line="3" column="20" />
-        <mark key="^" line="3" column="20" />
-        <mark key="." line="3" column="20" />
-        <mark key="[" line="3" column="15" />
+      <file name="$USER_HOME$/project/pet/wechat/components/app/js/grid/grid2.html" timestamp="1449641731260">
+        <mark key="]" line="3" column="27" />
+        <mark key="^" line="3" column="27" />
+        <mark key="." line="3" column="27" />
+        <mark key="[" line="3" column="14" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/label/label-mute.html" timestamp="1449539760161">
         <mark key="]" line="0" column="68" />
@@ -452,47 +452,47 @@
       <jump line="7" column="0" filename="$USER_HOME$/project/pet/wechat/views/check/demo.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpbms6ICIxIgo=</text>
+      <register name="&quot;" type="4">
+        <text>g</text>
       </register>
       <register name="3" type="4">
-        <text>,</text>
+        <text>|</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGRhdGE6IHsKICAgICAgICBpdGVtVmlldzogIml0ZW1WaWV3IgogICAgfSwKICAgIGNvbXBvbmVudHM6IHsKICAgICAgICBpdGVtVmlldzogewogICAgICAgICAgICB0ZW1wbGF0ZTogIjxkaXY+QTwvZGl2PiIKICAgICAgICB9CiAgICB9LAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpbms6ICIxIgo=</text>
+      <register name="1" type="4">
+        <text>g</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJ1aS13aGl0ZXNwYWNlIHVpLXdoaXRlc3BhY2UtLXdoaXRlIHVpLXB0LTEwIHVpLXBiLTEwIHVpLXByLTUwIHVpLW1iLTEwIHVpLWFycm93bGluayI+CiAgICAgICAgICAgIDxoMSBjbGFzcz0idWktZnQtcG9zdCI+VGl0bGU8L2gxPgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJ1aS1sYWJsZS1saXN0IHVpLW5vd3JhcCI+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJ1aS1sYWJlbCBsYWJlbC0tbXV0ZSB1aS1tci0xMCB1aS1tYi01Ij5MYWJlbDE8L2Rpdj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InVpLWxhYmVsIGxhYmVsLS1tdXRlIHVpLW1yLTEwIHVpLW1iLTUiPkxhYmVsMjwvZGl2PgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0idWktbGFiZWwgbGFiZWwtLW11dGUgdWktbXItMTAgdWktbWItNSI+TGFiZWwzPC9kaXY+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJ1aS1sYWJlbCBsYWJlbC0tbXV0ZSB1aS1tci0xMCB1aS1tYi01Ij5MYWJlbDE8L2Rpdj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InVpLWxhYmVsIGxhYmVsLS1tdXRlIHVpLW1yLTEwIHVpLW1iLTUiPkxhYmVsMTwvZGl2PgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0idWktbGFiZWwgbGFiZWwtLW11dGUgdWktbXItMTAgdWktbWItNSI+TGFiZWwyPC9kaXY+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJ1aS1sYWJlbCBsYWJlbC0tbXV0ZSB1aS1tci0xMCB1aS1tYi01Ij5MYWJlbDM8L2Rpdj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InVpLWxhYmVsIGxhYmVsLS1tdXRlIHVpLW1yLTEwIHVpLW1iLTUiPkxhYmVsMjwvZGl2PgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0idWktbGFiZWwgbGFiZWwtLW11dGUgdWktbXItMTAgdWktbWItNSI+TGFiZWwzPC9kaXY+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="7" type="4">
-        <text>,</text>
+        <text>l</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGRhdGE6IHsKICAgICAgICBpdGVtczogWyJhIiwiYiJdCiAgICB9Cg==</text>
+      <register name="6" type="4">
+        <text>e</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHJlYWR5OiBmdW5jdGlvbigpewogICAgICAgIGNvbnNvbGUubG9nKHRoaXMudGl0bGVzKTsKICAgIH0sCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHtnfQo=</text>
+      <register name="4" type="4">
+        <text>|</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>titles</text>
+        <text>i</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>table</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>g</text>
       </register>
     </registers>
     <search>
