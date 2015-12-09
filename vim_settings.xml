@@ -9,11 +9,12 @@
         <mark key="." line="136" column="44" />
         <mark key="[" line="136" column="34" />
       </file>
-      <file name="$USER_HOME$/project/pet/wechat/views/check/index.js" timestamp="1449652952341">
+      <file name="$USER_HOME$/project/pet/wechat/views/check/index.js" timestamp="1449653953312">
         <mark key="'" line="11" column="37" />
-        <mark key="]" line="101" column="0" />
-        <mark key="." line="101" column="0" />
-        <mark key="[" line="101" column="0" />
+        <mark key="]" line="102" column="40" />
+        <mark key="^" line="102" column="40" />
+        <mark key="." line="102" column="40" />
+        <mark key="[" line="101" column="25" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/views/disease/detail.scss" timestamp="1449570472131">
         <mark key="]" line="32" column="39" />
@@ -461,47 +462,47 @@
       <jump line="177" column="16" filename="$USER_HOME$/project/pet/wechat/views/check/demo.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXAoZnVuY3Rpb24oaXRlbSl7CiAgICAgICAgICAgICAgICAgICAgOwogICAgICAgICAgICAgICAgfSkK</text>
+      <register name="&quot;" type="4">
+        <text>tagIds</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzZWxmLiRyb3V0ZS5wYXJhbXMuc2lkcy5zcGxpdCgnLScpLmpvaW4oIiMiKSk7Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHRhZ3NJbmplY3RBY3RpdmUgPSB0YWdzLm1hcChmdW5jdGlvbihpdGVtKXsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9KTsK</text>
+      <register name="2" type="4">
+        <text>32</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXAoZnVuY3Rpb24oaXRlbSl7CiAgICAgICAgICAgICAgICAgICAgOwogICAgICAgICAgICAgICAgfSkK</text>
+      <register name="1" type="4">
+        <text>tagIds</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InVpLWxhYmxlLWxpc3QgIj4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJ1aS1sYWJlbCBsYWJlbC0taW5mbyB1aS1tci0xMCB1aS1tYi01IGFjdGl2ZSI+TGFiZWwxPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0idWktbGFiZWwgbGFiZWwtLWluZm8gdWktbXItMTAgdWktbWItNSI+TGFiZWwyPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0idWktbGFiZWwgbGFiZWwtLWluZm8gdWktbXItMTAgdWktbWItNSBhY3RpdmUiPkxhYmVsMzwvZGl2PgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InVpLWxhYmVsIGxhYmVsLS1pbmZvIHVpLW1yLTEwIHVpLW1iLTUiPkxhYmVsMTwvZGl2PgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InVpLWxhYmVsIGxhYmVsLS1pbmZvIHVpLW1yLTEwIHVpLW1iLTUiPkxhYmVsMTwvZGl2PgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InVpLWxhYmVsIGxhYmVsLS1pbmZvIHVpLW1yLTEwIHVpLW1iLTUiPkxhYmVsMjwvZGl2PgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InVpLWxhYmVsIGxhYmVsLS1pbmZvIHVpLW1yLTEwIHVpLW1iLTUiPkxhYmVsMzwvZGl2PgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InVpLWxhYmVsIGxhYmVsLS1pbmZvIHVpLW1yLTEwIHVpLW1iLTUiPkxhYmVsMjwvZGl2PgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InVpLWxhYmVsIGxhYmVsLS1pbmZvIHVpLW1yLTEwIHVpLW1iLTUiPkxhYmVsMzwvZGl2PgogICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
+      <register name="0" type="4">
+        <text>self.$route.params.sids.split('-').join(&quot;#&quot;)</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIAo=</text>
+      <register name="7" type="4">
+        <text>sid</text>
       </register>
       <register name="6" type="4">
-        <text>Wrapped</text>
+        <text>tagIds</text>
       </register>
       <register name="5" type="4">
-        <text>rn</text>
+        <text>tagIds</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHUgewogICAgICAgICAgICAgICAgICAgIHRpdGxlOgogICAgICAgICAgICAgICAgfQ==</text>
+        <text>self.$route.paramsself.</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7e2xhYmVsfX0K</text>
+      <register name="9" type="4">
+        <text>s</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWN0aXZlVGFnSWRzOiBbXSwK</text>
+        <text encoding="base64">ICAgICIvc3ltcHRvbS86c2lkL2FuYWx5emUvOnRhZ3MvYWxsIjogewo=</text>
       </register>
       <register name="/" type="4">
         <text>not</text>
       </register>
       <register name="-" type="4">
-        <text>rn</text>
+        <text>tagIds</text>
       </register>
     </registers>
     <search>
