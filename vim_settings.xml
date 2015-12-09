@@ -9,11 +9,11 @@
         <mark key="." line="136" column="44" />
         <mark key="[" line="136" column="34" />
       </file>
-      <file name="$USER_HOME$/project/pet/wechat/views/check/index.js" timestamp="1449645654862">
-        <mark key="]" line="25" column="23" />
-        <mark key="^" line="25" column="23" />
-        <mark key="." line="25" column="23" />
-        <mark key="[" line="24" column="22" />
+      <file name="$USER_HOME$/project/pet/wechat/views/check/index.js" timestamp="1449646779487">
+        <mark key="]" line="47" column="5" />
+        <mark key="^" line="34" column="45" />
+        <mark key="." line="47" column="5" />
+        <mark key="[" line="47" column="5" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/views/disease/detail.scss" timestamp="1449570472131">
         <mark key="]" line="32" column="39" />
@@ -130,11 +130,11 @@
         <mark key="." line="21" column="44" />
         <mark key="[" line="21" column="28" />
       </file>
-      <file name="$USER_HOME$/project/pet/wechat/views/check/index.blade.php" timestamp="1449645325549">
-        <mark key="]" line="13" column="29" />
-        <mark key="^" line="13" column="29" />
-        <mark key="." line="13" column="29" />
-        <mark key="[" line="13" column="23" />
+      <file name="$USER_HOME$/project/pet/wechat/views/check/index.blade.php" timestamp="1449646527208">
+        <mark key="]" line="13" column="39" />
+        <mark key="^" line="13" column="39" />
+        <mark key="." line="13" column="39" />
+        <mark key="[" line="13" column="37" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/views/disease/detail.html" timestamp="1449570429016">
         <mark key="]" line="8" column="40" />
@@ -459,46 +459,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ymptomList</text>
+        <text>,</text>
       </register>
-      <register name="3" type="4">
-        <text>({}),</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICogQHByb3A6CiAqICBkYXRhIHN5bXB0b21MaXN0Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>s</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHJlYWR5OiBmdW5jdGlvbigpewogICAgICAgIGNvbnNvbGUubG9nKHRoaXMuc3RvcmFnZSk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>ymptomList</text>
+        <text>,</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InVpLWxvYWRpbmctYmxvY2sgc2hvdyI+CiAgICAgICAgPGRpdiBjbGFzcz0idWktbG9hZGluZy1jbnQiPgogICAgICAgICAgICA8aSBjbGFzcz0idWktbG9hZGluZy1icmlnaHQiPjwvaT4KICAgICAgICAgICAgPHA+5Yqg6L295LitLi4uPC9wPgogICAgICAgIDwvZGl2PgogICAgPC9kaXY+Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbXB1dGVkOiB7CiAgICAgICAgc3ltcHRvbUxpc3Q6IGZ1bmN0aW9uKCl7CiAgICAgICAgICAgIHJldHVybiB3aW5kb3cuc3ltcHRvbUxpc3Q7CiAgICAgICAgfQogICAgfQo=</text>
+      <register name="7" type="4">
+        <text>a</text>
       </register>
-      <register name="6" type="4">
-        <text>Vue</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc3ltcHRvbUxpc3Q6IHt9Cg==</text>
       </register>
       <register name="5" type="4">
-        <text>.</text>
+        <text>,</text>
       </register>
-      <register name="4" type="4">
-        <text>extend</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5zeW1wdG9tTGlzdCA9IGRhdGE7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Ly89PT09PT09PT09PT09PT0g5pWw5o2u5rqQID09PT09PT09PT09PT09Cgp3aW5kb3cuc3ltcHRvbUxpc3QgPSB7fTsK</text>
+      <register name="9" type="4">
+        <text>a</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>table</text>
       </register>
       <register name="-" type="4">
-        <text>ymptomList</text>
+        <text>,</text>
       </register>
     </registers>
     <search>
