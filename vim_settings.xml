@@ -28,6 +28,12 @@
         <mark key="." line="34" column="19" />
         <mark key="[" line="34" column="14" />
       </file>
+      <file name="$USER_HOME$/project/blackbox/backend-cms/resources/assets/js/layout/header.js" timestamp="1449739354880">
+        <mark key="]" line="19" column="40" />
+        <mark key="^" line="19" column="40" />
+        <mark key="." line="19" column="40" />
+        <mark key="[" line="19" column="19" />
+      </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/hr.scss" timestamp="1449224068166">
         <mark key="]" line="16" column="30" />
         <mark key="^" line="16" column="30" />
@@ -369,11 +375,11 @@
         <mark key="." line="41" column="41" />
         <mark key="[" line="40" column="41" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/backend-cms/resources/views/cms/post/post_normal.blade.php" timestamp="1449732823363">
-        <mark key="]" line="1" column="17" />
+      <file name="$USER_HOME$/project/blackbox/backend-cms/resources/views/cms/post/post_normal.blade.php" timestamp="1449739174490">
+        <mark key="]" line="154" column="0" />
         <mark key="^" line="1" column="17" />
-        <mark key="." line="1" column="17" />
-        <mark key="[" line="1" column="17" />
+        <mark key="." line="154" column="0" />
+        <mark key="[" line="154" column="0" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/component/step.scss" timestamp="1449468501308">
         <mark key="]" line="72" column="0" />
@@ -478,32 +484,32 @@
       <jump line="108" column="0" filename="$USER_HOME$/project/pet/wechat/views/check/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0iYmItdGFnIGJiLXRhZ19kZWZhdWx0Ij57eyAkdGFnLT50aXRsZSB9fTwvc3Bhbj4K</text>
       </register>
       <register name="3" type="4">
-        <text>}</text>
-      </register>
-      <register name="2" type="4">
         <text>)</text>
       </register>
-      <register name="1" type="4">
+      <register name="2" type="4">
         <text>}</text>
       </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0iYmItdGFnIGJiLXRhZ19kZWZhdWx0Ij57eyAkdGFnLT50aXRsZSB9fTwvc3Bhbj4K</text>
+      </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coInNldCBpc0Rpc2Vhc2VSZWFkeSA9IGZhbHNlIik7CiAgICAgICAgICAgIGFwaS5nZXQoewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0iYmItdGFnIGJiLXRhZ19kZWZhdWx0Ij48YSBjbGFzcz0iYmItYSBiYi1hX21ham9yIiBocmVmPSIvdGFnL3t7ICR0YWctPmlkIH19IiB0YXJnZXQ9Il9ibGFuayI+e3sgJHRhZy0+dGl0bGUgfX08L2E+PC9zcGFuPgo=</text>
       </register>
       <register name="7" type="4">
-        <text>文章详情页</text>
+        <text>{</text>
       </register>
       <register name="6" type="4">
-        <text>{</text>
-      </register>
-      <register name="5" type="4">
         <text>a</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>{</text>
+      </register>
+      <register name="4" type="4">
+        <text>}</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -512,7 +518,7 @@
         <text>article</text>
       </register>
       <register name="8" type="4">
-        <text>article</text>
+        <text>文章详情页</text>
       </register>
       <register name="/" type="4">
         <text>tags</text>
