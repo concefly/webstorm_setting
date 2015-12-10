@@ -104,10 +104,11 @@
         <mark key="." line="16" column="0" />
         <mark key="[" line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/project/pet/wechat/components/app/js/config.js" timestamp="1449630236531">
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="[" line="7" column="0" />
+      <file name="$USER_HOME$/project/pet/wechat/components/app/js/config.js" timestamp="1449711795748">
+        <mark key="]" line="5" column="33" />
+        <mark key="^" line="5" column="33" />
+        <mark key="." line="5" column="33" />
+        <mark key="[" line="5" column="32" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/image.scss" timestamp="1449455803785">
         <mark key="]" line="3" column="20" />
@@ -198,10 +199,11 @@
         <mark key="." line="7" column="15" />
         <mark key="[" line="5" column="12" />
       </file>
-      <file name="$USER_HOME$/project/pet/wechat/views/check/template-index-analyze.html" timestamp="1449659675218">
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="[" line="1" column="0" />
+      <file name="$USER_HOME$/project/pet/wechat/views/check/template-index-analyze.html" timestamp="1449712092749">
+        <mark key="]" line="21" column="39" />
+        <mark key="^" line="21" column="39" />
+        <mark key="." line="21" column="39" />
+        <mark key="[" line="19" column="59" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/list/list-default.html" timestamp="1449558086217">
         <mark key="]" line="1" column="49" />
@@ -376,11 +378,11 @@
         <mark key="." line="4" column="0" />
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/project/pet/wechat/views/check/template-index-check.html" timestamp="1449661789076">
-        <mark key="]" line="41" column="40" />
-        <mark key="^" line="41" column="40" />
-        <mark key="." line="41" column="40" />
-        <mark key="[" line="30" column="40" />
+      <file name="$USER_HOME$/project/pet/wechat/views/check/template-index-check.html" timestamp="1449711733135">
+        <mark key="]" line="41" column="41" />
+        <mark key="^" line="41" column="41" />
+        <mark key="." line="41" column="41" />
+        <mark key="[" line="40" column="41" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/component/step.scss" timestamp="1449468501308">
         <mark key="]" line="72" column="0" />
@@ -485,47 +487,47 @@
       <jump line="108" column="0" filename="$USER_HOME$/project/pet/wechat/views/check/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="3" type="4">
         <text>left</text>
       </register>
-      <register name="2" type="4">
-        <text>left</text>
-      </register>
-      <register name="1" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="1" type="4">
+        <text>e</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAudG1wLWltZy1jb3Zlci1sZWZ0IHsKICAgICAgICAgICAgcG9zaXRpb246IGFic29sdXRlOwogICAgICAgICAgICB3aWR0aDogNTAlOwogICAgICAgICAgICBsZWZ0OiAwOwogICAgICAgIH0K</text>
       </register>
       <register name="7" type="4">
-        <text>r</text>
-      </register>
-      <register name="6" type="4">
         <text>&quot;</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text>left</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>p</text>
+        <text>e</text>
       </register>
       <register name="8" type="4">
-        <text>e</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>tags</text>
       </register>
       <register name="-" type="4">
-        <text>left</text>
+        <text>e</text>
       </register>
     </registers>
     <search>
