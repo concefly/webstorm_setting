@@ -9,11 +9,12 @@
         <mark key="." line="136" column="44" />
         <mark key="[" line="136" column="34" />
       </file>
-      <file name="$USER_HOME$/project/pet/wechat/views/check/index.js" timestamp="1449715586695">
+      <file name="$USER_HOME$/project/pet/wechat/views/check/index.js" timestamp="1449717836592">
         <mark key="'" line="124" column="0" />
-        <mark key="]" line="188" column="0" />
-        <mark key="." line="188" column="0" />
-        <mark key="[" line="188" column="0" />
+        <mark key="]" line="184" column="7" />
+        <mark key="^" line="184" column="7" />
+        <mark key="." line="184" column="7" />
+        <mark key="[" line="184" column="11" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/views/disease/detail.scss" timestamp="1449570472131">
         <mark key="]" line="32" column="39" />
@@ -191,11 +192,11 @@
         <mark key="." line="7" column="15" />
         <mark key="[" line="5" column="12" />
       </file>
-      <file name="$USER_HOME$/project/pet/wechat/views/check/template-index-analyze.html" timestamp="1449712870279">
-        <mark key="]" line="13" column="31" />
-        <mark key="^" line="6" column="41" />
-        <mark key="." line="13" column="31" />
-        <mark key="[" line="13" column="31" />
+      <file name="$USER_HOME$/project/pet/wechat/views/check/template-index-analyze.html" timestamp="1449718093016">
+        <mark key="]" line="46" column="8" />
+        <mark key="^" line="29" column="36" />
+        <mark key="." line="46" column="8" />
+        <mark key="[" line="46" column="0" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/list/list-default.html" timestamp="1449558086217">
         <mark key="]" line="1" column="49" />
@@ -466,46 +467,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJlZm9yZUNvbXBpbGU6IGZ1bmN0aW9uICgpIHsKICAgICAgICB0aGlzLmlzUmVhZHkgPSBmYWxzZTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IHYtaWY9ImlzRGlzZWFzZVJlYWR5Ij4K</text>
       </register>
-      <register name="3" type="4">
-        <text>ready</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJ1aS1sb2FkaW5nLXdyYXAiIHYtZWxzZT4KICAgICAgICAgICAgPHA+5Yqg6L295LitLi4uPC9wPgogICAgICAgICAgICA8aSBjbGFzcz0idWktbG9hZGluZyI+PC9pPgogICAgICAgIDwvZGl2Pgo=</text>
       </register>
-      <register name="2" type="4">
-        <text>,</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJlZm9yZUNvbXBpbGU6IGZ1bmN0aW9uICgpIHsKICAgICAgICB0aGlzLmlzUmVhZHkgPSBmYWxzZTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IHYtaWY9ImlzRGlzZWFzZVJlYWR5Ij4K</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAudG1wLWltZy1jb3Zlci1sZWZ0IHsKICAgICAgICAgICAgcG9zaXRpb246IGFic29sdXRlOwogICAgICAgICAgICB3aWR0aDogNTAlOwogICAgICAgICAgICBsZWZ0OiAwOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coInNldCBpc0Rpc2Vhc2VSZWFkeSA9IGZhbHNlIik7CiAgICAgICAgICAgIGFwaS5nZXQoewo=</text>
       </register>
       <register name="7" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="4">
-        <text>i</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InVpLWxvYWRpbmctd3JhcCIgdi1lbHNlPgogICAgICAgIDxwPuWKoOi9veS4rS4uLjwvcD4KICAgICAgICA8aSBjbGFzcz0idWktbG9hZGluZyI+PC9pPgogICAgPC9kaXY+Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>d</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0idWktd2hpdGVzcGFjZSB1aS13aGl0ZXNwYWNlLS13aGl0ZSB1aS1wdC0xMCB1aS1wYi0xMCB1aS1wci01MCB1aS1hcnJvd2xpbmsgdWktYm9yZGVyLWIiCiAgICAgICAgICAgICAgICAgdi1mb3I9ImRpc2Vhc2UgaW4gZGlzZWFzZXMiCiAgICAgICAgICAgICAgICAgQGNsaWNrPSJmb3J3YXJkRGlzZWFzZShkaXNlYXNlLmlkKSI+CiAgICAgICAgICAgICAgICA8aDEgY2xhc3M9InVpLWZ0LXBvc3QiPiR7ZGlzZWFzZS50aXRsZX08L2gxPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0idWktbGFibGUtbGlzdCB1aS1ub3dyYXAiPgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InVpLWxhYmVsIGxhYmVsLS1tdXRlIHVpLW1yLTEwIHVpLW1iLTUiCiAgICAgICAgICAgICAgICAgICAgICAgICB2LWZvcj0ibGFiZWwgaW4gZGlzZWFzZS50YWcuc3BsaXQoJyMnKSI+CiAgICAgICAgICAgICAgICAgICAgICAgICR7bGFiZWx9CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9InVpLXdoaXRlc3BhY2UgdWktd2hpdGVzcGFjZS0tYnQgdWktcHQtMTAgdWktcGItMTAgdWktdGEtYyB1aS1mdC1tdXRlIiBAY2xpY2s9ImZvcndhcmRNb3JlIj7mn6XnnIvmm7TlpJrlj6/og73nu5Pmnpw8L2Rpdj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZmlyc3QpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>a</text>
+        <text>y</text>
       </register>
       <register name="8" type="4">
-        <text>g</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>tags</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
