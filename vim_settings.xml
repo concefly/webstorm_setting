@@ -6,22 +6,7 @@
       <file name="/Dummy.txt" timestamp="1449059944706">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/hwj/project/lab/helloword/package.json" timestamp="1448379409792">
-        <mark key="[" line="25" column="4" />
-        <mark key="]" line="25" column="4" />
-        <mark key="." line="25" column="4" />
-        <mark key="^" line="26" column="4" />
-      </file>
-      <file name="$USER_HOME$/Desktop/roam/img.htm" timestamp="1449393194734">
-        <mark key="[" line="112" column="8" />
-        <mark key="]" line="113" column="9" />
-        <mark key="." line="113" column="9" />
-        <mark key="^" line="113" column="9" />
-      </file>
       <file name="/a.dummy" timestamp="1449059944750">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.css" timestamp="1448876736959">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/resources/views/cms/post/post_normal.blade.php" timestamp="1449130533046">
@@ -29,12 +14,6 @@
         <mark key="[" line="113" column="93" />
         <mark key="]" line="113" column="93" />
         <mark key="." line="113" column="93" />
-      </file>
-      <file name="$USER_HOME$/project/blackbox/backend-cms/resources/views/cms/index.blade.php" timestamp="1449129631455">
-        <mark key="[" line="57" column="76" />
-        <mark key="]" line="57" column="91" />
-        <mark key="^" line="57" column="91" />
-        <mark key="." line="57" column="91" />
       </file>
       <file name="E:/hwj/project/lab/roam-demo/index.html" timestamp="1449299431736">
         <mark key="'" line="5" column="8" />
@@ -48,11 +27,45 @@
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
+      <file name="E:/hwj/project/lab/vue-form/input/app.js" timestamp="1449758228861">
+        <mark key="[" line="12" column="24" />
+        <mark key="]" line="12" column="24" />
+        <mark key="." line="12" column="24" />
+        <mark key="^" line="12" column="24" />
+      </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/.env" timestamp="1449130747657">
         <mark key="[" line="5" column="17" />
         <mark key="]" line="5" column="17" />
         <mark key="^" line="5" column="17" />
         <mark key="." line="5" column="17" />
+      </file>
+      <file name="E:/hwj/project/lab/vue-form/input.html" timestamp="1449757098024" />
+      <file name="E:/hwj/project/lab/helloword/package.json" timestamp="1448379409792">
+        <mark key="[" line="25" column="4" />
+        <mark key="]" line="25" column="4" />
+        <mark key="." line="25" column="4" />
+        <mark key="^" line="26" column="4" />
+      </file>
+      <file name="E:/hwj/project/lab/vue-form/input/index.html" timestamp="1449758247493">
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="8" column="26" />
+        <mark key="^" line="8" column="26" />
+        <mark key="." line="8" column="26" />
+      </file>
+      <file name="$USER_HOME$/Desktop/roam/img.htm" timestamp="1449393194734">
+        <mark key="[" line="112" column="8" />
+        <mark key="]" line="113" column="9" />
+        <mark key="." line="113" column="9" />
+        <mark key="^" line="113" column="9" />
+      </file>
+      <file name="/Dummy.css" timestamp="1448876736959">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/blackbox/backend-cms/resources/views/cms/index.blade.php" timestamp="1449129631455">
+        <mark key="[" line="57" column="76" />
+        <mark key="]" line="57" column="91" />
+        <mark key="^" line="57" column="91" />
+        <mark key="." line="57" column="91" />
       </file>
     </filemarks>
     <jumps>
@@ -74,41 +87,41 @@
       <jump line="5" column="8" filename="E:/hwj/project/lab/roam-demo/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAtd2Via2l0LWJveC1zaGFkb3c6IDVweCA1cHggMTBweCByZ2IoMTgwLDE4MCwxODApOwogIC1tb3otYm94LXNoYWRvdzogNXB4IDVweCAxMHB4IHJnYigxODAsMTgwLDE4MCk7CiAgYm94LXNoYWRvdzogNXB4IDVweCAxMHB4IHJnYigxODAsMTgwLDE4MCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>Panorama</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>canvas</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAtd2Via2l0LWJveC1zaGFkb3c6IDVweCA1cHggMTBweCByZ2IoMTgwLDE4MCwxODApOwogIC1tb3otYm94LXNoYWRvdzogNXB4IDVweCAxMHB4IHJnYigxODAsMTgwLDE4MCk7CiAgYm94LXNoYWRvdzogNXB4IDVweCAxMHB4IHJnYigxODAsMTgwLDE4MCk7Cg==</text>
+      <register name="1" type="4">
+        <text>,</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwYWRkaW5nLWxlZnQ6IDIwcHg7CiAgcGFkZGluZy1yaWdodDogMjBweDsK</text>
+        <text encoding="base64">ICAgIGRhdGE6IGZ1bmN0aW9uKCl7CiAgICAgICAgcmV0dXJuIHsKICAgICAgICAgICAgdmFsdWU6ICIiCiAgICAgICAgfQogICAgfQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPHRyPiAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgPHRkIGlkPSJ0b3B0ZCI+CiAgICAgICAgICA8aDE+UGFub3JhbWE8L2gxPgogICAgICAgIDwvdGQ+CiAgICAgIDwvdHI+Cg==</text>
+      <register name="3" type="4">
+        <text>intial</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXYgaWQ9Im5vdGljZSI+Y3JlYXRlZCB3aXRoIFBUR3VpIDxhIGhyZWY9Imh0dHA6Ly93d3cucHRndWkuY29tLyIgdGFyZ2V0PSJfYmxhbmsiPnBhbm9yYW1hIHN0aXRjaGluZyBzb2Z0d2FyZTwvYT48L2Rpdj4K</text>
+      <register name="4" type="4">
+        <text>,</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPHRyPiAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgPHRkIGlkPSJ0b3B0ZCI+CiAgICAgICAgICA8aDE+UGFub3JhbWE8L2gxPgogICAgICAgIDwvdGQ+CiAgICAgIDwvdHI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG9XYXk6IHRydWUK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXYgaWQ9Im5vdGljZSI+Y3JlYXRlZCB3aXRoIFBUR3VpIDxhIGhyZWY9Imh0dHA6Ly93d3cucHRndWkuY29tLyIgdGFyZ2V0PSJfYmxhbmsiPnBhbm9yYW1hIHN0aXRjaGluZyBzb2Z0d2FyZTwvYT48L2Rpdj4K</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgIHByb3BzOiB7CiAgICAgICAgdmFsdWU6IHsKICAgICAgICAgICAgdHlwZTogU3RyaW5nCiAgICAgICAgfQogICAgfQ==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBmb250LWZhbWlseTogVmVyZGFuYSwgQXJpYWwsIEhlbHZldGljYSwgU2Fucy1TZXJpZjsK</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIGRhdGE6IGZ1bmN0VmlvbigpewogICAgICAgIHJldHVybiAKICAgIH0=</text>
       </register>
-      <register name="8" type="4">
-        <text>Panorama</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAtd2Via2l0LWJveC1zaGFkb3c6IDVweCA1cHggMTBweCByZ2IoMTgwLDE4MCwxODApOwogIC1tb3otYm94LXNoYWRvdzogNXB4IDVweCAxMHB4IHJnYigxODAsMTgwLDE4MCk7CiAgYm94LXNoYWRvdzogNXB4IDVweCAxMHB4IHJnYigxODAsMTgwLDE4MCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxtZXRhIG5hbWU9InZpZXdwb3J0IiBjb250ZW50PSJ3aWR0aD04MDAsdXNlci1zY2FsYWJsZT1mYWxzZSIgLz4K</text>
+        <text encoding="base64">ICBwYWRkaW5nLWxlZnQ6IDIwcHg7CiAgcGFkZGluZy1yaWdodDogMjBweDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
