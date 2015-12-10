@@ -9,12 +9,12 @@
         <mark key="." line="136" column="44" />
         <mark key="[" line="136" column="34" />
       </file>
-      <file name="$USER_HOME$/project/pet/wechat/views/check/index.js" timestamp="1449656786271">
-        <mark key="'" line="109" column="0" />
-        <mark key="]" line="137" column="0" />
-        <mark key="^" line="136" column="30" />
-        <mark key="." line="137" column="0" />
-        <mark key="[" line="137" column="0" />
+      <file name="$USER_HOME$/project/pet/wechat/views/check/index.js" timestamp="1449660686365">
+        <mark key="'" line="124" column="0" />
+        <mark key="]" line="61" column="26" />
+        <mark key="^" line="61" column="26" />
+        <mark key="." line="61" column="26" />
+        <mark key="[" line="55" column="5" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/views/disease/detail.scss" timestamp="1449570472131">
         <mark key="]" line="32" column="39" />
@@ -198,11 +198,10 @@
         <mark key="." line="7" column="15" />
         <mark key="[" line="5" column="12" />
       </file>
-      <file name="$USER_HOME$/project/pet/wechat/views/check/template-index-analyze.html" timestamp="1449656852719">
-        <mark key="]" line="23" column="51" />
-        <mark key="^" line="22" column="38" />
-        <mark key="." line="23" column="51" />
-        <mark key="[" line="23" column="51" />
+      <file name="$USER_HOME$/project/pet/wechat/views/check/template-index-analyze.html" timestamp="1449659675218">
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="[" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/list/list-default.html" timestamp="1449558086217">
         <mark key="]" line="1" column="49" />
@@ -377,10 +376,11 @@
         <mark key="." line="4" column="0" />
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/project/pet/wechat/views/check/template-index-check.html" timestamp="1449643667022">
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="[" line="1" column="0" />
+      <file name="$USER_HOME$/project/pet/wechat/views/check/template-index-check.html" timestamp="1449661789076">
+        <mark key="]" line="41" column="40" />
+        <mark key="^" line="41" column="40" />
+        <mark key="." line="41" column="40" />
+        <mark key="[" line="30" column="40" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/component/step.scss" timestamp="1449468501308">
         <mark key="]" line="72" column="0" />
@@ -429,10 +429,11 @@
         <mark key="." line="1" column="59" />
         <mark key="[" line="1" column="54" />
       </file>
-      <file name="$USER_HOME$/project/pet/wechat/views/check/template-index-all.html" timestamp="1449631505699">
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="[" line="4" column="0" />
+      <file name="$USER_HOME$/project/pet/wechat/views/check/template-index-all.html" timestamp="1449660363187">
+        <mark key="]" line="1" column="37" />
+        <mark key="^" line="1" column="37" />
+        <mark key="." line="1" column="37" />
+        <mark key="[" line="0" column="125" />
       </file>
     </filemarks>
     <jumps>
@@ -484,47 +485,47 @@
       <jump line="108" column="0" filename="$USER_HOME$/project/pet/wechat/views/check/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>}</text>
-      </register>
-      <register name="3" type="4">
-        <text>List</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGRhdGEpOwo=</text>
-      </register>
-      <register name="1" type="4">
-        <text>}</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">d2luZG93LnN0b3JhZ2Uuc3ltcHRvbUxpc3QgPSBbXTsK</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5tYXAoZnVuY3Rpb24oaXRlbSl7CiAgICAgICAgICAgICAgICAgICAgaXRlbS5hY3RpdmUgPSBfLmNvbnRhaW5zKHNlbGYuc3ltcHRvbUlkc0FjdGl2ZSxpdGVtLmlkKTsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gaXRlbTsKICAgICAgICAgICAgICAgIH0p</text>
-      </register>
-      <register name="6" type="2">
+      <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>L</text>
+      <register name="3" type="4">
+        <text>left</text>
       </register>
-      <register name="4" type="4">
-        <text>ist</text>
+      <register name="2" type="4">
+        <text>left</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAudG1wLWltZy1jb3Zlci1sZWZ0IHsKICAgICAgICAgICAgcG9zaXRpb246IGFic29sdXRlOwogICAgICAgICAgICB3aWR0aDogNTAlOwogICAgICAgICAgICBsZWZ0OiAwOwogICAgICAgIH0K</text>
+      </register>
+      <register name="7" type="4">
+        <text>r</text>
+      </register>
+      <register name="6" type="4">
+        <text>&quot;</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>symptomList</text>
+        <text>p</text>
       </register>
       <register name="8" type="4">
-        <text>symptomIds</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>tags</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>left</text>
       </register>
     </registers>
     <search>
