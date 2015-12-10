@@ -45,6 +45,11 @@
         <mark key="." line="16" column="30" />
         <mark key="[" line="16" column="2" />
       </file>
+      <file name="$USER_HOME$/project/pet/wechat/views/check/template-index-symptoms.html" timestamp="1449643763548">
+        <mark key="]" line="1" column="75" />
+        <mark key="." line="1" column="64" />
+        <mark key="[" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/step/main.js" timestamp="1449634952518">
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
@@ -73,6 +78,11 @@
         <mark key="^" line="2" column="16" />
         <mark key="." line="2" column="16" />
         <mark key="[" line="2" column="20" />
+      </file>
+      <file name="$USER_HOME$/project/pet/wechat/views/check/first.js" timestamp="1449562689035">
+        <mark key="]" line="14" column="2" />
+        <mark key="." line="14" column="0" />
+        <mark key="[" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/fis-conf.js" timestamp="1449644256423">
         <mark key="]" line="136" column="61" />
@@ -117,9 +127,10 @@
         <mark key="." line="6" column="17" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/project/pet/wechat/views/disease/index.blade.php" timestamp="1449644988533">
-        <mark key="]" line="18" column="9" />
-        <mark key="[" line="13" column="0" />
+      <file name="$USER_HOME$/project/pet/wechat/views/disease/index.blade.php" timestamp="1449744405167">
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="[" line="38" column="0" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/views/check/second.js" timestamp="1449562845867">
         <mark key="]" line="17" column="31" />
@@ -352,11 +363,11 @@
       <file name="/Dummy.txt" timestamp="1449732568637">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/project/pet/wechat/views/disease/index.js" timestamp="1449626304278">
-        <mark key="]" line="4" column="22" />
-        <mark key="^" line="4" column="22" />
-        <mark key="." line="4" column="22" />
-        <mark key="[" line="4" column="19" />
+      <file name="$USER_HOME$/project/pet/wechat/views/disease/index.js" timestamp="1449744477301">
+        <mark key="]" line="21" column="74" />
+        <mark key="^" line="21" column="74" />
+        <mark key="." line="21" column="74" />
+        <mark key="[" line="21" column="29" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/paragraph/title-info.html" timestamp="1449555759494">
         <mark key="]" line="2" column="27" />
@@ -498,40 +509,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJzaGFyZV9pbmZvIGJiLW1iLTUwIj4KICAgICAgICAgICA8c3BhbiBjbGFzcz0id2VpYm8iPgogICAgICAgICAgICAgICA8aW1nIGNsYXNzPSJzdmciIHNyYz0ie3tlbnYoJ0FTU0VUU19ESVInKX19aW1hZ2VzL3Bvc3QvaWMtYXJ0aWNsZS1zaW5hLnN2ZyIgYWx0PSIiIC8+CiAgICAgICAgICAgICAgIDxsYWJlbCBmb3I9IiI+NDU8L2xhYmVsPgogICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICA8c3BhbiBjbGFzcz0id2VjaGF0Ij4KICAgICAgICAgICAgICAgPGltZyBjbGFzcz0ic3ZnIiBzcmM9Int7ZW52KCdBU1NFVFNfRElSJyl9fWltYWdlcy9wb3N0L2ljLWFydGljbGUtd2VjaGF0LnN2ZyIgYWx0PSIiIC8+CiAgICAgICAgICAgICAgIDxsYWJlbCBmb3I9IiI+NDU8L2xhYmVsPgogICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgPHNwYW4gY2xhc3M9Imxpa2UiPgogICAgICAgICAgICAgICA8aW1nIGNsYXNzPSJzdmciIHNyYz0ie3tlbnYoJ0FTU0VUU19ESVInKX19aW1hZ2VzL3Bvc3QvaWMtYXJ0aWNsZS1zYXZlLW5vcm1hbC5zdmciIGFsdD0iIiAvPgogICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgPHNwYW4gY2xhc3M9J3RpbWUnPgogICAgICAgICAgICAgICA8aW1nIGNsYXNzPSJzdmciIHNyYz0ie3tlbnYoJ0FTU0VUU19ESVInKX19aW1hZ2VzL3Bvc3QvaWMtYXJ0aWNsZS1jYWxlbmRhci5zdmciIGFsdD0iIiAvPgogICAgICAgICAgICAgICA8bGFiZWwgZm9yPSIiPnt7JGFydGljbGUtPnB1Ymxpc2hfdGltZX19PC9sYWJlbD4KICAgICAgICAgICAgPC9zcGFuPgogICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgIHdpbmRvdy5jb25maWcuaWQgPSAxOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text>+</text>
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">dmFyIHRpbWVXcmFwID0gZnVuY3Rpb24odHMpIHsKICAgIHZhciB0aW1lID0gRGF0ZS5wYXJzZSh0cyk7CiAgICB2YXIgbm93ID0gRGF0ZS5wYXJzZShuZXcgRGF0ZSgpKTsKICAgIHByaW50KHRpbWUpOwogICAgcHJpbnQobm93KTsKfTsKCnRpbWVXcmFwKCIyMDE1LTEyLTEwIDE3OjA6MCIpOwo=</text>
       </register>
-      <register name="1" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJzaGFyZV9pbmZvIGJiLW1iLTUwIj4KICAgICAgICAgICA8c3BhbiBjbGFzcz0id2VpYm8iPgogICAgICAgICAgICAgICA8aW1nIGNsYXNzPSJzdmciIHNyYz0ie3tlbnYoJ0FTU0VUU19ESVInKX19aW1hZ2VzL3Bvc3QvaWMtYXJ0aWNsZS1zaW5hLnN2ZyIgYWx0PSIiIC8+CiAgICAgICAgICAgICAgIDxsYWJlbCBmb3I9IiI+NDU8L2xhYmVsPgogICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICA8c3BhbiBjbGFzcz0id2VjaGF0Ij4KICAgICAgICAgICAgICAgPGltZyBjbGFzcz0ic3ZnIiBzcmM9Int7ZW52KCdBU1NFVFNfRElSJyl9fWltYWdlcy9wb3N0L2ljLWFydGljbGUtd2VjaGF0LnN2ZyIgYWx0PSIiIC8+CiAgICAgICAgICAgICAgIDxsYWJlbCBmb3I9IiI+NDU8L2xhYmVsPgogICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgPHNwYW4gY2xhc3M9Imxpa2UiPgogICAgICAgICAgICAgICA8aW1nIGNsYXNzPSJzdmciIHNyYz0ie3tlbnYoJ0FTU0VUU19ESVInKX19aW1hZ2VzL3Bvc3QvaWMtYXJ0aWNsZS1zYXZlLW5vcm1hbC5zdmciIGFsdD0iIiAvPgogICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgPHNwYW4gY2xhc3M9J3RpbWUnPgogICAgICAgICAgICAgICA8aW1nIGNsYXNzPSJzdmciIHNyYz0ie3tlbnYoJ0FTU0VUU19ESVInKX19aW1hZ2VzL3Bvc3QvaWMtYXJ0aWNsZS1jYWxlbmRhci5zdmciIGFsdD0iIiAvPgogICAgICAgICAgICAgICA8bGFiZWwgZm9yPSIiPnt7JGFydGljbGUtPnB1Ymxpc2hfdGltZX19PC9sYWJlbD4KICAgICAgICAgICAgPC9zcGFuPgogICAgICAgIDwvZGl2Pgo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHdpbmRvdy5jb25maWcuaWQgPSAxOwo=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPCEtLSBNYXJrIC0tPgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJiYi1tYi01MCIgaWQ9InBvc3QtbWFyayIgZGF0YS1pc0Zhdj17eyRhcnRpY2xlLT5pc0Zhdn19PjwvZGl2Pgo=</text>
       </register>
       <register name="7" type="4">
-        <text>+</text>
+        <text>&quot;</text>
       </register>
       <register name="6" type="4">
-        <text>&quot;</text>
-      </register>
-      <register name="5" type="4">
         <text>-</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>&quot;</text>
+      </register>
+      <register name="4" type="4">
+        <text>+</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>(</text>
+        <text>)</text>
       </register>
       <register name="8" type="4">
-        <text>)</text>
+        <text>+</text>
       </register>
       <register name="/" type="4">
         <text>tags</text>
