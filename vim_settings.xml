@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/project/blackbox/backend-cms/resources/views/cms/index.blade.php" timestamp="1449138116188">
-        <mark key="]" line="136" column="44" />
-        <mark key="^" line="136" column="44" />
-        <mark key="." line="136" column="44" />
-        <mark key="[" line="136" column="34" />
+      <file name="$USER_HOME$/project/blackbox/backend-cms/resources/views/cms/index.blade.php" timestamp="1449732496933">
+        <mark key="]" line="57" column="54" />
+        <mark key="^" line="57" column="54" />
+        <mark key="." line="57" column="54" />
+        <mark key="[" line="57" column="47" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/views/check/index.js" timestamp="1449717836592">
         <mark key="'" line="124" column="0" />
@@ -137,6 +137,9 @@
         <mark key="^" line="12" column="19" />
         <mark key="." line="12" column="19" />
         <mark key="[" line="12" column="18" />
+      </file>
+      <file name="/a.dummy" timestamp="1449732568670">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/views/disease/detail.html" timestamp="1449570429016">
         <mark key="]" line="8" column="40" />
@@ -333,6 +336,9 @@
         <mark key="." line="95" column="0" />
         <mark key="[" line="95" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1449732568637">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/project/pet/wechat/views/disease/index.js" timestamp="1449626304278">
         <mark key="]" line="4" column="22" />
         <mark key="^" line="4" column="22" />
@@ -362,6 +368,12 @@
         <mark key="^" line="41" column="41" />
         <mark key="." line="41" column="41" />
         <mark key="[" line="40" column="41" />
+      </file>
+      <file name="$USER_HOME$/project/blackbox/backend-cms/resources/views/cms/post/post_normal.blade.php" timestamp="1449732823363">
+        <mark key="]" line="1" column="17" />
+        <mark key="^" line="1" column="17" />
+        <mark key="." line="1" column="17" />
+        <mark key="[" line="1" column="17" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/component/step.scss" timestamp="1449468501308">
         <mark key="]" line="72" column="0" />
@@ -466,47 +478,47 @@
       <jump line="108" column="0" filename="$USER_HOME$/project/pet/wechat/views/check/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IHYtaWY9ImlzRGlzZWFzZVJlYWR5Ij4K</text>
+      <register name="&quot;" type="4">
+        <text>}</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJ1aS1sb2FkaW5nLXdyYXAiIHYtZWxzZT4KICAgICAgICAgICAgPHA+5Yqg6L295LitLi4uPC9wPgogICAgICAgICAgICA8aSBjbGFzcz0idWktbG9hZGluZyI+PC9pPgogICAgICAgIDwvZGl2Pgo=</text>
+      <register name="3" type="4">
+        <text>}</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+      <register name="2" type="4">
+        <text>)</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IHYtaWY9ImlzRGlzZWFzZVJlYWR5Ij4K</text>
+      <register name="1" type="4">
+        <text>}</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coInNldCBpc0Rpc2Vhc2VSZWFkeSA9IGZhbHNlIik7CiAgICAgICAgICAgIGFwaS5nZXQoewo=</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>文章详情页</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InVpLWxvYWRpbmctd3JhcCIgdi1lbHNlPgogICAgICAgIDxwPuWKoOi9veS4rS4uLjwvcD4KICAgICAgICA8aSBjbGFzcz0idWktbG9hZGluZyI+PC9pPgogICAgPC9kaXY+Cg==</text>
+      <register name="6" type="4">
+        <text>{</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0idWktd2hpdGVzcGFjZSB1aS13aGl0ZXNwYWNlLS13aGl0ZSB1aS1wdC0xMCB1aS1wYi0xMCB1aS1wci01MCB1aS1hcnJvd2xpbmsgdWktYm9yZGVyLWIiCiAgICAgICAgICAgICAgICAgdi1mb3I9ImRpc2Vhc2UgaW4gZGlzZWFzZXMiCiAgICAgICAgICAgICAgICAgQGNsaWNrPSJmb3J3YXJkRGlzZWFzZShkaXNlYXNlLmlkKSI+CiAgICAgICAgICAgICAgICA8aDEgY2xhc3M9InVpLWZ0LXBvc3QiPiR7ZGlzZWFzZS50aXRsZX08L2gxPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0idWktbGFibGUtbGlzdCB1aS1ub3dyYXAiPgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InVpLWxhYmVsIGxhYmVsLS1tdXRlIHVpLW1yLTEwIHVpLW1iLTUiCiAgICAgICAgICAgICAgICAgICAgICAgICB2LWZvcj0ibGFiZWwgaW4gZGlzZWFzZS50YWcuc3BsaXQoJyMnKSI+CiAgICAgICAgICAgICAgICAgICAgICAgICR7bGFiZWx9CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9InVpLXdoaXRlc3BhY2UgdWktd2hpdGVzcGFjZS0tYnQgdWktcHQtMTAgdWktcGItMTAgdWktdGEtYyB1aS1mdC1tdXRlIiBAY2xpY2s9ImZvcndhcmRNb3JlIj7mn6XnnIvmm7TlpJrlj6/og73nu5Pmnpw8L2Rpdj4K</text>
+      <register name="5" type="4">
+        <text>a</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>{</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>y</text>
+        <text>article</text>
       </register>
       <register name="8" type="4">
-        <text>&quot;</text>
+        <text>article</text>
       </register>
       <register name="/" type="4">
         <text>tags</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>}</text>
       </register>
     </registers>
     <search>
