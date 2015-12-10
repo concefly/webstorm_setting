@@ -9,12 +9,11 @@
         <mark key="." line="136" column="44" />
         <mark key="[" line="136" column="34" />
       </file>
-      <file name="$USER_HOME$/project/pet/wechat/views/check/index.js" timestamp="1449660686365">
+      <file name="$USER_HOME$/project/pet/wechat/views/check/index.js" timestamp="1449715586695">
         <mark key="'" line="124" column="0" />
-        <mark key="]" line="61" column="26" />
-        <mark key="^" line="61" column="26" />
-        <mark key="." line="61" column="26" />
-        <mark key="[" line="55" column="5" />
+        <mark key="]" line="188" column="0" />
+        <mark key="." line="188" column="0" />
+        <mark key="[" line="188" column="0" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/views/disease/detail.scss" timestamp="1449570472131">
         <mark key="]" line="32" column="39" />
@@ -132,18 +131,11 @@
         <mark key="." line="21" column="44" />
         <mark key="[" line="21" column="28" />
       </file>
-      <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/padding.scss" timestamp="1449469780777">
-        <mark key="'" line="0" column="0" />
-        <mark key="]" line="5" column="15" />
-        <mark key="^" line="5" column="15" />
-        <mark key="." line="5" column="15" />
-        <mark key="[" line="5" column="14" />
-      </file>
-      <file name="$USER_HOME$/project/pet/wechat/views/check/index.blade.php" timestamp="1449646527208">
-        <mark key="]" line="13" column="39" />
-        <mark key="^" line="13" column="39" />
-        <mark key="." line="13" column="39" />
-        <mark key="[" line="13" column="37" />
+      <file name="$USER_HOME$/project/pet/wechat/views/check/index.blade.php" timestamp="1449714775358">
+        <mark key="]" line="12" column="19" />
+        <mark key="^" line="12" column="19" />
+        <mark key="." line="12" column="19" />
+        <mark key="[" line="12" column="18" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/views/disease/detail.html" timestamp="1449570429016">
         <mark key="]" line="8" column="40" />
@@ -181,11 +173,11 @@
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/font.scss" timestamp="1449471017926">
-        <mark key="]" line="10" column="31" />
-        <mark key="^" line="10" column="31" />
-        <mark key="." line="10" column="31" />
-        <mark key="[" line="6" column="20" />
+      <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/font.scss" timestamp="1449712262284">
+        <mark key="]" line="13" column="13" />
+        <mark key="^" line="13" column="13" />
+        <mark key="." line="13" column="13" />
+        <mark key="[" line="13" column="7" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/lineheight.scss" timestamp="1449453803046">
         <mark key="]" line="9" column="14" />
@@ -199,11 +191,11 @@
         <mark key="." line="7" column="15" />
         <mark key="[" line="5" column="12" />
       </file>
-      <file name="$USER_HOME$/project/pet/wechat/views/check/template-index-analyze.html" timestamp="1449712092749">
-        <mark key="]" line="21" column="39" />
-        <mark key="^" line="21" column="39" />
-        <mark key="." line="21" column="39" />
-        <mark key="[" line="19" column="59" />
+      <file name="$USER_HOME$/project/pet/wechat/views/check/template-index-analyze.html" timestamp="1449712870279">
+        <mark key="]" line="13" column="31" />
+        <mark key="^" line="6" column="41" />
+        <mark key="." line="13" column="31" />
+        <mark key="[" line="13" column="31" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/list/list-default.html" timestamp="1449558086217">
         <mark key="]" line="1" column="49" />
@@ -215,13 +207,6 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
         <mark key="[" line="24" column="0" />
-      </file>
-      <file name="$USER_HOME$/project/pet/wechat/fis-config.js" timestamp="1449212054175">
-        <mark key="'" line="8" column="25" />
-        <mark key="]" line="159" column="23" />
-        <mark key="^" line="159" column="23" />
-        <mark key="." line="159" column="23" />
-        <mark key="[" line="155" column="2" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/label/label-primary.html" timestamp="1449541357036">
         <mark key="]" line="1" column="16" />
@@ -259,10 +244,10 @@
         <mark key="." line="48" column="26" />
         <mark key="[" line="47" column="17" />
       </file>
-      <file name="$USER_HOME$/project/pet/wechat/components/app/js/grid/main.js" timestamp="1449642736269">
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="[" line="16" column="0" />
+      <file name="$USER_HOME$/project/pet/wechat/components/app/js/grid/main.js" timestamp="1449715379030">
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="[" line="29" column="0" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/views/disease/index.scss" timestamp="1449627744567">
         <mark key="]" line="60" column="47" />
@@ -352,13 +337,6 @@
         <mark key="^" line="4" column="22" />
         <mark key="." line="4" column="22" />
         <mark key="[" line="4" column="19" />
-      </file>
-      <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/base/variable.scss" timestamp="1449472147895">
-        <mark key="'" line="19" column="48" />
-        <mark key="]" line="67" column="25" />
-        <mark key="^" line="67" column="25" />
-        <mark key="." line="67" column="25" />
-        <mark key="[" line="67" column="26" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/paragraph/title-info.html" timestamp="1449555759494">
         <mark key="]" line="2" column="27" />
@@ -487,47 +465,47 @@
       <jump line="108" column="0" filename="$USER_HOME$/project/pet/wechat/views/check/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGJlZm9yZUNvbXBpbGU6IGZ1bmN0aW9uICgpIHsKICAgICAgICB0aGlzLmlzUmVhZHkgPSBmYWxzZTsKICAgIH0K</text>
       </register>
       <register name="3" type="4">
-        <text>left</text>
+        <text>ready</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>,</text>
       </register>
-      <register name="1" type="4">
-        <text>e</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGJlZm9yZUNvbXBpbGU6IGZ1bmN0aW9uICgpIHsKICAgICAgICB0aGlzLmlzUmVhZHkgPSBmYWxzZTsKICAgIH0K</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAudG1wLWltZy1jb3Zlci1sZWZ0IHsKICAgICAgICAgICAgcG9zaXRpb246IGFic29sdXRlOwogICAgICAgICAgICB3aWR0aDogNTAlOwogICAgICAgICAgICBsZWZ0OiAwOwogICAgICAgIH0K</text>
       </register>
       <register name="7" type="4">
-        <text>&quot;</text>
+        <text>.</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>i</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>d</text>
       </register>
-      <register name="4" type="4">
-        <text>left</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZmlyc3QpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>e</text>
+        <text>a</text>
       </register>
       <register name="8" type="4">
-        <text>r</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
         <text>tags</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>,</text>
       </register>
     </registers>
     <search>
@@ -562,9 +540,9 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>57,67 s/mute/post</entry>
         <entry>W</entry>
-        <entry>q</entry>
         <entry>qw</entry>
         <entry>109,118 s/tags/diseases</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
