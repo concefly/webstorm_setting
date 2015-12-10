@@ -6,6 +6,12 @@
       <file name="/Dummy.txt" timestamp="1449059944706">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="E:/hwj/project/lab/vue-form/app.js" timestamp="1449760615898">
+        <mark key="[" line="28" column="8" />
+        <mark key="]" line="28" column="36" />
+        <mark key="." line="28" column="36" />
+        <mark key="^" line="28" column="36" />
+      </file>
       <file name="/a.dummy" timestamp="1449059944750">
         <mark key="[" line="0" column="0" />
       </file>
@@ -14,6 +20,12 @@
         <mark key="[" line="113" column="93" />
         <mark key="]" line="113" column="93" />
         <mark key="." line="113" column="93" />
+      </file>
+      <file name="E:/hwj/project/lab/vue-form/index.html" timestamp="1449760417801">
+        <mark key="[" line="15" column="10" />
+        <mark key="]" line="16" column="12" />
+        <mark key="^" line="16" column="12" />
+        <mark key="." line="16" column="12" />
       </file>
       <file name="E:/hwj/project/lab/roam-demo/index.html" timestamp="1449299431736">
         <mark key="'" line="5" column="8" />
@@ -27,11 +39,10 @@
         <mark key="]" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="E:/hwj/project/lab/vue-form/input/app.js" timestamp="1449758228861">
-        <mark key="[" line="12" column="24" />
-        <mark key="]" line="12" column="24" />
-        <mark key="." line="12" column="24" />
-        <mark key="^" line="12" column="24" />
+      <file name="E:/hwj/project/lab/vue-form/input/app.js" timestamp="1449758544675">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/.env" timestamp="1449130747657">
         <mark key="[" line="5" column="17" />
@@ -46,9 +57,9 @@
         <mark key="." line="25" column="4" />
         <mark key="^" line="26" column="4" />
       </file>
-      <file name="E:/hwj/project/lab/vue-form/input/index.html" timestamp="1449758247493">
-        <mark key="[" line="8" column="15" />
-        <mark key="]" line="8" column="26" />
+      <file name="E:/hwj/project/lab/vue-form/input/index.html" timestamp="1449758835159">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="12" column="8" />
         <mark key="^" line="8" column="26" />
         <mark key="." line="8" column="26" />
       </file>
@@ -88,40 +99,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text encoding="base64">ICAgIGNvbXBvbmVudHM6IHsKICAgICAgICBhYWE6IElucHV0CiAgICB9LA==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>AAA</text>
       </register>
       <register name="/" type="4">
         <text>canvas</text>
       </register>
-      <register name="1" type="4">
-        <text>,</text>
+      <register name="0" type="2">
+        <text encoding="base64">PHNjcmlwdCB0eXBlPSJ4LXRlbXBsYXRlIiBpZD0idGVtcGxhdGUiPgogICAgPGlucHV0IHR5cGU9InRleHQiIHYtbW9kZWw9InZhbHVlIj4KPC9zY3JpcHQ+Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGRhdGE6IGZ1bmN0aW9uKCl7CiAgICAgICAgcmV0dXJuIHsKICAgICAgICAgICAgdmFsdWU6ICIiCiAgICAgICAgfQogICAgfQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIGNvbXBvbmVudHM6IHsKICAgICAgICBhYWE6IElucHV0CiAgICB9LA==</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIGNvbXBvbmVudHM6IGZ1bmN0aW9uKCl7CiAgICAgICAgcmV0dXJuIHsKICAgICAgICAgICAgImFhYSI6IElucHV0CiAgICAgICAgfQogICAgfSw=</text>
       </register>
       <register name="3" type="4">
-        <text>intial</text>
+        <text>AAA</text>
       </register>
-      <register name="4" type="4">
-        <text>,</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGl2IHYtZm9yPSJpdGVtIGluIGZvcm1JdGVtcyIgOmlzPSJpdGVtLnR5cGUiIHYtbW9kZWw9Iml0ZW0uZGF0YSI+PC9kaXY+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG9XYXk6IHRydWUK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZm9ybVN0cnVjdHVyZTsK</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICAgIHByb3BzOiB7CiAgICAgICAgdmFsdWU6IHsKICAgICAgICAgICAgdHlwZTogU3RyaW5nCiAgICAgICAgfQogICAgfQ==</text>
+        <text>&quot;input&quot;</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIGRhdGE6IGZ1bmN0VmlvbigpewogICAgICAgIHJldHVybiAKICAgIH0=</text>
+      <register name="7" type="2">
+        <text encoding="base64">dmFyIGluc3RhbmNlID0gbmV3IElucHV0KHsKICAgIGVsOiAiI21vdW50IiwKICAgIHByb3BzOiB7CiAgICAgICAgdmFsdWU6IHsKICAgICAgICAgICAgdHlwZTogU3RyaW5nLAogICAgICAgICAgICB0b1dheTogdHJ1ZQogICAgICAgIH0KICAgIH0KfSk7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAtd2Via2l0LWJveC1zaGFkb3c6IDVweCA1cHggMTBweCByZ2IoMTgwLDE4MCwxODApOwogIC1tb3otYm94LXNoYWRvdzogNXB4IDVweCAxMHB4IHJnYigxODAsMTgwLDE4MCk7CiAgYm94LXNoYWRvdzogNXB4IDVweCAxMHB4IHJnYigxODAsMTgwLDE4MCk7Cg==</text>
+      <register name="8" type="4">
+        <text>,</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwYWRkaW5nLWxlZnQ6IDIwcHg7CiAgcGFkZGluZy1yaWdodDogMjBweDsK</text>
+        <text encoding="base64">ICAgIGRhdGE6IGZ1bmN0aW9uKCl7CiAgICAgICAgcmV0dXJuIHsKICAgICAgICAgICAgdmFsdWU6ICIiCiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
