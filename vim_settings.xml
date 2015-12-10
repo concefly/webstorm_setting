@@ -9,12 +9,12 @@
         <mark key="." line="57" column="54" />
         <mark key="[" line="57" column="47" />
       </file>
-      <file name="$USER_HOME$/project/pet/wechat/views/check/index.js" timestamp="1449717836592">
-        <mark key="'" line="124" column="0" />
-        <mark key="]" line="184" column="7" />
-        <mark key="^" line="184" column="7" />
-        <mark key="." line="184" column="7" />
-        <mark key="[" line="184" column="11" />
+      <file name="$USER_HOME$/project/pet/wechat/views/check/index.js" timestamp="1449745641304">
+        <mark key="'" line="125" column="0" />
+        <mark key="]" line="234" column="36" />
+        <mark key="^" line="100" column="35" />
+        <mark key="." line="232" column="0" />
+        <mark key="[" line="232" column="0" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/views/disease/detail.scss" timestamp="1449570472131">
         <mark key="]" line="32" column="39" />
@@ -213,11 +213,11 @@
         <mark key="." line="7" column="15" />
         <mark key="[" line="5" column="12" />
       </file>
-      <file name="$USER_HOME$/project/pet/wechat/views/check/template-index-analyze.html" timestamp="1449718093016">
-        <mark key="]" line="46" column="8" />
-        <mark key="^" line="29" column="36" />
-        <mark key="." line="46" column="8" />
-        <mark key="[" line="46" column="0" />
+      <file name="$USER_HOME$/project/pet/wechat/views/check/template-index-analyze.html" timestamp="1449744951695">
+        <mark key="]" line="41" column="138" />
+        <mark key="^" line="41" column="138" />
+        <mark key="." line="41" column="138" />
+        <mark key="[" line="41" column="114" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/list/list-default.html" timestamp="1449558086217">
         <mark key="]" line="1" column="49" />
@@ -509,46 +509,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHdpbmRvdy5jb25maWcuaWQgPSAxOwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIgaW5pdGlhbFN5bXB0b20gPSBOdW1iZXIoc2VsZi4kcm91dGUucGFyYW1zLnNpZHMuc3BsaXQoJy0nKVswXSk7CiAgICAgICAgdmFyIHRpdGxlID0gXy5jaGFpbih3aW5kb3cuc3RvcmFnZS5zeW1wdG9tTGlzdCkucGx1Y2soInN5bXB0b21zIikuZmxhdHRlbigpLmZpbmQoZnVuY3Rpb24oaXRlbSl7cmV0dXJuIGl0ZW0uaWQ9PWluaXRpYWxTeW1wdG9tfSkudmFsdWUoKS50aXRsZTsKICAgICAgICAkKCJoZWFkIHRpdGxlIikudGV4dCh0aXRsZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dmFyIHRpbWVXcmFwID0gZnVuY3Rpb24odHMpIHsKICAgIHZhciB0aW1lID0gRGF0ZS5wYXJzZSh0cyk7CiAgICB2YXIgbm93ID0gRGF0ZS5wYXJzZShuZXcgRGF0ZSgpKTsKICAgIHByaW50KHRpbWUpOwogICAgcHJpbnQobm93KTsKfTsKCnRpbWVXcmFwKCIyMDE1LTEyLTEwIDE3OjA6MCIpOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJzaGFyZV9pbmZvIGJiLW1iLTUwIj4KICAgICAgICAgICA8c3BhbiBjbGFzcz0id2VpYm8iPgogICAgICAgICAgICAgICA8aW1nIGNsYXNzPSJzdmciIHNyYz0ie3tlbnYoJ0FTU0VUU19ESVInKX19aW1hZ2VzL3Bvc3QvaWMtYXJ0aWNsZS1zaW5hLnN2ZyIgYWx0PSIiIC8+CiAgICAgICAgICAgICAgIDxsYWJlbCBmb3I9IiI+NDU8L2xhYmVsPgogICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICA8c3BhbiBjbGFzcz0id2VjaGF0Ij4KICAgICAgICAgICAgICAgPGltZyBjbGFzcz0ic3ZnIiBzcmM9Int7ZW52KCdBU1NFVFNfRElSJyl9fWltYWdlcy9wb3N0L2ljLWFydGljbGUtd2VjaGF0LnN2ZyIgYWx0PSIiIC8+CiAgICAgICAgICAgICAgIDxsYWJlbCBmb3I9IiI+NDU8L2xhYmVsPgogICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgPHNwYW4gY2xhc3M9Imxpa2UiPgogICAgICAgICAgICAgICA8aW1nIGNsYXNzPSJzdmciIHNyYz0ie3tlbnYoJ0FTU0VUU19ESVInKX19aW1hZ2VzL3Bvc3QvaWMtYXJ0aWNsZS1zYXZlLW5vcm1hbC5zdmciIGFsdD0iIiAvPgogICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgPHNwYW4gY2xhc3M9J3RpbWUnPgogICAgICAgICAgICAgICA8aW1nIGNsYXNzPSJzdmciIHNyYz0ie3tlbnYoJ0FTU0VUU19ESVInKX19aW1hZ2VzL3Bvc3QvaWMtYXJ0aWNsZS1jYWxlbmRhci5zdmciIGFsdD0iIiAvPgogICAgICAgICAgICAgICA8bGFiZWwgZm9yPSIiPnt7JGFydGljbGUtPnB1Ymxpc2hfdGltZX19PC9sYWJlbD4KICAgICAgICAgICAgPC9zcGFuPgogICAgICAgIDwvZGl2Pgo=</text>
-      </register>
-      <register name="1" type="2">
         <text encoding="base64">ICAgIHdpbmRvdy5jb25maWcuaWQgPSAxOwo=</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB2YXIgCg==</text>
+      </register>
+      <register name="1" type="4">
+        <text>self.$route.params.sids.split('-')[0]</text>
+      </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLSBNYXJrIC0tPgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJiYi1tYi01MCIgaWQ9InBvc3QtbWFyayIgZGF0YS1pc0Zhdj17eyRhcnRpY2xlLT5pc0Zhdn19PjwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIgaW5pdGlhbFN5bXB0b20gPSBOdW1iZXIoc2VsZi4kcm91dGUucGFyYW1zLnNpZHMuc3BsaXQoJy0nKVswXSk7CiAgICAgICAgdmFyIHRpdGxlID0gXy5jaGFpbih3aW5kb3cuc3RvcmFnZS5zeW1wdG9tTGlzdCkucGx1Y2soInN5bXB0b21zIikuZmxhdHRlbigpLmZpbmQoZnVuY3Rpb24oaXRlbSl7cmV0dXJuIGl0ZW0uaWQ9PWluaXRpYWxTeW1wdG9tfSkudmFsdWUoKS50aXRsZTsKICAgICAgICAkKCJoZWFkIHRpdGxlIikudGV4dCh0aXRsZSk7Cg==</text>
       </register>
       <register name="7" type="4">
         <text>&quot;</text>
       </register>
       <register name="6" type="4">
-        <text>-</text>
-      </register>
-      <register name="5" type="4">
-        <text>&quot;</text>
-      </register>
-      <register name="4" type="4">
         <text>+</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">dmFyIHRpbWVXcmFwID0gZnVuY3Rpb24odHMpIHsKICAgIHZhciB0aW1lID0gRGF0ZS5wYXJzZSh0cyk7CiAgICB2YXIgbm93ID0gRGF0ZS5wYXJzZShuZXcgRGF0ZSgpKTsKICAgIHByaW50KHRpbWUpOwogICAgcHJpbnQobm93KTsKfTsKCnRpbWVXcmFwKCIyMDE1LTEyLTEwIDE3OjA6MCIpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJzaGFyZV9pbmZvIGJiLW1iLTUwIj4KICAgICAgICAgICA8c3BhbiBjbGFzcz0id2VpYm8iPgogICAgICAgICAgICAgICA8aW1nIGNsYXNzPSJzdmciIHNyYz0ie3tlbnYoJ0FTU0VUU19ESVInKX19aW1hZ2VzL3Bvc3QvaWMtYXJ0aWNsZS1zaW5hLnN2ZyIgYWx0PSIiIC8+CiAgICAgICAgICAgICAgIDxsYWJlbCBmb3I9IiI+NDU8L2xhYmVsPgogICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICA8c3BhbiBjbGFzcz0id2VjaGF0Ij4KICAgICAgICAgICAgICAgPGltZyBjbGFzcz0ic3ZnIiBzcmM9Int7ZW52KCdBU1NFVFNfRElSJyl9fWltYWdlcy9wb3N0L2ljLWFydGljbGUtd2VjaGF0LnN2ZyIgYWx0PSIiIC8+CiAgICAgICAgICAgICAgIDxsYWJlbCBmb3I9IiI+NDU8L2xhYmVsPgogICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgPHNwYW4gY2xhc3M9Imxpa2UiPgogICAgICAgICAgICAgICA8aW1nIGNsYXNzPSJzdmciIHNyYz0ie3tlbnYoJ0FTU0VUU19ESVInKX19aW1hZ2VzL3Bvc3QvaWMtYXJ0aWNsZS1zYXZlLW5vcm1hbC5zdmciIGFsdD0iIiAvPgogICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgPHNwYW4gY2xhc3M9J3RpbWUnPgogICAgICAgICAgICAgICA8aW1nIGNsYXNzPSJzdmciIHNyYz0ie3tlbnYoJ0FTU0VUU19ESVInKX19aW1hZ2VzL3Bvc3QvaWMtYXJ0aWNsZS1jYWxlbmRhci5zdmciIGFsdD0iIiAvPgogICAgICAgICAgICAgICA8bGFiZWwgZm9yPSIiPnt7JGFydGljbGUtPnB1Ymxpc2hfdGltZX19PC9sYWJlbD4KICAgICAgICAgICAgPC9zcGFuPgogICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>)</text>
+        <text>&quot;</text>
       </register>
       <register name="8" type="4">
-        <text>+</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>tags</text>
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text>self.$route.params.sids.split('-')[0]</text>
       </register>
     </registers>
     <search>
