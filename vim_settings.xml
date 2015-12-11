@@ -79,11 +79,10 @@
         <mark key="." line="2" column="16" />
         <mark key="[" line="2" column="20" />
       </file>
-      <file name="E:/hwj/project/lab/helloword/package.json" timestamp="1448379409792">
-        <mark key="]" line="25" column="4" />
-        <mark key="^" line="26" column="4" />
-        <mark key="." line="25" column="4" />
-        <mark key="[" line="25" column="4" />
+      <file name="$USER_HOME$/project/pet/wechat/views/check/first.js" timestamp="1449562689035">
+        <mark key="]" line="14" column="2" />
+        <mark key="." line="14" column="0" />
+        <mark key="[" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/fis-conf.js" timestamp="1449644256423">
         <mark key="]" line="136" column="61" />
@@ -91,10 +90,11 @@
         <mark key="." line="136" column="61" />
         <mark key="[" line="135" column="70" />
       </file>
-      <file name="$USER_HOME$/project/pet/wechat/views/check/first.js" timestamp="1449562689035">
-        <mark key="]" line="14" column="2" />
-        <mark key="." line="14" column="0" />
-        <mark key="[" line="4" column="0" />
+      <file name="E:/hwj/project/lab/helloword/package.json" timestamp="1448379409792">
+        <mark key="]" line="25" column="4" />
+        <mark key="^" line="26" column="4" />
+        <mark key="." line="25" column="4" />
+        <mark key="[" line="25" column="4" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/views/check/all.js" timestamp="1449563642532">
         <mark key="'" line="11" column="27" />
@@ -248,6 +248,12 @@
         <mark key="." line="63" column="48" />
         <mark key="[" line="63" column="47" />
       </file>
+      <file name="$USER_HOME$/project/blackbox/backend-cms/resources/assets/js/admin/components/post/editor.vue" timestamp="1449801535333">
+        <mark key="]" line="366" column="25" />
+        <mark key="^" line="366" column="25" />
+        <mark key="." line="366" column="25" />
+        <mark key="[" line="366" column="25" />
+      </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/api/main.js" timestamp="1449481863273">
         <mark key="]" line="4" column="36" />
         <mark key="^" line="4" column="36" />
@@ -289,17 +295,17 @@
         <mark key="." line="13" column="40" />
         <mark key="[" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/project/pet/wechat/views/check/detail.html" timestamp="1449570166651">
-        <mark key="]" line="26" column="43" />
-        <mark key="^" line="26" column="43" />
-        <mark key="." line="26" column="43" />
-        <mark key="[" line="26" column="43" />
-      </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/component/loading.scss" timestamp="1449569238770">
         <mark key="]" line="25" column="31" />
         <mark key="^" line="25" column="31" />
         <mark key="." line="25" column="31" />
         <mark key="[" line="16" column="23" />
+      </file>
+      <file name="$USER_HOME$/project/pet/wechat/views/check/detail.html" timestamp="1449570166651">
+        <mark key="]" line="26" column="43" />
+        <mark key="^" line="26" column="43" />
+        <mark key="." line="26" column="43" />
+        <mark key="[" line="26" column="43" />
       </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/resources/assets/js/cms/post/post_normal.js" timestamp="1449742339269">
         <mark key="]" line="40" column="97" />
@@ -307,17 +313,17 @@
         <mark key="." line="40" column="97" />
         <mark key="[" line="6" column="40" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/backend-cms/.env" timestamp="1449193779786">
-        <mark key="]" line="4" column="11" />
-        <mark key="^" line="4" column="11" />
-        <mark key="." line="4" column="11" />
-        <mark key="[" line="4" column="10" />
-      </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/gulpfile.js" timestamp="1449193727910">
         <mark key="]" line="61" column="28" />
         <mark key="^" line="61" column="28" />
         <mark key="." line="61" column="28" />
         <mark key="[" line="61" column="28" />
+      </file>
+      <file name="$USER_HOME$/project/blackbox/backend-cms/.env" timestamp="1449801653832">
+        <mark key="]" line="22" column="14" />
+        <mark key="^" line="22" column="14" />
+        <mark key="." line="22" column="14" />
+        <mark key="[" line="20" column="20" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/views/check/third.js" timestamp="1449564779895">
         <mark key="]" line="4" column="0" />
@@ -349,25 +355,25 @@
         <mark key="." line="7" column="42" />
         <mark key="[" line="7" column="41" />
       </file>
-      <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/base/mixin.scss" timestamp="1449465178658">
-        <mark key="]" line="95" column="0" />
-        <mark key="." line="95" column="0" />
-        <mark key="[" line="95" column="0" />
-      </file>
       <file name="$USER_HOME$/project/pet/wechat/package.json" timestamp="1449479047622">
         <mark key="]" line="21" column="0" />
         <mark key="^" line="10" column="20" />
         <mark key="." line="21" column="0" />
         <mark key="[" line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/base/mixin.scss" timestamp="1449465178658">
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
+        <mark key="[" line="95" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1449732568637">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/project/pet/wechat/views/disease/index.js" timestamp="1449744477301">
         <mark key="]" line="21" column="74" />
         <mark key="^" line="21" column="74" />
         <mark key="." line="21" column="74" />
         <mark key="[" line="21" column="29" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1449732568637">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/paragraph/title-info.html" timestamp="1449555759494">
         <mark key="]" line="2" column="27" />
@@ -393,16 +399,28 @@
         <mark key="." line="41" column="41" />
         <mark key="[" line="40" column="41" />
       </file>
-      <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/component/step.scss" timestamp="1449468501308">
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
-        <mark key="[" line="72" column="0" />
-      </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/resources/views/cms/post/post_normal.blade.php" timestamp="1449742598779">
         <mark key="]" line="120" column="85" />
         <mark key="^" line="1" column="17" />
         <mark key="." line="154" column="0" />
         <mark key="[" line="119" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/component/step.scss" timestamp="1449468501308">
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+        <mark key="[" line="72" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/pet/wechat/views/check/second.html" timestamp="1449631245473">
+        <mark key="]" line="15" column="5" />
+        <mark key="^" line="13" column="23" />
+        <mark key="." line="13" column="23" />
+        <mark key="[" line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/pet/wechat/components/app/js/api.js" timestamp="1449626049102">
+        <mark key="]" line="4" column="31" />
+        <mark key="^" line="4" column="31" />
+        <mark key="." line="4" column="31" />
+        <mark key="[" line="4" column="32" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/views/check/demo.html" timestamp="1449650277353">
         <mark key="'" line="177" column="16" />
@@ -411,35 +429,23 @@
         <mark key="." line="70" column="0" />
         <mark key="[" line="94" column="0" />
       </file>
-      <file name="$USER_HOME$/project/pet/wechat/components/app/js/api.js" timestamp="1449626049102">
-        <mark key="]" line="4" column="31" />
-        <mark key="^" line="4" column="31" />
-        <mark key="." line="4" column="31" />
-        <mark key="[" line="4" column="32" />
-      </file>
-      <file name="$USER_HOME$/project/pet/wechat/views/check/second.html" timestamp="1449631245473">
-        <mark key="]" line="15" column="5" />
-        <mark key="^" line="13" column="23" />
-        <mark key="." line="13" column="23" />
-        <mark key="[" line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/resources/assets/js/cms/plugin/utils.js" timestamp="1449742439060">
         <mark key="]" line="12" column="51" />
         <mark key="^" line="18" column="7" />
         <mark key="." line="12" column="51" />
         <mark key="[" line="12" column="50" />
       </file>
-      <file name="$USER_HOME$/project/pet/wechat/views/check/all.scss" timestamp="1449456056731">
-        <mark key="]" line="31" column="43" />
-        <mark key="^" line="31" column="43" />
-        <mark key="." line="31" column="43" />
-        <mark key="[" line="31" column="34" />
-      </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/textalign.scss" timestamp="1449454193632">
         <mark key="]" line="13" column="31" />
         <mark key="^" line="13" column="31" />
         <mark key="." line="13" column="31" />
         <mark key="[" line="7" column="18" />
+      </file>
+      <file name="$USER_HOME$/project/pet/wechat/views/check/all.scss" timestamp="1449456056731">
+        <mark key="]" line="31" column="43" />
+        <mark key="^" line="31" column="43" />
+        <mark key="." line="31" column="43" />
+        <mark key="[" line="31" column="34" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/list/main.js" timestamp="1449558462400">
         <mark key="]" line="4" column="25" />
@@ -508,11 +514,11 @@
       <jump line="108" column="0" filename="$USER_HOME$/project/pet/wechat/views/check/index.js" />
     </jumps>
     <registers>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHdpbmRvdy5jb25maWcuaWQgPSAxOwo=</text>
-      </register>
       <register name="&quot;" type="2">
         <text encoding="base64">ICAgICAgICB2YXIgaW5pdGlhbFN5bXB0b20gPSBOdW1iZXIoc2VsZi4kcm91dGUucGFyYW1zLnNpZHMuc3BsaXQoJy0nKVswXSk7CiAgICAgICAgdmFyIHRpdGxlID0gXy5jaGFpbih3aW5kb3cuc3RvcmFnZS5zeW1wdG9tTGlzdCkucGx1Y2soInN5bXB0b21zIikuZmxhdHRlbigpLmZpbmQoZnVuY3Rpb24oaXRlbSl7cmV0dXJuIGl0ZW0uaWQ9PWluaXRpYWxTeW1wdG9tfSkudmFsdWUoKS50aXRsZTsKICAgICAgICAkKCJoZWFkIHRpdGxlIikudGV4dCh0aXRsZSk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHdpbmRvdy5jb25maWcuaWQgPSAxOwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICB2YXIgCg==</text>
