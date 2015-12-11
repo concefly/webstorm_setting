@@ -270,11 +270,11 @@
         <mark key="." line="63" column="48" />
         <mark key="[" line="63" column="47" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/backend-cms/resources/assets/js/admin/components/post/editor.vue" timestamp="1449822883328">
-        <mark key="]" line="366" column="25" />
-        <mark key="^" line="366" column="25" />
-        <mark key="." line="366" column="25" />
-        <mark key="[" line="366" column="25" />
+      <file name="$USER_HOME$/project/blackbox/backend-cms/resources/assets/js/admin/components/post/editor.vue" timestamp="1449828113086">
+        <mark key="]" line="358" column="51" />
+        <mark key="^" line="358" column="51" />
+        <mark key="." line="358" column="51" />
+        <mark key="[" line="358" column="41" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/api/main.js" timestamp="1449481863273">
         <mark key="]" line="4" column="36" />
@@ -305,6 +305,11 @@
         <mark key="^" line="19" column="56" />
         <mark key="." line="19" column="56" />
         <mark key="[" line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/blackbox/backend-cms/app/Http/routes.php" timestamp="1449826852315">
+        <mark key="]" line="164" column="18" />
+        <mark key="." line="164" column="18" />
+        <mark key="[" line="164" column="18" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/grid/main.js" timestamp="1449715379030">
         <mark key="]" line="29" column="0" />
@@ -484,6 +489,11 @@
         <mark key="." line="32" column="0" />
         <mark key="[" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/project/blackbox/backend-cms/resources/assets/js/admin/components/post/newtopic.vue" timestamp="1449827143193">
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="[" line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/step/step-default.html" timestamp="1449634588710">
         <mark key="]" line="1" column="59" />
         <mark key="^" line="1" column="59" />
@@ -546,47 +556,47 @@
       <jump line="108" column="0" filename="$USER_HOME$/project/pet/wechat/views/check/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgIGNvdmVyX2lkOiAiQSIsCiAgICAgICAgICAgICAgICAgICAgICBsaW5rOiAiQSIK</text>
       </register>
-      <register name="3" type="4">
-        <text>else</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgYmVmb3JlU2VuZDogZnVuY3Rpb24oKXsKICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICA8ZGl2IHYtaWY9InZpZXcuaWQ9PSdsb2FkaW5nJyIgc3R5bGU9InBhZGRpbmctYm90dG9tOiAxZW07Ij7mmoLml6Dlm77niYc8L2Rpdj4K</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICB0aXRsZTogIkEiLA==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Pg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgIGNvdmVyX2lkOiAiQSIsCiAgICAgICAgICAgICAgICAgICAgICBsaW5rOiAiQSIK</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IHN0eWxlPSJwYWRkaW5nLWJvdHRvbTogMWVtOyI=</text>
       </register>
       <register name="7" type="4">
-        <text>n</text>
+        <text>k</text>
       </register>
       <register name="6" type="4">
-        <text>g</text>
+        <text>'</text>
       </register>
-      <register name="5" type="4">
-        <text>正在上传</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIC8vICQucG9zdChob3N0LmFwaSArICdhZG1pbi9hcnRpY2xlL3Byb2R1Y3QnLHRoYXQuZXZhbHVhdGUpLnRoZW4oKHJlc29sdmUpID0+ewoKICAgICAgICAgICAgIC8vIH0pCg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">Li4uPC8=</text>
+        <text>,</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>d</text>
+        <text>o</text>
       </register>
       <register name="8" type="4">
-        <text>i</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text>tags</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text encoding="base64">ICB0aXRsZTogIkEiLA==</text>
       </register>
     </registers>
     <search>
