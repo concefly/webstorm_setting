@@ -79,6 +79,12 @@
         <mark key="." line="2" column="16" />
         <mark key="[" line="2" column="20" />
       </file>
+      <file name="$USER_HOME$/project/blackbox/backend-cms/resources/assets/js/admin/admin.js" timestamp="1449823190742">
+        <mark key="]" line="53" column="0" />
+        <mark key="^" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+        <mark key="[" line="53" column="2" />
+      </file>
       <file name="$USER_HOME$/project/pet/wechat/views/check/first.js" timestamp="1449562689035">
         <mark key="]" line="14" column="2" />
         <mark key="." line="14" column="0" />
@@ -261,7 +267,7 @@
         <mark key="." line="63" column="48" />
         <mark key="[" line="63" column="47" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/backend-cms/resources/assets/js/admin/components/post/editor.vue" timestamp="1449801535333">
+      <file name="$USER_HOME$/project/blackbox/backend-cms/resources/assets/js/admin/components/post/editor.vue" timestamp="1449822883328">
         <mark key="]" line="366" column="25" />
         <mark key="^" line="366" column="25" />
         <mark key="." line="366" column="25" />
