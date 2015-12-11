@@ -144,6 +144,7 @@
         <mark key="." line="21" column="44" />
         <mark key="[" line="21" column="28" />
       </file>
+      <file name="$USER_HOME$/project/blackbox/backend-cms/app/Http/Middleware/VerifyCsrfToken.php" timestamp="1449804811790" />
       <file name="$USER_HOME$/project/pet/wechat/views/check/index.blade.php" timestamp="1449714775358">
         <mark key="]" line="12" column="19" />
         <mark key="^" line="12" column="19" />
@@ -272,6 +273,12 @@
         <mark key="." line="48" column="26" />
         <mark key="[" line="47" column="17" />
       </file>
+      <file name="$USER_HOME$/project/blackbox/backend-cms/app/Http/Kernel.php" timestamp="1449804920421">
+        <mark key="]" line="19" column="56" />
+        <mark key="^" line="19" column="56" />
+        <mark key="." line="19" column="56" />
+        <mark key="[" line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/grid/main.js" timestamp="1449715379030">
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
@@ -307,6 +314,7 @@
         <mark key="." line="26" column="43" />
         <mark key="[" line="26" column="43" />
       </file>
+      <file name="$USER_HOME$/project/blackbox/backend-cms/storage/logs/laravel-2015-12-11.log" timestamp="1449804320345" />
       <file name="$USER_HOME$/project/blackbox/backend-cms/resources/assets/js/cms/post/post_normal.js" timestamp="1449742339269">
         <mark key="]" line="40" column="97" />
         <mark key="^" line="40" column="97" />
@@ -515,40 +523,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgaW5pdGlhbFN5bXB0b20gPSBOdW1iZXIoc2VsZi4kcm91dGUucGFyYW1zLnNpZHMuc3BsaXQoJy0nKVswXSk7CiAgICAgICAgdmFyIHRpdGxlID0gXy5jaGFpbih3aW5kb3cuc3RvcmFnZS5zeW1wdG9tTGlzdCkucGx1Y2soInN5bXB0b21zIikuZmxhdHRlbigpLmZpbmQoZnVuY3Rpb24oaXRlbSl7cmV0dXJuIGl0ZW0uaWQ9PWluaXRpYWxTeW1wdG9tfSkudmFsdWUoKS50aXRsZTsKICAgICAgICAkKCJoZWFkIHRpdGxlIikudGV4dCh0aXRsZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBcQXBwXEh0dHBcTWlkZGxld2FyZVxWZXJpZnlDc3JmVG9rZW46OmNsYXNzLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHdpbmRvdy5jb25maWcuaWQgPSAxOwo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICB2YXIgCg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="2" type="4">
         <text>self.$route.params.sids.split('-')[0]</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBcQXBwXEh0dHBcTWlkZGxld2FyZVxWZXJpZnlDc3JmVG9rZW46OmNsYXNzLAo=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB2YXIgaW5pdGlhbFN5bXB0b20gPSBOdW1iZXIoc2VsZi4kcm91dGUucGFyYW1zLnNpZHMuc3BsaXQoJy0nKVswXSk7CiAgICAgICAgdmFyIHRpdGxlID0gXy5jaGFpbih3aW5kb3cuc3RvcmFnZS5zeW1wdG9tTGlzdCkucGx1Y2soInN5bXB0b21zIikuZmxhdHRlbigpLmZpbmQoZnVuY3Rpb24oaXRlbSl7cmV0dXJuIGl0ZW0uaWQ9PWluaXRpYWxTeW1wdG9tfSkudmFsdWUoKS50aXRsZTsKICAgICAgICAkKCJoZWFkIHRpdGxlIikudGV4dCh0aXRsZSk7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>&quot;</text>
-      </register>
-      <register name="6" type="4">
         <text>+</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">dmFyIHRpbWVXcmFwID0gZnVuY3Rpb24odHMpIHsKICAgIHZhciB0aW1lID0gRGF0ZS5wYXJzZSh0cyk7CiAgICB2YXIgbm93ID0gRGF0ZS5wYXJzZShuZXcgRGF0ZSgpKTsKICAgIHByaW50KHRpbWUpOwogICAgcHJpbnQobm93KTsKfTsKCnRpbWVXcmFwKCIyMDE1LTEyLTEwIDE3OjA6MCIpOwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJzaGFyZV9pbmZvIGJiLW1iLTUwIj4KICAgICAgICAgICA8c3BhbiBjbGFzcz0id2VpYm8iPgogICAgICAgICAgICAgICA8aW1nIGNsYXNzPSJzdmciIHNyYz0ie3tlbnYoJ0FTU0VUU19ESVInKX19aW1hZ2VzL3Bvc3QvaWMtYXJ0aWNsZS1zaW5hLnN2ZyIgYWx0PSIiIC8+CiAgICAgICAgICAgICAgIDxsYWJlbCBmb3I9IiI+NDU8L2xhYmVsPgogICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICA8c3BhbiBjbGFzcz0id2VjaGF0Ij4KICAgICAgICAgICAgICAgPGltZyBjbGFzcz0ic3ZnIiBzcmM9Int7ZW52KCdBU1NFVFNfRElSJyl9fWltYWdlcy9wb3N0L2ljLWFydGljbGUtd2VjaGF0LnN2ZyIgYWx0PSIiIC8+CiAgICAgICAgICAgICAgIDxsYWJlbCBmb3I9IiI+NDU8L2xhYmVsPgogICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgPHNwYW4gY2xhc3M9Imxpa2UiPgogICAgICAgICAgICAgICA8aW1nIGNsYXNzPSJzdmciIHNyYz0ie3tlbnYoJ0FTU0VUU19ESVInKX19aW1hZ2VzL3Bvc3QvaWMtYXJ0aWNsZS1zYXZlLW5vcm1hbC5zdmciIGFsdD0iIiAvPgogICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgPHNwYW4gY2xhc3M9J3RpbWUnPgogICAgICAgICAgICAgICA8aW1nIGNsYXNzPSJzdmciIHNyYz0ie3tlbnYoJ0FTU0VUU19ESVInKX19aW1hZ2VzL3Bvc3QvaWMtYXJ0aWNsZS1jYWxlbmRhci5zdmciIGFsdD0iIiAvPgogICAgICAgICAgICAgICA8bGFiZWwgZm9yPSIiPnt7JGFydGljbGUtPnB1Ymxpc2hfdGltZX19PC9sYWJlbD4KICAgICAgICAgICAgPC9zcGFuPgogICAgICAgIDwvZGl2Pgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHdpbmRvdy5jb25maWcuaWQgPSAxOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>&quot;</text>
+        <text>-</text>
       </register>
       <register name="8" type="4">
-        <text>-</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>tags</text>

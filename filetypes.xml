@@ -1,7 +1,8 @@
 <application>
   <component name="FileTypeManager" version="16">
     <extensionMap>
-      <mapping ext="php" type="HTML" />
+      <mapping ext="vue" type="HTML" />
+      <mapping ext="php" type="PHP" />
     </extensionMap>
   </component>
 </application>
