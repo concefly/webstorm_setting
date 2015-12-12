@@ -297,11 +297,11 @@
         <mark key="^" line="8" column="39" />
         <mark key="." line="8" column="39" />
       </file>
-      <file name="E:/hwj/project/lab/threejs/OBJLoader/index.html" timestamp="1449924673512">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="19" column="28" />
-        <mark key="." line="10" column="0" />
+      <file name="E:/hwj/project/lab/threejs/OBJLoader/index.html" timestamp="1449926564844">
+        <mark key="[" line="19" column="40" />
+        <mark key="]" line="20" column="29" />
+        <mark key="^" line="20" column="29" />
+        <mark key="." line="20" column="29" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/step/main.js" timestamp="1449634952518">
         <mark key="[" line="5" column="0" />
@@ -406,11 +406,11 @@
         <mark key="^" line="2" column="50" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="E:/hwj/project/lab/threejs/OBJLoader/app.js" timestamp="1449925725436">
-        <mark key="[" line="66" column="18" />
-        <mark key="]" line="66" column="22" />
-        <mark key="." line="66" column="22" />
-        <mark key="^" line="66" column="22" />
+      <file name="E:/hwj/project/lab/threejs/OBJLoader/app.js" timestamp="1449926604236">
+        <mark key="[" line="19" column="42" />
+        <mark key="]" line="19" column="44" />
+        <mark key="." line="19" column="44" />
+        <mark key="^" line="19" column="44" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/views/disease/index.scss" timestamp="1449627744567">
         <mark key="[" line="32" column="39" />
@@ -569,10 +569,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>male02</text>
+        <text>45</text>
       </register>
       <register name="-" type="4">
-        <text>male02</text>
+        <text>45</text>
       </register>
       <register name="/" type="4">
         <text>tags</text>
@@ -581,31 +581,31 @@
         <text encoding="base64">ICAgICAgICB2YXIgaW5pdGlhbFN5bXB0b20gPSBOdW1iZXIoc2VsZi4kcm91dGUucGFyYW1zLnNpZHMuc3BsaXQoJy0nKVswXSk7CiAgICAgICAgdmFyIHRpdGxlID0gXy5jaGFpbih3aW5kb3cuc3RvcmFnZS5zeW1wdG9tTGlzdCkucGx1Y2soInN5bXB0b21zIikuZmxhdHRlbigpLmZpbmQoZnVuY3Rpb24oaXRlbSl7cmV0dXJuIGl0ZW0uaWQ9PWluaXRpYWxTeW1wdG9tfSkudmFsdWUoKS50aXRsZTsKICAgICAgICAkKCJoZWFkIHRpdGxlIikudGV4dCh0aXRsZSk7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>male02</text>
+        <text>45</text>
       </register>
       <register name="2" type="4">
         <text>male02</text>
       </register>
       <register name="3" type="4">
-        <text>/</text>
+        <text>male02</text>
       </register>
       <register name="4" type="4">
-        <text>2</text>
+        <text>/</text>
       </register>
       <register name="5" type="4">
-        <text>0</text>
+        <text>2</text>
       </register>
       <register name="6" type="4">
-        <text>e</text>
+        <text>0</text>
       </register>
       <register name="7" type="4">
-        <text>l</text>
+        <text>e</text>
       </register>
       <register name="8" type="4">
-        <text>a</text>
+        <text>l</text>
       </register>
       <register name="9" type="4">
-        <text>m</text>
+        <text>a</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
