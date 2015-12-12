@@ -406,11 +406,10 @@
         <mark key="^" line="2" column="50" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="E:/hwj/project/lab/threejs/OBJLoader/app.js" timestamp="1449926604236">
-        <mark key="[" line="19" column="42" />
-        <mark key="]" line="19" column="44" />
-        <mark key="." line="19" column="44" />
-        <mark key="^" line="19" column="44" />
+      <file name="E:/hwj/project/lab/threejs/OBJLoader/app.js" timestamp="1449928058197">
+        <mark key="[" line="30" column="38" />
+        <mark key="]" line="30" column="39" />
+        <mark key="." line="30" column="39" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/views/disease/index.scss" timestamp="1449627744567">
         <mark key="[" line="32" column="39" />
@@ -568,11 +567,11 @@
       <jump line="108" column="0" filename="$USER_HOME$/project/pet/wechat/views/check/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>45</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHZhciBhbWJpZW50ID0gbmV3IFRIUkVFLkFtYmllbnRMaWdodCggMHhmMGYwZjAgKTsKICAgIHNjZW5lLmFkZCggYW1iaWVudCApOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>45</text>
+        <text>f0f0f0</text>
       </register>
       <register name="/" type="4">
         <text>tags</text>
@@ -580,32 +579,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB2YXIgaW5pdGlhbFN5bXB0b20gPSBOdW1iZXIoc2VsZi4kcm91dGUucGFyYW1zLnNpZHMuc3BsaXQoJy0nKVswXSk7CiAgICAgICAgdmFyIHRpdGxlID0gXy5jaGFpbih3aW5kb3cuc3RvcmFnZS5zeW1wdG9tTGlzdCkucGx1Y2soInN5bXB0b21zIikuZmxhdHRlbigpLmZpbmQoZnVuY3Rpb24oaXRlbSl7cmV0dXJuIGl0ZW0uaWQ9PWluaXRpYWxTeW1wdG9tfSkudmFsdWUoKS50aXRsZTsKICAgICAgICAkKCJoZWFkIHRpdGxlIikudGV4dCh0aXRsZSk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>45</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHZhciBhbWJpZW50ID0gbmV3IFRIUkVFLkFtYmllbnRMaWdodCggMHhmMGYwZjAgKTsKICAgIHNjZW5lLmFkZCggYW1iaWVudCApOwo=</text>
       </register>
       <register name="2" type="4">
-        <text>male02</text>
+        <text>f0f0f0</text>
       </register>
-      <register name="3" type="4">
-        <text>male02</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHZhciBkaXJlY3Rpb25hbExpZ2h0ID0gbmV3IFRIUkVFLkRpcmVjdGlvbmFsTGlnaHQoIDB4ZjBmMGYwICk7CiAgICBkaXJlY3Rpb25hbExpZ2h0LnBvc2l0aW9uLnNldCggMCwgMCwgMSApOwogICAgc2NlbmUuYWRkKCBkaXJlY3Rpb25hbExpZ2h0ICk7Cgo=</text>
       </register>
       <register name="4" type="4">
-        <text>/</text>
+        <text>ffeedd</text>
       </register>
       <register name="5" type="4">
-        <text>2</text>
+        <text>101030</text>
       </register>
-      <register name="6" type="4">
-        <text>0</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>e</text>
+        <text>45</text>
       </register>
       <register name="8" type="4">
-        <text>l</text>
+        <text>male02</text>
       </register>
       <register name="9" type="4">
-        <text>a</text>
+        <text>male02</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
