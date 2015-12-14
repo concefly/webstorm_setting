@@ -65,12 +65,6 @@
         <mark key="." line="5" column="33" />
         <mark key="[" line="5" column="32" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/package.json" timestamp="1450064068669">
-        <mark key="]" line="17" column="25" />
-        <mark key="^" line="17" column="25" />
-        <mark key="." line="17" column="25" />
-        <mark key="[" line="17" column="22" />
-      </file>
       <file name="$USER_HOME$/project/pet/wechat/views/disease/index.blade.php" timestamp="1449744405167">
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
@@ -130,12 +124,6 @@
         <mark key="^" line="9" column="14" />
         <mark key="." line="9" column="14" />
         <mark key="[" line="9" column="15" />
-      </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/config/config.js" timestamp="1450066423050">
-        <mark key="]" line="2" column="20" />
-        <mark key="^" line="2" column="20" />
-        <mark key="." line="2" column="20" />
-        <mark key="[" line="2" column="18" />
       </file>
       <file name="$USER_HOME$/project/pet/backend/.env" timestamp="1449199882844">
         <mark key="]" line="7" column="15" />
@@ -420,17 +408,12 @@
         <mark key="." line="29" column="0" />
         <mark key="[" line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/utils/router.js" timestamp="1450075576981" />
       <file name="$USER_HOME$/project/pet/wechat/views/disease/index.scss" timestamp="1449627744567">
         <mark key="]" line="60" column="47" />
         <mark key="^" line="60" column="47" />
         <mark key="." line="60" column="47" />
         <mark key="[" line="32" column="39" />
-      </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/fis-conf.js" timestamp="1450062882262">
-        <mark key="]" line="35" column="15" />
-        <mark key="^" line="35" column="15" />
-        <mark key="." line="35" column="15" />
-        <mark key="[" line="31" column="2" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/views/check/first.html" timestamp="1449631010450">
         <mark key="]" line="17" column="5" />
