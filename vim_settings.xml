@@ -125,6 +125,12 @@
         <mark key="." line="9" column="14" />
         <mark key="[" line="9" column="15" />
       </file>
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/config/config.js" timestamp="1450076347406">
+        <mark key="]" line="13" column="17" />
+        <mark key="^" line="13" column="17" />
+        <mark key="." line="13" column="17" />
+        <mark key="[" line="13" column="15" />
+      </file>
       <file name="$USER_HOME$/project/pet/backend/.env" timestamp="1449199882844">
         <mark key="]" line="7" column="15" />
         <mark key="^" line="7" column="15" />
@@ -559,46 +565,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>admin</text>
+        <text>1.0.0</text>
       </register>
       <register name="3" type="4">
         <text>com</text>
       </register>
       <register name="2" type="4">
-        <text>1</text>
+        <text>1.0.0</text>
       </register>
       <register name="1" type="4">
-        <text>admin</text>
+        <text>1.0.0</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBpbmRleCgpCiAgICB7CiAgICAgICAgaWYgKGF1dGg6OmNoZWNrKCkpewogICAgICAgICAgICByZXR1cm4gdmlldygnYWRtaW4uaW5kZXgnKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAvLyByZXR1cm4gdmlldygnYWRtaW4ubG9naW4nKTsKICAgICAgICAgICAgcmV0dXJuIHZpZXcoJ2FkbWluLmxvZ2luJyk7CiAgICAgICAgfQovLyAgICAgICAgcmV0dXJuIHZpZXcoJ2JvYXJkLmluZGV4Jyk7CiAgICB9Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYXV0aDo6Y2hlY2soKSl7CiAgICAgICAgICAgIHJldHVybiB2aWV3KCdhZG1pbi5pbmRleCcpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIC8vIHJldHVybiB2aWV3KCdhZG1pbi5sb2dpbicpOwogICAgICAgICAgICByZXR1cm4gdmlldygnYWRtaW4ubG9naW4nKTsKICAgICAgICB9Cg==</text>
+      <register name="7" type="4">
+        <text>com</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybiB2aWV3KCdib2FyZC5pbmRleCcpOwo=</text>
+      <register name="6" type="4">
+        <text>1</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gcmV0dXJuIHZpZXcoJ2FkbWluLmxvZ2luJyk7Cg==</text>
+      <register name="5" type="4">
+        <text>admin</text>
       </register>
       <register name="4" type="4">
-        <text>theonepet</text>
+        <text>a</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gcmV0dXJuIHZpZXcoJ2FkbWluLmxvZ2luJyk7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJC5mZXRjaChob3N0LmFwaSsnYWRtaW4vYXJ0aWNsZS9oZWFkbGluZS9zZWFyY2gnLHthcnRpY2xlX2NhdGVnb3J5X2lkOiBjaWR9KS50aGVuKChlKT0+ewogICAgICAgICAgICAgICAgICAgIHRoYXQuJGRhdGEuaGVhZGxpbmVMaXN0ID0gdGhhdC4kZGF0YS5oZWFkbGluZUxpc3QuY29uY2F0KGUpCiAgICAgICAgICAgIH0sKGZhaWwpID0+IHt9KQogICAgICAgICAgICAK</text>
+      <register name="8" type="4">
+        <text>theonepet</text>
       </register>
       <register name="/" type="4">
         <text>binaryUrl</text>
       </register>
       <register name="-" type="4">
-        <text>admin</text>
+        <text>1.0.0</text>
       </register>
     </registers>
     <search>
