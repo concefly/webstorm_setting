@@ -15,8 +15,16 @@
         <mark key="." line="32" column="39" />
         <mark key="[" line="32" column="39" />
       </file>
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/config/config.authority.js" timestamp="1450077034263" />
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/node_modules/fis3-parser-sass/node_modules/node-sass/scripts/install.js" timestamp="1450063726754">
         <mark key="'" line="106" column="26" />
+      </file>
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/config/config.router.js" timestamp="1450077874924">
+        <mark key="'" line="14" column="5" />
+        <mark key="]" line="245" column="49" />
+        <mark key="^" line="245" column="49" />
+        <mark key="." line="245" column="49" />
+        <mark key="[" line="245" column="43" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/hr.scss" timestamp="1449224068166">
         <mark key="]" line="16" column="30" />
@@ -562,55 +570,56 @@
       <jump line="177" column="16" filename="$USER_HOME$/project/pet/wechat/views/check/demo.html" />
       <jump line="108" column="0" filename="$USER_HOME$/project/pet/wechat/views/check/index.js" />
       <jump line="106" column="26" filename="$USER_HOME$/project/blackbox/blackbox-manager-frontend/node_modules/fis3-parser-sass/node_modules/node-sass/scripts/install.js" />
+      <jump line="14" column="5" filename="$USER_HOME$/project/blackbox/blackbox-manager-frontend/config/config.router.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1.0.0</text>
+        <text>published</text>
       </register>
       <register name="3" type="4">
-        <text>com</text>
+        <text>published</text>
       </register>
       <register name="2" type="4">
-        <text>1.0.0</text>
+        <text>published</text>
       </register>
       <register name="1" type="4">
-        <text>1.0.0</text>
+        <text>published</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBpbmRleCgpCiAgICB7CiAgICAgICAgaWYgKGF1dGg6OmNoZWNrKCkpewogICAgICAgICAgICByZXR1cm4gdmlldygnYWRtaW4uaW5kZXgnKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAvLyByZXR1cm4gdmlldygnYWRtaW4ubG9naW4nKTsKICAgICAgICAgICAgcmV0dXJuIHZpZXcoJ2FkbWluLmxvZ2luJyk7CiAgICAgICAgfQovLyAgICAgICAgcmV0dXJuIHZpZXcoJ2JvYXJkLmluZGV4Jyk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgInB1Ymxpc2hlZCI6IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5hbWU6ICJhcnRpY2xlL3B1Ymxpc2hlZCIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb21wb25lbnQ6IGZ1bmN0aW9uKHJlc29sdmUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXF1aXJlKFsndmlld3MvYXJ0aWNsZS9hcnRpY2xlLmxpc3QnXSwgcmVzb2x2ZSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>com</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXF1aXJlKFtdKQo=</text>
       </register>
       <register name="6" type="4">
-        <text>1</text>
+        <text>;</text>
       </register>
       <register name="5" type="4">
-        <text>admin</text>
+        <text>published</text>
       </register>
       <register name="4" type="4">
-        <text>a</text>
+        <text>published</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gcmV0dXJuIHZpZXcoJ2FkbWluLmxvZ2luJyk7Cg==</text>
+      <register name="9" type="4">
+        <text>文章管理</text>
       </register>
       <register name="8" type="4">
-        <text>theonepet</text>
+        <text>list</text>
       </register>
       <register name="/" type="4">
-        <text>binaryUrl</text>
+        <text>account</text>
       </register>
       <register name="-" type="4">
-        <text>1.0.0</text>
+        <text>published</text>
       </register>
     </registers>
     <search>
-      <last-search>binaryUrl</last-search>
+      <last-search>account</last-search>
       <last-offset />
-      <last-pattern>binaryUrl</last-pattern>
+      <last-pattern>account</last-pattern>
       <last-replace>diseases</last-replace>
       <last-substitute>tags</last-substitute>
       <last-dir>1</last-dir>
@@ -630,6 +639,7 @@
         <entry>not</entry>
         <entry>tags</entry>
         <entry>binaryUrl</entry>
+        <entry>account</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
@@ -643,6 +653,8 @@
         <entry>qw</entry>
         <entry>109,118 s/tags/diseases</entry>
         <entry>q</entry>
+        <entry>103</entry>
+        <entry>230</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
