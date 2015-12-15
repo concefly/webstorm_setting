@@ -222,11 +222,11 @@
         <mark key="." line="2" column="0" />
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.detail.tpl" timestamp="1450162272117">
-        <mark key="]" line="47" column="73" />
-        <mark key="^" line="47" column="115" />
-        <mark key="." line="47" column="73" />
-        <mark key="[" line="47" column="73" />
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.detail.tpl" timestamp="1450163697028">
+        <mark key="]" line="74" column="31" />
+        <mark key="^" line="74" column="31" />
+        <mark key="." line="74" column="31" />
+        <mark key="[" line="68" column="101" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/margin.scss" timestamp="1449453963480">
         <mark key="]" line="23" column="0" />
@@ -240,11 +240,11 @@
         <mark key="." line="7" column="42" />
         <mark key="[" line="7" column="41" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/file-upload/file-upload.js" timestamp="1450163045831">
-        <mark key="]" line="57" column="71" />
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/file-upload/file-upload.js" timestamp="1450163454020">
+        <mark key="]" line="57" column="54" />
         <mark key="^" line="57" column="71" />
-        <mark key="." line="57" column="71" />
-        <mark key="[" line="57" column="55" />
+        <mark key="." line="57" column="54" />
+        <mark key="[" line="57" column="54" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/paragraph/title-info.html" timestamp="1449555759494">
         <mark key="]" line="2" column="27" />
@@ -474,11 +474,11 @@
         <mark key="." line="8" column="39" />
         <mark key="[" line="8" column="35" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.detail.js" timestamp="1450162403012">
-        <mark key="]" line="85" column="47" />
-        <mark key="^" line="85" column="47" />
-        <mark key="." line="85" column="47" />
-        <mark key="[" line="84" column="30" />
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.detail.js" timestamp="1450163355438">
+        <mark key="]" line="85" column="56" />
+        <mark key="^" line="85" column="56" />
+        <mark key="." line="85" column="56" />
+        <mark key="[" line="85" column="46" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/package.json" timestamp="1449479047622">
         <mark key="]" line="21" column="0" />
@@ -583,47 +583,47 @@
       <jump line="289" column="10" filename="$USER_HOME$/project/blackbox/blackbox-manager-frontend/config/config.router.js" />
     </jumps>
     <registers>
-      <register name="3" type="4">
-        <text>正在上传</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>btnTitle</text>
+        <text>请输入文章标题</text>
       </register>
       <register name="2" type="4">
-        <text>&quot;...&quot;);</text>
+        <text>title</text>
       </register>
       <register name="1" type="4">
-        <text>btnTitle</text>
+        <text>请输入文章标题</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJCh0aGlzLiRlbHMuYnRuVXBsb2FkKS50ZXh0KCLmraPlnKjkuIrkvKAuLi4iKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0idGV4dCIgY2xhc3M9ImZvcm0tY29udHJvbCIgbmFtZT0idGl0bGUiIHBsYWNlaG9sZGVyPSLor7fovpPlhaXmlofnq6DmoIfpopgiIG1heGxlbmd0aD0iNjQiIHJlcXVpcmVkIHYtbW9kZWw9ImRldGFpbC50aXRsZSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9ImhlbHAtaW5saW5lIHRleHQtZXJyb3IiPjwvc3Bhbj4K</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>d</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgYnRuVGl0bGUgPSAiIjsK</text>
+      <register name="6" type="4">
+        <text>&quot;</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>)</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIOaRmOimgQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>e</text>
+        <text>l</text>
       </register>
       <register name="8" type="4">
-        <text>,</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>article</text>
       </register>
       <register name="-" type="4">
-        <text>btnTitle</text>
+        <text>请输入文章标题</text>
       </register>
     </registers>
     <search>
