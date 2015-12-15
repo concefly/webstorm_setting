@@ -42,12 +42,12 @@
         <mark key="." line="19" column="40" />
         <mark key="[" line="19" column="19" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/config/config.router.js" timestamp="1450089923488">
-        <mark key="'" line="55" column="19" />
-        <mark key="]" line="54" column="24" />
-        <mark key="^" line="129" column="0" />
-        <mark key="." line="54" column="24" />
-        <mark key="[" line="54" column="24" />
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/config/config.router.js" timestamp="1450144639109">
+        <mark key="'" line="289" column="10" />
+        <mark key="]" line="93" column="52" />
+        <mark key="^" line="93" column="52" />
+        <mark key="." line="93" column="52" />
+        <mark key="[" line="92" column="49" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/hr.scss" timestamp="1449224068166">
         <mark key="]" line="16" column="30" />
@@ -457,11 +457,11 @@
         <mark key="." line="12" column="51" />
         <mark key="[" line="12" column="50" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/partials/layout/layout.tpl" timestamp="1450143800015">
-        <mark key="]" line="6" column="62" />
-        <mark key="^" line="6" column="62" />
-        <mark key="." line="6" column="62" />
-        <mark key="[" line="6" column="32" />
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/partials/layout/layout.tpl" timestamp="1450144693976">
+        <mark key="]" line="6" column="68" />
+        <mark key="^" line="6" column="68" />
+        <mark key="." line="6" column="68" />
+        <mark key="[" line="6" column="62" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/views/check/all.scss" timestamp="1449456056731">
         <mark key="]" line="31" column="43" />
@@ -539,73 +539,68 @@
       <jump line="14" column="5" filename="$USER_HOME$/project/blackbox/blackbox-manager-frontend/config/config.router.js" />
       <jump line="43" column="88" filename="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.list.tpl" />
       <jump line="55" column="19" filename="$USER_HOME$/project/blackbox/blackbox-manager-frontend/config/config.router.js" />
+      <jump line="346" column="25" filename="$USER_HOME$/project/blackbox/blackbox-manager-frontend/config/config.router.js" />
+      <jump line="53" column="18" filename="$USER_HOME$/project/blackbox/blackbox-manager-frontend/config/config.router.js" />
+      <jump line="56" column="27" filename="$USER_HOME$/project/blackbox/blackbox-manager-frontend/config/config.router.js" />
+      <jump line="63" column="27" filename="$USER_HOME$/project/blackbox/blackbox-manager-frontend/config/config.router.js" />
+      <jump line="70" column="27" filename="$USER_HOME$/project/blackbox/blackbox-manager-frontend/config/config.router.js" />
+      <jump line="77" column="27" filename="$USER_HOME$/project/blackbox/blackbox-manager-frontend/config/config.router.js" />
+      <jump line="289" column="10" filename="$USER_HOME$/project/blackbox/blackbox-manager-frontend/config/config.router.js" />
     </jumps>
     <registers>
-      <register name="3" type="8">
-        <text encoding="base64">PGkgY2xhc3M9ImZhIGZhLW5ld3NwYXBlci1vIj48L2k+CjxpIGNsYXNzPSJmYSBmYS1uZXdzcGFwZXItbyI+PC9pPgo8aSBjbGFzcz0iZmEgZmEtbmV3c3BhcGVyLW8iPjwvaT4KPGkgY2xhc3M9ImZhIGZhLW5ld3NwYXBlci1vIj48L2k+CjxpIGNsYXNzPSJmYSBmYS1uZXdzcGFwZXItbyI+PC9pPgo8aSBjbGFzcz0iZmEgZmEtbmV3c3BhcGVyLW8iPjwvaT4KPGkgY2xhc3M9ImZhIGZhLW5ld3NwYXBlci1vIj48L2k+CjxpIGNsYXNzPSJmYSBmYS1uZXdzcGFwZXItbyI+PC9pPg==</text>
+      <register name="3" type="4">
+        <text>文章</text>
       </register>
-      <register name="&quot;" type="8">
-        <text>{% '/article' | active $route.path 'active' %}
-{% '/article' | active $route.path 'active' %}
-{% '/article' | active $route.path 'active' %}
-{% '/article' | active $route.path 'active' %}
-{% '/article' | active $route.path 'active' %}
-{% '/article' | active $route.path 'active' %}
-{% '/article' | active $route.path 'active' %}</text>
+      <register name="&quot;" type="4">
+        <text>normal</text>
       </register>
-      <register name="2" type="8">
-        <text>v-link=&quot;{name:'article/list-entrance'}&quot;
-v-link=&quot;{name:'article/list-entrance'}&quot;
-v-link=&quot;{name:'article/list-entrance'}&quot;
-v-link=&quot;{name:'article/list-entrance'}&quot;
-v-link=&quot;{name:'article/list-entrance'}&quot;
-v-link=&quot;{name:'article/list-entrance'}&quot;
-v-link=&quot;{name:'article/list-entrance'}&quot;</text>
+      <register name="2" type="4">
+        <text>article</text>
       </register>
-      <register name="1" type="8">
-        <text>{% '/article' | active $route.path 'active' %}
-{% '/article' | active $route.path 'active' %}
-{% '/article' | active $route.path 'active' %}
-{% '/article' | active $route.path 'active' %}
-{% '/article' | active $route.path 'active' %}
-{% '/article' | active $route.path 'active' %}
-{% '/article' | active $route.path 'active' %}</text>
+      <register name="1" type="4">
+        <text>normal</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0ieyUgJy9hcnRpY2xlJyB8IGFjdGl2ZSAkcm91dGUucGF0aCAnYWN0aXZlJyAlfSI+PGEgdi1saW5rPSJ7bmFtZTonYXJ0aWNsZS9saXN0LWVudHJhbmNlJ30iPjxpIGNsYXNzPSJmYSBmYS1uZXdzcGFwZXItbyI+PC9pPue0oOadkOeuoeeQhjwvYT48L2xpPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIHRpdGxlOiAi5paw5bu65paH56ugIiwKICAgICAgICAgICAgICAgICAgICAgICAgbmFtZTogImFydGljbGUtY3JlYXRlL2FydGljbGUiLAogICAgICAgICAgICAgICAgICAgICAgICBzY29wZTogWyJhcnRpY2xlLWNyZWF0ZS9hcnRpY2xlIl0KICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>文章管理</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbXBvbmVudDogZnVuY3Rpb24ocmVzb2x2ZSkgewogICAgcmVxdWlyZShbJ3ZpZXdzL2FydGljbGUvYXJ0aWNsZS5kZXRhaWwnXSwgcmVzb2x2ZSkK</text>
       </register>
       <register name="6" type="4">
-        <text>素材管理</text>
+        <text encoding="base64">ICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0ieyUgJy9zeW1wdG9tJyB8IGFjdGl2ZSAkcm91dGUucGF0aCAnYWN0aXZlJyAlfSI+PGEgdi1saW5rPSJ7bmFtZTonc3ltcHRvbS9saXN0J30iPjxpIGNsYXNzPSJmYSBmYS1ob21lIj48L2k+IOeXh+eKtuW6kzwvYT48L2xpPgogICAgICAgICAgICAgICAgPGxpIGNsYXNzPSJ7JSAnL2Rpc2Vhc2UnIHwgYWN0aXZlICRyb3V0ZS5wYXRoICdhY3RpdmUnICV9Ij48YSB2LWxpbms9IntuYW1lOidkaXNlYXNlL2xpc3QnfSI+PGkgY2xhc3M9ImZhIGZhLXN0ZXRob3Njb3BlIj48L2k+IOeWvueXheW6kzwvYT48L2xpPgogICAgICAgICAgICAgICAgPGxpIGNsYXNzPSJ7JSAnL21lZGljaW5lJyB8IGFjdGl2ZSAkcm91dGUucGF0aCAnYWN0aXZlJyAlfSI+PGEgdi1saW5rPSJ7bmFtZTonbWVkaWNpbmUvbGlzdCd9Ij48aSBjbGFzcz0iZmEgZmEtbWVka2l0Ij48L2k+IOiNr+WTgeW6kzwvYT48L2xpPgogICAgICAgICAgICAgICAgPGxpIGNsYXNzPSJ7JSAnL2hvc3BpdGFsJyB8IGFjdGl2ZSAkcm91dGUucGF0aCAnYWN0aXZlJyAlfSI+PGEgdi1saW5rPSJ7bmFtZTonaG9zcGl0YWwvbGlzdCd9Ij48aSBjbGFzcz0iZmEgZmEtaG9zcGl0YWwtbyI+PC9pPiA8cz7ljLvpmaLlupM8L3M+PC9hPjwvbGk+CiAgICAgICAgICAgICAgICA8bGkgY2xhc3M9InslICcvcXVlc3Rpb24nIHwgYWN0aXZlICRyb3V0ZS5wYXRoICdhY3RpdmUnICV9Ij48YSB2LWxpbms9IntuYW1lOidxdWVzdGlvbi9saXN0J30iPjxpIGNsYXNzPSJmYSBmYS1xdWVzdGlvbiI+PC9pPiDnm7jlhbPpl67popg8L2E+PC9saT4KICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0ieyUgJy9zZWFyY2gnIHwgYWN0aXZlICRyb3V0ZS5wYXRoICdhY3RpdmUnICV9Ij48YSB2LWxpbms9IntuYW1lOid3b3Jkcy9saXN0J30iPjxpIGNsYXNzPSJmYSBmYS1zZWFyY2giPjwvaT4g5pCc57Si5LyY5YyWPC9hPjwvbGk+CiAgICAgICAgICAgICAgICA8bGkgY2xhc3M9InslICcvZGlzY3VzcycgfCBhY3RpdmUgJHJvdXRlLnBhdGggJ2FjdGl2ZScgJX0iPjxhIHYtbGluaz0ie25hbWU6J2Rpc2N1c3MvbGlzdCd9Ij48aSBjbGFzcz0iZmEgZmEtY29tbWVudHMtbyI+PC9pPiA8cz7npL7ljLror53popg8L2E+PC9zPjwvbGk+CiAgICAgICAgICAgICAgICA8bGkgY2xhc3M9InslICcvYmFubmVyJyB8IGFjdGl2ZSAkcm91dGUucGF0aCAnYWN0aXZlJyAlfSI+PGEgdi1saW5rPSJ7bmFtZTonYmFubmVyL2xpc3QnfSI+PGkgY2xhc3M9ImZhIGZhLXB1enpsZS1waWVjZSI+PC9pPiDmqKrluYXlub/lkYo8L2E+PC9saT4KICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0ieyUgJy9jb21tZW50JyB8IGFjdGl2ZSAkcm91dGUucGF0aCAnYWN0aXZlJyAlfSI+PGEgdi1saW5rPSJ7bmFtZTonY29tbWVudC9saXN0J30iPjxpIGNsYXNzPSJmYSBmYS1jb21tZW50aW5nIj48L2k+IDxzPuivhOiuuueuoeeQhjwvYT48L3M+PC9saT4KICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0ieyUgJy9tZW1iZXInIHwgYWN0aXZlICRyb3V0ZS5wYXRoICdhY3RpdmUnICV9Ij48YSB2LWxpbms9IntuYW1lOid1c2VyL2xpc3QnfSI+PGkgY2xhc3M9ImZhIGZhLXVzZXJzIj48L2k+IOeUqOaIt+euoeeQhjwvYT48L2xpPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbXBvbmVuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="9" type="8">
+        <text>{% '/article' | active $route.path 'active' %}
+{% '/article' | active $route.path 'active' %}
+{% '/article' | active $route.path 'active' %}
+{% '/article' | active $route.path 'active' %}
+{% '/article' | active $route.path 'active' %}
+{% '/article' | active $route.path 'active' %}
+{% '/article' | active $route.path 'active' %}</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0ieyUgJy9hcnRpY2xlJyB8IGFjdGl2ZSAkcm91dGUucGF0aCAnYWN0aXZlJyAlfSI+PGEgdi1saW5rPSJ7bmFtZTonYXJ0aWNsZS9saXN0LWVudHJhbmNlJ30iPjxpIGNsYXNzPSJmYSBmYS1uZXdzcGFwZXItbyI+PC9pPiDplKblm4rlupM8L2E+PC9saT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbXBvbmVudDoK</text>
       </register>
       <register name="/" type="4">
-        <text>category_id</text>
+        <text>article</text>
       </register>
       <register name="-" type="4">
-        <text>素材管理</text>
+        <text>normal</text>
       </register>
     </registers>
     <search>
-      <last-search>account</last-search>
+      <last-search>article</last-search>
       <last-offset />
-      <last-pattern>category_id</last-pattern>
+      <last-pattern>article</last-pattern>
       <last-replace>article_type</last-replace>
       <last-substitute>category_id</last-substitute>
       <last-dir>1</last-dir>
@@ -627,6 +622,7 @@ v-link=&quot;{name:'article/list-entrance'}&quot;</text>
         <entry>binaryUrl</entry>
         <entry>account</entry>
         <entry>category_id</entry>
+        <entry>article</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
