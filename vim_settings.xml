@@ -138,11 +138,11 @@
         <mark key="." line="7" column="15" />
         <mark key="[" line="5" column="12" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/config/config.js" timestamp="1450148104526">
-        <mark key="]" line="25" column="29" />
-        <mark key="^" line="13" column="17" />
-        <mark key="." line="25" column="29" />
-        <mark key="[" line="25" column="29" />
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/config/config.js" timestamp="1450150972990">
+        <mark key="]" line="38" column="52" />
+        <mark key="^" line="38" column="52" />
+        <mark key="." line="38" column="52" />
+        <mark key="[" line="34" column="25" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/views/check/template-index-analyze.html" timestamp="1449744951695">
         <mark key="]" line="41" column="138" />
@@ -222,11 +222,11 @@
         <mark key="." line="2" column="0" />
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.detail.tpl" timestamp="1450150724264">
-        <mark key="]" line="74" column="46" />
-        <mark key="^" line="76" column="72" />
-        <mark key="." line="74" column="46" />
-        <mark key="[" line="74" column="45" />
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.detail.tpl" timestamp="1450152898891">
+        <mark key="]" line="31" column="112" />
+        <mark key="^" line="31" column="112" />
+        <mark key="." line="31" column="112" />
+        <mark key="[" line="31" column="110" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/margin.scss" timestamp="1449453963480">
         <mark key="]" line="23" column="0" />
@@ -240,7 +240,12 @@
         <mark key="." line="7" column="42" />
         <mark key="[" line="7" column="41" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/file-upload/file-upload.js" timestamp="1450148008936" />
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/file-upload/file-upload.js" timestamp="1450152647377">
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="11" column="21" />
+        <mark key="." line="10" column="0" />
+        <mark key="[" line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/paragraph/title-info.html" timestamp="1449555759494">
         <mark key="]" line="2" column="27" />
         <mark key="^" line="2" column="20" />
@@ -469,11 +474,11 @@
         <mark key="." line="8" column="39" />
         <mark key="[" line="8" column="35" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.detail.js" timestamp="1450150677135">
-        <mark key="]" line="44" column="37" />
-        <mark key="^" line="44" column="37" />
-        <mark key="." line="44" column="37" />
-        <mark key="[" line="44" column="32" />
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.detail.js" timestamp="1450151926750">
+        <mark key="]" line="69" column="20" />
+        <mark key="^" line="69" column="7" />
+        <mark key="." line="69" column="8" />
+        <mark key="[" line="69" column="8" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/package.json" timestamp="1449479047622">
         <mark key="]" line="21" column="0" />
@@ -578,51 +583,47 @@
       <jump line="289" column="10" filename="$USER_HOME$/project/blackbox/blackbox-manager-frontend/config/config.router.js" />
     </jumps>
     <registers>
-      <register name="3" type="8">
-        <text>&quot;
-&quot;
-&quot;</text>
+      <register name="3" type="4">
+        <text>&quot;</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>normal</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmVxdWlyZWQ6IHRydWUsCg==</text>
       </register>
-      <register name="2" type="8">
-        <text>&quot;
-&quot;
-&quot;</text>
+      <register name="2" type="4">
+        <text encoding="base64">IDp1cGxvYWRlZC1pZC5zeW5jPSJkZXRhaWwuY292ZXJfaWQi</text>
       </register>
-      <register name="1" type="4">
-        <text>normal</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmVxdWlyZWQ6IHRydWUsCg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxoND7moI/nm648L2g0PgogICAgICAgICAgICAgICAgPGRpdj48aW5wdXQgdHlwZT0icmFkaW8iIG5hbWU9ImNhdGVnb3JpZXMiIHZhbHVlPSIxIj7kurrlt6Xmmbrog708L2Rpdj4KICAgICAgICAgICAgICAgIDxkaXY+PGlucHV0IHR5cGU9InJhZGlvIiBuYW1lPSJjYXRlZ29yaWVzIiB2YWx1ZT0iMiI+6Jma5ouf546w5a6ePC9kaXY+CiAgICAgICAgICAgICAgICA8ZGl2PjxpbnB1dCB0eXBlPSJyYWRpbyIgbmFtZT0iY2F0ZWdvcmllcyIgdmFsdWU9IjMiPuaZuuiDveehrOS7tjwvZGl2Pgo=</text>
+      <register name="0" type="4">
+        <text>articleCover</text>
       </register>
       <register name="7" type="4">
-        <text>人工智能</text>
+        <text>o</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRoaXMuZGV0YWlsLmFydGljbGVfdHlwZTsK</text>
+      <register name="6" type="4">
+        <text>v</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>e</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJyZW50QXJ0aWNsZVR5cGU6IGZ1bmN0aW9uKCl7CiAgICAgICAgfSwK</text>
+      <register name="4" type="4">
+        <text>r</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxoND7moI/nm648L2g0PgogICAgICAgICAgICAgICAgPGRpdj48aW5wdXQgdHlwZT0icmFkaW8iIG5hbWU9ImNhdGVnb3JpZXMiIHZhbHVlPSIxIj7kurrlt6Xmmbrog708L2Rpdj4KICAgICAgICAgICAgICAgIDxkaXY+PGlucHV0IHR5cGU9InJhZGlvIiBuYW1lPSJjYXRlZ29yaWVzIiB2YWx1ZT0iMiI+6Jma5ouf546w5a6ePC9kaXY+CiAgICAgICAgICAgICAgICA8ZGl2PjxpbnB1dCB0eXBlPSJyYWRpbyIgbmFtZT0iY2F0ZWdvcmllcyIgdmFsdWU9IjMiPuaZuuiDveehrOS7tjwvZGl2Pgo=</text>
+      <register name="9" type="4">
+        <text>e</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>C</text>
       </register>
       <register name="/" type="4">
         <text>article</text>
       </register>
       <register name="-" type="4">
-        <text>normal</text>
+        <text encoding="base64">IDp1cGxvYWRlZC1pZC5zeW5jPSJkZXRhaWwuY292ZXJfaWQi</text>
       </register>
     </registers>
     <search>
