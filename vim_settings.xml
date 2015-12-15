@@ -26,12 +26,12 @@
         <mark key="." line="8" column="37" />
         <mark key="[" line="8" column="37" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/config/config.router.js" timestamp="1450170268731">
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/config/config.router.js" timestamp="1450170429010">
         <mark key="'" line="142" column="12" />
-        <mark key="]" line="382" column="37" />
-        <mark key="^" line="382" column="37" />
-        <mark key="." line="382" column="37" />
-        <mark key="[" line="382" column="35" />
+        <mark key="]" line="382" column="42" />
+        <mark key="^" line="382" column="42" />
+        <mark key="." line="382" column="42" />
+        <mark key="[" line="382" column="33" />
       </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/resources/assets/js/admin/plugin/qiniu.vue" timestamp="1449825501998">
         <mark key="]" line="93" column="27" />
@@ -105,11 +105,11 @@
         <mark key="." line="8" column="40" />
         <mark key="[" line="8" column="35" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/module/module.detail.js" timestamp="1450170318752">
-        <mark key="]" line="39" column="13" />
-        <mark key="^" line="39" column="13" />
-        <mark key="." line="39" column="13" />
-        <mark key="[" line="39" column="13" />
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/module/module.detail.js" timestamp="1450171092753">
+        <mark key="]" line="56" column="43" />
+        <mark key="^" line="56" column="43" />
+        <mark key="." line="56" column="43" />
+        <mark key="[" line="55" column="14" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/paragraph/paragraph.html" timestamp="1449555968239">
         <mark key="]" line="1" column="0" />
@@ -623,46 +623,46 @@
     </jumps>
     <registers>
       <register name="3" type="4">
-        <text>,</text>
+        <text>headline</text>
       </register>
       <register name="&quot;" type="4">
-        <text>name</text>
+        <text>人工智能</text>
       </register>
       <register name="2" type="4">
-        <text>,</text>
+        <text>头条</text>
       </register>
       <register name="1" type="4">
-        <text>name</text>
+        <text>人工智能</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHsKICAgICAgICAgICAgICAgIGRhdGFtYXRpb246ICQuZmV0Y2goY29uZmlnLmFwaSgpICsgIi9hcnRpY2xlL3NlYXJjaCIsIHNlYXJjaFF1ZXJ5KS5jYXRjaChhcnRpY2xlKSwKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgIjEiOiBjYXRlZ29yeT0i5Lq65bel5pm66IO9IjsgYnJlYWs7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhOiB7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFydGljbGVMaXN0OiAkLmZldGNoKGNvbmZpZy5hcGkoKSArICIvYXJ0aWNsZS9zZWFyY2giLCBzZWFyY2hRdWVyeSkuY2F0Y2goYXJ0aWNsZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gewogICAgICAgICAgICBkYXRhbWF0aW9uOiAkLmZldGNoKGNvbmZpZy5hcGkoKSArICIvYXJ0aWNsZS9zZWFyY2giLCBzZWFyY2hRdWVyeSkuY2F0Y2goYXJ0aWNsZSksCiAgICAgICAgfQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>datamation</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHsKICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>,</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text>module</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>人工智能</text>
       </register>
     </registers>
     <search>
