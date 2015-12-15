@@ -26,12 +26,12 @@
         <mark key="." line="8" column="37" />
         <mark key="[" line="8" column="37" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/config/config.router.js" timestamp="1450173552131">
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/config/config.router.js" timestamp="1450175388691">
         <mark key="'" line="392" column="12" />
         <mark key="]" line="382" column="32" />
         <mark key="^" line="382" column="32" />
         <mark key="." line="382" column="32" />
-        <mark key="[" line="382" column="27" />
+        <mark key="[" line="141" column="18" />
       </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/resources/assets/js/admin/plugin/qiniu.vue" timestamp="1449825501998">
         <mark key="]" line="93" column="27" />
@@ -105,11 +105,11 @@
         <mark key="." line="8" column="40" />
         <mark key="[" line="8" column="35" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/module/module.detail.js" timestamp="1450174064732">
-        <mark key="]" line="27" column="45" />
-        <mark key="^" line="27" column="45" />
-        <mark key="." line="27" column="45" />
-        <mark key="[" line="27" column="39" />
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/module/module.detail.js" timestamp="1450175287701">
+        <mark key="]" line="12" column="49" />
+        <mark key="^" line="12" column="49" />
+        <mark key="." line="12" column="49" />
+        <mark key="[" line="12" column="39" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/paragraph/paragraph.html" timestamp="1449555968239">
         <mark key="]" line="1" column="0" />
@@ -257,11 +257,11 @@
         <mark key="." line="7" column="42" />
         <mark key="[" line="7" column="41" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/module/module.detail.tpl" timestamp="1450174026828">
-        <mark key="]" line="25" column="54" />
-        <mark key="^" line="25" column="54" />
-        <mark key="." line="25" column="54" />
-        <mark key="[" line="25" column="53" />
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/module/module.detail.tpl" timestamp="1450174602586">
+        <mark key="]" line="36" column="82" />
+        <mark key="^" line="36" column="82" />
+        <mark key="." line="36" column="82" />
+        <mark key="[" line="36" column="59" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/file-upload/file-upload.js" timestamp="1450163454020">
         <mark key="]" line="57" column="54" />
@@ -633,46 +633,46 @@
     </jumps>
     <registers>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coImhlbGxvIik7Cg==</text>
+        <text encoding="base64">LyoqClRPRE86CiAqICovCg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>cid</text>
+        <text>该包含</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="1" type="4">
-        <text>cid</text>
+        <text>该包含</text>
       </register>
       <register name="0" type="4">
         <text>article_</text>
       </register>
       <register name="7" type="4">
-        <text>,</text>
+        <text>cid</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICAgIHJldHVybiB7CiAgICAgICAgZGF0YTogW10sCiAgICAgICAgY3VycmVudF9wYWdlOiAxLAogICAgICAgIGxhc3RfcGFnZTogMQ==</text>
+        <text>detail</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="5" type="4">
+        <text>di</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>detail</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAiL2MvOnBvc2l0aW9uLzpzdWJ0eXBlIjogewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuYW1lOiAibW9kdWxlL3Bvc2l0aW9uL3N1YnR5cGUiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb21wb25lbnQ6IGZ1bmN0aW9uKHJlc29sdmUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlcXVpcmUoWyJ2aWV3cy9tb2R1bGUvbW9kdWxlLmRldGFpbCJdLCByZXNvbHZlKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coImhlbGxvIik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN1YlJvdXRlczogewogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="/" type="4">
         <text>headline</text>
       </register>
       <register name="-" type="4">
-        <text>cid</text>
+        <text>该包含</text>
       </register>
     </registers>
     <search>
