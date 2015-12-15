@@ -222,11 +222,11 @@
         <mark key="." line="2" column="0" />
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.detail.tpl" timestamp="1450160407022">
-        <mark key="]" line="78" column="62" />
-        <mark key="^" line="78" column="62" />
-        <mark key="." line="78" column="62" />
-        <mark key="[" line="76" column="51" />
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.detail.tpl" timestamp="1450162272117">
+        <mark key="]" line="47" column="73" />
+        <mark key="^" line="47" column="115" />
+        <mark key="." line="47" column="73" />
+        <mark key="[" line="47" column="73" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/margin.scss" timestamp="1449453963480">
         <mark key="]" line="23" column="0" />
@@ -240,11 +240,11 @@
         <mark key="." line="7" column="42" />
         <mark key="[" line="7" column="41" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/file-upload/file-upload.js" timestamp="1450152647377">
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="11" column="21" />
-        <mark key="." line="10" column="0" />
-        <mark key="[" line="10" column="0" />
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/file-upload/file-upload.js" timestamp="1450163045831">
+        <mark key="]" line="57" column="71" />
+        <mark key="^" line="57" column="71" />
+        <mark key="." line="57" column="71" />
+        <mark key="[" line="57" column="55" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/paragraph/title-info.html" timestamp="1449555759494">
         <mark key="]" line="2" column="27" />
@@ -474,11 +474,11 @@
         <mark key="." line="8" column="39" />
         <mark key="[" line="8" column="35" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.detail.js" timestamp="1450160830483">
-        <mark key="]" line="39" column="23" />
-        <mark key="^" line="74" column="52" />
-        <mark key="." line="39" column="23" />
-        <mark key="[" line="39" column="22" />
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.detail.js" timestamp="1450162403012">
+        <mark key="]" line="85" column="47" />
+        <mark key="^" line="85" column="47" />
+        <mark key="." line="85" column="47" />
+        <mark key="[" line="84" column="30" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/package.json" timestamp="1449479047622">
         <mark key="]" line="21" column="0" />
@@ -584,46 +584,46 @@
     </jumps>
     <registers>
       <register name="3" type="4">
-        <text>normal</text>
+        <text>正在上传</text>
       </register>
       <register name="&quot;" type="4">
-        <text>normal</text>
+        <text>btnTitle</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0iIj48YSB2LWxpbms9IntuYW1lOidhcnRpY2xlLWNyZWF0ZS9ub3JtYWwnfSI+5paw5bu65paH56ugPC9hPjwvbGk+</text>
+        <text>&quot;...&quot;);</text>
       </register>
       <register name="1" type="4">
-        <text>normal</text>
+        <text>btnTitle</text>
       </register>
-      <register name="0" type="4">
-        <text>articleCover</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJCh0aGlzLiRlbHMuYnRuVXBsb2FkKS50ZXh0KCLmraPlnKjkuIrkvKAuLi4iKTsK</text>
       </register>
       <register name="7" type="4">
-        <text>通</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="4">
-        <text>normal</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB2YXIgYnRuVGl0bGUgPSAiIjsK</text>
       </register>
-      <register name="5" type="4">
-        <text>normal</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIi92aWRlbyI6IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5hbWU6ICJhcnRpY2xlLWNyZWF0ZS92aWRlbyIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb21wb25lbnQ6IGZ1bmN0aW9uKHJlc29sdmUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXF1aXJlKFsidmlld3MvYXJ0aWNsZS9hcnRpY2xlLmRldGFpbCJdLCByZXNvbHZlKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgICAgICAgIi9ldmFsdWF0aW9uIjogewogICAgICAgICAgICAgICAgICAgICAgICAgICAgbmFtZTogImFydGljbGUtY3JlYXRlL2V2YWx1YXRpb24iLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgY29tcG9uZW50OiBmdW5jdGlvbihyZXNvbHZlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVxdWlyZShbInZpZXdzL2FydGljbGUvYXJ0aWNsZS5kZXRhaWwiXSwgcmVzb2x2ZSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIH0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIHRpdGxlOiAi5paw5bu66KeG6aKRIiwKICAgICAgICAgICAgICAgICAgICAgICAgbmFtZTogImFydGljbGUtY3JlYXRlL3ZpZGVvIiwKICAgICAgICAgICAgICAgICAgICAgICAgc2NvcGU6IFsiYXJ0aWNsZS1jcmVhdGUvdmlkZW8iXQogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICB0aXRsZTogIuaWsOW7uua1i+ivhCIsCiAgICAgICAgICAgICAgICAgICAgICAgIG5hbWU6ICJhcnRpY2xlLWNyZWF0ZS9ldmFsdWF0aW9uIiwKICAgICAgICAgICAgICAgICAgICAgICAgc2NvcGU6IFsiYXJ0aWNsZS1jcmVhdGUvZXZhbHVhdGlvbiJdCiAgICAgICAgICAgICAgICAgICAgfSwK</text>
+      <register name="9" type="4">
+        <text>e</text>
       </register>
       <register name="8" type="4">
-        <text>普</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>article</text>
       </register>
       <register name="-" type="4">
-        <text>normal</text>
+        <text>btnTitle</text>
       </register>
     </registers>
     <search>
