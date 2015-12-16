@@ -521,12 +521,12 @@
         <mark key="." line="26" column="23" />
         <mark key="[" line="29" column="25" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.list.js" timestamp="1450254976647">
-        <mark key="'" line="61" column="24" />
-        <mark key="]" line="62" column="29" />
-        <mark key="^" line="62" column="29" />
-        <mark key="." line="62" column="29" />
-        <mark key="[" line="63" column="14" />
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.list.js" timestamp="1450256087030">
+        <mark key="'" line="63" column="24" />
+        <mark key="]" line="63" column="48" />
+        <mark key="^" line="63" column="48" />
+        <mark key="." line="63" column="48" />
+        <mark key="[" line="63" column="42" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/views/disease/index.scss" timestamp="1449627744567">
         <mark key="]" line="60" column="47" />
@@ -735,47 +735,47 @@
       <jump line="61" column="24" filename="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.list.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXR1czogc3RhdHVzCiAgICAgICAgICAgIH0pCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgInJlY3ljbGUiOiBzdGF0dXM9MTsgYnJlYWs7CiAgICAgICAgICAgICAgICBjYXNlICJyZWN5Y2xlIjogc3RhdHVzPTE7IGJyZWFrOwogICAgICAgICAgICAgICAgY2FzZSAicmVjeWNsZSI6IHN0YXR1cz0xOyBicmVhazsKICAgICAgICAgICAgICAgIGNhc2UgInJlY3ljbGUiOiBzdGF0dXM9MTsgYnJlYWs7Cgo=</text>
+      <register name="3" type="4">
+        <text>,</text>
       </register>
       <register name="2" type="4">
-        <text>status</text>
+        <text>{</text>
       </register>
-      <register name="1" type="4">
-        <text>0</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXR1czogc3RhdHVzCiAgICAgICAgICAgIH0pCg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgInB1Ymxpc2hlZCI6IHNlYXJjaFF1ZXJ5LnN0YXRlID0gNDsgYnJlYWs7CiAgICAgICAgICAgICAgICBjYXNlICJyZWFkeS10by1wdWJsaXNoIjogc2VhcmNoUXVlcnkuc3RhdGUgPSAzOyBicmVhazsKICAgICAgICAgICAgICAgIGNhc2UgInJlYWR5LXRvLXZlcmlmeSI6IHNlYXJjaFF1ZXJ5LnN0YXRlID0gMjsgYnJlYWs7CiAgICAgICAgICAgICAgICBjYXNlICJyZWN5Y2xlIjogc2VhcmNoUXVlcnkuc3RhdGUgPSAxOyBicmVhazsKICAgICAgICAgICAgICAgIGRlZmF1bHQ6IHNlYXJjaFF1ZXJ5LnN0YXRlID0gNDsgYnJlYWs7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJidG4gYnRuLWxpbmsgYnRuLWRlZmF1bHQiPuafpeecizwvYT4K</text>
+      <register name="7" type="4">
+        <text>m</text>
       </register>
       <register name="6" type="4">
-        <text>撤回</text>
+        <text>.</text>
       </register>
       <register name="5" type="4">
-        <text>a</text>
+        <text>i</text>
       </register>
       <register name="4" type="4">
-        <text>del</text>
+        <text>d</text>
       </register>
       <register name=":" type="4">
-        <text>53,60 s/state/status</text>
+        <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJidG4gYnRuLWxpbmsgYnRuLWRlZmF1bHQiPue8lui+kTwvYT4K</text>
+      <register name="9" type="4">
+        <text>t</text>
       </register>
       <register name="8" type="4">
-        <text>查看</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>state</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>{</text>
       </register>
     </registers>
     <search>
@@ -825,12 +825,12 @@
         <entry>452,470 s/author/user</entry>
         <entry>452,477 s/author/user/g</entry>
         <entry>45</entry>
-        <entry>w</entry>
         <entry encoding="base64">NzUsOTEgcy88YS88YnV0dG9uL2c=</entry>
         <entry encoding="base64">NzUsOTEgcy9hPi9idXR0b24+L2c=</entry>
         <entry>73,93 s/item.id/item</entry>
         <entry>55,60 s/searchQuery.//</entry>
         <entry>53,60 s/state/status</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
