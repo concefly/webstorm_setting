@@ -137,6 +137,12 @@
         <mark key="." line="13" column="13" />
         <mark key="[" line="13" column="7" />
       </file>
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/user/user.notification.js" timestamp="1450250038309">
+        <mark key="]" line="46" column="18" />
+        <mark key="^" line="46" column="18" />
+        <mark key="." line="46" column="18" />
+        <mark key="[" line="40" column="41" />
+      </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/lineheight.scss" timestamp="1449453803046">
         <mark key="]" line="9" column="14" />
         <mark key="^" line="9" column="14" />
@@ -168,11 +174,11 @@
         <mark key="." line="1" column="49" />
         <mark key="[" line="1" column="49" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/user/user.list.tpl" timestamp="1450238965698">
-        <mark key="]" line="34" column="81" />
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/user/user.list.tpl" timestamp="1450249872847">
+        <mark key="]" line="36" column="20" />
         <mark key="^" line="34" column="81" />
         <mark key="." line="34" column="81" />
-        <mark key="[" line="34" column="76" />
+        <mark key="[" line="33" column="0" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/label/label-primary.html" timestamp="1449541357036">
         <mark key="]" line="1" column="16" />
@@ -445,6 +451,12 @@
         <mark key="." line="61" column="81" />
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/user/user.notification.tpl" timestamp="1450250073493">
+        <mark key="]" line="9" column="115" />
+        <mark key="^" line="9" column="115" />
+        <mark key="." line="9" column="115" />
+        <mark key="[" line="9" column="114" />
+      </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/author/author.list.js" timestamp="1450235430206">
         <mark key="]" line="67" column="1" />
         <mark key="^" line="43" column="47" />
@@ -708,46 +720,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>文章</text>
+        <text>添加文章</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPCEtLTxhIHYtbGluaz0ie25hbWU6J2FydGljbGUvZGV0YWlsJywgcGFyYW1zOntpZDogaXRlbS5pZH19IiBjbGFzcz0iYnRuIGJ0bi1saW5rIGJ0bi1wcmltYXJ5Ij7nvJbovpE8L2E+LS0+CiAgICAgICAgICAgICAgICAgICAgICAgIDwhLS08YSBocmVmPSJqYXZhc2NyaXB0OnZvaWQoJ+WIoOmZpCB7JWl0ZW0udGl0bGUlfScpOyIgY2xhc3M9ImJ0biBidG4tZXJyb3IgYnRuLWxpbmsiIEBjbGljaz0iZGVsKGl0ZW0pIj7liKDpmaQ8L2E+LS0+CiAgICAgICAgICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJidG4gYnRuLWxpbmsgYnRuLWRlZmF1bHQiPuafpeecizwvYT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoIuaaguaXoOatpOWKn+iDvSIpOwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGEgY2xhc3M9ImJ0biBidG4tbGluayBidG4tZGVmYXVsdCI+5pKk5ZuePC9hPgogICAgICAgICAgICAgICAgICAgICAgICA8YSBjbGFzcz0iYnRuIGJ0bi1saW5rIGJ0bi1kZWZhdWx0Ij7liKDpmaQ8L2E+Cg==</text>
-      </register>
-      <register name="1" type="4">
-        <text>文章</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRhdGFtYXRpb246ICQuZmV0Y2goY29uZmlnLmFwaSgpICsgIi90YWcvc2VhcmNoIiwgc2VhcmNoUXVlcnkpLmNhdGNoKHRhZykK</text>
-      </register>
-      <register name="7" type="4">
+      <register name="2" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="4">
-        <text>item</text>
+      <register name="1" type="4">
+        <text>添加文章</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZD4KICAgICAgICAgICAgICAgICAgICA8YSBjbGFzcz0iYnRuIGJ0bi1saW5rIGJ0bi1kZWZhdWx0IiB2LWxpbms9IntuYW1lOid1c2VyL2RldGFpbCcsIHBhcmFtczp7aWQ6aXRlbS5pZH19Ij7mn6XnnIs8L2E+CiAgICAgICAgICAgICAgICAgICAgPGJ1dHRvbiBjbGFzcz0iYnRuIGJ0bi1saW5rIGJ0bi1kZWZhdWx0IiBAY2xpY2s9Im11dGUoaXRlbS5pZCkiPuemgeiogDwvYnV0dG9uPgogICAgICAgICAgICAgICAgPC90ZD4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJidG4gYnRuLWxpbmsgYnRuLWRlZmF1bHQiIEBjbGljaz0icmVjb21tZW5kKGl0ZW0uaWQpIj7mjqjojZDmraTmoIfnrb48L2E+CiAgICAgICAgICAgICAgICAgICAgPC90ZD4K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGEgY2xhc3M9ImJ0biBidG4tbGluayBidG4tZGVmYXVsdCIgdi1saW5rPSJ7bmFtZTondXNlci9kZXRhaWwnLCBwYXJhbXM6e2lkOml0ZW0uaWR9fSI+5p+l55yLPC9hPgo=</text>
       </register>
       <register name="5" type="4">
-        <text>publish_time</text>
+        <text>mute</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQgY2xhc3M9InRleHQtY2VudGVyIj57JSBpdGVtLmNhdGVnb3JpZXNbMF0udGl0bGUgJX08L3RkPgogICAgICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0idGV4dC1jZW50ZXIiPnslIGl0ZW0uYXJ0aWNsZV90eXBlICV9PC90ZD4KICAgICAgICAgICAgICAgICAgICA8dGQgY2xhc3M9InRleHQtY2VudGVyIj7mmoLml6DmlbDmja48L3RkPgogICAgICAgICAgICAgICAgICAgIDx0ZCBjbGFzcz0idGV4dC1jZW50ZXIiPuaaguaXoOaVsOaNrjwvdGQ+CiAgICAgICAgICAgICAgICAgICAgPHRkIGNsYXNzPSJ0ZXh0LWNlbnRlciI+5pqC5peg5pWw5o2uPC90ZD4KICAgICAgICAgICAgICAgICAgICA8dGQgY2xhc3M9InRleHQtY2VudGVyIj7mmoLml6DmlbDmja48L3RkPgo=</text>
+      <register name="4" type="4">
+        <text>个性化标签</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>据</text>
+        <text>%</text>
       </register>
       <register name="8" type="4">
-        <text>&quot;</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>author</text>
       </register>
       <register name="-" type="4">
-        <text>文章</text>
+        <text>添加文章</text>
       </register>
     </registers>
     <search>
