@@ -21,12 +21,11 @@
         <mark key="." line="26" column="0" />
         <mark key="[" line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/config/config.router.js" timestamp="1450247221533">
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/config/config.router.js" timestamp="1450251797106">
         <mark key="'" line="455" column="76" />
-        <mark key="]" line="155" column="57" />
-        <mark key="^" line="155" column="57" />
-        <mark key="." line="155" column="57" />
-        <mark key="[" line="155" column="31" />
+        <mark key="]" line="593" column="0" />
+        <mark key="." line="593" column="0" />
+        <mark key="[" line="593" column="0" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/hr.scss" timestamp="1449224068166">
         <mark key="]" line="16" column="30" />
@@ -246,6 +245,12 @@
         <mark key="." line="81" column="24" />
         <mark key="[" line="81" column="21" />
       </file>
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/common/notFinished/notFinished.js" timestamp="1450250682048">
+        <mark key="]" line="7" column="40" />
+        <mark key="^" line="7" column="40" />
+        <mark key="." line="7" column="40" />
+        <mark key="[" line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/gulpfile.js" timestamp="1450060083570">
         <mark key="]" line="61" column="28" />
         <mark key="^" line="61" column="28" />
@@ -325,11 +330,11 @@
         <mark key="." line="4" column="31" />
         <mark key="[" line="4" column="32" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/partials/layout/layout.tpl" timestamp="1450236985292">
-        <mark key="]" line="11" column="56" />
-        <mark key="^" line="11" column="56" />
-        <mark key="." line="11" column="56" />
-        <mark key="[" line="11" column="32" />
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/partials/layout/layout.tpl" timestamp="1450250987109">
+        <mark key="]" line="12" column="60" />
+        <mark key="^" line="12" column="60" />
+        <mark key="." line="12" column="60" />
+        <mark key="[" line="12" column="60" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/user/user.tag.tpl" timestamp="1450248411601">
         <mark key="]" line="44" column="93" />
@@ -443,6 +448,11 @@
         <mark key="^" line="6" column="17" />
         <mark key="." line="6" column="17" />
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/common/notFinished/notFinished.tpl" timestamp="1450250834640">
+        <mark key="]" line="0" column="56" />
+        <mark key="^" line="0" column="56" />
+        <mark key="." line="0" column="56" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.list.tpl" timestamp="1450176092543">
         <mark key="'" line="83" column="0" />
@@ -719,47 +729,47 @@
       <jump line="25" column="8" filename="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/user/user.detail.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>添加文章</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29tcG9uZW50OiB7CiAgICAgICAgICAgICAgICB0ZW1wbGF0ZTogX19pbmxpbmUoJ3BhcnRpYWxzL2xheW91dC9sYXlvdXQudHBsJykKICAgICAgICAgICAgfSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoIuaaguaXoOatpOWKn+iDvSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICIvIjogewogICAgICAgICAgICAgICAgICAgIGNvbXBvbmVudDogdGFic1RlbXAodGFicygpKSwKICAgICAgICAgICAgICAgICAgICBzdWJSb3V0ZXM6IHsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>添加文章</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29tcG9uZW50OiB7CiAgICAgICAgICAgICAgICB0ZW1wbGF0ZTogX19pbmxpbmUoJ3BhcnRpYWxzL2xheW91dC9sYXlvdXQudHBsJykKICAgICAgICAgICAgfSwK</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZD4KICAgICAgICAgICAgICAgICAgICA8YSBjbGFzcz0iYnRuIGJ0bi1saW5rIGJ0bi1kZWZhdWx0IiB2LWxpbms9IntuYW1lOid1c2VyL2RldGFpbCcsIHBhcmFtczp7aWQ6aXRlbS5pZH19Ij7mn6XnnIs8L2E+CiAgICAgICAgICAgICAgICAgICAgPGJ1dHRvbiBjbGFzcz0iYnRuIGJ0bi1saW5rIGJ0bi1kZWZhdWx0IiBAY2xpY2s9Im11dGUoaXRlbS5pZCkiPuemgeiogDwvYnV0dG9uPgogICAgICAgICAgICAgICAgPC90ZD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29tcG9uZW50OiBMYXlvdXQoKSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQ+CiAgICAgICAgICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJidG4gYnRuLWxpbmsgYnRuLWRlZmF1bHQiIEBjbGljaz0icmVjb21tZW5kKGl0ZW0uaWQpIj7mjqjojZDmraTmoIfnrb48L2E+CiAgICAgICAgICAgICAgICAgICAgPC90ZD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGEgY2xhc3M9ImJ0biBidG4tbGluayBidG4tZGVmYXVsdCIgdi1saW5rPSJ7bmFtZTondXNlci9kZXRhaWwnLCBwYXJhbXM6e2lkOml0ZW0uaWR9fSI+5p+l55yLPC9hPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbXBvbmVudDogdGFic1RlbXAodGFicygpKSwKICAgICAgICAgICAgICAgIHN1YlJvdXRlczogewogICAgICAgICAgICAgICAgICAgICIvbm90LWZpbmlzaGVkIjogewogICAgICAgICAgICAgICAgICAgICAgICBuYW1lOiAibm90RmluaXNoZWQiLAogICAgICAgICAgICAgICAgICAgICAgICBjb21wb25lbnQ6IGZ1bmN0aW9uKHJlc29sdmUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlcXVpcmUoWyJ2aWV3cy9jb21tb24vbm90RmluaXNoZWQvbm90RmluaXNoZWQiXSwgcmVzb2x2ZSk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>mute</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>个性化标签</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIi9ub3QtZmluaXNoZWQiOiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBuYW1lOiAibm90RmluaXNoZWQiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgY29tcG9uZW50OiBmdW5jdGlvbihyZXNvbHZlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVxdWlyZShbInZpZXdzL2NvbW1vbi9ub3RGaW5pc2hlZC9ub3RGaW5pc2hlZCJdLCByZXNvbHZlKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>%</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIi8iOiB7CiAgICAgICAgICAgICAgICBjb21wb25lbnQ6CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="8" type="4">
-        <text>}</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29tcG9uZW50OiB0YWJzVGVtcCh0YWJzKCkpLAogICAgICAgICAgICBzdWJSb3V0ZXM6IHsKICAgICAgICAgICAgICAgICIvbm90LWZpbmlzaGVkIjogewogICAgICAgICAgICAgICAgICAgIG5hbWU6ICJub3RGaW5pc2hlZCIsCiAgICAgICAgICAgICAgICAgICAgY29tcG9uZW50OiBmdW5jdGlvbihyZXNvbHZlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHJlcXVpcmUoWyJ2aWV3cy9jb21tb24vbm90RmluaXNoZWQvbm90RmluaXNoZWQiXSwgcmVzb2x2ZSk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="/" type="4">
         <text>author</text>
       </register>
       <register name="-" type="4">
-        <text>添加文章</text>
+        <text>empty</text>
       </register>
     </registers>
     <search>
