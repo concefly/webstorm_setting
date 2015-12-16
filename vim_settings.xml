@@ -94,12 +94,11 @@
         <mark key="." line="12" column="19" />
         <mark key="[" line="12" column="18" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/user/user.detail.js" timestamp="1450238152080">
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/user/user.detail.js" timestamp="1450246021638">
         <mark key="'" line="25" column="8" />
-        <mark key="]" line="44" column="25" />
-        <mark key="^" line="44" column="25" />
-        <mark key="." line="44" column="25" />
-        <mark key="[" line="43" column="20" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="[" line="35" column="0" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/views/disease/detail.html" timestamp="1449570429016">
         <mark key="]" line="8" column="40" />
@@ -180,11 +179,11 @@
         <mark key="." line="1" column="16" />
         <mark key="[" line="0" column="63" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/user/user.detail.tpl" timestamp="1450239428873">
-        <mark key="]" line="59" column="73" />
-        <mark key="^" line="59" column="73" />
-        <mark key="." line="59" column="73" />
-        <mark key="[" line="57" column="41" />
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/user/user.detail.tpl" timestamp="1450246457089">
+        <mark key="]" line="39" column="31" />
+        <mark key="^" line="44" column="25" />
+        <mark key="." line="39" column="31" />
+        <mark key="[" line="39" column="31" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/component/label.scss" timestamp="1449474126764">
         <mark key="]" line="63" column="48" />
@@ -702,46 +701,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>edit</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dHI+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0aCBjbGFzcz0idnRvcCI+5b6u5Y2aPC90aD4KICAgICAgICAgICAgICAgICAgICAgICAgPHRkPnslIGRldGFpbC53ZWlibyB8fCAi5pqC5peg5pWw5o2uIiAlfSA8L3RkPgogICAgICAgICAgICAgICAgICAgIDwvdHI+CiAgICAgICAgICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgICAgICAgICAgICA8dGggY2xhc3M9InZ0b3AiPlFRPC90aD4KICAgICAgICAgICAgICAgICAgICAgICAgPHRkPnslIGRldGFpbC5xcSB8fCAi5pqC5peg5pWw5o2uIiAlfSA8L3RkPgogICAgICAgICAgICAgICAgICAgIDwvdHI+Cg==</text>
+      <register name="3" type="4">
+        <text>|</text>
       </register>
       <register name="2" type="4">
-        <text>微信</text>
+        <text>|</text>
       </register>
       <register name="1" type="4">
-        <text>edit</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDx0YWJsZSBjbGFzcz0idGFibGUgdGFibGUtZm9ybSB1bmJvcmRlcmVkIj4KICAgICAgICAgICAgICAgICAgICA8dHI+PHRoPueUqOaIt+WfuuacrOS/oeaBrzwvdGg+PC90cj4KICAgICAgICAgICAgICAgICAgICA8dHI+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0aCBjbGFzcz0idnRvcCI+5aS05YOPPC90aD4KICAgICAgICAgICAgICAgICAgICAgICAgPHRkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGltZyA6c3JjPSJkZXRhaWwuYXZhdGFyX3VybCIgYWx0PSIiIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCI+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvdGQ+CiAgICAgICAgICAgICAgICAgICAgPC90cj4KICAgICAgICAgICAgICAgICAgICA8dHI+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0aCBjbGFzcz0idnRvcCI+5pi156ewPC90aD4KICAgICAgICAgICAgICAgICAgICAgICAgPHRkPnslIGRldGFpbC5uaWNrbmFtZSAlfTwvdGQ+CiAgICAgICAgICAgICAgICAgICAgPC90cj4KICAgICAgICAgICAgICAgICAgICA8dHI+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0aCBjbGFzcz0idnRvcCI+6YKu566xPC90aD4KICAgICAgICAgICAgICAgICAgICAgICAgPHRkPnslIGRldGFpbC5lbWFpbCB8fCAi5pqC5peg5pWw5o2uIiAlfSA8L3RkPgogICAgICAgICAgICAgICAgICAgIDwvdHI+CiAgICAgICAgICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgICAgICAgICAgICA8dGggY2xhc3M9InZ0b3AiPuaJi+acuuWPtzwvdGg+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD57JSBkZXRhaWwucGhvbmUgfHwgIuaaguaXoOaVsOaNriIgJX0gPC90ZD4KICAgICAgICAgICAgICAgICAgICA8L3RyPgogICAgICAgICAgICAgICAgICAgIDx0cj4KICAgICAgICAgICAgICAgICAgICAgICAgPHRoIGNsYXNzPSJ2dG9wIj7lvq7kv6E8L3RoPgogICAgICAgICAgICAgICAgICAgICAgICA8dGQ+eyUgZGV0YWlsLndlY2hhdCB8fCAi5pqC5peg5pWw5o2uIiAlfSA8L3RkPgogICAgICAgICAgICAgICAgICAgIDwvdHI+CiAgICAgICAgICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgICAgICAgICAgICA8dGggY2xhc3M9InZ0b3AiPuW+ruWNmjwvdGg+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD57JSBkZXRhaWwud2VpYm8gfHwgIuaaguaXoOaVsOaNriIgJX0gPC90ZD4KICAgICAgICAgICAgICAgICAgICA8L3RyPgogICAgICAgICAgICAgICAgICAgIDx0cj4KICAgICAgICAgICAgICAgICAgICAgICAgPHRoIGNsYXNzPSJ2dG9wIj5RUTwvdGg+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD57JSBkZXRhaWwucXEgfHwgIuaaguaXoOaVsOaNriIgJX0gPC90ZD4KICAgICAgICAgICAgICAgICAgICA8L3RyPgogICAgICAgICAgICAgICAgPC90YWJsZT4K</text>
       </register>
       <register name="7" type="4">
-        <text>本</text>
+        <text>.</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dHI+CiAgICAgICAgICAgICAgICAgICAgICAgIDx0aCBjbGFzcz0idnRvcCI+5aS05YOPPC90aD4KICAgICAgICAgICAgICAgICAgICAgICAgPHRkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGltZyA6c3JjPSJkZXRhaWwuYXZhdGFyX3VybCIgYWx0PSIiIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCI+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvdGQ+CiAgICAgICAgICAgICAgICAgICAgPC90cj4K</text>
+      <register name="6" type="4">
+        <text>q</text>
       </register>
       <register name="5" type="4">
-        <text>昵称</text>
+        <text>q</text>
       </register>
       <register name="4" type="4">
-        <text>邮箱</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>i</text>
       </register>
       <register name="8" type="4">
-        <text>基</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>author</text>
       </register>
       <register name="-" type="4">
-        <text>edit</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
