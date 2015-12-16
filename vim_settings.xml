@@ -198,6 +198,12 @@
         <mark key="." line="63" column="48" />
         <mark key="[" line="63" column="47" />
       </file>
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/partials/layout/layout.scss" timestamp="1450261454080">
+        <mark key="]" line="48" column="19" />
+        <mark key="^" line="48" column="19" />
+        <mark key="." line="48" column="19" />
+        <mark key="[" line="48" column="18" />
+      </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/resources/assets/js/admin/components/post/editor.vue" timestamp="1450060435429">
         <mark key="]" line="358" column="51" />
         <mark key="^" line="358" column="51" />
@@ -734,41 +740,41 @@
       <jump line="71" column="0" filename="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.detail.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>:</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiBsaWdodHNreWJsdWU7ZGQK</text>
       </register>
-      <register name="3" type="4">
-        <text>,</text>
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB0aGlzLmRldGFpbC5jYXRlZ29yaWVzWzBdOwo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="2" type="4">
         <text>:</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiBsaWdodHNreWJsdWU7ZGQK</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHBhcmFtczogewogICAgICAgICAgICAgICAgICAgIHN0YWdlOiBjdXJyZW50U3RhZ2UKICAgICAgICAgICAgICAgIH0sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuZGV0YWlsLmFydGljbGVfbWVkaWFzWzBdID0geDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHlwZTogU3RyaW5nCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHlwZTogU3RyaW5nCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHlwZTogU3RyaW5nLAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdHlwZTogU3RyaW5nLAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHlwZTogU3RyaW5nLAo=</text>
+      <register name="4" type="4">
+        <text>,</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB0aGlzLmRldGFpbC5hcnRpY2xlX21lZGlhcz8gdGhpcy5kZXRhaWwuYXJ0aWNsZV9tZWRpYXNbMF07Cg==</text>
-      </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>this.detail.article_medias[0];</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuZGV0YWlsLmFydGljbGVfbWVkaWFzWzBdID0geDsK</text>
       </register>
       <register name="/" type="4">
         <text>article</text>
