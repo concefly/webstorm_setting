@@ -454,12 +454,12 @@
         <mark key="^" line="0" column="56" />
         <mark key="." line="0" column="56" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.list.tpl" timestamp="1450176092543">
-        <mark key="'" line="83" column="0" />
-        <mark key="]" line="83" column="5" />
-        <mark key="^" line="61" column="81" />
-        <mark key="." line="61" column="81" />
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.list.tpl" timestamp="1450254287665">
+        <mark key="'" line="72" column="85" />
+        <mark key="]" line="89" column="106" />
+        <mark key="^" line="89" column="106" />
+        <mark key="." line="89" column="106" />
+        <mark key="[" line="77" column="88" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/user/user.notification.tpl" timestamp="1450250073493">
         <mark key="]" line="9" column="115" />
@@ -521,11 +521,12 @@
         <mark key="." line="26" column="23" />
         <mark key="[" line="29" column="25" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.list.js" timestamp="1450247667118">
-        <mark key="]" line="74" column="0" />
-        <mark key="^" line="22" column="5" />
-        <mark key="." line="70" column="97" />
-        <mark key="[" line="3" column="0" />
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.list.js" timestamp="1450254976647">
+        <mark key="'" line="61" column="24" />
+        <mark key="]" line="62" column="29" />
+        <mark key="^" line="62" column="29" />
+        <mark key="." line="62" column="29" />
+        <mark key="[" line="63" column="14" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/views/disease/index.scss" timestamp="1449627744567">
         <mark key="]" line="60" column="47" />
@@ -727,67 +728,67 @@
       <jump line="451" column="20" filename="$USER_HOME$/project/blackbox/blackbox-manager-frontend/config/config.router.js" />
       <jump line="455" column="76" filename="$USER_HOME$/project/blackbox/blackbox-manager-frontend/config/config.router.js" />
       <jump line="25" column="8" filename="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/user/user.detail.js" />
+      <jump line="74" column="32" filename="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.list.tpl" />
+      <jump line="86" column="28" filename="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.list.tpl" />
+      <jump line="72" column="85" filename="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.list.tpl" />
+      <jump line="54" column="16" filename="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.list.js" />
+      <jump line="61" column="24" filename="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.list.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29tcG9uZW50OiB7CiAgICAgICAgICAgICAgICB0ZW1wbGF0ZTogX19pbmxpbmUoJ3BhcnRpYWxzL2xheW91dC9sYXlvdXQudHBsJykKICAgICAgICAgICAgfSwK</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICIvIjogewogICAgICAgICAgICAgICAgICAgIGNvbXBvbmVudDogdGFic1RlbXAodGFicygpKSwKICAgICAgICAgICAgICAgICAgICBzdWJSb3V0ZXM6IHsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgInJlY3ljbGUiOiBzdGF0dXM9MTsgYnJlYWs7CiAgICAgICAgICAgICAgICBjYXNlICJyZWN5Y2xlIjogc3RhdHVzPTE7IGJyZWFrOwogICAgICAgICAgICAgICAgY2FzZSAicmVjeWNsZSI6IHN0YXR1cz0xOyBicmVhazsKICAgICAgICAgICAgICAgIGNhc2UgInJlY3ljbGUiOiBzdGF0dXM9MTsgYnJlYWs7Cgo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>status</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29tcG9uZW50OiB7CiAgICAgICAgICAgICAgICB0ZW1wbGF0ZTogX19pbmxpbmUoJ3BhcnRpYWxzL2xheW91dC9sYXlvdXQudHBsJykKICAgICAgICAgICAgfSwK</text>
+      <register name="1" type="4">
+        <text>0</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29tcG9uZW50OiBMYXlvdXQoKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgInB1Ymxpc2hlZCI6IHNlYXJjaFF1ZXJ5LnN0YXRlID0gNDsgYnJlYWs7CiAgICAgICAgICAgICAgICBjYXNlICJyZWFkeS10by1wdWJsaXNoIjogc2VhcmNoUXVlcnkuc3RhdGUgPSAzOyBicmVhazsKICAgICAgICAgICAgICAgIGNhc2UgInJlYWR5LXRvLXZlcmlmeSI6IHNlYXJjaFF1ZXJ5LnN0YXRlID0gMjsgYnJlYWs7CiAgICAgICAgICAgICAgICBjYXNlICJyZWN5Y2xlIjogc2VhcmNoUXVlcnkuc3RhdGUgPSAxOyBicmVhazsKICAgICAgICAgICAgICAgIGRlZmF1bHQ6IHNlYXJjaFF1ZXJ5LnN0YXRlID0gNDsgYnJlYWs7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJidG4gYnRuLWxpbmsgYnRuLWRlZmF1bHQiPuafpeecizwvYT4K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbXBvbmVudDogdGFic1RlbXAodGFicygpKSwKICAgICAgICAgICAgICAgIHN1YlJvdXRlczogewogICAgICAgICAgICAgICAgICAgICIvbm90LWZpbmlzaGVkIjogewogICAgICAgICAgICAgICAgICAgICAgICBuYW1lOiAibm90RmluaXNoZWQiLAogICAgICAgICAgICAgICAgICAgICAgICBjb21wb25lbnQ6IGZ1bmN0aW9uKHJlc29sdmUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlcXVpcmUoWyJ2aWV3cy9jb21tb24vbm90RmluaXNoZWQvbm90RmluaXNoZWQiXSwgcmVzb2x2ZSk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9Cg==</text>
+      <register name="6" type="4">
+        <text>撤回</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>a</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIi9ub3QtZmluaXNoZWQiOiB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBuYW1lOiAibm90RmluaXNoZWQiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgY29tcG9uZW50OiBmdW5jdGlvbihyZXNvbHZlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVxdWlyZShbInZpZXdzL2NvbW1vbi9ub3RGaW5pc2hlZC9ub3RGaW5pc2hlZCJdLCByZXNvbHZlKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+      <register name="4" type="4">
+        <text>del</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>53,60 s/state/status</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIi8iOiB7CiAgICAgICAgICAgICAgICBjb21wb25lbnQ6CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJidG4gYnRuLWxpbmsgYnRuLWRlZmF1bHQiPue8lui+kTwvYT4K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29tcG9uZW50OiB0YWJzVGVtcCh0YWJzKCkpLAogICAgICAgICAgICBzdWJSb3V0ZXM6IHsKICAgICAgICAgICAgICAgICIvbm90LWZpbmlzaGVkIjogewogICAgICAgICAgICAgICAgICAgIG5hbWU6ICJub3RGaW5pc2hlZCIsCiAgICAgICAgICAgICAgICAgICAgY29tcG9uZW50OiBmdW5jdGlvbihyZXNvbHZlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHJlcXVpcmUoWyJ2aWV3cy9jb21tb24vbm90RmluaXNoZWQvbm90RmluaXNoZWQiXSwgcmVzb2x2ZSk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Cg==</text>
+      <register name="8" type="4">
+        <text>查看</text>
       </register>
       <register name="/" type="4">
-        <text>author</text>
+        <text>state</text>
       </register>
       <register name="-" type="4">
-        <text>empty</text>
+        <text>0</text>
       </register>
     </registers>
     <search>
       <last-search>detail.id</last-search>
       <last-offset />
-      <last-pattern>author</last-pattern>
-      <last-replace>user</last-replace>
-      <last-substitute>author</last-substitute>
+      <last-pattern>state</last-pattern>
+      <last-replace>status</last-replace>
+      <last-substitute>state</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>target</entry>
-        <entry>tag</entry>
-        <entry>info</entry>
-        <entry>margin</entry>
-        <entry>mute</entry>
         <entry>more</entry>
         <entry>More</entry>
         <entry>table</entry>
@@ -803,13 +804,13 @@
         <entry>headline</entry>
         <entry>detail.id</entry>
         <entry>author</entry>
+        <entry encoding="base64">PGE=</entry>
+        <entry encoding="base64">YT4=</entry>
+        <entry>item.id</entry>
+        <entry>searchQuery.</entry>
+        <entry>state</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/margin/text-align/g</entry>
-        <entry encoding="base64">JzwsJz53</entry>
-        <entry>57,67 s/mute/post</entry>
-        <entry>W</entry>
-        <entry>qw</entry>
         <entry>109,118 s/tags/diseases</entry>
         <entry>103</entry>
         <entry>230</entry>
@@ -825,6 +826,11 @@
         <entry>452,477 s/author/user/g</entry>
         <entry>45</entry>
         <entry>w</entry>
+        <entry encoding="base64">NzUsOTEgcy88YS88YnV0dG9uL2c=</entry>
+        <entry encoding="base64">NzUsOTEgcy9hPi9idXR0b24+L2c=</entry>
+        <entry>73,93 s/item.id/item</entry>
+        <entry>55,60 s/searchQuery.//</entry>
+        <entry>53,60 s/state/status</entry>
       </history-cmd>
       <history-expr />
       <history-input />
