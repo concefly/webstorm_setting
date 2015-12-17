@@ -52,11 +52,11 @@
         <mark key="." line="1" column="37" />
         <mark key="[" line="1" column="36" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/product/product.tpl" timestamp="1450335223075">
-        <mark key="]" line="13" column="36" />
-        <mark key="^" line="13" column="36" />
-        <mark key="." line="13" column="36" />
-        <mark key="[" line="13" column="27" />
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/product/product.tpl" timestamp="1450337474837">
+        <mark key="]" line="35" column="9" />
+        <mark key="^" line="15" column="84" />
+        <mark key="." line="33" column="0" />
+        <mark key="[" line="33" column="0" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/label/label-default.html" timestamp="1449545544823">
         <mark key="]" line="2" column="16" />
@@ -300,11 +300,11 @@
         <mark key="." line="9" column="35" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.detail.tpl" timestamp="1450333976108">
-        <mark key="]" line="34" column="45" />
-        <mark key="^" line="107" column="55" />
-        <mark key="." line="107" column="35" />
-        <mark key="[" line="24" column="0" />
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.detail.tpl" timestamp="1450335323907">
+        <mark key="]" line="58" column="28" />
+        <mark key="^" line="58" column="28" />
+        <mark key="." line="58" column="28" />
+        <mark key="[" line="55" column="32" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/background.scss" timestamp="1449474667050">
         <mark key="]" line="7" column="42" />
@@ -551,11 +551,11 @@
         <mark key="." line="106" column="30" />
         <mark key="[" line="102" column="30" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/product/product.js" timestamp="1450335202425">
-        <mark key="]" line="35" column="42" />
-        <mark key="^" line="35" column="42" />
-        <mark key="." line="35" column="42" />
-        <mark key="[" line="33" column="9" />
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/product/product.js" timestamp="1450337363377">
+        <mark key="]" line="76" column="65" />
+        <mark key="^" line="76" column="66" />
+        <mark key="." line="76" column="65" />
+        <mark key="[" line="76" column="65" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/views/disease/index.scss" timestamp="1449627744567">
         <mark key="]" line="60" column="47" />
@@ -617,12 +617,12 @@
         <mark key="." line="8" column="39" />
         <mark key="[" line="8" column="35" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.detail.js" timestamp="1450335079458">
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.detail.js" timestamp="1450337356545">
         <mark key="'" line="71" column="0" />
-        <mark key="]" line="22" column="2" />
-        <mark key="^" line="139" column="48" />
-        <mark key="." line="139" column="48" />
-        <mark key="[" line="16" column="0" />
+        <mark key="]" line="136" column="66" />
+        <mark key="^" line="140" column="60" />
+        <mark key="." line="140" column="60" />
+        <mark key="[" line="136" column="0" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/package.json" timestamp="1449479047622">
         <mark key="]" line="21" column="0" />
@@ -775,46 +775,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">dmFyIGluaW5RaW5pdVVwbG9hZCA9IHJlcXVpcmUoJ2NvbXBvbmVudHMvc3VtbWVybm90ZS9xaW5pdS51cGxvYWQnKTsKCmluaW5RaW5pdVVwbG9hZCh7CiAgICB1cGxvYWQ6IGNvbmZpZy5xaW5pdS51cGxvYWRVcmwoKSwKICAgIHRva2VuOiBjb25maWcucWluaXUudG9rZW5VcmwoKSwKICAgIHByZXZpZXc6IGNvbmZpZy5xaW5pdS5wcmV2aWV3VXJsCn0pOwo=</text>
+        <text encoding="base64">ICAgIDx0ciB2LWlmPSJjdXJyZW50U3RhdGU9J3N0YXRpYyciPgogICAgICAgIDxidXR0b24gY2xhc3M9ImJ0biBidG4tZGVmYXVsdCBidG4tc20iIEBjbGljaz0icmVzZXRUb1JlYWR5IiB2LWlmPSJwcm9kdWN0TGlzdC5sZW5ndGg8MyI+5re75Yqg5Lqn5ZOBPC9idXR0b24+CiAgICA8L3RyPgo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="3" type="4">
+        <text>,</text>
       </register>
       <register name="2" type="4">
-        <text>primary</text>
+        <text>,</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dmFyIGluaW5RaW5pdVVwbG9hZCA9IHJlcXVpcmUoJ2NvbXBvbmVudHMvc3VtbWVybm90ZS9xaW5pdS51cGxvYWQnKTsKCmluaW5RaW5pdVVwbG9hZCh7CiAgICB1cGxvYWQ6IGNvbmZpZy5xaW5pdS51cGxvYWRVcmwoKSwKICAgIHRva2VuOiBjb25maWcucWluaXUudG9rZW5VcmwoKSwKICAgIHByZXZpZXc6IGNvbmZpZy5xaW5pdS5wcmV2aWV3VXJsCn0pOwo=</text>
+        <text encoding="base64">ICAgIDx0ciB2LWlmPSJjdXJyZW50U3RhdGU9J3N0YXRpYyciPgogICAgICAgIDxidXR0b24gY2xhc3M9ImJ0biBidG4tZGVmYXVsdCBidG4tc20iIEBjbGljaz0icmVzZXRUb1JlYWR5IiB2LWlmPSJwcm9kdWN0TGlzdC5sZW5ndGg8MyI+5re75Yqg5Lqn5ZOBPC9idXR0b24+CiAgICA8L3RyPgo=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGluaW5RaW5pdVVwbG9hZCA9IHJlcXVpcmUoJ2NvbXBvbmVudHMvc3VtbWVybm90ZS9xaW5pdS51cGxvYWQnKTsKCmluaW5RaW5pdVVwbG9hZCh7CiAgICB1cGxvYWQ6IGNvbmZpZy5xaW5pdS51cGxvYWRVcmwoKSwKICAgIHRva2VuOiBjb25maWcucWluaXUudG9rZW5VcmwoKSwKICAgIHByZXZpZXc6IGNvbmZpZy5xaW5pdS5wcmV2aWV3VXJsCn0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBmaWxlVXBsb2FkOiByZXF1aXJlKCdjb21wb25lbnRzL2ZpbGUtdXBsb2FkL2ZpbGUtdXBsb2FkJyksCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8IS0tIDxhIGhyZWY9IiMiIGNsYXNzPSJidG4gYnRuLXN1Y2Nlc3MgYnRuLWZsYXQiPuS7juWbvueJh+W6k+mAieaLqTwvYT4gLS0+Cg==</text>
+      <register name="7" type="4">
+        <text>cancel</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyoqCiAgICAgICAgICAgICAqIAogICAgICAgICAgICAgKi8K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="4">
-        <text>Cover</text>
+        <text>,</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxwPgogICAgICAgICAgICAgICAgICAgIDxhIGlkPSJwaWNrUHJvZHVjdENvdmVyIiBocmVmPSJqYXZhc2NyaXB0OjsiIGNsYXNzPSJidG4gYnRuLXN1Y2Nlc3MgYnRuLWZsYXQgYnRuVXBsb2FkIj7kuIrkvKDlm77niYc8L2E+CiAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9ImhlbHAtaW5saW5lIHRleHQtZXJyb3IiPjwvc3Bhbj4KICAgICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgICAgIDxkaXY+CiAgICAgICAgICAgICAgICAgICAgPGltZyBjbGFzcz0idXBsb2FkZWQiIDpjbGFzcz0ieyd1cGxvYWQtaW1nJzp0cnVlLCAnaGlkZSc6IWRldGFpbC5jb3Zlcl9pZH0iICBhbHQ9IiI+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJoaWRkZW4iIGNsYXNzPSJpbWFnZXMiIG5hbWU9ImNvdmVyIiB2LW1vZGVsPSJkZXRhaWwuY292ZXIiIHJlcXVpcmVkIGRhdGEtdmFsaWRhdGlvbi1tZXNzYWdlPSLlv4XpobvkuIrkvKDlsIHpnaIiPgo=</text>
+        <text encoding="base64">ICAgICAgICAiZmlsZS11cGwiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIDwhLS3mt7vliqDljLrln58tLT4K</text>
+      <register name="9" type="4">
+        <text>,</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYW5jZWw6IGZ1bmN0aW9uKCkgewogICAgICAgICAgICAKICAgICAgICB9LAo=</text>
       </register>
       <register name="/" type="4">
         <text>article</text>
       </register>
       <register name="-" type="4">
-        <text>primary</text>
+        <text>,</text>
       </register>
     </registers>
     <search>
