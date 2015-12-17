@@ -131,11 +131,11 @@
         <mark key="." line="8" column="22" />
         <mark key="[" line="8" column="19" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/tag/tag.js" timestamp="1450321222685">
-        <mark key="]" line="33" column="45" />
-        <mark key="^" line="33" column="45" />
-        <mark key="." line="33" column="45" />
-        <mark key="[" line="32" column="25" />
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/tag/tag.js" timestamp="1450324131537">
+        <mark key="]" line="71" column="0" />
+        <mark key="^" line="69" column="34" />
+        <mark key="." line="71" column="0" />
+        <mark key="[" line="71" column="0" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/font.scss" timestamp="1449712262284">
         <mark key="]" line="13" column="13" />
@@ -373,11 +373,11 @@
         <mark key="." line="1" column="37" />
         <mark key="[" line="0" column="125" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/tag/tag.tpl" timestamp="1450321591986">
-        <mark key="]" line="10" column="49" />
-        <mark key="^" line="10" column="49" />
-        <mark key="." line="10" column="49" />
-        <mark key="[" line="10" column="44" />
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/tag/tag.tpl" timestamp="1450323881587">
+        <mark key="]" line="10" column="26" />
+        <mark key="^" line="10" column="86" />
+        <mark key="." line="10" column="26" />
+        <mark key="[" line="10" column="26" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/whitespace.scss" timestamp="1449469632633">
         <mark key="]" line="34" column="19" />
@@ -758,47 +758,47 @@
       <jump line="71" column="0" filename="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.detail.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHRpdGxlID0gdGhpcy4kZWxzLmlucHV0LnZhbHVlOwo=</text>
       </register>
       <register name="3" type="4">
-        <text>g</text>
+        <text>getJson</text>
       </register>
       <register name="2" type="4">
-        <text>.</text>
+        <text>done</text>
       </register>
-      <register name="1" type="4">
-        <text>=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHRpdGxlID0gdGhpcy4kZWxzLmlucHV0LnZhbHVlOwo=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxlY3Q6IGZ1bmN0aW9uKHRhZykgewogICAgICAgICAgICBjb25zb2xlLmxvZygic2VsZWN0ICIsdGFnLnRpdGxlKTsKICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyDmr5TovoNJRO+8jOmYsuatoumHjeWkjea3u+WKoAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0YWdMaXN0OiB7CiAgICAgICAgfQo=</text>
-      </register>
-      <register name="6" type="4">
-        <text>tag</text>
-      </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>t</text>
       </register>
+      <register name="6" type="4">
+        <text>&quot;</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
       <register name="4" type="4">
-        <text>a</text>
+        <text>$els.input.value;</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMubGlzdCA9IHVuZGVmaW5lZDsK</text>
+      <register name="9" type="4">
+        <text>p</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2V0OiBmdW5jdGlvbigpIHsKICAgICAgICAgICAgICAgIHJldHVybiB0aGlzLmxpc3Q7CiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIHNldDogZnVuY3Rpb24oeCkgewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0K</text>
+      <register name="8" type="4">
+        <text>u</text>
       </register>
       <register name="/" type="4">
         <text>article</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>done</text>
       </register>
     </registers>
     <search>
