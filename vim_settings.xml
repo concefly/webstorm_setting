@@ -299,11 +299,11 @@
         <mark key="." line="9" column="35" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.detail.tpl" timestamp="1450344539154">
-        <mark key="]" line="41" column="39" />
-        <mark key="^" line="41" column="39" />
-        <mark key="." line="41" column="39" />
-        <mark key="[" line="40" column="125" />
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.detail.tpl" timestamp="1450345173238">
+        <mark key="]" line="41" column="105" />
+        <mark key="^" line="41" column="141" />
+        <mark key="." line="41" column="105" />
+        <mark key="[" line="41" column="104" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/background.scss" timestamp="1449474667050">
         <mark key="]" line="7" column="42" />
@@ -616,12 +616,12 @@
         <mark key="." line="8" column="39" />
         <mark key="[" line="8" column="35" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.detail.js" timestamp="1450344675406">
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.detail.js" timestamp="1450344937728">
         <mark key="'" line="71" column="0" />
-        <mark key="]" line="87" column="34" />
-        <mark key="^" line="87" column="34" />
-        <mark key="." line="87" column="34" />
-        <mark key="[" line="87" column="28" />
+        <mark key="]" line="84" column="9" />
+        <mark key="^" line="91" column="49" />
+        <mark key="." line="84" column="9" />
+        <mark key="[" line="84" column="9" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/package.json" timestamp="1449479047622">
         <mark key="]" line="21" column="0" />
@@ -774,46 +774,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>currentVideoId</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGlkPSJwaWNrVmlkZW8iIGNsYXNzPSJidG4gYnRuLXN1Y2Nlc3MgYnRuLWZsYXQgYnRuVXBsb2FkIj7kuIrkvKDop4bpopE8L2E+Cg==</text>
+      <register name="3" type="4">
+        <text>currentVideoId</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHA+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0iaGVscC1pbmxpbmUgdGV4dC1lcnJvciI+PC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3A+Cg==</text>
+      <register name="2" type="4">
+        <text>currentVideoId</text>
       </register>
       <register name="1" type="4">
-        <text>0</text>
+        <text>currentVideoId</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlVXBsb2FkOiByZXF1aXJlKCdjb21wb25lbnRzL2ZpbGUtdXBsb2FkL2ZpbGUtdXBsb2FkJyksCg==</text>
+      <register name="0" type="4">
+        <text>detail.article_medias[0]</text>
       </register>
       <register name="7" type="4">
-        <text>&quot;</text>
-      </register>
-      <register name="6" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9ImhpZGRlbiIgY2xhc3M9ImltYWdlcyIgbmFtZT0iY292ZXIiIHYtbW9kZWw9ImRldGFpbC5jb3ZlciIgcmVxdWlyZWQgZGF0YS12YWxpZGF0aW9uLW1lc3NhZ2U9IuW/hemhu+S4iuS8oOWwgemdoiI+Cg==</text>
+      <register name="6" type="4">
+        <text>&quot;</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx2aWRlbyBjbGFzcz0idXBsb2FkZWQiIDpjbGFzcz0ieydoaWRlJzohY3VycmVudFZpZGVvSWR9Ij48L3ZpZGVvPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjdXJyZW50VmlkZW9JZDogewogICAgICAgICAgICBnZXQ6IGZ1bmN0aW9uKCkgewogICAgICAgICAgICAgICAgcmV0dXJuIHRoaXMuZGV0YWlsLmFydGljbGVfbWVkaWFzWzBdOwogICAgICAgICAgICB9LAogICAgICAgICAgICBzZXQ6IGZ1bmN0aW9uKHgpIHsKICAgICAgICAgICAgICAgIC8vY29uc29sZS5sb2coInNldCB2aWRlbyBpZDogIix4LCIg5aW95YOP5rKh5YaZ5YWl5oiQ5Yqf77yfIik7CiAgICAgICAgICAgICAgICB0aGlzLmRldGFpbC5hcnRpY2xlX21lZGlhc1swXSA9IHg7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text>,</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>:</text>
+        <text>I</text>
       </register>
       <register name="8" type="4">
-        <text>;</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>article</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>currentVideoId</text>
       </register>
     </registers>
     <search>
