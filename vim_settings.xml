@@ -52,6 +52,12 @@
         <mark key="." line="1" column="37" />
         <mark key="[" line="1" column="36" />
       </file>
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/product/product.tpl" timestamp="1450335223075">
+        <mark key="]" line="13" column="36" />
+        <mark key="^" line="13" column="36" />
+        <mark key="." line="13" column="36" />
+        <mark key="[" line="13" column="27" />
+      </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/label/label-default.html" timestamp="1449545544823">
         <mark key="]" line="2" column="16" />
         <mark key="^" line="2" column="16" />
@@ -294,11 +300,11 @@
         <mark key="." line="9" column="35" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.detail.tpl" timestamp="1450320585275">
-        <mark key="]" line="107" column="35" />
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.detail.tpl" timestamp="1450333976108">
+        <mark key="]" line="34" column="45" />
         <mark key="^" line="107" column="55" />
         <mark key="." line="107" column="35" />
-        <mark key="[" line="107" column="35" />
+        <mark key="[" line="24" column="0" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/background.scss" timestamp="1449474667050">
         <mark key="]" line="7" column="42" />
@@ -545,6 +551,12 @@
         <mark key="." line="106" column="30" />
         <mark key="[" line="102" column="30" />
       </file>
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/product/product.js" timestamp="1450335202425">
+        <mark key="]" line="35" column="42" />
+        <mark key="^" line="35" column="42" />
+        <mark key="." line="35" column="42" />
+        <mark key="[" line="33" column="9" />
+      </file>
       <file name="$USER_HOME$/project/pet/wechat/views/disease/index.scss" timestamp="1449627744567">
         <mark key="]" line="60" column="47" />
         <mark key="^" line="60" column="47" />
@@ -605,12 +617,12 @@
         <mark key="." line="8" column="39" />
         <mark key="[" line="8" column="35" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.detail.js" timestamp="1450321111782">
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.detail.js" timestamp="1450335079458">
         <mark key="'" line="71" column="0" />
-        <mark key="]" line="139" column="48" />
+        <mark key="]" line="22" column="2" />
         <mark key="^" line="139" column="48" />
         <mark key="." line="139" column="48" />
-        <mark key="[" line="138" column="63" />
+        <mark key="[" line="16" column="0" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/package.json" timestamp="1449479047622">
         <mark key="]" line="21" column="0" />
@@ -762,47 +774,47 @@
       <jump line="71" column="0" filename="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.detail.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dmFyIGluaW5RaW5pdVVwbG9hZCA9IHJlcXVpcmUoJ2NvbXBvbmVudHMvc3VtbWVybm90ZS9xaW5pdS51cGxvYWQnKTsKCmluaW5RaW5pdVVwbG9hZCh7CiAgICB1cGxvYWQ6IGNvbmZpZy5xaW5pdS51cGxvYWRVcmwoKSwKICAgIHRva2VuOiBjb25maWcucWluaXUudG9rZW5VcmwoKSwKICAgIHByZXZpZXc6IGNvbmZpZy5xaW5pdS5wcmV2aWV3VXJsCn0pOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text>,</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZWNUYWdMaXN0OiBmdW5jdGlvbgo=</text>
+      <register name="2" type="4">
+        <text>primary</text>
       </register>
-      <register name="1" type="4">
-        <text>,</text>
+      <register name="1" type="2">
+        <text encoding="base64">dmFyIGluaW5RaW5pdVVwbG9hZCA9IHJlcXVpcmUoJ2NvbXBvbmVudHMvc3VtbWVybm90ZS9xaW5pdS51cGxvYWQnKTsKCmluaW5RaW5pdVVwbG9hZCh7CiAgICB1cGxvYWQ6IGNvbmZpZy5xaW5pdS51cGxvYWRVcmwoKSwKICAgIHRva2VuOiBjb25maWcucWluaXUudG9rZW5VcmwoKSwKICAgIHByZXZpZXc6IGNvbmZpZy5xaW5pdS5wcmV2aWV3VXJsCn0pOwo=</text>
       </register>
-      <register name="0" type="4">
-        <text>v-if=&quot;input&quot; @click=&quot;add&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGluaW5RaW5pdVVwbG9hZCA9IHJlcXVpcmUoJ2NvbXBvbmVudHMvc3VtbWVybm90ZS9xaW5pdS51cGxvYWQnKTsKCmluaW5RaW5pdVVwbG9hZCh7CiAgICB1cGxvYWQ6IGNvbmZpZy5xaW5pdS51cGxvYWRVcmwoKSwKICAgIHRva2VuOiBjb25maWcucWluaXUudG9rZW5VcmwoKSwKICAgIHByZXZpZXc6IGNvbmZpZy5xaW5pdS5wcmV2aWV3VXJsCn0pOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>changeState</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8IS0tIDxhIGhyZWY9IiMiIGNsYXNzPSJidG4gYnRuLXN1Y2Nlc3MgYnRuLWZsYXQiPuS7juWbvueJh+W6k+mAieaLqTwvYT4gLS0+Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>添加此标签</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLyoqCiAgICAgICAgICAgICAqIAogICAgICAgICAgICAgKi8K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGxpIHYtaWY9ImlucHV0IiBAY2xpY2s9ImFkZCI+5re75Yqg5q2k5qCH562+PC9saT4KICAgICAgICAgICAgPGxpIEBjbGljaz0icmVzZXRUb1N0YXRpYyI+5Y+W5raIPC9saT4K</text>
+      <register name="5" type="4">
+        <text>Cover</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVjVGFnTGlzdDogW10sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxwPgogICAgICAgICAgICAgICAgICAgIDxhIGlkPSJwaWNrUHJvZHVjdENvdmVyIiBocmVmPSJqYXZhc2NyaXB0OjsiIGNsYXNzPSJidG4gYnRuLXN1Y2Nlc3MgYnRuLWZsYXQgYnRuVXBsb2FkIj7kuIrkvKDlm77niYc8L2E+CiAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9ImhlbHAtaW5saW5lIHRleHQtZXJyb3IiPjwvc3Bhbj4KICAgICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgICAgIDxkaXY+CiAgICAgICAgICAgICAgICAgICAgPGltZyBjbGFzcz0idXBsb2FkZWQiIDpjbGFzcz0ieyd1cGxvYWQtaW1nJzp0cnVlLCAnaGlkZSc6IWRldGFpbC5jb3Zlcl9pZH0iICBhbHQ9IiI+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJoaWRkZW4iIGNsYXNzPSJpbWFnZXMiIG5hbWU9ImNvdmVyIiB2LW1vZGVsPSJkZXRhaWwuY292ZXIiIHJlcXVpcmVkIGRhdGEtdmFsaWRhdGlvbi1tZXNzYWdlPSLlv4XpobvkuIrkvKDlsIHpnaIiPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiAKICAgICAgICAgKiBAcGFyYW0gdGl0bGUKICAgICAgICAgKi8KICAgICAgICBjaGFuZ2VJbnB1dDogZnVuY3Rpb24odGl0bGUpIHsK</text>
+        <text encoding="base64">ICAgIDwhLS3mt7vliqDljLrln58tLT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiAKICAgICAgICAgKiBAcGFyYW0gdGl0bGUKICAgICAgICAgKi8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="/" type="4">
         <text>article</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>primary</text>
       </register>
     </registers>
     <search>
