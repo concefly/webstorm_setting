@@ -52,11 +52,11 @@
         <mark key="." line="1" column="37" />
         <mark key="[" line="1" column="36" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/product/product.tpl" timestamp="1450337474837">
-        <mark key="]" line="35" column="9" />
-        <mark key="^" line="15" column="84" />
-        <mark key="." line="33" column="0" />
-        <mark key="[" line="33" column="0" />
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/product/product.tpl" timestamp="1450338626873">
+        <mark key="]" line="16" column="81" />
+        <mark key="^" line="16" column="81" />
+        <mark key="." line="16" column="81" />
+        <mark key="[" line="16" column="68" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/label/label-default.html" timestamp="1449545544823">
         <mark key="]" line="2" column="16" />
@@ -300,11 +300,11 @@
         <mark key="." line="9" column="35" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.detail.tpl" timestamp="1450335323907">
-        <mark key="]" line="58" column="28" />
-        <mark key="^" line="58" column="28" />
-        <mark key="." line="58" column="28" />
-        <mark key="[" line="55" column="32" />
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.detail.tpl" timestamp="1450338327673">
+        <mark key="]" line="4" column="83" />
+        <mark key="^" line="4" column="83" />
+        <mark key="." line="4" column="83" />
+        <mark key="[" line="4" column="81" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/background.scss" timestamp="1449474667050">
         <mark key="]" line="7" column="42" />
@@ -551,11 +551,11 @@
         <mark key="." line="106" column="30" />
         <mark key="[" line="102" column="30" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/product/product.js" timestamp="1450337363377">
-        <mark key="]" line="76" column="65" />
-        <mark key="^" line="76" column="66" />
-        <mark key="." line="76" column="65" />
-        <mark key="[" line="76" column="65" />
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/product/product.js" timestamp="1450338772470">
+        <mark key="]" line="58" column="40" />
+        <mark key="^" line="58" column="40" />
+        <mark key="." line="58" column="40" />
+        <mark key="[" line="57" column="33" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/views/disease/index.scss" timestamp="1449627744567">
         <mark key="]" line="60" column="47" />
@@ -617,12 +617,12 @@
         <mark key="." line="8" column="39" />
         <mark key="[" line="8" column="35" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.detail.js" timestamp="1450337356545">
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.detail.js" timestamp="1450338168381">
         <mark key="'" line="71" column="0" />
-        <mark key="]" line="136" column="66" />
+        <mark key="]" line="95" column="23" />
         <mark key="^" line="140" column="60" />
-        <mark key="." line="140" column="60" />
-        <mark key="[" line="136" column="0" />
+        <mark key="." line="95" column="23" />
+        <mark key="[" line="95" column="23" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/package.json" timestamp="1449479047622">
         <mark key="]" line="21" column="0" />
@@ -774,47 +774,47 @@
       <jump line="71" column="0" filename="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.detail.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDx0ciB2LWlmPSJjdXJyZW50U3RhdGU9J3N0YXRpYyciPgogICAgICAgIDxidXR0b24gY2xhc3M9ImJ0biBidG4tZGVmYXVsdCBidG4tc20iIEBjbGljaz0icmVzZXRUb1JlYWR5IiB2LWlmPSJwcm9kdWN0TGlzdC5sZW5ndGg8MyI+5re75Yqg5Lqn5ZOBPC9idXR0b24+CiAgICA8L3RyPgo=</text>
+      <register name="&quot;" type="4">
+        <text>32</text>
       </register>
       <register name="3" type="4">
-        <text>,</text>
+        <text>e</text>
       </register>
       <register name="2" type="4">
-        <text>,</text>
+        <text>button</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIDx0ciB2LWlmPSJjdXJyZW50U3RhdGU9J3N0YXRpYyciPgogICAgICAgIDxidXR0b24gY2xhc3M9ImJ0biBidG4tZGVmYXVsdCBidG4tc20iIEBjbGljaz0icmVzZXRUb1JlYWR5IiB2LWlmPSJwcm9kdWN0TGlzdC5sZW5ndGg8MyI+5re75Yqg5Lqn5ZOBPC9idXR0b24+CiAgICA8L3RyPgo=</text>
+      <register name="1" type="4">
+        <text>32</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBmaWxlVXBsb2FkOiByZXF1aXJlKCdjb21wb25lbnRzL2ZpbGUtdXBsb2FkL2ZpbGUtdXBsb2FkJyksCg==</text>
       </register>
       <register name="7" type="4">
-        <text>cancel</text>
+        <text>e</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="6" type="4">
+        <text>v</text>
       </register>
       <register name="5" type="4">
-        <text>,</text>
+        <text>save($event)</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAiZmlsZS11cGwiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmV2ZW50RGVmYXVsdCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>,</text>
+        <text>(</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjYW5jZWw6IGZ1bmN0aW9uKCkgewogICAgICAgICAgICAKICAgICAgICB9LAo=</text>
+      <register name="8" type="4">
+        <text>$</text>
       </register>
       <register name="/" type="4">
         <text>article</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>32</text>
       </register>
     </registers>
     <search>
