@@ -131,6 +131,9 @@
         <mark key="." line="8" column="22" />
         <mark key="[" line="8" column="19" />
       </file>
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/tag/tag.js" timestamp="1450318269443">
+        <mark key="[" line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/font.scss" timestamp="1449712262284">
         <mark key="]" line="13" column="13" />
         <mark key="^" line="13" column="13" />
@@ -366,6 +369,12 @@
         <mark key="^" line="1" column="37" />
         <mark key="." line="1" column="37" />
         <mark key="[" line="0" column="125" />
+      </file>
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/tag/tag.tpl" timestamp="1450320005204">
+        <mark key="]" line="16" column="16" />
+        <mark key="^" line="4" column="54" />
+        <mark key="." line="16" column="16" />
+        <mark key="[" line="16" column="16" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/whitespace.scss" timestamp="1449469632633">
         <mark key="]" line="34" column="19" />
@@ -746,47 +755,47 @@
       <jump line="71" column="0" filename="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.detail.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHVybDogYXNzZXRfcGF0aCArICckMCcgLy/mlLnlj5jlvJXnlKjlnLDlnYAK</text>
+      <register name="3" type="4">
+        <text>0</text>
       </register>
       <register name="2" type="4">
-        <text>,</text>
+        <text>&quot;</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZmlzLm1hdGNoKCcqKicsey8ve2NvbXBvbmVudHMsdmlld3MsbGlic30vCiAgICByZWxlYXNlOiAiL3B1YmxpYyIgKyBhc3NldF9wYXRoICsgJy8kMCcsCiAgICB1cmw6IGFzc2V0X3BhdGggKyAnJDAnIC8v5pS55Y+Y5byV55So5Zyw5Z2ACn0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGxpIHYtaWY9InJlY1RhZ0xpc3QubGVuZ3RoPT0wIiBAY2xpY2s9ImFkZCI+5re75Yqg5q2k5qCH562+PC9saT4KICAgICAgICAgICAgPGxpIHYtZWxzZSB2LWZvcj0icmVjVGFnIGluIHJlY1RhZ0xpc3QiIEBjbGljaz0ic2VsZWN0KHJlY1RhZykiPnslIHJlY1RhZy50aXRsZXx8IuaXoOagh+mimCIgJX08L2xpPgo=</text>
       </register>
       <register name="7" type="4">
-        <text>:</text>
+        <text>t</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiBsaWdodHNreWJsdWU7ZGQK</text>
+      <register name="6" type="4">
+        <text>h</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICcqKi50cGwnLAo=</text>
+      <register name="5" type="4">
+        <text>=</text>
       </register>
       <register name="4" type="4">
-        <text>&quot;/public&quot; + asset_path + '/$0',</text>
+        <text>=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>,</text>
+        <text>n</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB0aGlzLmRldGFpbC5jYXRlZ29yaWVzWzBdOwo=</text>
+      <register name="8" type="4">
+        <text>g</text>
       </register>
       <register name="/" type="4">
         <text>article</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
