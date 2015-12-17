@@ -299,11 +299,11 @@
         <mark key="." line="9" column="35" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.detail.tpl" timestamp="1450338327673">
-        <mark key="]" line="4" column="83" />
-        <mark key="^" line="4" column="83" />
-        <mark key="." line="4" column="83" />
-        <mark key="[" line="4" column="81" />
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.detail.tpl" timestamp="1450344539154">
+        <mark key="]" line="41" column="39" />
+        <mark key="^" line="41" column="39" />
+        <mark key="." line="41" column="39" />
+        <mark key="[" line="40" column="125" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/background.scss" timestamp="1449474667050">
         <mark key="]" line="7" column="42" />
@@ -616,12 +616,12 @@
         <mark key="." line="8" column="39" />
         <mark key="[" line="8" column="35" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.detail.js" timestamp="1450338168381">
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.detail.js" timestamp="1450344675406">
         <mark key="'" line="71" column="0" />
-        <mark key="]" line="95" column="23" />
-        <mark key="^" line="140" column="60" />
-        <mark key="." line="95" column="23" />
-        <mark key="[" line="95" column="23" />
+        <mark key="]" line="87" column="34" />
+        <mark key="^" line="87" column="34" />
+        <mark key="." line="87" column="34" />
+        <mark key="[" line="87" column="28" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/package.json" timestamp="1449479047622">
         <mark key="]" line="21" column="0" />
@@ -773,47 +773,47 @@
       <jump line="71" column="0" filename="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.detail.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDx0ciB2LWlmPSJjdXJyZW50U3RhdGU9PSdzdGF0aWMnIj4KICAgIDwvdHI+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>0</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8YSBjbGFzcz0iYnRuIGJ0bi1kZWZhdWx0IGJ0bi1zbSIgQGNsaWNrPSJyZXNldFRvUmVhZHkiIHYtaWY9InByb2R1Y3RMaXN0Lmxlbmd0aDwzIj7mt7vliqDkuqflk4E8L2E+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGlkPSJwaWNrVmlkZW8iIGNsYXNzPSJidG4gYnRuLXN1Y2Nlc3MgYnRuLWZsYXQgYnRuVXBsb2FkIj7kuIrkvKDop4bpopE8L2E+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHA+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0iaGVscC1pbmxpbmUgdGV4dC1lcnJvciI+PC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3A+Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIDx0ciB2LWlmPSJjdXJyZW50U3RhdGU9PSdzdGF0aWMnIj4KICAgIDwvdHI+Cg==</text>
+      <register name="1" type="4">
+        <text>0</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBmaWxlVXBsb2FkOiByZXF1aXJlKCdjb21wb25lbnRzL2ZpbGUtdXBsb2FkL2ZpbGUtdXBsb2FkJyksCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIDx0ciB2LWlmPSJjdXJyZW50U3RhdGU9PSdyZWFkeSdlbmRpbmciPgogICAgPC90cj4K</text>
+      <register name="7" type="4">
+        <text>&quot;</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8dGVtcGxhdGUgdi1pZj0iaXNQZW5kaW5nIj4KICAgICAgICAgICAgPHRkPgogICAgICAgICAgICAgICAg5q2j5Zyo5re75YqgLi4uCiAgICAgICAgICAgIDwvdGQ+CiAgICAgICAgPC90ZW1wbGF0ZT4KICAgICAgICA8dGVtcGxhdGUgdi1lbHNlPgogICAgICAgICAgICA8dGQ+CiAgICAgICAgICAgICAgICA8ZmlsZS11cGxvYWQgOnVwbG9hZGVkLWlkLnN5bmM9ImRldGFpbC5jb3Zlcl9pZCIgOnRva2VuLXVybD0iY29uZmlnLnFpbml1LnRva2VuVXJsKCkiIDpjb25maWc9ImNvbmZpZy5xaW5pdS51cGxvYWRTZXR0aW5nIj4KICAgICAgICAgICAgICAgICAgICA8YSBjbGFzcz0iYnRuIGJ0bi1saW5rIGJ0bi14cyBidG5VcGxvYWQiIGlkPSJwaWNrUHJvZHVjdENvdmVyIiB2LWlmPSIhZGV0YWlsLmNvdmVyX2lkIj7kuIrkvKDlm77niYc8L2E+CiAgICAgICAgICAgICAgICAgICAgPGltZyA6c3JjPSJpbWdQcmVmaXgrZGV0YWlsLmNvdmVyX2lkIiBhbHQ9IiIgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiB2LWVsc2U+CiAgICAgICAgICAgICAgICA8L2ZpbGUtdXBsb2FkPgogICAgICAgICAgICA8L3RkPgogICAgICAgICAgICA8dGQ+CiAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0idGV4dCIgdi1tb2RlbD0iZGV0YWlsLnRpdGxlIj4KICAgICAgICAgICAgICAgIDxicj4KICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJ1cmwiIHYtbW9kZWw9ImRldGFpbC5saW5rIj4KICAgICAgICAgICAgICAgIDxicj4KICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJidG4gYnRuLWxpbmsgYnRuLXhzIiBAY2xpY2s9ImFkZCIgdi1pZj0iZGV0YWlsLnRpdGxlICYmIGRldGFpbC5saW5rICYmIGRldGFpbC5jb3Zlcl9pZCI+56Gu5a6aPC9hPgogICAgICAgICAgICAgICAgPGEgY2xhc3M9ImJ0biBidG4tbGluayBidG4teHMiIEBjbGljaz0icmVzZXRUb1N0YXRpYyI+5Y+W5raIPC9hPgogICAgICAgICAgICA8L3RkPgogICAgICAgIDwvdGVtcGxhdGU+Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9ImhpZGRlbiIgY2xhc3M9ImltYWdlcyIgbmFtZT0iY292ZXIiIHYtbW9kZWw9ImRldGFpbC5jb3ZlciIgcmVxdWlyZWQgZGF0YS12YWxpZGF0aW9uLW1lc3NhZ2U9IuW/hemhu+S4iuS8oOWwgemdoiI+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDx0ciB2LWlmPSJjdXJyZW50U3RhdGU9PSdyZWFkeSciPgogICAgPC90cj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx2aWRlbyBjbGFzcz0idXBsb2FkZWQiIDpjbGFzcz0ieydoaWRlJzohY3VycmVudFZpZGVvSWR9Ij48L3ZpZGVvPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>s</text>
+        <text>:</text>
       </register>
       <register name="8" type="4">
-        <text>P</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>article</text>
       </register>
       <register name="-" type="4">
-        <text>P</text>
+        <text>0</text>
       </register>
     </registers>
     <search>
