@@ -99,11 +99,11 @@
         <mark key="." line="12" column="19" />
         <mark key="[" line="12" column="18" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/author-select/author-select.js" timestamp="1450420130641">
-        <mark key="]" line="44" column="22" />
-        <mark key="^" line="44" column="22" />
-        <mark key="." line="44" column="22" />
-        <mark key="[" line="44" column="12" />
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/author-select/author-select.js" timestamp="1450422865211">
+        <mark key="]" line="36" column="50" />
+        <mark key="^" line="36" column="50" />
+        <mark key="." line="36" column="50" />
+        <mark key="[" line="34" column="16" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/user/user.detail.js" timestamp="1450247102678">
         <mark key="'" line="25" column="8" />
@@ -305,11 +305,11 @@
         <mark key="." line="9" column="35" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.detail.tpl" timestamp="1450412468220">
-        <mark key="]" line="27" column="53" />
-        <mark key="^" line="27" column="35" />
-        <mark key="." line="27" column="53" />
-        <mark key="[" line="27" column="53" />
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.detail.tpl" timestamp="1450422973302">
+        <mark key="]" line="18" column="46" />
+        <mark key="^" line="18" column="46" />
+        <mark key="." line="18" column="46" />
+        <mark key="[" line="17" column="88" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/background.scss" timestamp="1449474667050">
         <mark key="]" line="7" column="42" />
@@ -555,11 +555,11 @@
         <mark key="." line="26" column="23" />
         <mark key="[" line="29" column="25" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.list.js" timestamp="1450258042849">
-        <mark key="]" line="106" column="30" />
-        <mark key="^" line="106" column="30" />
-        <mark key="." line="106" column="30" />
-        <mark key="[" line="102" column="30" />
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.list.js" timestamp="1450423705050">
+        <mark key="]" line="53" column="40" />
+        <mark key="^" line="53" column="40" />
+        <mark key="." line="53" column="40" />
+        <mark key="[" line="52" column="31" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/product/product.js" timestamp="1450338889460">
         <mark key="]" line="73" column="34" />
@@ -633,11 +633,11 @@
         <mark key="." line="8" column="39" />
         <mark key="[" line="8" column="35" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.detail.js" timestamp="1450420324735">
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.detail.js" timestamp="1450423286779">
         <mark key="'" line="79" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
-        <mark key="[" line="57" column="0" />
+        <mark key="]" line="155" column="0" />
+        <mark key="." line="155" column="0" />
+        <mark key="[" line="155" column="0" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/package.json" timestamp="1449479047622">
         <mark key="]" line="21" column="0" />
@@ -791,46 +791,46 @@
     </jumps>
     <registers>
       <register name="3" type="4">
-        <text>return</text>
+        <text>章</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5ld0RldGFpbCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>表</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHguaWQpOwo=</text>
+      <register name="2" type="4">
+        <text>列</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5ld0RldGFpbCk7Cg==</text>
+      <register name="1" type="4">
+        <text>表</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5pY2tuYW1lOiBfLmZpbmQodGhpcy5hdXRob3JMaXN0LGZ1bmN0aW9uKGF1dGhvcil7cmV0dXJuIGF1dGhvci5pZD09dmFsfSkubmlja25hbWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5pdGVtID0gXy5maW5kKHRoaXMuYXV0aG9yTGlzdCxmdW5jdGlvbihhdXRob3Ipe3JldHVybiBhdXRob3IuaWQ9PU51bWJlcih2YWwpfSk7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>nickname</text>
+        <text>新</text>
       </register>
       <register name="6" type="4">
-        <text>nickname</text>
+        <text>后</text>
       </register>
       <register name="5" type="4">
-        <text>List</text>
+        <text>的</text>
       </register>
       <register name="4" type="4">
-        <text>[]</text>
+        <text>文</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHsKICAgICAgICAgICAgICAgIGlkOiB2YWwsCiAgICAgICAgICAgICAgICBuaWNrbmFtZTogXy5maW5kKHRoaXMuYXV0aG9yTGlzdCxmdW5jdGlvbihhdXRob3Ipe3JldHVybiBhdXRob3IuaWQ9PXZhbH0pLm5pY2tuYW1lCiAgICAgICAgICAgIH0K</text>
+      <register name="9" type="4">
+        <text>看</text>
       </register>
       <register name="8" type="4">
-        <text>.</text>
+        <text>更</text>
       </register>
       <register name="/" type="4">
         <text>article</text>
       </register>
       <register name="-" type="4">
-        <text>return</text>
+        <text>表</text>
       </register>
     </registers>
     <search>
@@ -869,7 +869,6 @@
         <entry>103</entry>
         <entry>230</entry>
         <entry>44,45 s/category_id/article_type</entry>
-        <entry>q</entry>
         <entry>56</entry>
         <entry>275</entry>
         <entry>375</entry>
@@ -885,6 +884,7 @@
         <entry>55,60 s/searchQuery.//</entry>
         <entry>53,60 s/state/status</entry>
         <entry>367</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
