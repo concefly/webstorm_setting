@@ -299,11 +299,11 @@
         <mark key="." line="9" column="35" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.detail.tpl" timestamp="1450346241397">
-        <mark key="]" line="79" column="50" />
-        <mark key="^" line="79" column="50" />
-        <mark key="." line="79" column="50" />
-        <mark key="[" line="79" column="47" />
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.detail.tpl" timestamp="1450404333716">
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="86" column="50" />
+        <mark key="." line="26" column="0" />
+        <mark key="[" line="23" column="32" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/background.scss" timestamp="1449474667050">
         <mark key="]" line="7" column="42" />
@@ -774,40 +774,40 @@
     </jumps>
     <registers>
       <register name="3" type="4">
-        <text>s</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>detail</text>
-      </register>
-      <register name="2" type="4">
         <text>.</text>
       </register>
-      <register name="1" type="4">
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0idGV4dCIgY2xhc3M9ImZvcm0tY29udHJvbCIgbmFtZT0iYXV0aG9yIiBwbGFjZWhvbGRlcj0i6K+36L6T5YWl5L2c6ICF5ZCNIiBtYXhsZW5ndGg9IjgiIHJlcXVpcmVkIHYtbW9kZWw9ImRldGFpbC5hdXRob3IiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJoZWxwLWlubGluZSB0ZXh0LWVycm9yIj48L3NwYW4+Cg==</text>
+      </register>
+      <register name="2" type="4">
         <text>detail</text>
       </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0idGV4dCIgY2xhc3M9ImZvcm0tY29udHJvbCIgbmFtZT0iYXV0aG9yIiBwbGFjZWhvbGRlcj0i6K+36L6T5YWl5L2c6ICF5ZCNIiBtYXhsZW5ndGg9IjgiIHJlcXVpcmVkIHYtbW9kZWw9ImRldGFpbC5hdXRob3IiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJoZWxwLWlubGluZSB0ZXh0LWVycm9yIj48L3NwYW4+Cg==</text>
+      </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJC5zYXZlKGNvbmZpZy5hcGkoKSArICIvYXJ0aWNsZSIsIHRoaXMuZGV0YWlsKS50aGVuKGZ1bmN0aW9uKGRhdGEpewogICAgICAgICAgICAgICAgaWYodHlwZW9mIHRoaXMuZGV0YWlsLmlkID09ICJ1bmRlZmluZWQiKSBhbGVydCgn5re75Yqg5oiQ5Yqf77yBJyk7CiAgICAgICAgICAgICAgICBlbHNlIGFsZXJ0KCfkv67mlLnmiJDlip/vvIEnKTsKICAgICAgICAgICAgICAgIHRoaXMuJHJvdXRlLnJvdXRlci5nbyh7CiAgICAgICAgICAgICAgICAgICAgbmFtZTogJ2FydGljbGUvbGlzdCcsCiAgICAgICAgICAgICAgICAgICAgcGFyYW1zOiB7CiAgICAgICAgICAgICAgICAgICAgICAgIHN0YWdlOiAicmVhZHktdG8tdmVyaWZ5IgogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICB9LmJpbmQodGhpcyksIGZ1bmN0aW9uKCl7CiAgICAgICAgICAgICAgICBpZih0eXBlb2YgdGhpcy5kZXRhaWwuaWQgPT0gInVuZGVmaW5lZCIpIGFsZXJ0KCfmt7vliqDlpLHotKXvvIEnKTsKICAgICAgICAgICAgICAgIGVsc2UgYWxlcnQoJ+S/ruaUueWksei0pe+8gScpCiAgICAgICAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRyIHYtaWY9ImN1cnJlbnRBcnRpY2xlVHlwZSE9MyI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGggd2lkdGg9IjEyMCI+5L2c6ICFPC90aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0idGV4dCIgY2xhc3M9ImZvcm0tY29udHJvbCIgbmFtZT0iYXV0aG9yIiBwbGFjZWhvbGRlcj0i6K+36L6T5YWl5L2c6ICF5ZCNIiBtYXhsZW5ndGg9IjgiIHJlcXVpcmVkIHYtbW9kZWw9ImRldGFpbC5hdXRob3IiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJoZWxwLWlubGluZSB0ZXh0LWVycm9yIj48L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3RkPgogICAgICAgICAgICAgICAgICAgICAgICA8L3RyPgo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJAo=</text>
-      </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>t</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>h</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>i</text>
+      </register>
+      <register name="4" type="4">
+        <text>s</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>垃圾箱</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJAo=</text>
       </register>
       <register name="/" type="4">
         <text>article</text>
