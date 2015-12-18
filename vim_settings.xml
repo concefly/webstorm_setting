@@ -561,11 +561,11 @@
         <mark key="." line="53" column="40" />
         <mark key="[" line="52" column="31" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/product/product.js" timestamp="1450338889460">
-        <mark key="]" line="73" column="34" />
-        <mark key="^" line="73" column="34" />
-        <mark key="." line="73" column="34" />
-        <mark key="[" line="72" column="34" />
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/product/product.js" timestamp="1450425349371">
+        <mark key="]" line="65" column="0" />
+        <mark key="^" line="64" column="108" />
+        <mark key="." line="65" column="0" />
+        <mark key="[" line="65" column="0" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/views/disease/index.scss" timestamp="1449627744567">
         <mark key="]" line="60" column="47" />
@@ -791,46 +791,46 @@
     </jumps>
     <registers>
       <register name="3" type="4">
-        <text>章</text>
+        <text>e</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>表</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocC5pZCxzZWxmLnByb2R1Y3RMaXN0KTsK</text>
       </register>
-      <register name="2" type="4">
-        <text>列</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLmlzUGVuZGluZyA9IGZhbHMK</text>
       </register>
-      <register name="1" type="4">
-        <text>表</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocC5pZCxzZWxmLnByb2R1Y3RMaXN0KTsK</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy5pdGVtID0gXy5maW5kKHRoaXMuYXV0aG9yTGlzdCxmdW5jdGlvbihhdXRob3Ipe3JldHVybiBhdXRob3IuaWQ9PU51bWJlcih2YWwpfSk7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>新</text>
+        <text>章</text>
       </register>
       <register name="6" type="4">
-        <text>后</text>
+        <text>列</text>
       </register>
       <register name="5" type="4">
-        <text>的</text>
+        <text>表</text>
       </register>
       <register name="4" type="4">
-        <text>文</text>
+        <text>;</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>看</text>
+        <text>的</text>
       </register>
       <register name="8" type="4">
-        <text>更</text>
+        <text>文</text>
       </register>
       <register name="/" type="4">
         <text>article</text>
       </register>
       <register name="-" type="4">
-        <text>表</text>
+        <text>e</text>
       </register>
     </registers>
     <search>
