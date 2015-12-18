@@ -28,29 +28,29 @@
         <mark key="." line="76" column="30" />
         <mark key="[" line="76" column="28" />
       </file>
-      <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/hr.scss" timestamp="1449224068166">
-        <mark key="]" line="16" column="30" />
-        <mark key="^" line="16" column="30" />
-        <mark key="." line="16" column="30" />
-        <mark key="[" line="16" column="2" />
-      </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/resources/assets/js/admin/plugin/qiniu.vue" timestamp="1449825501998">
         <mark key="]" line="93" column="27" />
         <mark key="^" line="93" column="27" />
         <mark key="." line="93" column="27" />
         <mark key="[" line="93" column="27" />
       </file>
-      <file name="$USER_HOME$/project/pet/wechat/components/app/js/paragraph/title-primary.html" timestamp="1449555933840">
-        <mark key="]" line="2" column="20" />
-        <mark key="^" line="2" column="20" />
-        <mark key="." line="2" column="20" />
-        <mark key="[" line="1" column="63" />
+      <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/hr.scss" timestamp="1449224068166">
+        <mark key="]" line="16" column="30" />
+        <mark key="^" line="16" column="30" />
+        <mark key="." line="16" column="30" />
+        <mark key="[" line="16" column="2" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/label/label-list.html" timestamp="1449563775349">
         <mark key="]" line="1" column="37" />
         <mark key="^" line="1" column="37" />
         <mark key="." line="1" column="37" />
         <mark key="[" line="1" column="36" />
+      </file>
+      <file name="$USER_HOME$/project/pet/wechat/components/app/js/paragraph/title-primary.html" timestamp="1449555933840">
+        <mark key="]" line="2" column="20" />
+        <mark key="^" line="2" column="20" />
+        <mark key="." line="2" column="20" />
+        <mark key="[" line="1" column="63" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/product/product.tpl" timestamp="1450339915878">
         <mark key="]" line="42" column="0" />
@@ -159,18 +159,18 @@
         <mark key="." line="9" column="14" />
         <mark key="[" line="9" column="15" />
       </file>
-      <file name="$USER_HOME$/project/pet/backend/.env" timestamp="1449199882844">
-        <mark key="]" line="7" column="15" />
-        <mark key="^" line="7" column="15" />
-        <mark key="." line="7" column="15" />
-        <mark key="[" line="5" column="12" />
-      </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/config/config.js" timestamp="1450167618286">
         <mark key="'" line="48" column="17" />
         <mark key="]" line="38" column="52" />
         <mark key="^" line="38" column="52" />
         <mark key="." line="38" column="52" />
         <mark key="[" line="34" column="25" />
+      </file>
+      <file name="$USER_HOME$/project/pet/backend/.env" timestamp="1449199882844">
+        <mark key="]" line="7" column="15" />
+        <mark key="^" line="7" column="15" />
+        <mark key="." line="7" column="15" />
+        <mark key="[" line="5" column="12" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/views/check/template-index-analyze.html" timestamp="1449744951695">
         <mark key="]" line="41" column="138" />
@@ -196,17 +196,17 @@
         <mark key="." line="1" column="16" />
         <mark key="[" line="0" column="63" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/user/user.detail.tpl" timestamp="1450247253837">
-        <mark key="]" line="4" column="37" />
-        <mark key="^" line="4" column="37" />
-        <mark key="." line="4" column="37" />
-        <mark key="[" line="4" column="34" />
-      </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/component/label.scss" timestamp="1449474126764">
         <mark key="]" line="63" column="48" />
         <mark key="^" line="51" column="48" />
         <mark key="." line="63" column="48" />
         <mark key="[" line="63" column="47" />
+      </file>
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/user/user.detail.tpl" timestamp="1450247253837">
+        <mark key="]" line="4" column="37" />
+        <mark key="^" line="4" column="37" />
+        <mark key="." line="4" column="37" />
+        <mark key="[" line="4" column="34" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/partials/layout/layout.scss" timestamp="1450317123477">
         <mark key="]" line="39" column="18" />
@@ -244,17 +244,17 @@
         <mark key="." line="4" column="5" />
         <mark key="[" line="6" column="23" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/user/user.tag.js" timestamp="1450248525969">
-        <mark key="]" line="41" column="26" />
-        <mark key="^" line="41" column="26" />
-        <mark key="." line="41" column="26" />
-        <mark key="[" line="50" column="14" />
-      </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.normal.tpl" timestamp="1450148638114">
         <mark key="]" line="59" column="38" />
         <mark key="^" line="59" column="38" />
         <mark key="." line="59" column="38" />
         <mark key="[" line="59" column="34" />
+      </file>
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/user/user.tag.js" timestamp="1450248525969">
+        <mark key="]" line="41" column="26" />
+        <mark key="^" line="41" column="26" />
+        <mark key="." line="41" column="26" />
+        <mark key="[" line="50" column="14" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/author/author.detail.js" timestamp="1450247525097">
         <mark key="]" line="81" column="24" />
@@ -574,17 +574,17 @@
         <mark key="." line="13" column="40" />
         <mark key="[" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/project/pet/wechat/views/check/detail.html" timestamp="1449570166651">
-        <mark key="]" line="26" column="43" />
-        <mark key="^" line="26" column="43" />
-        <mark key="." line="26" column="43" />
-        <mark key="[" line="26" column="43" />
-      </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/component/loading.scss" timestamp="1449569238770">
         <mark key="]" line="25" column="31" />
         <mark key="^" line="25" column="31" />
         <mark key="." line="25" column="31" />
         <mark key="[" line="16" column="23" />
+      </file>
+      <file name="$USER_HOME$/project/pet/wechat/views/check/detail.html" timestamp="1449570166651">
+        <mark key="]" line="26" column="43" />
+        <mark key="^" line="26" column="43" />
+        <mark key="." line="26" column="43" />
+        <mark key="[" line="26" column="43" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/account/signin/signin.view.js" timestamp="1450089062977">
         <mark key="]" line="21" column="30" />
@@ -653,29 +653,29 @@
         <mark key="." line="13" column="23" />
         <mark key="[" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/user/user.list.js" timestamp="1450237301831">
-        <mark key="]" line="51" column="26" />
-        <mark key="^" line="51" column="26" />
-        <mark key="." line="51" column="26" />
-        <mark key="[" line="47" column="9" />
-      </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/resources/assets/js/cms/plugin/utils.js" timestamp="1449742439060">
         <mark key="]" line="12" column="51" />
         <mark key="^" line="18" column="7" />
         <mark key="." line="12" column="51" />
         <mark key="[" line="12" column="50" />
       </file>
-      <file name="$USER_HOME$/project/pet/wechat/views/check/all.scss" timestamp="1449456056731">
-        <mark key="]" line="31" column="43" />
-        <mark key="^" line="31" column="43" />
-        <mark key="." line="31" column="43" />
-        <mark key="[" line="31" column="34" />
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/user/user.list.js" timestamp="1450237301831">
+        <mark key="]" line="51" column="26" />
+        <mark key="^" line="51" column="26" />
+        <mark key="." line="51" column="26" />
+        <mark key="[" line="47" column="9" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/fis-watch.sh" timestamp="1450232375649">
         <mark key="]" line="2" column="98" />
         <mark key="^" line="2" column="98" />
         <mark key="." line="2" column="98" />
         <mark key="[" line="2" column="80" />
+      </file>
+      <file name="$USER_HOME$/project/pet/wechat/views/check/all.scss" timestamp="1449456056731">
+        <mark key="]" line="31" column="43" />
+        <mark key="^" line="31" column="43" />
+        <mark key="." line="31" column="43" />
+        <mark key="[" line="31" column="34" />
       </file>
     </filemarks>
     <jumps>
@@ -773,11 +773,11 @@
       <jump line="71" column="0" filename="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.detail.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>detail</text>
-      </register>
       <register name="3" type="4">
         <text>s</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>detail</text>
       </register>
       <register name="2" type="4">
         <text>.</text>
