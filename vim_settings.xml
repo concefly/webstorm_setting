@@ -305,11 +305,11 @@
         <mark key="." line="9" column="35" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.detail.tpl" timestamp="1450411519027">
-        <mark key="]" line="40" column="77" />
-        <mark key="^" line="40" column="77" />
-        <mark key="." line="40" column="77" />
-        <mark key="[" line="40" column="77" />
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.detail.tpl" timestamp="1450412468220">
+        <mark key="]" line="27" column="53" />
+        <mark key="^" line="27" column="35" />
+        <mark key="." line="27" column="53" />
+        <mark key="[" line="27" column="53" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/background.scss" timestamp="1449474667050">
         <mark key="]" line="7" column="42" />
@@ -478,7 +478,7 @@
         <mark key="." line="6" column="17" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/selection/selection.js" timestamp="1450410859561">
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/selection/selection.js" timestamp="1450413078480">
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
         <mark key="[" line="42" column="0" />
@@ -579,11 +579,11 @@
         <mark key="." line="27" column="2" />
         <mark key="[" line="24" column="2" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/author-select/author-select.tpl" timestamp="1450410675411">
-        <mark key="]" line="3" column="40" />
-        <mark key="^" line="3" column="40" />
-        <mark key="." line="3" column="40" />
-        <mark key="[" line="3" column="40" />
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/author-select/author-select.tpl" timestamp="1450412969333">
+        <mark key="]" line="3" column="96" />
+        <mark key="^" line="3" column="96" />
+        <mark key="." line="3" column="96" />
+        <mark key="[" line="3" column="78" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/views/check/first.html" timestamp="1449631010450">
         <mark key="]" line="17" column="5" />
@@ -792,46 +792,46 @@
     </jumps>
     <registers>
       <register name="3" type="4">
-        <text>l</text>
+        <text>;</text>
       </register>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
-        <text>e</text>
+        <text>&quot;</text>
       </register>
       <register name="1" type="4">
-        <text>_</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRyIHYtaWY9ImN1cnJlbnRBcnRpY2xlVHlwZSE9MyI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGggd2lkdGg9IjEyMCI+5L2c6ICFPC90aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0idGV4dCIgY2xhc3M9ImZvcm0tY29udHJvbCIgbmFtZT0iYXV0aG9yIiBwbGFjZWhvbGRlcj0i6K+36L6T5YWl5L2c6ICF5ZCNIiBtYXhsZW5ndGg9IjgiIHJlcXVpcmVkIHYtbW9kZWw9ImRldGFpbC5hdXRob3IiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJoZWxwLWlubGluZSB0ZXh0LWVycm9yIj48L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3RkPgogICAgICAgICAgICAgICAgICAgICAgICA8L3RyPgo=</text>
       </register>
       <register name="7" type="4">
-        <text>r</text>
-      </register>
-      <register name="6" type="4">
-        <text>t</text>
-      </register>
-      <register name="5" type="4">
         <text>i</text>
       </register>
+      <register name="6" type="4">
+        <text>p</text>
+      </register>
+      <register name="5" type="4">
+        <text>t</text>
+      </register>
       <register name="4" type="4">
-        <text>c</text>
+        <text>:</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>m</text>
+        <text>c</text>
       </register>
       <register name="8" type="4">
-        <text>a</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>article</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
