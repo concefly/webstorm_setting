@@ -305,11 +305,11 @@
         <mark key="." line="9" column="35" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.detail.tpl" timestamp="1450410807844">
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="17" column="68" />
-        <mark key="." line="14" column="0" />
-        <mark key="[" line="14" column="0" />
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.detail.tpl" timestamp="1450411519027">
+        <mark key="]" line="40" column="77" />
+        <mark key="^" line="40" column="77" />
+        <mark key="." line="40" column="77" />
+        <mark key="[" line="40" column="77" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/background.scss" timestamp="1449474667050">
         <mark key="]" line="7" column="42" />
@@ -633,12 +633,12 @@
         <mark key="." line="8" column="39" />
         <mark key="[" line="8" column="35" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.detail.js" timestamp="1450409939550">
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.detail.js" timestamp="1450411529083">
         <mark key="'" line="71" column="0" />
-        <mark key="]" line="94" column="44" />
+        <mark key="]" line="38" column="13" />
         <mark key="^" line="94" column="44" />
-        <mark key="." line="94" column="44" />
-        <mark key="[" line="87" column="29" />
+        <mark key="." line="38" column="13" />
+        <mark key="[" line="38" column="13" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/package.json" timestamp="1449479047622">
         <mark key="]" line="21" column="0" />
@@ -791,47 +791,47 @@
       <jump line="51" column="36" filename="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/selection/selection.js" />
     </jumps>
     <registers>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZih0aGlzLmRhdGFfc291cmNlKSB7CiAgICAgICAgICAgIGluaXRDb25maWcuZGF0YSA9IHRoaXMuZGF0YV9zb3VyY2U7CiAgICAgICAgfQo=</text>
+      <register name="3" type="4">
+        <text>l</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmRhdGFfc291cmNlLGluaXRDb25maWcpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRyIHYtaWY9ImN1cnJlbnRBcnRpY2xlVHlwZSE9MyI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGggd2lkdGg9IjEyMCI+5L2c6ICFPC90aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0idGV4dCIgY2xhc3M9ImZvcm0tY29udHJvbCIgbmFtZT0iYXV0aG9yIiBwbGFjZWhvbGRlcj0i6K+36L6T5YWl5L2c6ICF5ZCNIiBtYXhsZW5ndGg9IjgiIHJlcXVpcmVkIHYtbW9kZWw9ImRldGFpbC5hdXRob3IiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJoZWxwLWlubGluZSB0ZXh0LWVycm9yIj48L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3RkPgogICAgICAgICAgICAgICAgICAgICAgICA8L3RyPgo=</text>
+      <register name="2" type="4">
+        <text>e</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLmRhdGFfc291cmNlLGluaXRDb25maWcpOwo=</text>
+      <register name="1" type="4">
+        <text>_</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRyIHYtaWY9ImN1cnJlbnRBcnRpY2xlVHlwZSE9MyI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGggd2lkdGg9IjEyMCI+5L2c6ICFPC90aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0idGV4dCIgY2xhc3M9ImZvcm0tY29udHJvbCIgbmFtZT0iYXV0aG9yIiBwbGFjZWhvbGRlcj0i6K+36L6T5YWl5L2c6ICF5ZCNIiBtYXhsZW5ndGg9IjgiIHJlcXVpcmVkIHYtbW9kZWw9ImRldGFpbC5hdXRob3IiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJoZWxwLWlubGluZSB0ZXh0LWVycm9yIj48L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3RkPgogICAgICAgICAgICAgICAgICAgICAgICA8L3RyPgo=</text>
       </register>
       <register name="7" type="4">
-        <text>&quot;</text>
+        <text>r</text>
       </register>
       <register name="6" type="4">
-        <text>:</text>
+        <text>t</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiDmlbDmja7mupAKICAgICAgICAgKi8KICAgICAgICBkYXRhX3NvdXJjZTogewogICAgICAgICAgICB0eXBlOiBBcnJheQogICAgICAgIH0K</text>
+      <register name="5" type="4">
+        <text>i</text>
       </register>
       <register name="4" type="4">
-        <text>,</text>
+        <text>c</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>s</text>
+        <text>m</text>
       </register>
       <register name="8" type="4">
-        <text>t</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>article</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>_</text>
       </register>
     </registers>
     <search>
