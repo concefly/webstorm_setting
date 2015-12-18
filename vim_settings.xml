@@ -633,12 +633,12 @@
         <mark key="." line="8" column="39" />
         <mark key="[" line="8" column="35" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.detail.js" timestamp="1450411529083">
-        <mark key="'" line="71" column="0" />
-        <mark key="]" line="38" column="13" />
-        <mark key="^" line="94" column="44" />
-        <mark key="." line="38" column="13" />
-        <mark key="[" line="38" column="13" />
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.detail.js" timestamp="1450417645463">
+        <mark key="'" line="80" column="0" />
+        <mark key="]" line="57" column="26" />
+        <mark key="^" line="57" column="26" />
+        <mark key="." line="57" column="26" />
+        <mark key="[" line="56" column="7" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/package.json" timestamp="1449479047622">
         <mark key="]" line="21" column="0" />
@@ -792,46 +792,46 @@
     </jumps>
     <registers>
       <register name="3" type="4">
-        <text>;</text>
+        <text>detail</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>detail</text>
       </register>
       <register name="2" type="4">
-        <text>&quot;</text>
+        <text>this</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>detail</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRyIHYtaWY9ImN1cnJlbnRBcnRpY2xlVHlwZSE9MyI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGggd2lkdGg9IjEyMCI+5L2c6ICFPC90aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0idGV4dCIgY2xhc3M9ImZvcm0tY29udHJvbCIgbmFtZT0iYXV0aG9yIiBwbGFjZWhvbGRlcj0i6K+36L6T5YWl5L2c6ICF5ZCNIiBtYXhsZW5ndGg9IjgiIHJlcXVpcmVkIHYtbW9kZWw9ImRldGFpbC5hdXRob3IiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJoZWxwLWlubGluZSB0ZXh0LWVycm9yIj48L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3RkPgogICAgICAgICAgICAgICAgICAgICAgICA8L3RyPgo=</text>
       </register>
       <register name="7" type="4">
-        <text>i</text>
+        <text>.</text>
       </register>
       <register name="6" type="4">
-        <text>p</text>
+        <text>}</text>
       </register>
       <register name="5" type="4">
-        <text>t</text>
+        <text>{</text>
       </register>
       <register name="4" type="4">
-        <text>:</text>
+        <text>,</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>c</text>
+        <text>wpropruducts</text>
       </register>
       <register name="8" type="4">
-        <text>r</text>
+        <text>self</text>
       </register>
       <register name="/" type="4">
         <text>article</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>detail</text>
       </register>
     </registers>
     <search>
