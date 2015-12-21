@@ -82,11 +82,10 @@
         <mark key="." line="1" column="67" />
         <mark key="[" line="1" column="64" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/module/module.detail.edit.tpl" timestamp="1450682806074">
-        <mark key="]" line="15" column="50" />
-        <mark key="^" line="15" column="50" />
-        <mark key="." line="15" column="50" />
-        <mark key="[" line="14" column="59" />
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/module/module.detail.edit.tpl" timestamp="1450685365514">
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="[" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/views/check/second.js" timestamp="1449562845867">
         <mark key="]" line="17" column="31" />
@@ -118,11 +117,11 @@
         <mark key="." line="8" column="40" />
         <mark key="[" line="8" column="35" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/module/module.detail.js" timestamp="1450684198549">
-        <mark key="]" line="65" column="0" />
-        <mark key="^" line="65" column="40" />
-        <mark key="." line="65" column="0" />
-        <mark key="[" line="84" column="9" />
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/module/module.detail.js" timestamp="1450685264005">
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="121" column="34" />
+        <mark key="." line="11" column="0" />
+        <mark key="[" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/paragraph/paragraph.html" timestamp="1449555968239">
         <mark key="]" line="1" column="0" />
@@ -323,12 +322,12 @@
         <mark key="." line="7" column="42" />
         <mark key="[" line="7" column="41" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/module/module.detail.tpl" timestamp="1450683694100">
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/module/module.detail.tpl" timestamp="1450684892648">
         <mark key="'" line="30" column="54" />
-        <mark key="]" line="4" column="91" />
-        <mark key="^" line="4" column="91" />
-        <mark key="." line="4" column="91" />
-        <mark key="[" line="4" column="88" />
+        <mark key="]" line="4" column="120" />
+        <mark key="^" line="4" column="120" />
+        <mark key="." line="4" column="120" />
+        <mark key="[" line="4" column="93" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/file-upload/file-upload.js" timestamp="1450259135864">
         <mark key="]" line="3" column="26" />
@@ -808,40 +807,40 @@
     </jumps>
     <registers>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGEgY2xhc3M9ImJ0biBidG4tbGluayBidG4tZGVmYXVsdCI+5o6S5bqPPC9hPgo=</text>
+        <text encoding="base64">PGg1PjxhIGhyZWY9ImphdmFzY3JpcHQ6OyIgQGNsaWNrPSJjYW5jZWwiID4mbHQ7IOWPlua2iDwvYT48L2g1PgoKPGRpdiBjbGFzcz0iY29udGFpbmVyLWZsdWlkIj4KICAgIDxkaXYgY2xhc3M9InJvdyI+CiAgICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLTYiPgogICAgICAgICAgICA8Zm9ybSBjbGFzcz0iZm9ybSIgQHN1Ym1pdC5wcmV2ZW50PgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1ncm91cCI+CiAgICAgICAgICAgICAgICAgICAgPGxhYmVsIGZvcj0idGl0bGUiPuaWh+eroDwvbGFiZWw+CiAgICAgICAgICAgICAgICAgICAgPHJlbGF0ZWQtYXJ0aWNsZSA6YXJ0aWNsZS1saXN0LnN5bmM9ImFydGljbGVMaXN0Ij48L3JlbGF0ZWQtYXJ0aWNsZT4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1ncm91cCI+CiAgICAgICAgICAgICAgICAgICAgPGxhYmVsIGZvcj0iIj7lm77niYc8L2xhYmVsPgogICAgICAgICAgICAgICAgICAgIDxmaWxlLXVwbG9hZCA6dXBsb2FkZWQtaWQuc3luYz0iZGV0YWlsLmJhbm5lcl9pZCIgOnRva2VuLXVybD0iY29uZmlnLnFpbml1LnRva2VuVXJsKCkiIDpjb25maWc9ImNvbmZpZy5xaW5pdS51cGxvYWRTZXR0aW5nIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiB2LWlmPSJkZXRhaWwuYmFubmVyX2lkIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgOnNyYz0iY29uZmlnLnFpbml1LnByZXZpZXdVcmwrZGV0YWlsLmJhbm5lcl9pZCIgYWx0PSIiIGhlaWdodD0iMjAwIj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgIDxhIGlkPSJwaWNrQ292ZXIiIGNsYXNzPSJidG4gYnRuLXN1Y2Nlc3MgYnRuLWZsYXQgYnRuVXBsb2FkIj7kuIrkvKDlm77niYc8L2E+CiAgICAgICAgICAgICAgICAgICAgPC9maWxlLXVwbG9hZD4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Zvcm0+CiAgICAgICAgICAgIDxocj4KICAgICAgICAgICAgPGJ1dHRvbiBjbGFzcz0iYnRuIGJ0bi1zdWNjZXNzIGJ0bi1mbGF0IiBAY2xpY2s9InNhdmUiPuehruWumjwvYnV0dG9uPgogICAgICAgICAgICA8YnV0dG9uIGNsYXNzPSJidG4gYnRuLWRlZmF1bHQgYnRuLWZsYXQiIEBjbGljaz0iY2FuY2VsIj7lj5bmtog8L2J1dHRvbj4KICAgICAgICA8L2Rpdj4KICAgIDwvZGl2Pgo8L2Rpdj4K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>post</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>pnut</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>post</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciB0ZW1wID0gXy5maW5kKHRoaXMuYXV0aG9yTGlzdCxmdW5jdGlvbihhdXRob3Ipe3JldHVybiBhdXRob3IuaWQ9PU51bWJlcihpZCl9KTsKICAgICAgICAgICAgICAgIHRoaXMuaXRlbS5pZCA9IHRlbXAuaWQ7CiAgICAgICAgICAgICAgICB0aGlzLml0ZW0ubmlja25hbWUgPSB0ZW1wLm5pY2tuYW1lOwogICAgICAgICAgICAgICAgcmV0dXJuIGlkOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuZGV0YWlsLnRpdGxlID0gIiI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>prefixUrl</text>
+      <register name="6" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgIHJldHVybiB7CiAgICAgICAgICAgICAgICBoZWFkbGluZUxpc3Q6ICQuZmV0Y2goY29uZmlnLmFwaSgpICsgdXJsLCBzZWFyY2hRdWVyeSkuY2F0Y2goaGVhZGxpbmUpCiAgICAgICAgICAgIH0K</text>
       </register>
-      <register name="5" type="4">
-        <text>/</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICogIFRPRE86IOivhOa1i+OAgeinhumikeexu+aWh+eroOeahCBhcnRpY2xlX2NhdGVnb3J5X2lkIOW6lOivpeS8oOS7gOS5iOe7mUFQSe+8nwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuJHJvdXRlLnJvdXRlci5nbyh0aGlzLiRyb3V0ZS5wYXRoKTsK</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>cover_id</text>
+        <text>pnut</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuZGV0YWlsLnRpdGxlID0gdmFsWzBdLnRpdGxlOwo=</text>
+      <register name="8" type="4">
+        <text>post</text>
       </register>
       <register name="/" type="4">
         <text>searchQuery.</text>
@@ -901,8 +900,8 @@
         <entry>53,60 s/state/status</entry>
         <entry>367</entry>
         <entry>49,54 s/searchQuery.//</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
