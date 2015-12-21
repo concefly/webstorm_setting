@@ -106,11 +106,11 @@
         <mark key="." line="12" column="19" />
         <mark key="[" line="12" column="18" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/author-select/author-select.js" timestamp="1450666706139">
-        <mark key="]" line="25" column="9" />
-        <mark key="^" line="36" column="50" />
-        <mark key="." line="25" column="9" />
-        <mark key="[" line="25" column="8" />
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/author-select/author-select.js" timestamp="1450680935424">
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="14" column="23" />
+        <mark key="." line="23" column="0" />
+        <mark key="[" line="23" column="0" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/views/disease/detail.html" timestamp="1449570429016">
         <mark key="]" line="8" column="40" />
@@ -310,11 +310,12 @@
         <mark key="." line="9" column="35" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.detail.tpl" timestamp="1450665213390">
-        <mark key="]" line="29" column="45" />
-        <mark key="^" line="103" column="54" />
-        <mark key="." line="103" column="54" />
-        <mark key="[" line="24" column="0" />
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.detail.tpl" timestamp="1450681009565">
+        <mark key="'" line="17" column="79" />
+        <mark key="]" line="17" column="79" />
+        <mark key="^" line="17" column="79" />
+        <mark key="." line="17" column="79" />
+        <mark key="[" line="17" column="64" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/background.scss" timestamp="1449474667050">
         <mark key="]" line="7" column="42" />
@@ -586,11 +587,11 @@
         <mark key="." line="27" column="2" />
         <mark key="[" line="24" column="2" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/author-select/author-select.tpl" timestamp="1450419817538">
-        <mark key="]" line="1" column="33" />
-        <mark key="^" line="1" column="33" />
-        <mark key="." line="1" column="33" />
-        <mark key="[" line="1" column="34" />
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/author-select/author-select.tpl" timestamp="1450681131033">
+        <mark key="]" line="3" column="79" />
+        <mark key="^" line="3" column="86" />
+        <mark key="." line="3" column="79" />
+        <mark key="[" line="3" column="79" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/views/check/first.html" timestamp="1449631010450">
         <mark key="]" line="17" column="5" />
@@ -640,12 +641,11 @@
         <mark key="." line="8" column="39" />
         <mark key="[" line="8" column="35" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.detail.js" timestamp="1450680291899">
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.detail.js" timestamp="1450680978925">
         <mark key="'" line="81" column="0" />
-        <mark key="]" line="107" column="30" />
-        <mark key="^" line="107" column="30" />
-        <mark key="." line="107" column="30" />
-        <mark key="[" line="106" column="30" />
+        <mark key="]" line="98" column="9" />
+        <mark key="." line="98" column="9" />
+        <mark key="[" line="98" column="9" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/package.json" timestamp="1449479047622">
         <mark key="]" line="21" column="0" />
@@ -804,49 +804,50 @@
       <jump line="51" column="36" filename="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/selection/selection.js" />
       <jump line="48" column="12" filename="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/module/module.detail.js" />
       <jump line="28" column="54" filename="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/module/module.detail.tpl" />
+      <jump line="17" column="79" filename="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.detail.tpl" />
     </jumps>
     <registers>
       <register name="3" type="4">
-        <text>article</text>
+        <text>g</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb3Zlcl9pZDogIiIK</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="2" type="4">
+        <text>(</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb3Zlcl9pZDogIiIK</text>
+      <register name="1" type="4">
+        <text>)</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">ICZuYnNwOyZuYnNwOw==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciB0ZW1wID0gXy5maW5kKHRoaXMuYXV0aG9yTGlzdCxmdW5jdGlvbihhdXRob3Ipe3JldHVybiBhdXRob3IuaWQ9PU51bWJlcihpZCl9KTsKICAgICAgICAgICAgICAgIHRoaXMuaXRlbS5pZCA9IHRlbXAuaWQ7CiAgICAgICAgICAgICAgICB0aGlzLml0ZW0ubmlja25hbWUgPSB0ZW1wLm5pY2tuYW1lOwogICAgICAgICAgICAgICAgcmV0dXJuIGlkOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coCiAgICAgICAgICAgICAgICB0aGlzLiRyb3V0ZS5wYXJhbXMKICAgICAgICAgICAgKQo=</text>
+      <register name="7" type="4">
+        <text>t</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>r</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcC5pZCA9IGhlYWRsaW5lLmlkOwo=</text>
+      <register name="5" type="4">
+        <text>i</text>
       </register>
       <register name="4" type="4">
-        <text>edit</text>
+        <text>n</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>headline</text>
+        <text>item</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhcmFtczogXy5waWNrKHRoaXMuJHJvdXRlLnBhcmFtcywicG9zaXRpb24iLCJzdWJ0eXBlIiwiaWQiKQo=</text>
+      <register name="8" type="4">
+        <text>S</text>
       </register>
       <register name="/" type="4">
         <text>searchQuery.</text>
       </register>
       <register name="-" type="4">
-        <text>article</text>
+        <text>)</text>
       </register>
     </registers>
     <search>
