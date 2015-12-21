@@ -21,12 +21,12 @@
         <mark key="." line="26" column="0" />
         <mark key="[" line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/config/config.router.js" timestamp="1450666486709">
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/config/config.router.js" timestamp="1450670402798">
         <mark key="'" line="340" column="46" />
-        <mark key="]" line="408" column="57" />
-        <mark key="^" line="414" column="23" />
-        <mark key="." line="408" column="57" />
-        <mark key="[" line="408" column="57" />
+        <mark key="]" line="409" column="61" />
+        <mark key="^" line="409" column="61" />
+        <mark key="." line="409" column="61" />
+        <mark key="[" line="409" column="59" />
       </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/resources/assets/js/admin/plugin/qiniu.vue" timestamp="1449825501998">
         <mark key="]" line="93" column="27" />
@@ -82,6 +82,12 @@
         <mark key="." line="1" column="67" />
         <mark key="[" line="1" column="64" />
       </file>
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/module/module.detail.edit.tpl" timestamp="1450668381488">
+        <mark key="]" line="2" column="24" />
+        <mark key="^" line="2" column="24" />
+        <mark key="." line="2" column="24" />
+        <mark key="[" line="2" column="6" />
+      </file>
       <file name="$USER_HOME$/project/pet/wechat/views/check/second.js" timestamp="1449562845867">
         <mark key="]" line="17" column="31" />
         <mark key="^" line="17" column="31" />
@@ -112,11 +118,11 @@
         <mark key="." line="8" column="40" />
         <mark key="[" line="8" column="35" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/module/module.detail.js" timestamp="1450175959736">
-        <mark key="]" line="16" column="25" />
-        <mark key="^" line="12" column="49" />
-        <mark key="." line="12" column="49" />
-        <mark key="[" line="15" column="0" />
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/module/module.detail.js" timestamp="1450671726179">
+        <mark key="]" line="80" column="49" />
+        <mark key="^" line="80" column="49" />
+        <mark key="." line="80" column="49" />
+        <mark key="[" line="80" column="47" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/paragraph/paragraph.html" timestamp="1449555968239">
         <mark key="]" line="1" column="0" />
@@ -142,11 +148,11 @@
         <mark key="." line="74" column="0" />
         <mark key="[" line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/module/module.detail.edit.js" timestamp="1450667276918">
-        <mark key="]" line="15" column="1" />
-        <mark key="^" line="15" column="1" />
-        <mark key="." line="15" column="1" />
-        <mark key="[" line="15" column="1" />
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/module/module.detail.edit.js" timestamp="1450675359347">
+        <mark key="]" line="111" column="46" />
+        <mark key="^" line="111" column="46" />
+        <mark key="." line="111" column="46" />
+        <mark key="[" line="111" column="39" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/related-article/related-article.tpl" timestamp="1450434276832">
         <mark key="]" line="25" column="58" />
@@ -316,11 +322,11 @@
         <mark key="." line="7" column="42" />
         <mark key="[" line="7" column="41" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/module/module.detail.tpl" timestamp="1450174602586">
-        <mark key="]" line="36" column="82" />
-        <mark key="^" line="36" column="82" />
-        <mark key="." line="36" column="82" />
-        <mark key="[" line="36" column="59" />
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/module/module.detail.tpl" timestamp="1450671678078">
+        <mark key="]" line="6" column="56" />
+        <mark key="^" line="6" column="56" />
+        <mark key="." line="6" column="56" />
+        <mark key="[" line="6" column="45" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/file-upload/file-upload.js" timestamp="1450259135864">
         <mark key="]" line="3" column="26" />
@@ -481,11 +487,6 @@
         <mark key="^" line="6" column="17" />
         <mark key="." line="6" column="17" />
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/selection/selection.js" timestamp="1450413078480">
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-        <mark key="[" line="42" column="0" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.list.tpl" timestamp="1450433517347">
         <mark key="'" line="72" column="85" />
@@ -800,57 +801,58 @@
       <jump line="14" column="0" filename="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.detail.js" />
       <jump line="71" column="0" filename="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.detail.js" />
       <jump line="51" column="36" filename="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/selection/selection.js" />
+      <jump line="48" column="12" filename="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/module/module.detail.js" />
     </jumps>
     <registers>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbXB1dGVkOiB7CiAgICAgICAgYXJ0aWNsZUxpc3Q6IHsKICAgICAgICAgICAgZ2V0OiBmdW5jdGlvbigpIHsKICAgICAgICAgICAgICAgIHJldHVybiBfLnBpY2sodGhpcy5kZXRhaWwsImlkIiwidGl0bGUiKQogICAgICAgICAgICB9LAogICAgICAgICAgICBzZXQ6IGZ1bmN0aW9uKHgpIHsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcC5pZCA9IGhlYWRsaW5lLmlkOwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5kZXRhaWwuaWQgPSB2YWwK</text>
+      <register name="&quot;" type="4">
+        <text>article</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5kZXRhaWwuaWQgPSB2YWwK</text>
+      <register name="2" type="4">
+        <text>edit</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5kZXRhaWwuaWQgPSB2YWwK</text>
+      <register name="1" type="4">
+        <text>article</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIi9zZXR0aW5nLzpwb3NpdGlvbi86c3VidHlwZS9lZGl0LzppZCI6IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5hbWU6ICJtb2R1bGUvcG9zaXRpb24vc3VidHlwZS9lZGl0IiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbXBvbmVudDogZnVuY3Rpb24ocmVzb2x2ZSl7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVxdWlyZShbInZpZXdzL21vZHVsZS9tb2R1bGUuZGV0YWlsLmVkaXQiXSwgcmVzb2x2ZSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHAgPSBfLnBpY2sodGhpcy4kcm91dGUucGFyYW1zLCJwb3NpdGlvbiIsInN1YnR5cGUiKTsKICAgICAgICAgICAgcC5pZCA9IGhlYWRsaW5lLmlkOwogICAgICAgICAgICB0aGlzLiRyb3V0ZS5yb3V0ZXIuZ28oewogICAgICAgICAgICAgICAgbmFtZTogIm1vZHVsZS9wb3NpdGlvbi9zdWJ0eXBlL2VkaXQiLAogICAgICAgICAgICAgICAgcGFyYW1zOiBwCiAgICAgICAgICAgIH0pCg==</text>
       </register>
       <register name="7" type="4">
-        <text>d</text>
+        <text>headline</text>
       </register>
-      <register name="6" type="4">
-        <text>s</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhcmFtczogXy5waWNrKHRoaXMuJHJvdXRlLnBhcmFtcywicG9zaXRpb24iLCJzdWJ0eXBlIiwiaWQiKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgKiBhcnRpY2xlOiB7CiAgICAgICAgICogIGlkOiAiIiwKICAgICAgICAgKiAgdGl0bGU6ICIiCiAgICAgICAgICogfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coCiAgICAgICAgICAgICAgICB0aGlzLiRyb3V0ZS5wYXJhbXMKICAgICAgICAgICAgKQo=</text>
       </register>
-      <register name="4" type="4">
-        <text>,</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>:</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHYtbGluaz0ie25hbWU6J21vZHVsZS9wb3NpdGlvbi9zdWJ0eXBlL2VkaXQnLCBwYXJhbXM6e2lkOmhlYWRsaW5lLmlkLH0gfSIK</text>
       </register>
-      <register name="8" type="4">
-        <text>i</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhcmFtczogewogICAgICAgICAgICAgICAgICAgIHBvc2l0aW9uOiAKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="/" type="4">
-        <text>article</text>
+        <text>searchQuery.</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>article</text>
       </register>
     </registers>
     <search>
       <last-search>article</last-search>
       <last-offset />
-      <last-pattern>article</last-pattern>
-      <last-replace>status</last-replace>
-      <last-substitute>state</last-substitute>
+      <last-pattern>searchQuery.</last-pattern>
+      <last-replace />
+      <last-substitute>searchQuery.</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -873,12 +875,11 @@
         <entry encoding="base64">PGE=</entry>
         <entry encoding="base64">YT4=</entry>
         <entry>item.id</entry>
-        <entry>searchQuery.</entry>
         <entry>state</entry>
         <entry>article</entry>
+        <entry>searchQuery.</entry>
       </history-search>
       <history-cmd>
-        <entry>103</entry>
         <entry>230</entry>
         <entry>44,45 s/category_id/article_type</entry>
         <entry>56</entry>
@@ -897,6 +898,7 @@
         <entry>53,60 s/state/status</entry>
         <entry>367</entry>
         <entry>q</entry>
+        <entry>49,54 s/searchQuery.//</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
