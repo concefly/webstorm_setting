@@ -428,6 +428,12 @@
         <mark key="." line="235" column="76" />
         <mark key="[" line="235" column="74" />
       </file>
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/config/config.router.js" timestamp="1451456822135">
+        <mark key="]" line="16" column="53" />
+        <mark key="^" line="16" column="53" />
+        <mark key="." line="16" column="53" />
+        <mark key="[" line="16" column="40" />
+      </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/resources/assets/js/layout/header.js" timestamp="1449739354880">
         <mark key="]" line="19" column="40" />
         <mark key="^" line="19" column="40" />
@@ -536,6 +542,12 @@
         <mark key="^" line="34" column="26" />
         <mark key="." line="34" column="26" />
         <mark key="[" line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/account/signin/signin.view.js" timestamp="1451456749710">
+        <mark key="]" line="1" column="46" />
+        <mark key="^" line="13" column="49" />
+        <mark key="." line="13" column="49" />
+        <mark key="[" line="1" column="23" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/api/main.js" timestamp="1449481863273">
         <mark key="]" line="4" column="36" />
@@ -822,46 +834,46 @@
     </jumps>
     <registers>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8g5bCG55So5oi35L+h5oGv6K6w5b2V5Zyod2luZG93cwogICAgICAgICAgICB3aW5kb3cudXNlciA9IGRhdGE7Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhciBlcnIgPSBsaW50KGRldGFpbCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>config</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkYXRhOiBmdW5jdGlvbigpIHsKICAgICAgICAgICAgcmV0dXJuIHsKICAgICAgICAgICAgICAgIHVzZXI6IHdpbmRvdy51c2VyIHx8IHt9CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhciBlcnIgPSBsaW50KGRldGFpbCk7Cg==</text>
+      <register name="1" type="4">
+        <text>config</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZihkZXRhaWwubWVkaWFzLmxlbmd0aD09MCkgewogICAgICAgICAgICBlcnIucHVzaCgi6K+35LiK5Lyg6KeG6aKRIik7CiAgICAgICAgfQogICAgICAgIGlmKCFkZXRhaWwuYmFubmVyX2lkKSB7CiAgICAgICAgICAgIGVyci5wdXNoKCLor7fkuIrkvKDop4bpopHlsIHpnaIiKTsKICAgICAgICB9Cg==</text>
+      <register name="0" type="4">
+        <text>libs/js-cookie/js-cookie</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHZhciBlcnIgPSBbXTsKICAgIGlmKG5ld0RldGFpbC50aXRsZS5sZW5ndGg+MzYgfHwgbmV3RGV0YWlsLnRpdGxlLmxlbmd0aD09MCkgewogICAgICAgIGVyci5wdXNoKCLor7fms6jmhI/moIfpopjlrZfmlbAiKTsKICAgIH0KICAgIGlmKG5ld0RldGFpbC5hdXRob3JfaWQ9PTApIHsKICAgICAgICBlcnIucHVzaCgi6K+35aGr5YaZ5L2c6ICFIik7CiAgICB9CiAgICBpZihuZXdEZXRhaWwuY292ZXJfaWQubGVuZ3RoPT0wKSB7CiAgICAgICAgZXJyLnB1c2goIuivt+S4iuS8oOmimOWbviIpOwogICAgfQogICAgaWYobmV3RGV0YWlsLmFic3RyYWN0Lmxlbmd0aD4xMjAgfHwgbmV3RGV0YWlsLmFic3RyYWN0Lmxlbmd0aD09MCkgewogICAgICAgIGVyci5wdXNoKCLor7fms6jmhI/mkZjopoHlrZfmlbAiKTsKICAgIH0KICAgIGlmKG5ld0RldGFpbC5jb250ZW50Lmxlbmd0aD09MCkgewogICAgICAgIGVyci5wdXNoKCLor7floavlhpnmraPmlociKTsKICAgIH0K</text>
       </register>
-      <register name="6" type="4">
-        <text>信息不完整时提示用户</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>，</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhciBlcnIgPSBbXTsKICAgIGlmKG5ld0RldGFpbC50aXRsZS5sZW5ndGg+MzYgfHwgbmV3RGV0YWlsLnRpdGxlLmxlbmd0aD09MCkgewogICAgICAgIGVyci5wdXNoKCLor7fms6jmhI/moIfpopjlrZfmlbAiKTsKICAgIH0KICAgIGlmKG5ld0RldGFpbC5hdXRob3JfaWQ9PTApIHsKICAgICAgICBlcnIucHVzaCgi6K+35aGr5YaZ5L2c6ICFIik7CiAgICB9CiAgICBpZihuZXdEZXRhaWwuY292ZXJfaWQubGVuZ3RoPT0wKSB7CiAgICAgICAgZXJyLnB1c2goIuivt+S4iuS8oOmimOWbviIpOwogICAgfQogICAgaWYobmV3RGV0YWlsLmFic3RyYWN0Lmxlbmd0aD4xMjAgfHwgbmV3RGV0YWlsLmFic3RyYWN0Lmxlbmd0aD09MCkgewogICAgICAgIGVyci5wdXNoKCLor7fms6jmhI/mkZjopoHlrZfmlbAiKTsKICAgIH0KICAgIGlmKG5ld0RldGFpbC5jb250ZW50Lmxlbmd0aD09MCkgewogICAgICAgIGVyci5wdXNoKCLor7floavlhpnmraPmlociKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIHZhciBlcnIgPSBsaW50KGRldGFpbCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>36</text>
+        <text>信息不完整时提示用户</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGRkCg==</text>
+      <register name="8" type="4">
+        <text>，</text>
       </register>
       <register name="/" type="4">
         <text>newDetail</text>
       </register>
       <register name="-" type="4">
-        <text>，</text>
+        <text>config</text>
       </register>
     </registers>
     <search>
