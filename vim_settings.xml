@@ -712,12 +712,12 @@
         <mark key="." line="51" column="26" />
         <mark key="[" line="47" column="9" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/article.detail.js" timestamp="1451469205548">
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/article.detail.js" timestamp="1451469967708">
         <mark key="'" line="98" column="22" />
-        <mark key="]" line="59" column="0" />
+        <mark key="]" line="192" column="0" />
         <mark key="^" line="98" column="22" />
-        <mark key="." line="59" column="0" />
-        <mark key="[" line="59" column="0" />
+        <mark key="." line="192" column="0" />
+        <mark key="[" line="192" column="0" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/fis-watch.sh" timestamp="1450232375649">
         <mark key="]" line="2" column="98" />
@@ -842,40 +842,40 @@
     </jumps>
     <registers>
       <register name="3" type="4">
-        <text>e</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRldGFpbC5yZWxfYXJ0aWNsZXMpOwo=</text>
-      </register>
-      <register name="2" type="4">
         <text>l</text>
       </register>
-      <register name="1" type="2">
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuJHJvdXRlLnJvdXRlci5nbyh7CiAgICAgICAgICAgICAgICAgICAgbmFtZTogJ2FydGljbGUvbGlzdCcsCiAgICAgICAgICAgICAgICAgICAgcGFyYW1zOiB7CiAgICAgICAgICAgICAgICAgICAgICAgIHN0YWdlOiAiZHJhZnQiCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfSk7Cg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRldGFpbC5yZWxfYXJ0aWNsZXMpOwo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuJHJvdXRlLnJvdXRlci5nbyh7CiAgICAgICAgICAgICAgICAgICAgbmFtZTogJ2FydGljbGUvbGlzdCcsCiAgICAgICAgICAgICAgICAgICAgcGFyYW1zOiB7CiAgICAgICAgICAgICAgICAgICAgICAgIHN0YWdlOiAiZHJhZnQiCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZighZGV0YWlsLm1lZGlhc1swXS5pZCkgewo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">aWYoZGV0YWlsLmFydGljbGVfdHlwZT09Mykg</text>
-      </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYoZGV0YWlsLm1lZGlhcy5sZW5ndGg9PTApIHsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBpZihkZXRhaWwucmVsX2FydGljbGVzLmxlbmd0aD09MCkgewogICAgICAgICAgICBlcnIucHVzaCgi6K+35re75Yqg55u45YWz5paH56ugIik7CiAgICAgICAgfQo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>r</text>
+      </register>
+      <register name="4" type="4">
+        <text>e</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIC8vIHRvcGljCg==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">aWYoZGV0YWlsLmFydGljbGVfdHlwZT09Mykg</text>
       </register>
       <register name="/" type="4">
         <text>newDetail</text>
