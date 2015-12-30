@@ -135,6 +135,12 @@
         <mark key="." line="42" column="32" />
         <mark key="[" line="38" column="1" />
       </file>
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/account/signin/signin.view.tpl" timestamp="1451468031010">
+        <mark key="]" line="29" column="82" />
+        <mark key="^" line="29" column="82" />
+        <mark key="." line="29" column="82" />
+        <mark key="[" line="29" column="68" />
+      </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/vue.js" timestamp="1449630253801">
         <mark key="]" line="8" column="22" />
         <mark key="^" line="8" column="22" />
@@ -237,10 +243,11 @@
         <mark key="." line="358" column="51" />
         <mark key="[" line="358" column="41" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/article.detail.tpl" timestamp="1451443305696">
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-        <mark key="[" line="49" column="0" />
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/article.detail.tpl" timestamp="1451469168987">
+        <mark key="]" line="68" column="46" />
+        <mark key="^" line="68" column="46" />
+        <mark key="." line="68" column="46" />
+        <mark key="[" line="68" column="45" />
       </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/resources/assets/js/admin/components/media/picture.vue" timestamp="1449825452970">
         <mark key="]" line="70" column="54" />
@@ -543,11 +550,11 @@
         <mark key="." line="34" column="26" />
         <mark key="[" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/account/signin/signin.view.js" timestamp="1451456749710">
-        <mark key="]" line="1" column="46" />
-        <mark key="^" line="13" column="49" />
-        <mark key="." line="13" column="49" />
-        <mark key="[" line="1" column="23" />
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/account/signin/signin.view.js" timestamp="1451468449832">
+        <mark key="]" line="21" column="22" />
+        <mark key="^" line="21" column="22" />
+        <mark key="." line="21" column="22" />
+        <mark key="[" line="21" column="21" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/api/main.js" timestamp="1449481863273">
         <mark key="]" line="4" column="36" />
@@ -705,12 +712,12 @@
         <mark key="." line="51" column="26" />
         <mark key="[" line="47" column="9" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/article.detail.js" timestamp="1451447094679">
-        <mark key="'" line="58" column="4" />
-        <mark key="]" line="112" column="26" />
-        <mark key="^" line="112" column="26" />
-        <mark key="." line="112" column="26" />
-        <mark key="[" line="112" column="14" />
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/article.detail.js" timestamp="1451469205548">
+        <mark key="'" line="98" column="22" />
+        <mark key="]" line="59" column="0" />
+        <mark key="^" line="98" column="22" />
+        <mark key="." line="59" column="0" />
+        <mark key="[" line="59" column="0" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/fis-watch.sh" timestamp="1450232375649">
         <mark key="]" line="2" column="98" />
@@ -831,49 +838,50 @@
       <jump line="49" column="32" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/article.detail.tpl" />
       <jump line="81" column="4" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/article.detail.js" />
       <jump line="58" column="4" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/article.detail.js" />
+      <jump line="99" column="22" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/article.detail.js" />
     </jumps>
     <registers>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g5bCG55So5oi35L+h5oGv6K6w5b2V5Zyod2luZG93cwogICAgICAgICAgICB3aW5kb3cudXNlciA9IGRhdGE7Cg==</text>
+      <register name="3" type="4">
+        <text>e</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>config</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRldGFpbC5yZWxfYXJ0aWNsZXMpOwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhOiBmdW5jdGlvbigpIHsKICAgICAgICAgICAgcmV0dXJuIHsKICAgICAgICAgICAgICAgIHVzZXI6IHdpbmRvdy51c2VyIHx8IHt9CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
+      <register name="2" type="4">
+        <text>l</text>
       </register>
-      <register name="1" type="4">
-        <text>config</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRldGFpbC5yZWxfYXJ0aWNsZXMpOwo=</text>
       </register>
-      <register name="0" type="4">
-        <text>libs/js-cookie/js-cookie</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBpZighZGV0YWlsLm1lZGlhc1swXS5pZCkgewo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhciBlcnIgPSBbXTsKICAgIGlmKG5ld0RldGFpbC50aXRsZS5sZW5ndGg+MzYgfHwgbmV3RGV0YWlsLnRpdGxlLmxlbmd0aD09MCkgewogICAgICAgIGVyci5wdXNoKCLor7fms6jmhI/moIfpopjlrZfmlbAiKTsKICAgIH0KICAgIGlmKG5ld0RldGFpbC5hdXRob3JfaWQ9PTApIHsKICAgICAgICBlcnIucHVzaCgi6K+35aGr5YaZ5L2c6ICFIik7CiAgICB9CiAgICBpZihuZXdEZXRhaWwuY292ZXJfaWQubGVuZ3RoPT0wKSB7CiAgICAgICAgZXJyLnB1c2goIuivt+S4iuS8oOmimOWbviIpOwogICAgfQogICAgaWYobmV3RGV0YWlsLmFic3RyYWN0Lmxlbmd0aD4xMjAgfHwgbmV3RGV0YWlsLmFic3RyYWN0Lmxlbmd0aD09MCkgewogICAgICAgIGVyci5wdXNoKCLor7fms6jmhI/mkZjopoHlrZfmlbAiKTsKICAgIH0KICAgIGlmKG5ld0RldGFpbC5jb250ZW50Lmxlbmd0aD09MCkgewogICAgICAgIGVyci5wdXNoKCLor7floavlhpnmraPmlociKTsKICAgIH0K</text>
+      <register name="7" type="4">
+        <text encoding="base64">aWYoZGV0YWlsLmFydGljbGVfdHlwZT09Mykg</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoZGV0YWlsLm1lZGlhcy5sZW5ndGg9PTApIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZihkZXRhaWwucmVsX2FydGljbGVzLmxlbmd0aD09MCkgewogICAgICAgICAgICBlcnIucHVzaCgi6K+35re75Yqg55u45YWz5paH56ugIik7CiAgICAgICAgfQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhciBlcnIgPSBsaW50KGRldGFpbCk7Cg==</text>
+      <register name="4" type="4">
+        <text>r</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>信息不完整时提示用户</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>，</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIC8vIHRvcGljCg==</text>
       </register>
       <register name="/" type="4">
         <text>newDetail</text>
       </register>
       <register name="-" type="4">
-        <text>config</text>
+        <text>l</text>
       </register>
     </registers>
     <search>
@@ -909,7 +917,6 @@
         <entry>newDetail</entry>
       </history-search>
       <history-cmd>
-        <entry>275</entry>
         <entry>375</entry>
         <entry>300</entry>
         <entry>22,27 s/headline/recommend/</entry>
@@ -928,6 +935,7 @@
         <entry>50,56 s/cover_id/banner_id/g</entry>
         <entry>s/title/abstract/g</entry>
         <entry>59,73 s/newDetail/detail/g</entry>
+        <entry>99</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
