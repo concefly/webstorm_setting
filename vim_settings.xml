@@ -483,6 +483,17 @@
         <mark key="." line="8" column="33" />
         <mark key="[" line="8" column="31" />
       </file>
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/module/module.detail.tpl" timestamp="1451527080911">
+        <mark key="]" line="4" column="80" />
+        <mark key="." line="4" column="80" />
+        <mark key="[" line="4" column="80" />
+      </file>
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/module/module.detail.js" timestamp="1451527686385">
+        <mark key="]" line="147" column="41" />
+        <mark key="^" line="147" column="41" />
+        <mark key="." line="147" column="41" />
+        <mark key="[" line="147" column="25" />
+      </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/resources/assets/js/admin/components/modal/imageModal.vue" timestamp="1449822121728">
         <mark key="]" line="30" column="34" />
         <mark key="^" line="29" column="139" />
@@ -842,46 +853,46 @@
     </jumps>
     <registers>
       <register name="3" type="4">
-        <text>l</text>
+        <text>n</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuJHJvdXRlLnJvdXRlci5nbyh7CiAgICAgICAgICAgICAgICAgICAgbmFtZTogJ2FydGljbGUvbGlzdCcsCiAgICAgICAgICAgICAgICAgICAgcGFyYW1zOiB7CiAgICAgICAgICAgICAgICAgICAgICAgIHN0YWdlOiAiZHJhZnQiCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>isHeadlineListLoading</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRldGFpbC5yZWxfYXJ0aWNsZXMpOwo=</text>
+      <register name="2" type="4">
+        <text>e</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuJHJvdXRlLnJvdXRlci5nbyh7CiAgICAgICAgICAgICAgICAgICAgbmFtZTogJ2FydGljbGUvbGlzdCcsCiAgICAgICAgICAgICAgICAgICAgcGFyYW1zOiB7CiAgICAgICAgICAgICAgICAgICAgICAgIHN0YWdlOiAiZHJhZnQiCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfSk7Cg==</text>
+      <register name="1" type="4">
+        <text>isHeadlineListLoading</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZighZGV0YWlsLm1lZGlhc1swXS5pZCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3dpdGNoICh0aGlzLiRyb3V0ZS5wYXJhbXMucG9zaXRpb24pIHsKICAgICAgICAgICAgICAgIGNhc2UgImhlYWRsaW5lIjogdXJsPSIvYXJ0aWNsZS9oZWFkbGluZS9zZWFyY2giOyBicmVhazsKICAgICAgICAgICAgICAgIGNhc2UgInJlY29tbWVuZCI6IHVybD0iL2FydGljbGUvcmVjb21tZW5kL3NlYXJjaCI7IGJyZWFrOwogICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoZGV0YWlsLm1lZGlhcy5sZW5ndGg9PTApIHsK</text>
+      <register name="7" type="4">
+        <text>a</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZihkZXRhaWwucmVsX2FydGljbGVzLmxlbmd0aD09MCkgewogICAgICAgICAgICBlcnIucHVzaCgi6K+35re75Yqg55u45YWz5paH56ugIik7CiAgICAgICAgfQo=</text>
+      <register name="6" type="4">
+        <text>d</text>
       </register>
       <register name="5" type="4">
-        <text>r</text>
+        <text>l</text>
       </register>
       <register name="4" type="4">
-        <text>e</text>
+        <text>i</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIHRvcGljCg==</text>
+      <register name="9" type="4">
+        <text>H</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">aWYoZGV0YWlsLmFydGljbGVfdHlwZT09Mykg</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>newDetail</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>isHeadlineListLoading</text>
       </register>
     </registers>
     <search>
