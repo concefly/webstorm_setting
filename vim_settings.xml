@@ -311,8 +311,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="E:/hwj/project/lab/threejs_lab/mesh_click/static/app.js" timestamp="1451716505309">
-        <mark key="[" line="3" column="0" />
+      <file name="E:/hwj/project/lab/threejs_lab/mesh_click/static/app.js" timestamp="1451720206365">
+        <mark key="'" line="7" column="29" />
+        <mark key="[" line="20" column="18" />
+        <mark key="]" line="20" column="19" />
+        <mark key="^" line="20" column="19" />
+        <mark key="." line="20" column="19" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/views/check/detail.js" timestamp="1449569791124">
         <mark key="[" line="21" column="28" />
@@ -429,11 +433,11 @@
         <mark key="^" line="12" column="19" />
         <mark key="." line="12" column="19" />
       </file>
-      <file name="E:/hwj/project/lab/threejs_lab/mesh_click/index.html" timestamp="1451716615018">
-        <mark key="[" line="16" column="40" />
-        <mark key="]" line="17" column="25" />
-        <mark key="^" line="17" column="25" />
-        <mark key="." line="17" column="25" />
+      <file name="E:/hwj/project/lab/threejs_lab/mesh_click/index.html" timestamp="1451718190350">
+        <mark key="[" line="7" column="11" />
+        <mark key="]" line="8" column="16" />
+        <mark key="^" line="8" column="16" />
+        <mark key="." line="8" column="16" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/views/check/third.js" timestamp="1449564779895">
         <mark key="[" line="4" column="0" />
@@ -577,46 +581,47 @@
       <jump line="11" column="37" filename="$USER_HOME$/project/pet/wechat/views/check/index.js" />
       <jump line="177" column="16" filename="$USER_HOME$/project/pet/wechat/views/check/demo.html" />
       <jump line="108" column="0" filename="$USER_HOME$/project/pet/wechat/views/check/index.js" />
+      <jump line="7" column="29" filename="E:/hwj/project/lab/threejs_lab/mesh_click/static/app.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhciBhbWJpZW50ID0gbmV3IFRIUkVFLkFtYmllbnRMaWdodCggMHhmMGYwZjAgKTsKICAgIHNjZW5lLmFkZCggYW1iaWVudCApOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1vdXNlLngsIiwiLG1vdXNlLnkK</text>
       </register>
       <register name="-" type="4">
-        <text>f0f0f0</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>tags</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgaW5pdGlhbFN5bXB0b20gPSBOdW1iZXIoc2VsZi4kcm91dGUucGFyYW1zLnNpZHMuc3BsaXQoJy0nKVswXSk7CiAgICAgICAgdmFyIHRpdGxlID0gXy5jaGFpbih3aW5kb3cuc3RvcmFnZS5zeW1wdG9tTGlzdCkucGx1Y2soInN5bXB0b21zIikuZmxhdHRlbigpLmZpbmQoZnVuY3Rpb24oaXRlbSl7cmV0dXJuIGl0ZW0uaWQ9PWluaXRpYWxTeW1wdG9tfSkudmFsdWUoKS50aXRsZTsKICAgICAgICAkKCJoZWFkIHRpdGxlIikudGV4dCh0aXRsZSk7Cg==</text>
+        <text encoding="base64">ICAgIG1lc2gucm90YXRpb24ueCArPSAwLjAxOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhciBhbWJpZW50ID0gbmV3IFRIUkVFLkFtYmllbnRMaWdodCggMHhmMGYwZjAgKTsKICAgIHNjZW5lLmFkZCggYW1iaWVudCApOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1vdXNlLngsIiwiLG1vdXNlLnkK</text>
       </register>
       <register name="2" type="4">
-        <text>f0f0f0</text>
+        <text />
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhciBkaXJlY3Rpb25hbExpZ2h0ID0gbmV3IFRIUkVFLkRpcmVjdGlvbmFsTGlnaHQoIDB4ZjBmMGYwICk7CiAgICBkaXJlY3Rpb25hbExpZ2h0LnBvc2l0aW9uLnNldCggMCwgMCwgMSApOwogICAgc2NlbmUuYWRkKCBkaXJlY3Rpb25hbExpZ2h0ICk7Cgo=</text>
+      <register name="3" type="4">
+        <text>)</text>
       </register>
-      <register name="4" type="4">
-        <text>ffeedd</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIG1vdXNlLnggPSBldmVudC5jbGllbnRYOwogICAgbW91c2UueSA9IGV2ZW50LmNsaWVudFk7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>101030</text>
+      <register name="5" type="2">
+        <text encoding="base64">c2NlbmUuYWRkKG1vdXNlKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1lc2gucm90YXRpb24ueCArPSAwLjE7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>45</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZW5kZXIuc2V0U2l6ZSh3aW5kb3cuaW5uZXJXaWR0aCwgd2luZG93LmlubmVySGVpZ2h0KTsK</text>
       </register>
-      <register name="8" type="4">
-        <text>male02</text>
+      <register name="8" type="2">
+        <text encoding="base64">cmVuZGVyLnNldFNpemUod2luZG93LmlubmVyV2lkdGgsIHdpbmRvdy5pbm5lckhlaWdodCk7Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>male02</text>
+        <text>h =</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
