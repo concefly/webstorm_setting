@@ -133,6 +133,7 @@
         <mark key="]" line="1" column="75" />
         <mark key="." line="1" column="64" />
       </file>
+      <file name="E:/hwj/project/lab/scenejs_lab/.gitignore" timestamp="1451742223576" />
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/vue.js" timestamp="1449630253801">
         <mark key="[" line="8" column="19" />
         <mark key="]" line="8" column="22" />
@@ -617,8 +618,8 @@
       <jump line="26" column="52" filename="E:/hwj/project/lab/threejs_lab/first_person_control/app.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnRyb2wudGFyZ2V0LnNldChtZXNoKTsK</text>
+      <register name="&quot;" type="8">
+        <text>https://github.com/NFZM-Front-End/Snippet.git</text>
       </register>
       <register name="-" type="4">
         <text>camera</text>
@@ -629,32 +630,32 @@
       <register name="0" type="2">
         <text encoding="base64">PHNjcmlwdCBzcmM9Ii4uL2xpYi90aHJlZWpzL2V4YW1wbGVzL2pzL2NvbnRyb2xzL09yYml0Q29udHJvbHMuanMiPjwvc2NyaXB0Pgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnRyb2wudGFyZ2V0LnNldChtZXNoKTsK</text>
+      <register name="1" type="8">
+        <text>https://github.com/NFZM-Front-End/Snippet.git</text>
       </register>
-      <register name="2" type="4">
-        <text>camera</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbnRyb2wudGFyZ2V0LnNldChtZXNoKTsK</text>
       </register>
       <register name="3" type="4">
         <text>camera</text>
       </register>
       <register name="4" type="4">
+        <text>camera</text>
+      </register>
+      <register name="5" type="4">
         <text>mesh</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGNvbnRyb2wudGFyZ2V0LnNldChtZXNoKTsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnRyb2wudXBkYXRlKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29udHJvbC5hdXRvUm90YXRlID0gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgIGNvbnRyb2wudXBkYXRlKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29udHJvbC5hdXRvUm90YXRlID0gdHJ1ZTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
