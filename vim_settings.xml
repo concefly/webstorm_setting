@@ -67,6 +67,16 @@
         <mark key="^" line="8" column="26" />
         <mark key="." line="8" column="26" />
       </file>
+      <file name="E:/hwj/project/lab/threejs_lab/first_person_control/app.js" timestamp="1451727889364">
+        <mark key="'" line="25" column="52" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="8" column="41" />
+      </file>
+      <file name="E:/hwj/project/lab/threejs_lab/lib/threejs/examples/js/controls/FirstPersonControls.js" timestamp="1451725544571">
+        <mark key="'" line="251" column="13" />
+      </file>
       <file name="$USER_HOME$/project/pet/wechat/views/disease/index.js" timestamp="1449744477301">
         <mark key="[" line="21" column="29" />
         <mark key="]" line="21" column="74" />
@@ -204,6 +214,7 @@
         <mark key="." line="113" column="9" />
         <mark key="^" line="113" column="9" />
       </file>
+      <file name="E:/hwj/project/lab/threejs_lab/lib/treejs/examples/canvas_ascii_effect.html" timestamp="1451724229467" />
       <file name="$USER_HOME$/project/blackbox/backend-cms/resources/assets/js/layout/header.js" timestamp="1449739354880">
         <mark key="[" line="19" column="19" />
         <mark key="]" line="19" column="40" />
@@ -245,6 +256,13 @@
         <mark key="]" line="1" column="16" />
         <mark key="^" line="1" column="16" />
         <mark key="." line="1" column="16" />
+      </file>
+      <file name="E:/hwj/project/lab/threejs_lab/first_person_control/index.html" timestamp="1451726309720">
+        <mark key="'" line="21" column="70" />
+        <mark key="[" line="23" column="49" />
+        <mark key="]" line="23" column="67" />
+        <mark key="." line="23" column="67" />
+        <mark key="^" line="23" column="67" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/grid/grid2.html" timestamp="1449643260277">
         <mark key="[" line="2" column="94" />
@@ -314,10 +332,10 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="E:/hwj/project/lab/threejs_lab/mesh_click/static/app.js" timestamp="1451722477440">
+      <file name="E:/hwj/project/lab/threejs_lab/mesh_click/static/app.js" timestamp="1451724835088">
         <mark key="'" line="7" column="29" />
-        <mark key="[" line="47" column="32" />
-        <mark key="]" line="47" column="33" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="54" column="8" />
         <mark key="." line="47" column="33" />
         <mark key="^" line="47" column="33" />
       </file>
@@ -588,55 +606,68 @@
       <jump line="177" column="16" filename="$USER_HOME$/project/pet/wechat/views/check/demo.html" />
       <jump line="108" column="0" filename="$USER_HOME$/project/pet/wechat/views/check/index.js" />
       <jump line="7" column="29" filename="E:/hwj/project/lab/threejs_lab/mesh_click/static/app.js" />
+      <jump line="11" column="70" filename="E:/hwj/project/lab/threejs_lab/first_person_control/index.html" />
+      <jump line="6" column="39" filename="E:/hwj/project/lab/threejs_lab/lib/threejs/examples/js/controls/FirstPersonControls.js" />
+      <jump line="8" column="18" filename="E:/hwj/project/lab/threejs_lab/lib/threejs/examples/js/controls/FirstPersonControls.js" />
+      <jump line="192" column="43" filename="E:/hwj/project/lab/threejs_lab/lib/threejs/examples/js/controls/FirstPersonControls.js" />
+      <jump line="205" column="84" filename="E:/hwj/project/lab/threejs_lab/lib/threejs/examples/js/controls/FirstPersonControls.js" />
+      <jump line="206" column="38" filename="E:/hwj/project/lab/threejs_lab/lib/threejs/examples/js/controls/FirstPersonControls.js" />
+      <jump line="208" column="34" filename="E:/hwj/project/lab/threejs_lab/lib/threejs/examples/js/controls/FirstPersonControls.js" />
+      <jump line="209" column="35" filename="E:/hwj/project/lab/threejs_lab/lib/threejs/examples/js/controls/FirstPersonControls.js" />
+      <jump line="211" column="32" filename="E:/hwj/project/lab/threejs_lab/lib/threejs/examples/js/controls/FirstPersonControls.js" />
+      <jump line="212" column="34" filename="E:/hwj/project/lab/threejs_lab/lib/threejs/examples/js/controls/FirstPersonControls.js" />
+      <jump line="245" column="28" filename="E:/hwj/project/lab/threejs_lab/lib/threejs/examples/js/controls/FirstPersonControls.js" />
+      <jump line="251" column="13" filename="E:/hwj/project/lab/threejs_lab/lib/threejs/examples/js/controls/FirstPersonControls.js" />
+      <jump line="26" column="52" filename="E:/hwj/project/lab/threejs_lab/first_person_control/app.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>cw</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnRyb2wudGFyZ2V0LnNldChtZXNoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>cw</text>
+        <text>camera</text>
       </register>
       <register name="/" type="4">
-        <text>tags</text>
+        <text>object</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG1lc2gucm90YXRpb24ueCArPSAwLjAxOwo=</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9Ii4uL2xpYi90aHJlZWpzL2V4YW1wbGVzL2pzL2NvbnRyb2xzL09yYml0Q29udHJvbHMuanMiPjwvc2NyaXB0Pgo=</text>
       </register>
-      <register name="1" type="4">
-        <text>cw</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGNvbnRyb2wudGFyZ2V0LnNldChtZXNoKTsK</text>
       </register>
       <register name="2" type="4">
-        <text>click</text>
+        <text>camera</text>
       </register>
       <register name="3" type="4">
-        <text>ove</text>
+        <text>camera</text>
       </register>
       <register name="4" type="4">
-        <text>m</text>
+        <text>mesh</text>
       </register>
-      <register name="5" type="4">
-        <text>0xff0000</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnRyb2wudGFyZ2V0LnNldChtZXNoKTsK</text>
       </register>
-      <register name="6" type="4">
-        <text>0x00ff00</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>90</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbnRyb2wudXBkYXRlKCk7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>75</text>
+      <register name="8" type="2">
+        <text encoding="base64">Y29udHJvbC5hdXRvUm90YXRlID0gdHJ1ZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1vdXNlLngsIiwiLG1vdXNlLnkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>not</last-search>
+      <last-search>object</last-search>
       <last-offset />
-      <last-pattern>tags</last-pattern>
+      <last-pattern>object</last-pattern>
       <last-replace>diseases</last-replace>
       <last-substitute>tags</last-substitute>
       <last-dir>1</last-dir>
@@ -646,6 +677,7 @@
       <history-search>
         <entry>sass</entry>
         <entry>canvas</entry>
+        <entry>object</entry>
       </history-search>
       <history-cmd>
         <entry>52</entry>
@@ -687,6 +719,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
