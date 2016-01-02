@@ -311,12 +311,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="E:/hwj/project/lab/threejs_lab/mesh_click/static/app.js" timestamp="1451720206365">
+      <file name="E:/hwj/project/lab/threejs_lab/mesh_click/static/app.js" timestamp="1451722477440">
         <mark key="'" line="7" column="29" />
-        <mark key="[" line="20" column="18" />
-        <mark key="]" line="20" column="19" />
-        <mark key="^" line="20" column="19" />
-        <mark key="." line="20" column="19" />
+        <mark key="[" line="47" column="32" />
+        <mark key="]" line="47" column="33" />
+        <mark key="." line="47" column="33" />
+        <mark key="^" line="47" column="33" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/views/check/detail.js" timestamp="1449569791124">
         <mark key="[" line="21" column="28" />
@@ -584,11 +584,11 @@
       <jump line="7" column="29" filename="E:/hwj/project/lab/threejs_lab/mesh_click/static/app.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1vdXNlLngsIiwiLG1vdXNlLnkK</text>
+      <register name="&quot;" type="4">
+        <text>cw</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>cw</text>
       </register>
       <register name="/" type="4">
         <text>tags</text>
@@ -596,32 +596,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIG1lc2gucm90YXRpb24ueCArPSAwLjAxOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1vdXNlLngsIiwiLG1vdXNlLnkK</text>
+      <register name="1" type="4">
+        <text>cw</text>
       </register>
       <register name="2" type="4">
-        <text />
+        <text>click</text>
       </register>
       <register name="3" type="4">
-        <text>)</text>
+        <text>ove</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIG1vdXNlLnggPSBldmVudC5jbGllbnRYOwogICAgbW91c2UueSA9IGV2ZW50LmNsaWVudFk7Cg==</text>
+      <register name="4" type="4">
+        <text>m</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">c2NlbmUuYWRkKG1vdXNlKTsK</text>
+      <register name="5" type="4">
+        <text>0xff0000</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIG1lc2gucm90YXRpb24ueCArPSAwLjE7Cg==</text>
+      <register name="6" type="4">
+        <text>0x00ff00</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZW5kZXIuc2V0U2l6ZSh3aW5kb3cuaW5uZXJXaWR0aCwgd2luZG93LmlubmVySGVpZ2h0KTsK</text>
+      <register name="7" type="4">
+        <text>90</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">cmVuZGVyLnNldFNpemUod2luZG93LmlubmVyV2lkdGgsIHdpbmRvdy5pbm5lckhlaWdodCk7Cg==</text>
+      <register name="8" type="4">
+        <text>75</text>
       </register>
-      <register name="9" type="4">
-        <text>h =</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1vdXNlLngsIiwiLG1vdXNlLnkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
