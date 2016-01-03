@@ -245,6 +245,12 @@
         <mark key="^" line="6" column="19" />
         <mark key="." line="4" column="5" />
       </file>
+      <file name="E:/hwj/project/lab/threejs_lab/walk/app.js" timestamp="1451829266814">
+        <mark key="[" line="77" column="47" />
+        <mark key="]" line="77" column="49" />
+        <mark key="." line="77" column="49" />
+        <mark key="^" line="77" column="49" />
+      </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/step/step-default.html" timestamp="1449634588710">
         <mark key="[" line="1" column="54" />
         <mark key="]" line="1" column="59" />
@@ -294,10 +300,10 @@
         <mark key="^" line="8" column="26" />
         <mark key="." line="8" column="26" />
       </file>
-      <file name="E:/hwj/project/lab/threejs_lab/first_person_control/app.js" timestamp="1451727889364">
+      <file name="E:/hwj/project/lab/threejs_lab/first_person_control/app.js" timestamp="1451826067328">
         <mark key="'" line="25" column="52" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="31" column="1" />
         <mark key="." line="35" column="0" />
         <mark key="^" line="8" column="41" />
       </file>
@@ -581,6 +587,12 @@
         <mark key="^" line="2" column="20" />
         <mark key="." line="2" column="20" />
       </file>
+      <file name="E:/hwj/project/lab/threejs_lab/walk/index.html" timestamp="1451825160234">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="6" column="19" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="184" column="4" filename="$USER_HOME$/project/blackbox/backend-cms/resources/views/cms/index.blade.php" />
@@ -646,69 +658,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text encoding="base64">IC0gMC4x</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text encoding="base64">IC0gMC4x</text>
       </register>
       <register name="/" type="4">
         <text>object</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9Ii4uL2xpYi90aHJlZWpzL2V4YW1wbGVzL2pzL2NvbnRyb2xzL09yYml0Q29udHJvbHMuanMiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FtZXJhLmxvb2tBdChuZXcgVEhSRUUuVmVjdG9yMygKICAgICAgICAgICAgICAgIGNhbWVyYS5nZXRXb3JsZERpcmVjdGlvbigpLnggLSAwLjEsCiAgICAgICAgICAgICAgICBjYW1lcmEuZ2V0V29ybGREaXJlY3Rpb24oKS55LAogICAgICAgICAgICAgICAgMAogICAgICAgICAgICApKTsK</text>
       </register>
       <register name="1" type="4">
-        <text>true</text>
+        <text encoding="base64">IC0gMC4x</text>
       </register>
       <register name="2" type="4">
-        <text>nodes:[
-
-        // Mouse-quaternion-orbited camera using
-        // implemented by plugin at http://scenejs.org/api/latest/plugins/node/cameras/trackball.js
-        {
-            type: &quot;cameras/trackball&quot;,
-            eye: { x: 4, y: 4, z: -4.0 },
-
-            nodes:[
-                {
-                    type:&quot;material&quot;,
-                    color:{ r:0.6, g:0.6, b:0.9 },
-                    nodes:[
-
-                        // Box primitive, implemented by plugin at
-                        // http://scenejs.org/api/latest/plugins/node/geometry/box.js
-                        {
-                            type:&quot;geometry/box&quot;,
-                            xSize: 1,
-                            ySize: 1,
-                            zSize: 1.2
-                        }
-                    ]
-                }
-            ]
-        }
-    ]</text>
+        <text encoding="base64">IC0gMC4x</text>
       </register>
       <register name="3" type="4">
-        <text>画一个盒子</text>
+        <text>x</text>
       </register>
       <register name="4" type="4">
-        <text>../api/latest/plugins</text>
+        <text>s</text>
       </register>
       <register name="5" type="4">
-        <text>Title</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="8">
-        <text>https://github.com/NFZM-Front-End/Snippet.git</text>
+      <register name="6" type="4">
+        <text encoding="base64">Jg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnRyb2wudGFyZ2V0LnNldChtZXNoKTsK</text>
+      <register name="7" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="4">
-        <text>camera</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2FtZXJhLnBvc2l0aW9uLnkgKz0gMTsK</text>
       </register>
-      <register name="9" type="4">
-        <text>camera</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2FtZXJhLnBvc2l0aW9uLnkgLT0gMTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
