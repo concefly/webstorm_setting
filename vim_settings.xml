@@ -24,6 +24,18 @@
         <mark key="^" line="7" column="2" />
         <mark key="." line="7" column="42" />
       </file>
+      <file name="E:/hwj/project/lab/scenejs_lab/fly/index.html" timestamp="1451822170675">
+        <mark key="[" line="6" column="11" />
+        <mark key="]" line="6" column="12" />
+        <mark key="." line="6" column="12" />
+        <mark key="^" line="6" column="12" />
+      </file>
+      <file name="E:/hwj/project/lab/scenejs_lab/fly/app.js" timestamp="1451822645666">
+        <mark key="[" line="21" column="24" />
+        <mark key="]" line="21" column="28" />
+        <mark key="." line="21" column="28" />
+        <mark key="^" line="21" column="28" />
+      </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/.env" timestamp="1449801653832">
         <mark key="[" line="20" column="20" />
         <mark key="]" line="22" column="14" />
@@ -633,10 +645,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>../api/latest/plugins</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>../api/latest/plugins</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>object</text>
@@ -645,31 +657,57 @@
         <text encoding="base64">PHNjcmlwdCBzcmM9Ii4uL2xpYi90aHJlZWpzL2V4YW1wbGVzL2pzL2NvbnRyb2xzL09yYml0Q29udHJvbHMuanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="1" type="4">
-        <text>../api/latest/plugins</text>
+        <text>true</text>
       </register>
       <register name="2" type="4">
-        <text>Title</text>
+        <text>nodes:[
+
+        // Mouse-quaternion-orbited camera using
+        // implemented by plugin at http://scenejs.org/api/latest/plugins/node/cameras/trackball.js
+        {
+            type: &quot;cameras/trackball&quot;,
+            eye: { x: 4, y: 4, z: -4.0 },
+
+            nodes:[
+                {
+                    type:&quot;material&quot;,
+                    color:{ r:0.6, g:0.6, b:0.9 },
+                    nodes:[
+
+                        // Box primitive, implemented by plugin at
+                        // http://scenejs.org/api/latest/plugins/node/geometry/box.js
+                        {
+                            type:&quot;geometry/box&quot;,
+                            xSize: 1,
+                            ySize: 1,
+                            zSize: 1.2
+                        }
+                    ]
+                }
+            ]
+        }
+    ]</text>
       </register>
-      <register name="3" type="8">
-        <text>https://github.com/NFZM-Front-End/Snippet.git</text>
+      <register name="3" type="4">
+        <text>画一个盒子</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnRyb2wudGFyZ2V0LnNldChtZXNoKTsK</text>
+      <register name="4" type="4">
+        <text>../api/latest/plugins</text>
       </register>
       <register name="5" type="4">
-        <text>camera</text>
+        <text>Title</text>
       </register>
-      <register name="6" type="4">
-        <text>camera</text>
+      <register name="6" type="8">
+        <text>https://github.com/NFZM-Front-End/Snippet.git</text>
       </register>
-      <register name="7" type="4">
-        <text>mesh</text>
-      </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGNvbnRyb2wudGFyZ2V0LnNldChtZXNoKTsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>camera</text>
+      </register>
+      <register name="9" type="4">
+        <text>camera</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
