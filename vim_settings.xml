@@ -249,7 +249,7 @@
         <mark key="." line="358" column="51" />
         <mark key="[" line="358" column="41" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/article.detail.tpl" timestamp="1451896038309">
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/article.detail.tpl" timestamp="1451900447465">
         <mark key="]" line="33" column="94" />
         <mark key="^" line="68" column="46" />
         <mark key="." line="68" column="46" />
@@ -567,6 +567,12 @@
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/author/author.detail.tpl" timestamp="1451900510361">
+        <mark key="]" line="33" column="61" />
+        <mark key="^" line="33" column="61" />
+        <mark key="." line="33" column="61" />
+        <mark key="[" line="33" column="69" />
+      </file>
       <file name="$USER_HOME$/project/pet/wechat/views/check/third.html" timestamp="1449631386242">
         <mark key="]" line="40" column="5" />
         <mark key="^" line="34" column="26" />
@@ -705,6 +711,12 @@
         <mark key="." line="21" column="74" />
         <mark key="[" line="21" column="29" />
       </file>
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/author/author.detail.js" timestamp="1451900590505">
+        <mark key="]" line="78" column="61" />
+        <mark key="^" line="78" column="61" />
+        <mark key="." line="78" column="61" />
+        <mark key="[" line="75" column="6" />
+      </file>
       <file name="$USER_HOME$/project/pet/wechat/views/check/template-index-check.html" timestamp="1449711733135">
         <mark key="]" line="41" column="41" />
         <mark key="^" line="41" column="41" />
@@ -741,7 +753,7 @@
         <mark key="." line="46" column="50" />
         <mark key="[" line="46" column="25" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/article.detail.js" timestamp="1451896052357">
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/article.detail.js" timestamp="1451900412289">
         <mark key="'" line="98" column="22" />
         <mark key="]" line="265" column="65" />
         <mark key="^" line="98" column="22" />
@@ -871,46 +883,46 @@
     </jumps>
     <registers>
       <register name="3" type="4">
-        <text>save</text>
+        <text>_.omit(this.detail,&quot;id&quot;)</text>
       </register>
       <register name="&quot;" type="4">
-        <text>_.omit(this.detail,&quot;id&quot;)</text>
+        <text>cover_id</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOi/h+a7pCBkZXRhaWwuaWTvvIzorqlzYXZl5L2/55SoUE9TVOaWueazlQo=</text>
-      </register>
-      <register name="1" type="4">
-        <text>_.omit(this.detail,&quot;id&quot;)</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAiaW1hZ2Utc2VsZWN0IjogcmVxdWlyZSgiY29tcG9uZW50cy9tZWRpYS9pbWFnZS5zZWxlY3QiKSwK</text>
-      </register>
-      <register name="7" type="4">
+      <register name="2" type="4">
         <text>,</text>
       </register>
-      <register name="6" type="4">
+      <register name="1" type="4">
         <text>cover_id</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW1hZ2Utc2VsZWN0IDppbWFnZS1pZC5zeW5jPSJkZXRhaWwuY292ZXJfaWQiPjwvaW1hZ2Utc2VsZWN0Pgo=</text>
+      </register>
+      <register name="7" type="4">
+        <text>save</text>
+      </register>
+      <register name="6" type="4">
+        <text>save</text>
       </register>
       <register name="5" type="4">
         <text>save</text>
       </register>
-      <register name="4" type="4">
-        <text>save</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOi/h+a7pCBkZXRhaWwuaWTvvIzorqlzYXZl5L2/55SoUE9TVOaWueazlQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9LmJpbmQodGhpcyksZnVuY3Rpb24oKXsK</text>
+      <register name="9" type="4">
+        <text>,</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="8" type="4">
+        <text>cover_id</text>
       </register>
       <register name="/" type="4">
         <text>newDetail</text>
       </register>
       <register name="-" type="4">
-        <text>_.omit(this.detail,&quot;id&quot;)</text>
+        <text>cover_id</text>
       </register>
     </registers>
     <search>
