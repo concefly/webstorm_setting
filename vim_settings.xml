@@ -3,7 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/module/module.detail.edit.tpl" timestamp="1451896121080">
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/module/module.detail.edit.tpl" timestamp="1451962239924">
+        <mark key="'" line="19" column="35" />
         <mark key="]" line="6" column="32" />
         <mark key="^" line="20" column="69" />
         <mark key="." line="6" column="32" />
@@ -495,10 +496,11 @@
         <mark key="." line="8" column="33" />
         <mark key="[" line="8" column="31" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/module/module.detail.tpl" timestamp="1451527080911">
-        <mark key="]" line="4" column="80" />
-        <mark key="." line="4" column="80" />
-        <mark key="[" line="4" column="80" />
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/module/module.detail.tpl" timestamp="1451962343560">
+        <mark key="]" line="29" column="79" />
+        <mark key="^" line="29" column="79" />
+        <mark key="." line="29" column="79" />
+        <mark key="[" line="29" column="64" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/module/module.detail.js" timestamp="1451527686385">
         <mark key="]" line="147" column="41" />
@@ -786,7 +788,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="184" column="4" filename="$USER_HOME$/project/blackbox/backend-cms/resources/views/cms/index.blade.php" />
       <jump line="173" column="78" filename="$USER_HOME$/project/blackbox/backend-cms/resources/views/cms/index.blade.php" />
       <jump line="57" column="76" filename="$USER_HOME$/project/blackbox/backend-cms/resources/views/cms/index.blade.php" />
       <jump line="81" column="65" filename="$USER_HOME$/project/blackbox/backend-cms/resources/views/cms/index.blade.php" />
@@ -886,34 +887,35 @@
       <jump line="81" column="4" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/article.detail.js" />
       <jump line="58" column="4" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/article.detail.js" />
       <jump line="99" column="22" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/article.detail.js" />
+      <jump line="19" column="35" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/views/module/module.detail.edit.tpl" />
     </jumps>
     <registers>
       <register name="3" type="4">
-        <text>cover_id</text>
+        <text>http://www.huabian.com/uploadfile/2015/0914/20150914025608596.jpg</text>
       </register>
       <register name="&quot;" type="4">
-        <text>http://www.huabian.com/uploadfile/2015/0914/20150914025608596.jpg</text>
+        <text>banner_id</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg6KaB54K55byA6L+Z5Liq5LiL5ouJ5p2h5omN6IO955yL5Yiw5L2c6ICF44CC6ZyA6KaB5paw5bu65L2c6ICF77yM6K+35YWI5YmN5b6AIDxhIHYtbGluaz0ie25hbWU6J2F1dGhvci9jcmVhdGUnfSI+5L2c6ICF566h55CGLeaWsOW7ujwvYT4K</text>
+      <register name="2" type="4">
+        <text>banner_id</text>
       </register>
       <register name="1" type="4">
-        <text>http://www.huabian.com/uploadfile/2015/0914/20150914025608596.jpg</text>
+        <text>banner_id</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cCBjbGFzcz0idGV4dC1pbmZvIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg6KaB54K55byA6L+Z5Liq5LiL5ouJ5p2h5omN6IO955yL5Yiw5L2c6ICF44CC6ZyA6KaB5paw5bu65L2c6ICF77yM6K+35YWI5YmN5b6AIDxhIHYtbGluaz0ie25hbWU6J2F1dGhvci9jcmVhdGUnfSI+5L2c6ICF566h55CGLeaWsOW7ujwvYT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3A+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGltZyA6c3JjPSJjb25maWcucWluaXUucHJldmlld1VybCtpdGVtLmJhbm5lcl9pZCIgYWx0PSIiIGhlaWdodD0iMzAiPgo=</text>
       </register>
       <register name="7" type="4">
-        <text>save</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOi/h+a7pCBkZXRhaWwuaWTvvIzorqlzYXZl5L2/55SoUE9TVOaWueazlQo=</text>
-      </register>
-      <register name="5" type="4">
         <text>_.omit(this.detail,&quot;id&quot;)</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>,</text>
+      </register>
+      <register name="5" type="4">
+        <text>cover_id</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg6KaB54K55byA6L+Z5Liq5LiL5ouJ5p2h5omN6IO955yL5Yiw5L2c6ICF44CC6ZyA6KaB5paw5bu65L2c6ICF77yM6K+35YWI5YmN5b6AIDxhIHYtbGluaz0ie25hbWU6J2F1dGhvci9jcmVhdGUnfSI+5L2c6ICF566h55CGLeaWsOW7ujwvYT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -921,14 +923,14 @@
       <register name="9" type="4">
         <text>save</text>
       </register>
-      <register name="8" type="4">
-        <text>save</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOi/h+a7pCBkZXRhaWwuaWTvvIzorqlzYXZl5L2/55SoUE9TVOaWueazlQo=</text>
       </register>
       <register name="/" type="4">
         <text>newDetail</text>
       </register>
       <register name="-" type="4">
-        <text>http://www.huabian.com/uploadfile/2015/0914/20150914025608596.jpg</text>
+        <text>banner_id</text>
       </register>
     </registers>
     <search>
