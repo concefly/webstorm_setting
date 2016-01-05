@@ -249,11 +249,11 @@
         <mark key="." line="358" column="51" />
         <mark key="[" line="358" column="41" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/article.detail.tpl" timestamp="1451900447465">
-        <mark key="]" line="33" column="94" />
-        <mark key="^" line="68" column="46" />
-        <mark key="." line="68" column="46" />
-        <mark key="[" line="33" column="0" />
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/article.detail.tpl" timestamp="1451958121207">
+        <mark key="]" line="47" column="46" />
+        <mark key="^" line="47" column="46" />
+        <mark key="." line="47" column="46" />
+        <mark key="[" line="46" column="53" />
       </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/resources/assets/js/admin/components/media/picture.vue" timestamp="1449825452970">
         <mark key="]" line="70" column="54" />
@@ -883,19 +883,19 @@
     </jumps>
     <registers>
       <register name="3" type="4">
-        <text>_.omit(this.detail,&quot;id&quot;)</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>cover_id</text>
-      </register>
-      <register name="2" type="4">
         <text>,</text>
       </register>
-      <register name="1" type="4">
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg6KaB54K55byA6L+Z5Liq5LiL5ouJ5p2h5omN6IO955yL5Yiw5L2c6ICF44CC6ZyA6KaB5paw5bu65L2c6ICF77yM6K+35YWI5YmN5b6AIDxhIHYtbGluaz0ie25hbWU6J2F1dGhvci9jcmVhdGUnfSI+5L2c6ICF566h55CGLeaWsOW7ujwvYT4K</text>
+      </register>
+      <register name="2" type="4">
         <text>cover_id</text>
       </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg6KaB54K55byA6L+Z5Liq5LiL5ouJ5p2h5omN6IO955yL5Yiw5L2c6ICF44CC6ZyA6KaB5paw5bu65L2c6ICF77yM6K+35YWI5YmN5b6AIDxhIHYtbGluaz0ie25hbWU6J2F1dGhvci9jcmVhdGUnfSI+5L2c6ICF566h55CGLeaWsOW7ujwvYT4K</text>
+      </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW1hZ2Utc2VsZWN0IDppbWFnZS1pZC5zeW5jPSJkZXRhaWwuY292ZXJfaWQiPjwvaW1hZ2Utc2VsZWN0Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cCBjbGFzcz0idGV4dC1pbmZvIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg6KaB54K55byA6L+Z5Liq5LiL5ouJ5p2h5omN6IO955yL5Yiw5L2c6ICF44CC6ZyA6KaB5paw5bu65L2c6ICF77yM6K+35YWI5YmN5b6AIDxhIHYtbGluaz0ie25hbWU6J2F1dGhvci9jcmVhdGUnfSI+5L2c6ICF566h55CGLeaWsOW7ujwvYT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3A+Cg==</text>
       </register>
       <register name="7" type="4">
         <text>save</text>
@@ -903,20 +903,20 @@
       <register name="6" type="4">
         <text>save</text>
       </register>
-      <register name="5" type="4">
-        <text>save</text>
-      </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOi/h+a7pCBkZXRhaWwuaWTvvIzorqlzYXZl5L2/55SoUE9TVOaWueazlQo=</text>
+      </register>
+      <register name="4" type="4">
+        <text>_.omit(this.detail,&quot;id&quot;)</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>,</text>
+        <text>cover_id</text>
       </register>
       <register name="8" type="4">
-        <text>cover_id</text>
+        <text>save</text>
       </register>
       <register name="/" type="4">
         <text>newDetail</text>
