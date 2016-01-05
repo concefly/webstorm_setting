@@ -27,6 +27,12 @@
         <mark key="." line="26" column="0" />
         <mark key="[" line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/partials/layout/layout.tpl" timestamp="1451958887790">
+        <mark key="]" line="25" column="23" />
+        <mark key="^" line="25" column="23" />
+        <mark key="." line="25" column="23" />
+        <mark key="[" line="21" column="48" />
+      </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/config/config.router.js" timestamp="1450670402798">
         <mark key="'" line="340" column="46" />
         <mark key="]" line="409" column="61" />
@@ -883,16 +889,16 @@
     </jumps>
     <registers>
       <register name="3" type="4">
-        <text>,</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg6KaB54K55byA6L+Z5Liq5LiL5ouJ5p2h5omN6IO955yL5Yiw5L2c6ICF44CC6ZyA6KaB5paw5bu65L2c6ICF77yM6K+35YWI5YmN5b6AIDxhIHYtbGluaz0ie25hbWU6J2F1dGhvci9jcmVhdGUnfSI+5L2c6ICF566h55CGLeaWsOW7ujwvYT4K</text>
-      </register>
-      <register name="2" type="4">
         <text>cover_id</text>
       </register>
-      <register name="1" type="2">
+      <register name="&quot;" type="4">
+        <text>http://www.huabian.com/uploadfile/2015/0914/20150914025608596.jpg</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg6KaB54K55byA6L+Z5Liq5LiL5ouJ5p2h5omN6IO955yL5Yiw5L2c6ICF44CC6ZyA6KaB5paw5bu65L2c6ICF77yM6K+35YWI5YmN5b6AIDxhIHYtbGluaz0ie25hbWU6J2F1dGhvci9jcmVhdGUnfSI+5L2c6ICF566h55CGLeaWsOW7ujwvYT4K</text>
+      </register>
+      <register name="1" type="4">
+        <text>http://www.huabian.com/uploadfile/2015/0914/20150914025608596.jpg</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cCBjbGFzcz0idGV4dC1pbmZvIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg6KaB54K55byA6L+Z5Liq5LiL5ouJ5p2h5omN6IO955yL5Yiw5L2c6ICF44CC6ZyA6KaB5paw5bu65L2c6ICF77yM6K+35YWI5YmN5b6AIDxhIHYtbGluaz0ie25hbWU6J2F1dGhvci9jcmVhdGUnfSI+5L2c6ICF566h55CGLeaWsOW7ujwvYT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3A+Cg==</text>
@@ -900,20 +906,20 @@
       <register name="7" type="4">
         <text>save</text>
       </register>
-      <register name="6" type="4">
-        <text>save</text>
-      </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOi/h+a7pCBkZXRhaWwuaWTvvIzorqlzYXZl5L2/55SoUE9TVOaWueazlQo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>_.omit(this.detail,&quot;id&quot;)</text>
+      </register>
+      <register name="4" type="4">
+        <text>,</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>cover_id</text>
+        <text>save</text>
       </register>
       <register name="8" type="4">
         <text>save</text>
@@ -922,7 +928,7 @@
         <text>newDetail</text>
       </register>
       <register name="-" type="4">
-        <text>cover_id</text>
+        <text>http://www.huabian.com/uploadfile/2015/0914/20150914025608596.jpg</text>
       </register>
     </registers>
     <search>
