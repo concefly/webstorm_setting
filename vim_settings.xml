@@ -496,17 +496,18 @@
         <mark key="." line="8" column="33" />
         <mark key="[" line="8" column="31" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/module/module.detail.tpl" timestamp="1451962343560">
-        <mark key="]" line="29" column="79" />
-        <mark key="^" line="29" column="79" />
-        <mark key="." line="29" column="79" />
-        <mark key="[" line="29" column="64" />
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/module/module.detail.tpl" timestamp="1451966131101">
+        <mark key="]" line="6" column="95" />
+        <mark key="^" line="31" column="59" />
+        <mark key="." line="6" column="95" />
+        <mark key="[" line="6" column="95" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/module/module.detail.js" timestamp="1451527686385">
-        <mark key="]" line="147" column="41" />
-        <mark key="^" line="147" column="41" />
-        <mark key="." line="147" column="41" />
-        <mark key="[" line="147" column="25" />
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/module/module.detail.js" timestamp="1451966092862">
+        <mark key="'" line="66" column="22" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="146" column="41" />
+        <mark key="." line="30" column="0" />
+        <mark key="[" line="30" column="0" />
       </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/resources/assets/js/admin/components/modal/imageModal.vue" timestamp="1449822121728">
         <mark key="]" line="30" column="34" />
@@ -519,6 +520,12 @@
         <mark key="^" line="16" column="0" />
         <mark key="." line="16" column="0" />
         <mark key="[" line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/related-article/related-article.js" timestamp="1451964694259">
+        <mark key="]" line="45" column="42" />
+        <mark key="^" line="45" column="42" />
+        <mark key="." line="45" column="42" />
+        <mark key="[" line="44" column="92" />
       </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/resources/assets/js/admin/components/postManager/datatable.vue" timestamp="1449820401512">
         <mark key="]" line="144" column="38" />
@@ -557,11 +564,11 @@
         <mark key="." line="27" column="7" />
         <mark key="[" line="22" column="70" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/module/module.detail.edit.js" timestamp="1451898755019">
-        <mark key="]" line="76" column="61" />
-        <mark key="^" line="76" column="61" />
-        <mark key="." line="76" column="61" />
-        <mark key="[" line="76" column="59" />
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/module/module.detail.edit.js" timestamp="1451966019101">
+        <mark key="]" line="58" column="51" />
+        <mark key="^" line="77" column="37" />
+        <mark key="." line="58" column="51" />
+        <mark key="[" line="58" column="50" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/grid/grid2.html" timestamp="1449643260277">
         <mark key="]" line="2" column="100" />
@@ -701,12 +708,6 @@
         <mark key="." line="8" column="39" />
         <mark key="[" line="8" column="35" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.detail.js" timestamp="1450680978925">
-        <mark key="'" line="81" column="0" />
-        <mark key="]" line="98" column="9" />
-        <mark key="." line="98" column="9" />
-        <mark key="[" line="98" column="9" />
-      </file>
       <file name="$USER_HOME$/project/pet/wechat/package.json" timestamp="1449479047622">
         <mark key="]" line="21" column="0" />
         <mark key="^" line="10" column="20" />
@@ -788,9 +789,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="173" column="78" filename="$USER_HOME$/project/blackbox/backend-cms/resources/views/cms/index.blade.php" />
-      <jump line="57" column="76" filename="$USER_HOME$/project/blackbox/backend-cms/resources/views/cms/index.blade.php" />
-      <jump line="81" column="65" filename="$USER_HOME$/project/blackbox/backend-cms/resources/views/cms/index.blade.php" />
       <jump line="91" column="78" filename="$USER_HOME$/project/blackbox/backend-cms/resources/views/cms/index.blade.php" />
       <jump line="105" column="63" filename="$USER_HOME$/project/blackbox/backend-cms/resources/views/cms/index.blade.php" />
       <jump line="126" column="65" filename="$USER_HOME$/project/blackbox/backend-cms/resources/views/cms/index.blade.php" />
@@ -888,55 +886,58 @@
       <jump line="58" column="4" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/article.detail.js" />
       <jump line="99" column="22" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/article.detail.js" />
       <jump line="19" column="35" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/views/module/module.detail.edit.tpl" />
+      <jump line="110" column="25" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/views/module/module.detail.js" />
+      <jump line="55" column="22" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/views/module/module.detail.js" />
+      <jump line="67" column="22" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/views/module/module.detail.js" />
     </jumps>
     <registers>
-      <register name="3" type="4">
-        <text>http://www.huabian.com/uploadfile/2015/0914/20150914025608596.jpg</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>banner_id</text>
+        <text>条</text>
       </register>
       <register name="2" type="4">
-        <text>banner_id</text>
+        <text>头</text>
       </register>
       <register name="1" type="4">
-        <text>banner_id</text>
+        <text>条</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGltZyA6c3JjPSJjb25maWcucWluaXUucHJldmlld1VybCtpdGVtLmJhbm5lcl9pZCIgYWx0PSIiIGhlaWdodD0iMzAiPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgImFpIjogYXJ0aWNsZV9jYXRlZ29yeV9pZCA9IDE7IGJyZWFrOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>_.omit(this.detail,&quot;id&quot;)</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuZGV0YWlsLnRpdGxlID0gIuayoeacieaJvuWIsOagh+mimCI7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>,</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuZGV0YWlsLnRpdGxlID0gdmFsWzBdLnRpdGxlOwo=</text>
       </register>
       <register name="5" type="4">
-        <text>cover_id</text>
+        <text>this</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg6KaB54K55byA6L+Z5Liq5LiL5ouJ5p2h5omN6IO955yL5Yiw5L2c6ICF44CC6ZyA6KaB5paw5bu65L2c6ICF77yM6K+35YWI5YmN5b6AIDxhIHYtbGluaz0ie25hbWU6J2F1dGhvci9jcmVhdGUnfSI+5L2c6ICF566h55CGLeaWsOW7ujwvYT4K</text>
+      <register name="4" type="4">
+        <text>this.d</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>save</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuZGV0YWlsLmFydGljbGVfY2F0ZWdvcnlfaWQgPSAwOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOi/h+a7pCBkZXRhaWwuaWTvvIzorqlzYXZl5L2/55SoUE9TVOaWueazlQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy5kZXRhaWwpOwo=</text>
       </register>
       <register name="/" type="4">
-        <text>newDetail</text>
+        <text>home</text>
       </register>
       <register name="-" type="4">
-        <text>banner_id</text>
+        <text>条</text>
       </register>
     </registers>
     <search>
-      <last-search>article</last-search>
+      <last-search>home</last-search>
       <last-offset />
-      <last-pattern>newDetail</last-pattern>
+      <last-pattern>home</last-pattern>
       <last-replace>detail</last-replace>
       <last-substitute>newDetail</last-substitute>
       <last-dir>1</last-dir>
@@ -944,7 +945,6 @@
     </search>
     <history>
       <history-search>
-        <entry>if</entry>
         <entry>not</entry>
         <entry>tags</entry>
         <entry>binaryUrl</entry>
@@ -964,9 +964,9 @@
         <entry>cover_id</entry>
         <entry>title</entry>
         <entry>newDetail</entry>
+        <entry>home</entry>
       </history-search>
       <history-cmd>
-        <entry>375</entry>
         <entry>300</entry>
         <entry>22,27 s/headline/recommend/</entry>
         <entry>150</entry>
@@ -985,6 +985,7 @@
         <entry>s/title/abstract/g</entry>
         <entry>59,73 s/newDetail/detail/g</entry>
         <entry>99</entry>
+        <entry>Pw</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
