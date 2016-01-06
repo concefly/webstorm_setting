@@ -564,11 +564,10 @@
         <mark key="." line="27" column="7" />
         <mark key="[" line="22" column="70" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/module/module.detail.edit.js" timestamp="1452047192903">
-        <mark key="]" line="80" column="31" />
-        <mark key="^" line="80" column="31" />
-        <mark key="." line="80" column="31" />
-        <mark key="[" line="79" column="15" />
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/module/module.detail.edit.js" timestamp="1452063490859">
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
+        <mark key="[" line="80" column="0" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/grid/grid2.html" timestamp="1449643260277">
         <mark key="]" line="2" column="100" />
@@ -892,40 +891,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLnJlY0FydGljbGVMaXN0LmRhdGEgPSBzZWxmLnJlamVjdChkYXRhLmRhdGEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZGV0YWlsKTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy5yZWNBcnRpY2xlTGlzdC5kYXRhID0gdGhpcy5yZWplY3QodGhpcy5yZWNBcnRpY2xlTGlzdC5kYXRhKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5yZWNBcnRpY2xlTGlzdC5kYXRhID0gdGhpcy5yZWplY3QodGhpcy5yZWNBcnRpY2xlTGlzdC5kYXRhKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLnJlY0FydGljbGVMaXN0LmRhdGEgPSBzZWxmLnJlamVjdChkYXRhLmRhdGEpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLnJlY0FydGljbGVMaXN0LmRhdGEgPSBzZWxmLnJlamVjdChkYXRhLmRhdGEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZGV0YWlsKTsK</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy5yZWNBcnRpY2xlTGlzdCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhhcnRpY2xlLmlkLGl0ZW0uaWQpOwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhhcnRpY2xlLmlkKTsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgX3JlY0FydGljbGVMaXN0OiBkZWZhdWx0UmVzdWx0KCksCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLl9yZWNBcnRpY2xlTGlzdCA9IGRhdGE7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5yZWNBcnRpY2xlTGlzdC5kYXRhID0gdGhpcy5yZWplY3QodGhpcy5yZWNBcnRpY2xlTGlzdC5kYXRhKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy5yZWNBcnRpY2xlTGlzdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnJlY0FydGljbGVMaXN0KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnJlY0FydGljbGVMaXN0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhhcnRpY2xlLmlkLGl0ZW0uaWQpOwo=</text>
       </register>
       <register name="/" type="4">
         <text>home</text>
