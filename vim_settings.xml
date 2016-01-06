@@ -521,11 +521,11 @@
         <mark key="." line="16" column="0" />
         <mark key="[" line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/related-article/related-article.js" timestamp="1451964694259">
-        <mark key="]" line="45" column="42" />
-        <mark key="^" line="45" column="42" />
-        <mark key="." line="45" column="42" />
-        <mark key="[" line="44" column="92" />
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/related-article/related-article.js" timestamp="1452049137329">
+        <mark key="]" line="63" column="0" />
+        <mark key="^" line="62" column="46" />
+        <mark key="." line="63" column="0" />
+        <mark key="[" line="63" column="0" />
       </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/resources/assets/js/admin/components/postManager/datatable.vue" timestamp="1449820401512">
         <mark key="]" line="144" column="38" />
@@ -891,47 +891,47 @@
       <jump line="67" column="22" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/views/module/module.detail.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>v-if=&quot;$route.params.position=='headline'&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLnJlY0FydGljbGVMaXN0LmRhdGEgPSBzZWxmLnJlamVjdChkYXRhLmRhdGEpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0ZW1wbGF0ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5yZWNBcnRpY2xlTGlzdC5kYXRhID0gdGhpcy5yZWplY3QodGhpcy5yZWNBcnRpY2xlTGlzdC5kYXRhKTsK</text>
       </register>
-      <register name="2" type="4">
-        <text>头</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5yZWNBcnRpY2xlTGlzdC5kYXRhID0gdGhpcy5yZWplY3QodGhpcy5yZWNBcnRpY2xlTGlzdC5kYXRhKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>条</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLnJlY0FydGljbGVMaXN0LmRhdGEgPSBzZWxmLnJlamVjdChkYXRhLmRhdGEpOwo=</text>
       </register>
-      <register name="0" type="4">
-        <text>v-if=&quot;$route.params.position=='headline'&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy5yZWNBcnRpY2xlTGlzdCk7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>this.d</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhhcnRpY2xlLmlkLGl0ZW0uaWQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhhcnRpY2xlLmlkKTsK</text>
       </register>
-      <register name="5" type="4">
-        <text>头</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgX3JlY0FydGljbGVMaXN0OiBkZWZhdWx0UmVzdWx0KCksCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>条</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLl9yZWNBcnRpY2xlTGlzdCA9IGRhdGE7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuZGV0YWlsLnRpdGxlID0gdmFsWzBdLnRpdGxlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy5yZWNBcnRpY2xlTGlzdCk7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>this</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnJlY0FydGljbGVMaXN0KTsK</text>
       </register>
       <register name="/" type="4">
         <text>home</text>
       </register>
       <register name="-" type="4">
-        <text>条</text>
+        <text>articleList</text>
       </register>
     </registers>
     <search>
