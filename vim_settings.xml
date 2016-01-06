@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/module/module.detail.edit.tpl" timestamp="1451962239924">
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/module/module.detail.edit.tpl" timestamp="1452046735464">
         <mark key="'" line="19" column="35" />
-        <mark key="]" line="6" column="32" />
-        <mark key="^" line="20" column="69" />
-        <mark key="." line="6" column="32" />
-        <mark key="[" line="6" column="31" />
+        <mark key="]" line="12" column="82" />
+        <mark key="^" line="12" column="82" />
+        <mark key="." line="12" column="82" />
+        <mark key="[" line="12" column="43" />
       </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/resources/views/cms/index.blade.php" timestamp="1449732496933">
         <mark key="]" line="57" column="54" />
@@ -496,11 +496,11 @@
         <mark key="." line="8" column="33" />
         <mark key="[" line="8" column="31" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/module/module.detail.tpl" timestamp="1451966131101">
-        <mark key="]" line="6" column="95" />
-        <mark key="^" line="31" column="59" />
-        <mark key="." line="6" column="95" />
-        <mark key="[" line="6" column="95" />
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/module/module.detail.tpl" timestamp="1452046967504">
+        <mark key="]" line="29" column="106" />
+        <mark key="^" line="29" column="106" />
+        <mark key="." line="29" column="106" />
+        <mark key="[" line="29" column="100" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/module/module.detail.js" timestamp="1451966092862">
         <mark key="'" line="66" column="22" />
@@ -564,11 +564,11 @@
         <mark key="." line="27" column="7" />
         <mark key="[" line="22" column="70" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/module/module.detail.edit.js" timestamp="1451966019101">
-        <mark key="]" line="58" column="51" />
-        <mark key="^" line="77" column="37" />
-        <mark key="." line="58" column="51" />
-        <mark key="[" line="58" column="50" />
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/module/module.detail.edit.js" timestamp="1452047192903">
+        <mark key="]" line="80" column="31" />
+        <mark key="^" line="80" column="31" />
+        <mark key="." line="80" column="31" />
+        <mark key="[" line="79" column="15" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/grid/grid2.html" timestamp="1449643260277">
         <mark key="]" line="2" column="100" />
@@ -892,10 +892,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>条</text>
+        <text>v-if=&quot;$route.params.position=='headline'&quot;</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0ZW1wbGF0ZQo=</text>
       </register>
       <register name="2" type="4">
         <text>头</text>
@@ -903,29 +903,29 @@
       <register name="1" type="4">
         <text>条</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgImFpIjogYXJ0aWNsZV9jYXRlZ29yeV9pZCA9IDE7IGJyZWFrOwo=</text>
+      <register name="0" type="4">
+        <text>v-if=&quot;$route.params.position=='headline'&quot;</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuZGV0YWlsLnRpdGxlID0gIuayoeacieaJvuWIsOagh+mimCI7Cg==</text>
+      <register name="7" type="4">
+        <text>this.d</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuZGV0YWlsLnRpdGxlID0gdmFsWzBdLnRpdGxlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="4">
-        <text>this</text>
+        <text>头</text>
       </register>
       <register name="4" type="4">
-        <text>this.d</text>
+        <text>条</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuZGV0YWlsLmFydGljbGVfY2F0ZWdvcnlfaWQgPSAwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuZGV0YWlsLnRpdGxlID0gdmFsWzBdLnRpdGxlOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy5kZXRhaWwpOwo=</text>
+      <register name="8" type="4">
+        <text>this</text>
       </register>
       <register name="/" type="4">
         <text>home</text>
