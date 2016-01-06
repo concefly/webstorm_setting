@@ -28,11 +28,11 @@
         <mark key="." line="26" column="0" />
         <mark key="[" line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/partials/layout/layout.tpl" timestamp="1451958887790">
-        <mark key="]" line="25" column="23" />
-        <mark key="^" line="25" column="23" />
-        <mark key="." line="25" column="23" />
-        <mark key="[" line="21" column="48" />
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/partials/layout/layout.tpl" timestamp="1452078463891">
+        <mark key="]" line="12" column="109" />
+        <mark key="^" line="12" column="109" />
+        <mark key="." line="12" column="109" />
+        <mark key="[" line="12" column="106" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/config/config.router.js" timestamp="1450670402798">
         <mark key="'" line="340" column="46" />
@@ -165,6 +165,12 @@
         <mark key="^" line="32" column="27" />
         <mark key="." line="74" column="0" />
         <mark key="[" line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/permission/admin.list.js" timestamp="1452078784011">
+        <mark key="]" line="6" column="29" />
+        <mark key="^" line="6" column="29" />
+        <mark key="." line="6" column="29" />
+        <mark key="[" line="5" column="26" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/related-article/related-article.tpl" timestamp="1450434276832">
         <mark key="]" line="25" column="58" />
@@ -316,6 +322,10 @@
         <mark key="." line="61" column="28" />
         <mark key="[" line="61" column="28" />
       </file>
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/author/author.list.js" timestamp="1452076661676">
+        <mark key="]" line="67" column="1" />
+        <mark key="[" line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/project/pet/wechat/views/check/third.js" timestamp="1449564779895">
         <mark key="]" line="4" column="0" />
         <mark key="^" line="4" column="28" />
@@ -371,6 +381,12 @@
         <mark key="^" line="0" column="48" />
         <mark key="." line="0" column="48" />
         <mark key="[" line="0" column="49" />
+      </file>
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/permission/admin.list.tpl" timestamp="1452078129669">
+        <mark key="]" line="36" column="73" />
+        <mark key="^" line="36" column="73" />
+        <mark key="." line="36" column="73" />
+        <mark key="[" line="36" column="69" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/paragraph/paragraph-titled.html" timestamp="1449556151712">
         <mark key="]" line="4" column="0" />
@@ -448,11 +464,11 @@
         <mark key="." line="235" column="76" />
         <mark key="[" line="235" column="74" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/config/config.router.js" timestamp="1451456822135">
-        <mark key="]" line="16" column="53" />
-        <mark key="^" line="16" column="53" />
-        <mark key="." line="16" column="53" />
-        <mark key="[" line="16" column="40" />
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/config/config.router.js" timestamp="1452078836201">
+        <mark key="]" line="347" column="54" />
+        <mark key="^" line="347" column="54" />
+        <mark key="." line="347" column="54" />
+        <mark key="[" line="347" column="48" />
       </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/resources/assets/js/layout/header.js" timestamp="1449739354880">
         <mark key="]" line="19" column="40" />
@@ -635,6 +651,11 @@
         <mark key="." line="53" column="40" />
         <mark key="[" line="52" column="31" />
       </file>
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/permission/admin-list.js" timestamp="1452076665034">
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="[" line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/product/product.js" timestamp="1450425665736">
         <mark key="]" line="39" column="62" />
         <mark key="^" line="39" column="62" />
@@ -768,6 +789,10 @@
         <mark key="." line="192" column="0" />
         <mark key="[" line="265" column="0" />
       </file>
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/author/author.list.tpl" timestamp="1452077860192">
+        <mark key="]" line="44" column="5" />
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/project/pet/wechat/views/check/all.scss" timestamp="1449456056731">
         <mark key="]" line="31" column="43" />
         <mark key="^" line="31" column="43" />
@@ -890,47 +915,47 @@
       <jump line="67" column="22" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/views/module/module.detail.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZGV0YWlsKTsK</text>
+      <register name="&quot;" type="4">
+        <text>media</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5yZWNBcnRpY2xlTGlzdC5kYXRhID0gdGhpcy5yZWplY3QodGhpcy5yZWNBcnRpY2xlTGlzdC5kYXRhKTsK</text>
+      <register name="3" type="4">
+        <text>user</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLnJlY0FydGljbGVMaXN0LmRhdGEgPSBzZWxmLnJlamVjdChkYXRhLmRhdGEpOwo=</text>
+      <register name="2" type="4">
+        <text>用户管理</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZGV0YWlsKTsK</text>
+      <register name="1" type="4">
+        <text>media</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy5yZWNBcnRpY2xlTGlzdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0ieyUgJy91c2VyJyB8IGFjdGl2ZSAkcm91dGUucGF0aCAnYWN0aXZlJyAlfSI+PGEgdi1saW5rPSJ7bmFtZTogJ3VzZXIvbGlzdCd9Ij7nlKjmiLfnrqHnkIY8L2E+PC9saT4K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhhcnRpY2xlLmlkKTsK</text>
+      <register name="7" type="4">
+        <text>del</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgX3JlY0FydGljbGVMaXN0OiBkZWZhdWx0UmVzdWx0KCksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0iIj48YSB2LWxpbms9IntuYW1lOidub3RGaW5pc2hlZCd9Ij7mnYPpmZDnrqHnkIY8L2E+PC9saT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLl9yZWNBcnRpY2xlTGlzdCA9IGRhdGE7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0iIj48YSB2LWxpbms9IntuYW1lOidub3RGaW5pc2hlZCd9Ij7mnYPpmZDnrqHnkIY8L2E+PC9saT4K</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5yZWNBcnRpY2xlTGlzdC5kYXRhID0gdGhpcy5yZWplY3QodGhpcy5yZWNBcnRpY2xlTGlzdC5kYXRhKTsK</text>
+      <register name="4" type="4">
+        <text>user</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnJlY0FydGljbGVMaXN0KTsK</text>
+        <text encoding="base64">ICAgICAgICA8dHIgY2xhc3M9ImFjdGl2ZSI+CiAgICAgICAgICAgIDx0aCBjbGFzcz0iIj7luo/lj7c8L3RoPgogICAgICAgICAgICA8dGg+5aS05YOPPC90aD4KICAgICAgICAgICAgPHRoPui0puaIt+WQjTwvdGg+CiAgICAgICAgICAgIDx0aD7op5LoibI8L3RoPgogICAgICAgICAgICA8dGg+6YKu566xPC90aD4KICAgICAgICAgICAgPHRoPuaTjeS9nDwvdGg+CiAgICAgICAgPC90cj4K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhhcnRpY2xlLmlkLGl0ZW0uaWQpOwo=</text>
+      <register name="8" type="4">
+        <text>author</text>
       </register>
       <register name="/" type="4">
         <text>home</text>
       </register>
       <register name="-" type="4">
-        <text>articleList</text>
+        <text>media</text>
       </register>
     </registers>
     <search>
