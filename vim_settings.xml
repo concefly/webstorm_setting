@@ -232,11 +232,11 @@
         <mark key="." line="1" column="16" />
         <mark key="[" line="0" column="63" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/permission/admin.edit.tpl" timestamp="1452134299045">
-        <mark key="]" line="5" column="42" />
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/permission/admin.edit.tpl" timestamp="1452136513897">
+        <mark key="]" line="33" column="72" />
         <mark key="^" line="5" column="42" />
-        <mark key="." line="5" column="42" />
-        <mark key="[" line="5" column="38" />
+        <mark key="." line="33" column="72" />
+        <mark key="[" line="33" column="72" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/user/user.detail.tpl" timestamp="1450247253837">
         <mark key="]" line="4" column="37" />
@@ -388,11 +388,11 @@
         <mark key="." line="0" column="48" />
         <mark key="[" line="0" column="49" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/permission/admin.list.tpl" timestamp="1452134258637">
-        <mark key="]" line="36" column="73" />
-        <mark key="^" line="36" column="73" />
-        <mark key="." line="36" column="73" />
-        <mark key="[" line="36" column="58" />
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/permission/admin.list.tpl" timestamp="1452136996297">
+        <mark key="]" line="9" column="74" />
+        <mark key="^" line="9" column="74" />
+        <mark key="." line="9" column="74" />
+        <mark key="[" line="9" column="69" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/paragraph/paragraph-titled.html" timestamp="1449556151712">
         <mark key="]" line="4" column="0" />
@@ -477,11 +477,11 @@
         <mark key="." line="235" column="76" />
         <mark key="[" line="235" column="74" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/config/config.router.js" timestamp="1452134372004">
-        <mark key="]" line="350" column="33" />
-        <mark key="^" line="350" column="33" />
-        <mark key="." line="350" column="33" />
-        <mark key="[" line="350" column="30" />
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/config/config.router.js" timestamp="1452137049625">
+        <mark key="]" line="351" column="46" />
+        <mark key="^" line="351" column="46" />
+        <mark key="." line="351" column="46" />
+        <mark key="[" line="351" column="41" />
       </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/resources/assets/js/layout/header.js" timestamp="1449739354880">
         <mark key="]" line="19" column="40" />
@@ -929,46 +929,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>author</text>
+        <text>edit</text>
       </register>
       <register name="3" type="4">
-        <text>button</text>
+        <text>edit</text>
       </register>
       <register name="2" type="4">
-        <text>button</text>
+        <text>/</text>
       </register>
       <register name="1" type="4">
-        <text>author</text>
+        <text>edit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIi9saXN0IjogewogICAgICAgICAgICAgICAgICAgICAgICAgICAgbmFtZTogImFkbWluL2xpc3QiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgY29tcG9uZW50OiBmdW5jdGlvbihyZXNvbHZlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVxdWlyZShbInZpZXdzL3Blcm1pc3Npb24vYWRtaW4ubGlzdCJdLHJlc29sdmUpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIi9lZGl0LzppZCI6IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5hbWU6ICJhZG1pbi9lZGl0IiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbXBvbmVudDogZnVuY3Rpb24ocmVzb2x2ZSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlcXVpcmUoWyJ2aWV3cy9wZXJtaXNzaW9uL2FkbWluLmVkaXQiXSxyZXNvbHZlKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="4">
-        <text>list</text>
+        <text>button</text>
       </register>
       <register name="6" type="4">
-        <text>list</text>
+        <text>author</text>
       </register>
       <register name="5" type="4">
-        <text>list</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text>a</text>
+        <text>create</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>,</text>
+        <text>a</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>button</text>
       </register>
       <register name="/" type="4">
         <text>avatar_url</text>
       </register>
       <register name="-" type="4">
-        <text>author</text>
+        <text>edit</text>
       </register>
     </registers>
     <search>
