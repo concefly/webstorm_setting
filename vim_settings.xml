@@ -232,11 +232,11 @@
         <mark key="." line="1" column="16" />
         <mark key="[" line="0" column="63" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/permission/admin.edit.tpl" timestamp="1452136513897">
-        <mark key="]" line="33" column="72" />
-        <mark key="^" line="5" column="42" />
-        <mark key="." line="33" column="72" />
-        <mark key="[" line="33" column="72" />
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/permission/admin.edit.tpl" timestamp="1452139106186">
+        <mark key="]" line="33" column="106" />
+        <mark key="^" line="33" column="106" />
+        <mark key="." line="33" column="106" />
+        <mark key="[" line="33" column="102" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/user/user.detail.tpl" timestamp="1450247253837">
         <mark key="]" line="4" column="37" />
@@ -388,7 +388,7 @@
         <mark key="." line="0" column="48" />
         <mark key="[" line="0" column="49" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/permission/admin.list.tpl" timestamp="1452136996297">
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/permission/admin.list.tpl" timestamp="1452139691640">
         <mark key="]" line="9" column="74" />
         <mark key="^" line="9" column="74" />
         <mark key="." line="9" column="74" />
@@ -400,12 +400,11 @@
         <mark key="." line="4" column="0" />
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/permission/admin.edit.js" timestamp="1452133999040">
-        <mark key="'" line="42" column="16" />
-        <mark key="]" line="80" column="51" />
-        <mark key="^" line="80" column="51" />
-        <mark key="." line="80" column="51" />
-        <mark key="[" line="80" column="44" />
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/permission/admin.edit.js" timestamp="1452139660979">
+        <mark key="]" line="63" column="32" />
+        <mark key="^" line="63" column="32" />
+        <mark key="." line="63" column="32" />
+        <mark key="[" line="60" column="33" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/api.js" timestamp="1449626049102">
         <mark key="]" line="4" column="31" />
@@ -928,47 +927,49 @@
       <jump line="42" column="16" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/views/permission/admin.edit.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>edit</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZG9uZShmdW5jdGlvbihkYXRhKXsKICAgICAgICAgICAgICAgICAgICAgICAgYWxlcnQoIuS/ruaUueaIkOWKnyIpOwogICAgICAgICAgICAgICAgICAgICAgICBzZWxmLiRyb3V0ZS5yb3V0ZXIuZ28oe25hbWU6J2FkbWluL2xpc3QnfSkKICAgICAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICAgICAgICAgIC5mYWlsKGZ1bmN0aW9uKCl7CiAgICAgICAgICAgICAgICAgICAgICAgIGFsZXJ0KCLkv67mlLnlpLHotKUiKTsKICAgICAgICAgICAgICAgICAgICB9KQo=</text>
       </register>
       <register name="3" type="4">
-        <text>edit</text>
+        <text>function(){
+                        alert(&quot;新增失败&quot;);
+                    }</text>
       </register>
-      <register name="2" type="4">
-        <text>/</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZG9uZShmdW5jdGlvbihkYXRhKXsKICAgICAgICAgICAgICAgICAgICAgICAgYWxlcnQoIuaWsOWinuaIkOWKnyIpOwogICAgICAgICAgICAgICAgICAgICAgICBzZWxmLiRyb3V0ZS5yb3V0ZXIuZ28oe25hbWU6J2FkbWluL2xpc3QnfSkKICAgICAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICAgICAgICAgIC5mYWlsKCkK</text>
       </register>
-      <register name="1" type="4">
-        <text>edit</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZG9uZShmdW5jdGlvbihkYXRhKXsKICAgICAgICAgICAgICAgICAgICAgICAgYWxlcnQoIuS/ruaUueaIkOWKnyIpOwogICAgICAgICAgICAgICAgICAgICAgICBzZWxmLiRyb3V0ZS5yb3V0ZXIuZ28oe25hbWU6J2FkbWluL2xpc3QnfSkKICAgICAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICAgICAgICAgIC5mYWlsKGZ1bmN0aW9uKCl7CiAgICAgICAgICAgICAgICAgICAgICAgIGFsZXJ0KCLkv67mlLnlpLHotKUiKTsKICAgICAgICAgICAgICAgICAgICB9KQo=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIi9lZGl0LzppZCI6IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5hbWU6ICJhZG1pbi9lZGl0IiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbXBvbmVudDogZnVuY3Rpb24ocmVzb2x2ZSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlcXVpcmUoWyJ2aWV3cy9wZXJtaXNzaW9uL2FkbWluLmVkaXQiXSxyZXNvbHZlKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAudGhlbihmdW5jdGlvbihkYXRhKXsKICAgICAgICAgICAgICAgICAgICAgICAgYWxlcnQoIuaWsOWinuaIkOWKnyIpOwogICAgICAgICAgICAgICAgICAgICAgICBzZWxmLiRyb3V0ZS5yb3V0ZXIuZ28oe25hbWU6J2FkbWluL2xpc3QnfSkKICAgICAgICAgICAgICAgICAgICB9LGZ1bmN0aW9uKCl7CiAgICAgICAgICAgICAgICAgICAgICAgIGFsZXJ0KCLmlrDlop7lpLHotKUiKTsKICAgICAgICAgICAgICAgICAgICB9KQo=</text>
       </register>
       <register name="7" type="4">
-        <text>button</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYodGhpcy5kZXRhaWwucGFzc3dvcmQgIT0gdGhpcy5yZXBhc3N3b3JkKXsKICAgICAgICAgICAgICAgIGVycm9yLnB1c2goIuS4pOasoei+k+WFpeeahOWvhueggeS4jeS4gOiHtCIpOwogICAgICAgICAgICB9</text>
       </register>
-      <register name="6" type="4">
-        <text>author</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVycm9yLnB1c2goIuS4pOasoei+k+WFpeeahOWvhueggeS4jeS4gOiHtCIpOwogICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYodGhpcy5kZXRhaWwucGFzc3dvcmQgIT0gdGhpcy5yZXBhc3N3b3JkKXsKICAgICAgICAgICAgICAgIGVycm9yLnB1c2goIuS4pOasoei+k+WFpeeahOWvhueggeS4jeS4gOiHtCIpOwogICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>create</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>a</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYoIWNvbmZpcm0oJ+ehruWumuaLiem7ke+8nycpKSByZXR1cm47Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>button</text>
+        <text>intro</text>
       </register>
       <register name="/" type="4">
         <text>avatar_url</text>
       </register>
       <register name="-" type="4">
-        <text>edit</text>
+        <text>intro</text>
       </register>
     </registers>
     <search>
