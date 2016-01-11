@@ -274,11 +274,12 @@
         <mark key="." line="70" column="54" />
         <mark key="[" line="70" column="29" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/article.detail.tpl" timestamp="1451958121207">
-        <mark key="]" line="47" column="46" />
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/article.detail.tpl" timestamp="1452480408952">
+        <mark key="'" line="85" column="51" />
+        <mark key="]" line="120" column="27" />
         <mark key="^" line="47" column="46" />
-        <mark key="." line="47" column="46" />
-        <mark key="[" line="46" column="53" />
+        <mark key="." line="120" column="27" />
+        <mark key="[" line="120" column="27" />
       </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/app/Http/Kernel.php" timestamp="1449804920421">
         <mark key="]" line="19" column="56" />
@@ -494,6 +495,12 @@
         <mark key="." line="14" column="0" />
         <mark key="[" line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/tag/tag.tpl" timestamp="1452480360280">
+        <mark key="]" line="12" column="60" />
+        <mark key="^" line="12" column="64" />
+        <mark key="." line="12" column="60" />
+        <mark key="[" line="12" column="60" />
+      </file>
       <file name="E:/hwj/project/lab/helloword/package.json" timestamp="1448379409792">
         <mark key="]" line="25" column="4" />
         <mark key="^" line="26" column="4" />
@@ -609,12 +616,12 @@
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/tag/tag.js" timestamp="1452479382079">
-        <mark key="'" line="97" column="17" />
-        <mark key="]" line="48" column="8" />
-        <mark key="^" line="48" column="8" />
-        <mark key="." line="48" column="8" />
-        <mark key="[" line="48" column="8" />
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/tag/tag.js" timestamp="1452480562408">
+        <mark key="'" line="86" column="17" />
+        <mark key="]" line="20" column="12" />
+        <mark key="^" line="37" column="8" />
+        <mark key="." line="20" column="12" />
+        <mark key="[" line="20" column="12" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/author/author.detail.tpl" timestamp="1452133070278">
         <mark key="]" line="47" column="5" />
@@ -832,7 +839,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/padding.scss" />
       <jump line="12" column="2" filename="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/lineheight.scss" />
       <jump line="5" column="2" filename="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/textalign.scss" />
       <jump line="17" column="50" filename="$USER_HOME$/project/pet/wechat/components/frozenui/sass/component/step.scss" />
@@ -932,55 +938,56 @@
       <jump line="67" column="29" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/tag/tag.js" />
       <jump line="77" column="29" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/tag/tag.js" />
       <jump line="97" column="17" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/tag/tag.js" />
+      <jump line="85" column="51" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/article.detail.tpl" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHgpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>_</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5wdXQ6IHsKICAgICAgICAgICAgICAgIGdldAogICAgICAgICAgICB9Cg==</text>
+      <register name="3" type="4">
+        <text>字</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbnB1dDogewogICAgICAgICAgICBnZXQ6IGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgICAgIHJldHVybiB0aGlzLl9pbnB1dDsKICAgICAgICAgICAgfSwKICAgICAgICAgICAgc2V0OiBmdW5jdGlvbih4KSB7CiAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyh4KTsKICAgICAgICAgICAgICAgIHRoaXMuX2lucHV0ID0geC5zdWJzdHIoMCx0YWdMZXR0ZXJMaW1pdCk7CiAgICAgICAgICAgICAgICByZXR1cm4gdGhpcy5faW5wdXQ7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
+      <register name="2" type="4">
+        <text>）</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHgpOwo=</text>
+      <register name="1" type="4">
+        <text>_</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAudGhlbihmdW5jdGlvbihkYXRhKXsKICAgICAgICAgICAgICAgICAgICAgICAgYWxlcnQoIuaWsOWinuaIkOWKnyIpOwogICAgICAgICAgICAgICAgICAgICAgICBzZWxmLiRyb3V0ZS5yb3V0ZXIuZ28oe25hbWU6J2FkbWluL2xpc3QnfSkKICAgICAgICAgICAgICAgICAgICB9LGZ1bmN0aW9uKCl7CiAgICAgICAgICAgICAgICAgICAgICAgIGFsZXJ0KCLmlrDlop7lpLHotKUiKTsKICAgICAgICAgICAgICAgICAgICB9KQo=</text>
       </register>
       <register name="7" type="4">
-        <text>url</text>
+        <text>不</text>
       </register>
       <register name="6" type="4">
-        <text>:</text>
+        <text>超</text>
       </register>
       <register name="5" type="4">
-        <text>5</text>
+        <text>过</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="4" type="4">
+        <text>8</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZG9uZShmdW5jdGlvbihkYXRhKXsKICAgICAgICAgICAgICAgICAgICAgICAgYWxlcnQoIuaWsOWinuaIkOWKnyIpOwogICAgICAgICAgICAgICAgICAgICAgICBzZWxmLiRyb3V0ZS5yb3V0ZXIuZ28oe25hbWU6J2FkbWluL2xpc3QnfSkKICAgICAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICAgICAgICAgIC5mYWlsKCkK</text>
+      <register name="9" type="4">
+        <text>每</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZG9uZShmdW5jdGlvbihkYXRhKXsKICAgICAgICAgICAgICAgICAgICAgICAgYWxlcnQoIuS/ruaUueaIkOWKnyIpOwogICAgICAgICAgICAgICAgICAgICAgICBzZWxmLiRyb3V0ZS5yb3V0ZXIuZ28oe25hbWU6J2FkbWluL2xpc3QnfSkKICAgICAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICAgICAgICAgIC5mYWlsKGZ1bmN0aW9uKCl7CiAgICAgICAgICAgICAgICAgICAgICAgIGFsZXJ0KCLkv67mlLnlpLHotKUiKTsKICAgICAgICAgICAgICAgICAgICB9KQo=</text>
+      <register name="8" type="4">
+        <text>个</text>
       </register>
       <register name="/" type="4">
-        <text>input</text>
+        <text>关键字</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>_</text>
       </register>
     </registers>
     <search>
-      <last-search>input</last-search>
+      <last-search>关键字</last-search>
       <last-offset />
-      <last-pattern>input</last-pattern>
+      <last-pattern>关键字</last-pattern>
       <last-replace>avatar_id</last-replace>
       <last-substitute>avatar_url</last-substitute>
       <last-dir>1</last-dir>
@@ -988,7 +995,6 @@
     </search>
     <history>
       <history-search>
-        <entry>category_id</entry>
         <entry>moduel</entry>
         <entry>module</entry>
         <entry>headline</entry>
@@ -1008,6 +1014,7 @@
         <entry>avatar_url</entry>
         <entry>changeInput</entry>
         <entry>input</entry>
+        <entry>关键字</entry>
       </history-search>
       <history-cmd>
         <entry>150</entry>
