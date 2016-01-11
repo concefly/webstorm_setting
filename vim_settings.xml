@@ -549,11 +549,8 @@
         <mark key="." line="10" column="52" />
         <mark key="[" line="10" column="52" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/selector/single.js" timestamp="1452495150780">
-        <mark key="]" line="77" column="27" />
-        <mark key="^" line="77" column="27" />
-        <mark key="." line="77" column="27" />
-        <mark key="[" line="31" column="72" />
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/selector/single.js" timestamp="1452495653269">
+        <mark key="[" line="85" column="9" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/module/module.detail.js" timestamp="1452482665713">
         <mark key="'" line="68" column="22" />
@@ -965,47 +962,47 @@
       <jump line="22" column="8" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/related-article/related-article.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGRhdGEgPSB7CiAgICAgICAgICAgICAgICBnZXQ6IGZ1bmN0aW9uKCkgewogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Owo=</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">dmFsdWUgaW5zdGFuY2VvZiA=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBnb1BhZ2U6IGZ1bmN0aW9uKCkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIGRhdGEgPSB7CiAgICAgICAgICAgICAgICBnZXQ6IGZ1bmN0aW9uKCkgewogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Owo=</text>
+      <register name="1" type="4">
+        <text>,</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgaGVpZ2h0OiAkc2VsZWN0b3ItYm9keS1oZWlnaHQ7CiAgICAgIGJvcmRlcjogMXB4IHNvbGlkICNhYWE7CiAgICAgIHRyYW5zaXRpb246IGhlaWdodCAuMnM7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IHN0eWxlPSIi</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coImxhdW5jaCIpOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IHN0eWxlPSJ2ZXJ0aWNhbC1hbGlnbjogIg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsYXVuY2g6IGZ1bmN0aW9uKCkgewogICAgICAgICAgICBjb25zb2xlLmxvZygibGF1bmNoIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coImxhdW5jaCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGRhdGEgPSB7CiAgICAgICAgICAgICAgICBnZXQ6IGZ1bmN0aW9uKCkgewogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICJzZWxlY3RvciAiK3RoaXMuYWN0aXZlPydhY3RpdmUnOicnOwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">IHN0eWxlPSJ2ZXJ0aWNhbC1hbGlnbjogIg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IEBibHVyPSJjYW5jZWwoKSI=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBsYXVuY2g6IGZ1bmN0aW9uKCkgewogICAgICAgICAgICBjb25zb2xlLmxvZygibGF1bmNoIik7Cg==</text>
       </register>
       <register name="/" type="4">
         <text>articleList</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHN0eWxlPSJ2ZXJ0aWNhbC1hbGlnbjogIg==</text>
+        <text>,</text>
       </register>
     </registers>
     <search>
