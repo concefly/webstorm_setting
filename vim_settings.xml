@@ -609,6 +609,13 @@
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/tag/tag.js" timestamp="1452479382079">
+        <mark key="'" line="97" column="17" />
+        <mark key="]" line="48" column="8" />
+        <mark key="^" line="48" column="8" />
+        <mark key="." line="48" column="8" />
+        <mark key="[" line="48" column="8" />
+      </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/author/author.detail.tpl" timestamp="1452133070278">
         <mark key="]" line="47" column="5" />
         <mark key="^" line="33" column="61" />
@@ -825,25 +832,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="126" column="65" filename="$USER_HOME$/project/blackbox/backend-cms/resources/views/cms/index.blade.php" />
-      <jump line="136" column="78" filename="$USER_HOME$/project/blackbox/backend-cms/resources/views/cms/index.blade.php" />
-      <jump line="148" column="63" filename="$USER_HOME$/project/blackbox/backend-cms/resources/views/cms/index.blade.php" />
-      <jump line="164" column="65" filename="$USER_HOME$/project/blackbox/backend-cms/resources/views/cms/index.blade.php" />
-      <jump line="15" column="0" filename="$USER_HOME$/project/blackbox/backend-cms/resources/views/cms/post/post_normal.blade.php" />
-      <jump line="112" column="36" filename="$USER_HOME$/project/blackbox/backend-cms/resources/views/cms/post/post_normal.blade.php" />
-      <jump line="113" column="130" filename="$USER_HOME$/project/blackbox/backend-cms/resources/views/cms/post/post_normal.blade.php" />
-      <jump line="153" column="45" filename="$USER_HOME$/project/blackbox/backend-cms/resources/views/cms/post/post_normal.blade.php" />
-      <jump line="154" column="60" filename="$USER_HOME$/project/blackbox/backend-cms/resources/views/cms/post/post_normal.blade.php" />
-      <jump line="99" column="126" filename="$USER_HOME$/project/blackbox/backend-cms/resources/views/cms/post/post_normal.blade.php" />
-      <jump line="126" column="63" filename="$USER_HOME$/project/pet/wechat/fis-config.js" />
-      <jump line="153" column="0" filename="$USER_HOME$/project/pet/wechat/fis-config.js" />
-      <jump line="8" column="25" filename="$USER_HOME$/project/pet/wechat/fis-config.js" />
-      <jump line="21" column="31" filename="$USER_HOME$/project/pet/wechat/components/frozenui/sass/base/variable.scss" />
-      <jump line="206" column="0" filename="$USER_HOME$/project/pet/wechat/components/frozenui/sass/base/variable.scss" />
-      <jump line="0" column="0" filename="$USER_HOME$/project/pet/wechat/components/frozenui/Gruntfile.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/project/pet/wechat/views/check/all.scss" />
-      <jump line="19" column="48" filename="$USER_HOME$/project/pet/wechat/components/frozenui/sass/base/variable.scss" />
-      <jump line="66" column="17" filename="$USER_HOME$/project/pet/wechat/views/check/demo.html" />
       <jump line="0" column="0" filename="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/padding.scss" />
       <jump line="12" column="2" filename="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/lineheight.scss" />
       <jump line="5" column="2" filename="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/textalign.scss" />
@@ -925,57 +913,74 @@
       <jump line="67" column="22" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/views/module/module.detail.js" />
       <jump line="43" column="39" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/views/permission/admin.edit.js" />
       <jump line="42" column="16" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/views/permission/admin.edit.js" />
+      <jump line="84" column="10" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/tag/tag.js" />
+      <jump line="50" column="21" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/tag/tag.js" />
+      <jump line="56" column="29" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/tag/tag.js" />
+      <jump line="66" column="29" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/tag/tag.js" />
+      <jump line="86" column="17" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/tag/tag.js" />
+      <jump line="20" column="12" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/tag/tag.js" />
+      <jump line="93" column="8" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/tag/tag.js" />
+      <jump line="38" column="17" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/tag/tag.js" />
+      <jump line="91" column="17" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/tag/tag.js" />
+      <jump line="22" column="13" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/tag/tag.js" />
+      <jump line="37" column="8" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/tag/tag.js" />
+      <jump line="39" column="29" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/tag/tag.js" />
+      <jump line="42" column="22" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/tag/tag.js" />
+      <jump line="43" column="29" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/tag/tag.js" />
+      <jump line="48" column="9" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/tag/tag.js" />
+      <jump line="61" column="21" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/tag/tag.js" />
+      <jump line="67" column="29" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/tag/tag.js" />
+      <jump line="77" column="29" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/tag/tag.js" />
+      <jump line="97" column="17" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/tag/tag.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>5</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHgpOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text>url</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaW5wdXQ6IHsKICAgICAgICAgICAgICAgIGdldAogICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>:</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBpbnB1dDogewogICAgICAgICAgICBnZXQ6IGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgICAgIHJldHVybiB0aGlzLl9pbnB1dDsKICAgICAgICAgICAgfSwKICAgICAgICAgICAgc2V0OiBmdW5jdGlvbih4KSB7CiAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyh4KTsKICAgICAgICAgICAgICAgIHRoaXMuX2lucHV0ID0geC5zdWJzdHIoMCx0YWdMZXR0ZXJMaW1pdCk7CiAgICAgICAgICAgICAgICByZXR1cm4gdGhpcy5faW5wdXQ7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>5</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHgpOwo=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAudGhlbihmdW5jdGlvbihkYXRhKXsKICAgICAgICAgICAgICAgICAgICAgICAgYWxlcnQoIuaWsOWinuaIkOWKnyIpOwogICAgICAgICAgICAgICAgICAgICAgICBzZWxmLiRyb3V0ZS5yb3V0ZXIuZ28oe25hbWU6J2FkbWluL2xpc3QnfSkKICAgICAgICAgICAgICAgICAgICB9LGZ1bmN0aW9uKCl7CiAgICAgICAgICAgICAgICAgICAgICAgIGFsZXJ0KCLmlrDlop7lpLHotKUiKTsKICAgICAgICAgICAgICAgICAgICB9KQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>url</text>
       </register>
       <register name="6" type="4">
-        <text>function(){
-                        alert(&quot;新增失败&quot;);
-                    }</text>
+        <text>:</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZG9uZShmdW5jdGlvbihkYXRhKXsKICAgICAgICAgICAgICAgICAgICAgICAgYWxlcnQoIuaWsOWinuaIkOWKnyIpOwogICAgICAgICAgICAgICAgICAgICAgICBzZWxmLiRyb3V0ZS5yb3V0ZXIuZ28oe25hbWU6J2FkbWluL2xpc3QnfSkKICAgICAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICAgICAgICAgIC5mYWlsKCkK</text>
+      <register name="5" type="4">
+        <text>5</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZG9uZShmdW5jdGlvbihkYXRhKXsKICAgICAgICAgICAgICAgICAgICAgICAgYWxlcnQoIuS/ruaUueaIkOWKnyIpOwogICAgICAgICAgICAgICAgICAgICAgICBzZWxmLiRyb3V0ZS5yb3V0ZXIuZ28oe25hbWU6J2FkbWluL2xpc3QnfSkKICAgICAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICAgICAgICAgIC5mYWlsKGZ1bmN0aW9uKCl7CiAgICAgICAgICAgICAgICAgICAgICAgIGFsZXJ0KCLkv67mlLnlpLHotKUiKTsKICAgICAgICAgICAgICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGVycm9yLnB1c2goIuS4pOasoei+k+WFpeeahOWvhueggeS4jeS4gOiHtCIpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZG9uZShmdW5jdGlvbihkYXRhKXsKICAgICAgICAgICAgICAgICAgICAgICAgYWxlcnQoIuaWsOWinuaIkOWKnyIpOwogICAgICAgICAgICAgICAgICAgICAgICBzZWxmLiRyb3V0ZS5yb3V0ZXIuZ28oe25hbWU6J2FkbWluL2xpc3QnfSkKICAgICAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICAgICAgICAgIC5mYWlsKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYodGhpcy5kZXRhaWwucGFzc3dvcmQgIT0gdGhpcy5yZXBhc3N3b3JkKXsKICAgICAgICAgICAgICAgIGVycm9yLnB1c2goIuS4pOasoei+k+WFpeeahOWvhueggeS4jeS4gOiHtCIpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuZG9uZShmdW5jdGlvbihkYXRhKXsKICAgICAgICAgICAgICAgICAgICAgICAgYWxlcnQoIuS/ruaUueaIkOWKnyIpOwogICAgICAgICAgICAgICAgICAgICAgICBzZWxmLiRyb3V0ZS5yb3V0ZXIuZ28oe25hbWU6J2FkbWluL2xpc3QnfSkKICAgICAgICAgICAgICAgICAgICB9KQogICAgICAgICAgICAgICAgICAgIC5mYWlsKGZ1bmN0aW9uKCl7CiAgICAgICAgICAgICAgICAgICAgICAgIGFsZXJ0KCLkv67mlLnlpLHotKUiKTsKICAgICAgICAgICAgICAgICAgICB9KQo=</text>
       </register>
       <register name="/" type="4">
-        <text>avatar_url</text>
+        <text>input</text>
       </register>
       <register name="-" type="4">
         <text>5</text>
       </register>
     </registers>
     <search>
-      <last-search>home</last-search>
+      <last-search>input</last-search>
       <last-offset />
-      <last-pattern>avatar_url</last-pattern>
+      <last-pattern>input</last-pattern>
       <last-replace>avatar_id</last-replace>
       <last-substitute>avatar_url</last-substitute>
       <last-dir>1</last-dir>
@@ -983,8 +988,6 @@
     </search>
     <history>
       <history-search>
-        <entry>binaryUrl</entry>
-        <entry>account</entry>
         <entry>category_id</entry>
         <entry>moduel</entry>
         <entry>module</entry>
@@ -1003,6 +1006,8 @@
         <entry>home</entry>
         <entry>intro</entry>
         <entry>avatar_url</entry>
+        <entry>changeInput</entry>
+        <entry>input</entry>
       </history-search>
       <history-cmd>
         <entry>150</entry>
