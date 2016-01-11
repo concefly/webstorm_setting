@@ -65,6 +65,9 @@
         <mark key="." line="1" column="37" />
         <mark key="[" line="1" column="36" />
       </file>
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/selector/single.tpl" timestamp="1452484310714">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/product/product.tpl" timestamp="1450425778324">
         <mark key="]" line="3" column="72" />
         <mark key="^" line="3" column="72" />
@@ -543,6 +546,9 @@
         <mark key="." line="10" column="52" />
         <mark key="[" line="10" column="52" />
       </file>
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/selector/single.js" timestamp="1452484163875">
+        <mark key="[" line="1" column="34" />
+      </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/module/module.detail.js" timestamp="1452482665713">
         <mark key="'" line="68" column="22" />
         <mark key="]" line="117" column="56" />
@@ -700,6 +706,9 @@
         <mark key="^" line="60" column="47" />
         <mark key="." line="60" column="47" />
         <mark key="[" line="32" column="39" />
+      </file>
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/selector/style.scss" timestamp="1452484306243">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/fis-conf.js" timestamp="1450317889495">
         <mark key="]" line="27" column="2" />
