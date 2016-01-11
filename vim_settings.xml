@@ -65,11 +65,11 @@
         <mark key="." line="1" column="37" />
         <mark key="[" line="1" column="36" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/selector/single.tpl" timestamp="1452500090681">
-        <mark key="]" line="4" column="100" />
-        <mark key="^" line="4" column="100" />
-        <mark key="." line="4" column="100" />
-        <mark key="[" line="4" column="85" />
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/selector/single.tpl" timestamp="1452508126848">
+        <mark key="]" line="1" column="38" />
+        <mark key="^" line="1" column="38" />
+        <mark key="." line="1" column="38" />
+        <mark key="[" line="1" column="27" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/product/product.tpl" timestamp="1450425778324">
         <mark key="]" line="3" column="72" />
@@ -281,12 +281,12 @@
         <mark key="." line="70" column="54" />
         <mark key="[" line="70" column="29" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/article.detail.tpl" timestamp="1452499388405">
-        <mark key="'" line="89" column="51" />
-        <mark key="]" line="10" column="76" />
-        <mark key="^" line="10" column="56" />
-        <mark key="." line="10" column="76" />
-        <mark key="[" line="10" column="76" />
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/article.detail.tpl" timestamp="1452507897640">
+        <mark key="'" line="83" column="51" />
+        <mark key="]" line="18" column="53" />
+        <mark key="^" line="18" column="53" />
+        <mark key="." line="18" column="53" />
+        <mark key="[" line="18" column="54" />
       </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/app/Http/Kernel.php" timestamp="1449804920421">
         <mark key="]" line="19" column="56" />
@@ -416,6 +416,12 @@
         <mark key="." line="4" column="31" />
         <mark key="[" line="4" column="32" />
       </file>
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/author-select/author-select.tpl" timestamp="1452507966225">
+        <mark key="]" line="2" column="71" />
+        <mark key="^" line="2" column="71" />
+        <mark key="." line="2" column="71" />
+        <mark key="[" line="2" column="66" />
+      </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/partials/layout/layout.tpl" timestamp="1450250987109">
         <mark key="]" line="12" column="60" />
         <mark key="^" line="12" column="60" />
@@ -488,6 +494,11 @@
         <mark key="." line="14" column="0" />
         <mark key="[" line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/author-select/author-select.js" timestamp="1452508037554">
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="[" line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/tag/tag.tpl" timestamp="1452480360280">
         <mark key="]" line="12" column="60" />
         <mark key="^" line="12" column="64" />
@@ -530,10 +541,11 @@
         <mark key="." line="10" column="52" />
         <mark key="[" line="10" column="52" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/selector/single.js" timestamp="1452500386866">
-        <mark key="]" line="42" column="20" />
-        <mark key="." line="42" column="20" />
-        <mark key="[" line="39" column="18" />
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/selector/single.js" timestamp="1452507578169">
+        <mark key="'" line="102" column="12" />
+        <mark key="]" line="191" column="0" />
+        <mark key="." line="191" column="0" />
+        <mark key="[" line="191" column="0" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/module/module.detail.js" timestamp="1452482665713">
         <mark key="'" line="68" column="22" />
@@ -687,11 +699,11 @@
         <mark key="." line="60" column="47" />
         <mark key="[" line="32" column="39" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/selector/style.scss" timestamp="1452499963843">
-        <mark key="]" line="7" column="24" />
-        <mark key="^" line="10" column="31" />
-        <mark key="." line="7" column="24" />
-        <mark key="[" line="7" column="23" />
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/selector/style.scss" timestamp="1452507284153">
+        <mark key="]" line="35" column="28" />
+        <mark key="^" line="35" column="28" />
+        <mark key="." line="35" column="28" />
+        <mark key="[" line="35" column="23" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/fis-conf.js" timestamp="1450317889495">
         <mark key="]" line="27" column="2" />
@@ -807,12 +819,12 @@
         <mark key="." line="46" column="50" />
         <mark key="[" line="46" column="25" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/article.detail.js" timestamp="1452499238232">
-        <mark key="'" line="98" column="22" />
-        <mark key="]" line="152" column="28" />
-        <mark key="^" line="152" column="28" />
-        <mark key="." line="152" column="28" />
-        <mark key="[" line="151" column="34" />
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/article.detail.js" timestamp="1452507927209">
+        <mark key="'" line="101" column="22" />
+        <mark key="]" line="44" column="20" />
+        <mark key="^" line="44" column="20" />
+        <mark key="." line="44" column="20" />
+        <mark key="[" line="42" column="29" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/views/check/all.scss" timestamp="1449456056731">
         <mark key="]" line="31" column="43" />
@@ -834,8 +846,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="25" filename="$USER_HOME$/project/pet/wechat/views/check/demo.html" />
-      <jump line="103" column="53" filename="$USER_HOME$/project/pet/wechat/views/check/demo.html" />
       <jump line="200" column="36" filename="$USER_HOME$/project/pet/wechat/views/check/demo.html" />
       <jump line="11" column="27" filename="$USER_HOME$/project/pet/wechat/views/check/all.js" />
       <jump line="26" column="0" filename="$USER_HOME$/project/pet/wechat/views/check/demo.html" />
@@ -934,63 +944,64 @@
       <jump line="70" column="29" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/related-article/related-article.js" />
       <jump line="72" column="41" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/related-article/related-article.js" />
       <jump line="22" column="8" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/related-article/related-article.js" />
+      <jump line="111" column="24" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/selector/single.js" />
+      <jump line="101" column="12" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/selector/single.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdHlwZTogU3RyaW5nLAo=</text>
       </register>
       <register name="3" type="4">
-        <text>|</text>
+        <text>d</text>
       </register>
       <register name="2" type="4">
-        <text>|</text>
+        <text>initial</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdHlwZTogU3RyaW5nLAo=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsaWRhdG9yOiBmdW5jdGlvbih2YWx1ZSkgewogICAgICAgICAgICAgICAgaWYgKHZhbHVlIGluc3RhbmNlb2YgQXJyYXkgfHwgdmFsdWUgaW5zdGFuY2VvZiBGdW5jdGlvbiB8fCBfLmlzU3RyaW5nKHZhbHVlKSkgewogICAgICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRoaXMuZ2V0RGF0YSkgewogICAgICAgICAgICAgICAgaWYgKHRoaXMuZ2V0RGF0YSBpbnN0YW5jZW9mIEZ1bmN0aW9uKSB7CiAgICAgICAgICAgICAgICAgICAgdGhpcy5nZXREYXRhKHsKICAgICAgICAgICAgICAgICAgICAgICAgcmVzdWx0OiBzZWxmLnJlc3VsdCwKICAgICAgICAgICAgICAgICAgICAgICAgcGFnZTogcGFnZSwKICAgICAgICAgICAgICAgICAgICAgICAgbGltaXQ6IHBhZ2VMaW1pdCwKICAgICAgICAgICAgICAgICAgICAgICAga2V5d29yZHM6IHNlbGYuc2VhcmNoCiAgICAgICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBlbHNlIGlmICh0aGlzLmdldERhdGEgaW5zdGFuY2VvZiBBcnJheSkgewogICAgICAgICAgICAgICAgICAgIHNlbGYuZGF0YSA9IHRoaXMuZ2V0RGF0YTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGVsc2UgaWYgKF8uaXNTdHJpbmcodGhpcy5nZXREYXRhKSkgewogICAgICAgICAgICAgICAgICAgICQuYXBpLmdldCh0aGlzLmdldERhdGEsIHsKICAgICAgICAgICAgICAgICAgICAgICAgcGFnZTogcGFnZSwKICAgICAgICAgICAgICAgICAgICAgICAgbGltaXQ6IHBhZ2VMaW1pdCwKICAgICAgICAgICAgICAgICAgICAgICAga2V5d29yZHM6IHNlbGYuc2VhcmNoCiAgICAgICAgICAgICAgICAgICAgfSkudGhlbihmdW5jdGlvbiAoZGF0YSkgewogICAgICAgICAgICAgICAgICAgICAgICBzZWxmLnJlc3VsdCA9IGRhdGE7CiAgICAgICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="4">
-        <text>r</text>
+        <text>:get-initial=&quot;authorId&quot;</text>
       </register>
       <register name="6" type="4">
-        <text>a</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>y</text>
+        <text>-</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text>i</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>A</text>
+        <text>this</text>
       </register>
-      <register name="8" type="4">
-        <text>r</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLmxvYWRJbml0aWFsKCk7Cg==</text>
       </register>
       <register name="/" type="4">
-        <text>articleList</text>
+        <text>getData</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>initial</text>
       </register>
     </registers>
     <search>
       <last-search>articleList</last-search>
       <last-offset />
-      <last-pattern>articleList</last-pattern>
-      <last-replace>avatar_id</last-replace>
-      <last-substitute>avatar_url</last-substitute>
+      <last-pattern>getData</last-pattern>
+      <last-replace>getInitial</last-replace>
+      <last-substitute>getData</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>module</entry>
         <entry>headline</entry>
         <entry>detail.id</entry>
         <entry>author</entry>
@@ -1010,11 +1021,9 @@
         <entry>input</entry>
         <entry>关键字</entry>
         <entry>articleList</entry>
+        <entry>getData</entry>
       </history-search>
       <history-cmd>
-        <entry>150</entry>
-        <entry>452,470 s/author/user</entry>
-        <entry>452,477 s/author/user/g</entry>
         <entry>45</entry>
         <entry encoding="base64">NzUsOTEgcy88YS88YnV0dG9uL2c=</entry>
         <entry encoding="base64">NzUsOTEgcy9hPi9idXR0b24+L2c=</entry>
@@ -1023,7 +1032,6 @@
         <entry>53,60 s/state/status</entry>
         <entry>367</entry>
         <entry>49,54 s/searchQuery.//</entry>
-        <entry>q</entry>
         <entry>50,56 s/cover_id/banner_id/g</entry>
         <entry>s/title/abstract/g</entry>
         <entry>59,73 s/newDetail/detail/g</entry>
@@ -1031,6 +1039,10 @@
         <entry>Pw</entry>
         <entry>s/intro/email/g</entry>
         <entry>s/avatar_url/avatar_id/g</entry>
+        <entry>112,130 s/getData/getShow</entry>
+        <entry>e</entry>
+        <entry>q</entry>
+        <entry>102,122 s/getData/getInitial</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
