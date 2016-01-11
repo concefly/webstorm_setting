@@ -65,11 +65,11 @@
         <mark key="." line="1" column="37" />
         <mark key="[" line="1" column="36" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/selector/single.tpl" timestamp="1452485872637">
-        <mark key="]" line="4" column="83" />
-        <mark key="^" line="4" column="83" />
-        <mark key="." line="4" column="83" />
-        <mark key="[" line="4" column="68" />
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/selector/single.tpl" timestamp="1452491274489">
+        <mark key="]" line="1" column="26" />
+        <mark key="^" line="1" column="26" />
+        <mark key="." line="1" column="26" />
+        <mark key="[" line="1" column="20" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/product/product.tpl" timestamp="1450425778324">
         <mark key="]" line="3" column="72" />
@@ -712,10 +712,10 @@
         <mark key="." line="60" column="47" />
         <mark key="[" line="32" column="39" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/selector/style.scss" timestamp="1452486205758">
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-        <mark key="[" line="34" column="0" />
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/selector/style.scss" timestamp="1452491712379">
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+        <mark key="[" line="72" column="0" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/fis-conf.js" timestamp="1450317889495">
         <mark key="]" line="27" column="2" />
@@ -965,46 +965,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgdG9wOiAwOwogIGxlZnQ6IDA7Cg==</text>
+        <text encoding="base64">ICAuc2VsZWN0b3ItaGVhZDpmb2N1c34uc2VsZWN0b3ItYm9keSAgewogICAgaGVpZ2h0OiAkc2VsZWN0b3ItYm9keS1oZWlnaHQ7CiAgICBib3JkZXI6IDFweCBzb2xpZCAjYWFhOwogICAgdHJhbnNpdGlvbjogaGVpZ2h0IC4yczsKICB9Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>margin</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBvdmVyZmxvdy15OiBzY3JvbGw7Cg==</text>
+        <text encoding="base64">ICAvLyYuYWN0aXZlIHsKICAvLyAgLnNlbGVjdG9yLWJvZHkgewogIC8vICAgIGhlaWdodDogJHNlbGVjdG9yLWJvZHktaGVpZ2h0OwogIC8vICAgIGJvcmRlcjogMXB4IHNvbGlkICNhYWE7CiAgLy8gICAgdHJhbnNpdGlvbjogaGVpZ2h0IC4yczsKICAvLyAgfQogIC8vfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgdG9wOiAwOwogIGxlZnQ6IDA7Cg==</text>
+        <text encoding="base64">ICAuc2VsZWN0b3ItaGVhZDpmb2N1c34uc2VsZWN0b3ItYm9keSAgewogICAgaGVpZ2h0OiAkc2VsZWN0b3ItYm9keS1oZWlnaHQ7CiAgICBib3JkZXI6IDFweCBzb2xpZCAjYWFhOwogICAgdHJhbnNpdGlvbjogaGVpZ2h0IC4yczsKICB9Cg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">JHNlbGVjdG9yLWJvZHktaGVpZ2h0OiAyMDBweDsK</text>
+        <text encoding="base64">ICAgICAgaGVpZ2h0OiAkc2VsZWN0b3ItYm9keS1oZWlnaHQ7CiAgICAgIGJvcmRlcjogMXB4IHNvbGlkICNhYWE7CiAgICAgIHRyYW5zaXRpb246IGhlaWdodCAuMnM7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>98</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAmLmFjdGl2ZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBtYXJnaW46IDFweDsK</text>
+        <text encoding="base64">ICAgIC8vIAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBib3JkZXI6IDFweCBzb2xpZCAjYmJiOwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">IGFjdGl2ZQ==</text>
       </register>
-      <register name="4" type="4">
-        <text>0</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAvL292ZXJmbG93OiBoaWRkZW47Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBib3gtc2l6aW5nOiBib3JkZXItYm94Owo=</text>
+      <register name="9" type="4">
+        <text>ccc</text>
       </register>
-      <register name="8" type="4">
-        <text>100</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBkaXNwbGF5OiBibG9jazsK</text>
       </register>
       <register name="/" type="4">
         <text>articleList</text>
       </register>
       <register name="-" type="4">
-        <text>margin</text>
+        <text encoding="base64">IGFjdGl2ZQ==</text>
       </register>
     </registers>
     <search>
