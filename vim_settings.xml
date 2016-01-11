@@ -65,11 +65,11 @@
         <mark key="." line="1" column="37" />
         <mark key="[" line="1" column="36" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/selector/single.tpl" timestamp="1452491274489">
-        <mark key="]" line="1" column="26" />
-        <mark key="^" line="1" column="26" />
-        <mark key="." line="1" column="26" />
-        <mark key="[" line="1" column="20" />
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/selector/single.tpl" timestamp="1452494727037">
+        <mark key="]" line="10" column="42" />
+        <mark key="^" line="10" column="42" />
+        <mark key="." line="10" column="42" />
+        <mark key="[" line="10" column="39" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/product/product.tpl" timestamp="1450425778324">
         <mark key="]" line="3" column="72" />
@@ -286,12 +286,12 @@
         <mark key="." line="70" column="54" />
         <mark key="[" line="70" column="29" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/article.detail.tpl" timestamp="1452485148429">
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/article.detail.tpl" timestamp="1452493844540">
         <mark key="'" line="89" column="51" />
         <mark key="]" line="10" column="41" />
-        <mark key="^" line="10" column="41" />
+        <mark key="^" line="10" column="49" />
         <mark key="." line="10" column="41" />
-        <mark key="[" line="6" column="63" />
+        <mark key="[" line="10" column="41" />
       </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/app/Http/Kernel.php" timestamp="1449804920421">
         <mark key="]" line="19" column="56" />
@@ -549,10 +549,11 @@
         <mark key="." line="10" column="52" />
         <mark key="[" line="10" column="52" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/selector/single.js" timestamp="1452485383101">
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="[" line="8" column="0" />
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/selector/single.js" timestamp="1452495150780">
+        <mark key="]" line="77" column="27" />
+        <mark key="^" line="77" column="27" />
+        <mark key="." line="77" column="27" />
+        <mark key="[" line="31" column="72" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/module/module.detail.js" timestamp="1452482665713">
         <mark key="'" line="68" column="22" />
@@ -965,46 +966,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAuc2VsZWN0b3ItaGVhZDpmb2N1c34uc2VsZWN0b3ItYm9keSAgewogICAgaGVpZ2h0OiAkc2VsZWN0b3ItYm9keS1oZWlnaHQ7CiAgICBib3JkZXI6IDFweCBzb2xpZCAjYWFhOwogICAgdHJhbnNpdGlvbjogaGVpZ2h0IC4yczsKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGRhdGEgPSB7CiAgICAgICAgICAgICAgICBnZXQ6IGZ1bmN0aW9uKCkgewogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyYuYWN0aXZlIHsKICAvLyAgLnNlbGVjdG9yLWJvZHkgewogIC8vICAgIGhlaWdodDogJHNlbGVjdG9yLWJvZHktaGVpZ2h0OwogIC8vICAgIGJvcmRlcjogMXB4IHNvbGlkICNhYWE7CiAgLy8gICAgdHJhbnNpdGlvbjogaGVpZ2h0IC4yczsKICAvLyAgfQogIC8vfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAuc2VsZWN0b3ItaGVhZDpmb2N1c34uc2VsZWN0b3ItYm9keSAgewogICAgaGVpZ2h0OiAkc2VsZWN0b3ItYm9keS1oZWlnaHQ7CiAgICBib3JkZXI6IDFweCBzb2xpZCAjYWFhOwogICAgdHJhbnNpdGlvbjogaGVpZ2h0IC4yczsKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGRhdGEgPSB7CiAgICAgICAgICAgICAgICBnZXQ6IGZ1bmN0aW9uKCkgewogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Owo=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgaGVpZ2h0OiAkc2VsZWN0b3ItYm9keS1oZWlnaHQ7CiAgICAgIGJvcmRlcjogMXB4IHNvbGlkICNhYWE7CiAgICAgIHRyYW5zaXRpb246IGhlaWdodCAuMnM7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAmLmFjdGl2ZQo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">IHN0eWxlPSIi</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIAo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">IHN0eWxlPSJ2ZXJ0aWNhbC1hbGlnbjogIg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IGFjdGl2ZQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBsYXVuY2g6IGZ1bmN0aW9uKCkgewogICAgICAgICAgICBjb25zb2xlLmxvZygibGF1bmNoIik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvL292ZXJmbG93OiBoaWRkZW47Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coImxhdW5jaCIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>ccc</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICJzZWxlY3RvciAiK3RoaXMuYWN0aXZlPydhY3RpdmUnOicnOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBkaXNwbGF5OiBibG9jazsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">IEBibHVyPSJjYW5jZWwoKSI=</text>
       </register>
       <register name="/" type="4">
         <text>articleList</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGFjdGl2ZQ==</text>
+        <text encoding="base64">IHN0eWxlPSJ2ZXJ0aWNhbC1hbGlnbjogIg==</text>
       </register>
     </registers>
     <search>
