@@ -65,11 +65,11 @@
         <mark key="." line="1" column="37" />
         <mark key="[" line="1" column="36" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/selector/single.tpl" timestamp="1452508126848">
-        <mark key="]" line="1" column="38" />
-        <mark key="^" line="1" column="38" />
-        <mark key="." line="1" column="38" />
-        <mark key="[" line="1" column="27" />
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/selector/single.tpl" timestamp="1452563209372">
+        <mark key="]" line="5" column="42" />
+        <mark key="^" line="3" column="25" />
+        <mark key="." line="5" column="30" />
+        <mark key="[" line="5" column="30" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/product/product.tpl" timestamp="1450425778324">
         <mark key="]" line="3" column="72" />
@@ -281,12 +281,11 @@
         <mark key="." line="70" column="54" />
         <mark key="[" line="70" column="29" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/article.detail.tpl" timestamp="1452507897640">
-        <mark key="'" line="83" column="51" />
-        <mark key="]" line="18" column="53" />
-        <mark key="^" line="18" column="53" />
-        <mark key="." line="18" column="53" />
-        <mark key="[" line="18" column="54" />
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/article.detail.tpl" timestamp="1452562884492">
+        <mark key="'" line="82" column="51" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="76" />
+        <mark key="[" line="18" column="0" />
       </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/app/Http/Kernel.php" timestamp="1449804920421">
         <mark key="]" line="19" column="56" />
@@ -416,11 +415,11 @@
         <mark key="." line="4" column="31" />
         <mark key="[" line="4" column="32" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/author-select/author-select.tpl" timestamp="1452507966225">
-        <mark key="]" line="2" column="71" />
-        <mark key="^" line="2" column="71" />
-        <mark key="." line="2" column="71" />
-        <mark key="[" line="2" column="66" />
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/author-select/author-select.tpl" timestamp="1452562926778">
+        <mark key="]" line="2" column="51" />
+        <mark key="^" line="2" column="51" />
+        <mark key="." line="2" column="51" />
+        <mark key="[" line="2" column="51" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/partials/layout/layout.tpl" timestamp="1450250987109">
         <mark key="]" line="12" column="60" />
@@ -541,11 +540,11 @@
         <mark key="." line="10" column="52" />
         <mark key="[" line="10" column="52" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/selector/single.js" timestamp="1452507578169">
-        <mark key="'" line="102" column="12" />
-        <mark key="]" line="191" column="0" />
-        <mark key="." line="191" column="0" />
-        <mark key="[" line="191" column="0" />
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/selector/single.js" timestamp="1452563144500">
+        <mark key="'" line="93" column="12" />
+        <mark key="]" line="88" column="0" />
+        <mark key="." line="88" column="0" />
+        <mark key="[" line="88" column="0" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/module/module.detail.js" timestamp="1452482665713">
         <mark key="'" line="68" column="22" />
@@ -948,53 +947,53 @@
       <jump line="101" column="12" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/selector/single.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHlwZTogU3RyaW5nLAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IEBjbGljay5zdG9w</text>
       </register>
-      <register name="3" type="4">
-        <text>d</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>initial</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zZWxlY3RlZCA9IGl0ZW07Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHlwZTogU3RyaW5nLAo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">IEBjbGljay5zdG9w</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKHRoaXMuZ2V0RGF0YSkgewogICAgICAgICAgICAgICAgaWYgKHRoaXMuZ2V0RGF0YSBpbnN0YW5jZW9mIEZ1bmN0aW9uKSB7CiAgICAgICAgICAgICAgICAgICAgdGhpcy5nZXREYXRhKHsKICAgICAgICAgICAgICAgICAgICAgICAgcmVzdWx0OiBzZWxmLnJlc3VsdCwKICAgICAgICAgICAgICAgICAgICAgICAgcGFnZTogcGFnZSwKICAgICAgICAgICAgICAgICAgICAgICAgbGltaXQ6IHBhZ2VMaW1pdCwKICAgICAgICAgICAgICAgICAgICAgICAga2V5d29yZHM6IHNlbGYuc2VhcmNoCiAgICAgICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBlbHNlIGlmICh0aGlzLmdldERhdGEgaW5zdGFuY2VvZiBBcnJheSkgewogICAgICAgICAgICAgICAgICAgIHNlbGYuZGF0YSA9IHRoaXMuZ2V0RGF0YTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGVsc2UgaWYgKF8uaXNTdHJpbmcodGhpcy5nZXREYXRhKSkgewogICAgICAgICAgICAgICAgICAgICQuYXBpLmdldCh0aGlzLmdldERhdGEsIHsKICAgICAgICAgICAgICAgICAgICAgICAgcGFnZTogcGFnZSwKICAgICAgICAgICAgICAgICAgICAgICAgbGltaXQ6IHBhZ2VMaW1pdCwKICAgICAgICAgICAgICAgICAgICAgICAga2V5d29yZHM6IHNlbGYuc2VhcmNoCiAgICAgICAgICAgICAgICAgICAgfSkudGhlbihmdW5jdGlvbiAoZGF0YSkgewogICAgICAgICAgICAgICAgICAgICAgICBzZWxmLnJlc3VsdCA9IGRhdGE7CiAgICAgICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>:get-initial=&quot;authorId&quot;</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYodHlwZW9mIGl0ZW09PSJ1bmRlZmluZWQiKXsKICAgICAgICAgICAgICAgIGl0ZW0gPSBzZWxmLnNlbGVjdGVkOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>{% showItem() %}</text>
       </register>
-      <register name="5" type="4">
-        <text>-</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZWN0ZWQ6IHNlbGVjdCgpLAo=</text>
       </register>
-      <register name="4" type="4">
-        <text>i</text>
+      <register name="4" type="2">
+        <text encoding="base64">dmFyIHNlbGVjdCA9IGZ1bmN0aW9uKCkgewogICAgcmV0dXJuIHsKICAgICAgICBpZDogIiIsCiAgICAgICAgdGl0bGU6ICIiCiAgICB9Cn07Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>this</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgKiDoh6rlrprkuYnmiZPljbBpdGVt44CC5LiN5LygaXRlbeWImeaJk+WNsHNlbGVjdGVkCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxvYWRJbml0aWFsKCk7Cg==</text>
+      <register name="8" type="4">
+        <text>不传item则打印selected</text>
       </register>
       <register name="/" type="4">
-        <text>getData</text>
+        <text>seleted</text>
       </register>
       <register name="-" type="4">
-        <text>initial</text>
+        <text encoding="base64">IEBjbGljay5zdG9w</text>
       </register>
     </registers>
     <search>
-      <last-search>articleList</last-search>
+      <last-search>seleted</last-search>
       <last-offset />
-      <last-pattern>getData</last-pattern>
+      <last-pattern>seleted</last-pattern>
       <last-replace>getInitial</last-replace>
       <last-substitute>getData</last-substitute>
       <last-dir>1</last-dir>
@@ -1002,7 +1001,6 @@
     </search>
     <history>
       <history-search>
-        <entry>headline</entry>
         <entry>detail.id</entry>
         <entry>author</entry>
         <entry encoding="base64">PGE=</entry>
@@ -1022,6 +1020,7 @@
         <entry>关键字</entry>
         <entry>articleList</entry>
         <entry>getData</entry>
+        <entry>seleted</entry>
       </history-search>
       <history-cmd>
         <entry>45</entry>
