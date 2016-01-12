@@ -390,6 +390,12 @@
         <mark key="." line="2" column="20" />
         <mark key="[" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/project/heix/passport-frontend/package.json" timestamp="1452587892401">
+        <mark key="]" line="12" column="20" />
+        <mark key="^" line="12" column="20" />
+        <mark key="." line="12" column="20" />
+        <mark key="[" line="12" column="13" />
+      </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/label/label-info.html" timestamp="1449542202870">
         <mark key="]" line="0" column="48" />
         <mark key="^" line="0" column="48" />
@@ -972,47 +978,47 @@
       <jump line="101" column="12" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/selector/single.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDliJ3lp4vljJbmlbDmja4KICAgICAgICAvL3NlbGYubG9hZEluaXRpYWwoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>packy</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDmjqXlj5dOdW1iZXLmiJZPYmplY3TmiJZTdHJpbmcKICAgICAgICAvLyDlkIzmraXojrflj5bmlbDmja7vvIxudW1iZXLmiJZzdHJpbmfmiY3mnInmlYgKICAgICAgICAvL2dldEluaXRpYWw6IHsKICAgICAgICAvLyAgICBkZWZhdWx0OiBmdW5jdGlvbigpIHsKICAgICAgICAvLyAgICAgICAgcmV0dXJuICIxIjsKICAgICAgICAvLyAgICB9LAogICAgICAgIC8vICAgIHZhbGlkYXRvcjogZnVuY3Rpb24odmFsdWUpIHsKICAgICAgICAvLyAgICAgICAgaWYoXy5pc051bWJlcih2YWx1ZSkgfHwgXy5pc1N0cmluZyh2YWx1ZSkgfHwgXy5pc09iamVjdCh2YWx1ZSkpIHsKICAgICAgICAvLyAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgIC8vICAgICAgICB9CiAgICAgICAgLy8gICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAvLyAgICB9CiAgICAgICAgLy99Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvL2xvYWRJbml0aWFsOiBmdW5jdGlvbigpIHsKICAgICAgICAvLyAgICB2YXIgc2VsZiA9IHRoaXM7CiAgICAgICAgLy8gICAgaWYgKHRoaXMuZ2V0SW5pdGlhbCkgewogICAgICAgIC8vICAgICAgICBpZiAoXy5pc1N0cmluZyh0aGlzLmdldEluaXRpYWwpIHx8IF8uaXNOdW1iZXIodGhpcy5nZXRJbml0aWFsKSApIHsKICAgICAgICAvLyAgICAgICAgICAgIHZhciB0ZW1wID0gc2VsZi5yZXN1bHQuZGF0YVtOdW1iZXIodGhpcy5nZXRJbml0aWFsKV07CiAgICAgICAgLy8gICAgICAgICAgICBpZih0ZW1wKSBzZWxmLnNlbGVjdGVkID0gdGVtcDsKICAgICAgICAvLyAgICAgICAgfQogICAgICAgIC8vICAgICAgICBlbHNlIGlmIChfLmlzT2JqZWN0KHRoaXMuZ2V0SW5pdGlhbCkpIHsKICAgICAgICAvLyAgICAgICAgICAgIHNlbGYuc2VsZWN0ZWQgPSB0aGlzLmdldEluaXRpYWw7CiAgICAgICAgLy8gICAgICAgIH0KICAgICAgICAvLyAgICB9IGVsc2UgewogICAgICAgIC8vICAgICAgICBzZWxmLnNlbGVjdGVkID0gc2VsZWN0KCk7CiAgICAgICAgLy8gICAgfQogICAgICAgIC8vfSwK</text>
-      </register>
-      <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAvLyDliJ3lp4vljJbmlbDmja4KICAgICAgICAvL3NlbGYubG9hZEluaXRpYWwoKTsK</text>
+      </register>
+      <register name="2" type="4">
+        <text>laravel-frontend</text>
+      </register>
+      <register name="1" type="4">
+        <text>packy</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKHRoaXMuZ2V0RGF0YSkgewogICAgICAgICAgICAgICAgaWYgKHRoaXMuZ2V0RGF0YSBpbnN0YW5jZW9mIEZ1bmN0aW9uKSB7CiAgICAgICAgICAgICAgICAgICAgdGhpcy5nZXREYXRhKHsKICAgICAgICAgICAgICAgICAgICAgICAgcmVzdWx0OiBzZWxmLnJlc3VsdCwKICAgICAgICAgICAgICAgICAgICAgICAgcGFnZTogcGFnZSwKICAgICAgICAgICAgICAgICAgICAgICAgbGltaXQ6IHBhZ2VMaW1pdCwKICAgICAgICAgICAgICAgICAgICAgICAga2V5d29yZHM6IHNlbGYuc2VhcmNoCiAgICAgICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBlbHNlIGlmICh0aGlzLmdldERhdGEgaW5zdGFuY2VvZiBBcnJheSkgewogICAgICAgICAgICAgICAgICAgIHNlbGYuZGF0YSA9IHRoaXMuZ2V0RGF0YTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGVsc2UgaWYgKF8uaXNTdHJpbmcodGhpcy5nZXREYXRhKSkgewogICAgICAgICAgICAgICAgICAgICQuYXBpLmdldCh0aGlzLmdldERhdGEsIHsKICAgICAgICAgICAgICAgICAgICAgICAgcGFnZTogcGFnZSwKICAgICAgICAgICAgICAgICAgICAgICAgbGltaXQ6IHBhZ2VMaW1pdCwKICAgICAgICAgICAgICAgICAgICAgICAga2V5d29yZHM6IHNlbGYuc2VhcmNoCiAgICAgICAgICAgICAgICAgICAgfSkudGhlbihmdW5jdGlvbiAoZGF0YSkgewogICAgICAgICAgICAgICAgICAgICAgICBzZWxmLnJlc3VsdCA9IGRhdGE7CiAgICAgICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGl0ZW0uaWQpOwo=</text>
-      </register>
-      <register name="6" type="4">
-        <text>:</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdGhpcy5hdXRob3JJZCA9IGF1dGhvci5pZDsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coaXRlbS5pZCk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvLyDmjqXlj5dOdW1iZXLmiJZPYmplY3TmiJZTdHJpbmcKICAgICAgICAvLyDlkIzmraXojrflj5bmlbDmja7vvIxudW1iZXLmiJZzdHJpbmfmiY3mnInmlYgKICAgICAgICAvL2dldEluaXRpYWw6IHsKICAgICAgICAvLyAgICBkZWZhdWx0OiBmdW5jdGlvbigpIHsKICAgICAgICAvLyAgICAgICAgcmV0dXJuICIxIjsKICAgICAgICAvLyAgICB9LAogICAgICAgIC8vICAgIHZhbGlkYXRvcjogZnVuY3Rpb24odmFsdWUpIHsKICAgICAgICAvLyAgICAgICAgaWYoXy5pc051bWJlcih2YWx1ZSkgfHwgXy5pc1N0cmluZyh2YWx1ZSkgfHwgXy5pc09iamVjdCh2YWx1ZSkpIHsKICAgICAgICAvLyAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgIC8vICAgICAgICB9CiAgICAgICAgLy8gICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAvLyAgICB9CiAgICAgICAgLy99Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAvL2xvYWRJbml0aWFsOiBmdW5jdGlvbigpIHsKICAgICAgICAvLyAgICB2YXIgc2VsZiA9IHRoaXM7CiAgICAgICAgLy8gICAgaWYgKHRoaXMuZ2V0SW5pdGlhbCkgewogICAgICAgIC8vICAgICAgICBpZiAoXy5pc1N0cmluZyh0aGlzLmdldEluaXRpYWwpIHx8IF8uaXNOdW1iZXIodGhpcy5nZXRJbml0aWFsKSApIHsKICAgICAgICAvLyAgICAgICAgICAgIHZhciB0ZW1wID0gc2VsZi5yZXN1bHQuZGF0YVtOdW1iZXIodGhpcy5nZXRJbml0aWFsKV07CiAgICAgICAgLy8gICAgICAgICAgICBpZih0ZW1wKSBzZWxmLnNlbGVjdGVkID0gdGVtcDsKICAgICAgICAvLyAgICAgICAgfQogICAgICAgIC8vICAgICAgICBlbHNlIGlmIChfLmlzT2JqZWN0KHRoaXMuZ2V0SW5pdGlhbCkpIHsKICAgICAgICAvLyAgICAgICAgICAgIHNlbGYuc2VsZWN0ZWQgPSB0aGlzLmdldEluaXRpYWw7CiAgICAgICAgLy8gICAgICAgIH0KICAgICAgICAvLyAgICB9IGVsc2UgewogICAgICAgIC8vICAgICAgICBzZWxmLnNlbGVjdGVkID0gc2VsZWN0KCk7CiAgICAgICAgLy8gICAgfQogICAgICAgIC8vfSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>index</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGl0ZW0uaWQpOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGluZGV4ID0gTnVtYmVyKHNlbGYuaGlnaHRMaWdodElkKTsK</text>
+      <register name="8" type="4">
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>seleted</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>packy</text>
       </register>
     </registers>
     <search>
