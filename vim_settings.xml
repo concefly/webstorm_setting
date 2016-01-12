@@ -172,12 +172,12 @@
         <mark key="." line="8" column="22" />
         <mark key="[" line="8" column="19" />
       </file>
-      <file name="$USER_HOME$/project/heix/passport-frontend/fis-conf.js" timestamp="1452593372254">
+      <file name="$USER_HOME$/project/heix/passport-frontend/fis-conf.js" timestamp="1452594911928">
         <mark key="'" line="20" column="17" />
-        <mark key="]" line="129" column="2" />
-        <mark key="^" line="129" column="2" />
-        <mark key="." line="129" column="2" />
-        <mark key="[" line="129" column="2" />
+        <mark key="]" line="110" column="2" />
+        <mark key="^" line="110" column="2" />
+        <mark key="." line="110" column="2" />
+        <mark key="[" line="110" column="2" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/tag/tag.js" timestamp="1450429400524">
         <mark key="]" line="23" column="8" />
@@ -352,6 +352,12 @@
         <mark key="^" line="61" column="28" />
         <mark key="." line="61" column="28" />
         <mark key="[" line="61" column="28" />
+      </file>
+      <file name="$USER_HOME$/project/heix/passport-frontend/output/resources/views/pc/layout.blade.php" timestamp="1452594964967">
+        <mark key="]" line="18" column="11" />
+        <mark key="^" line="7" column="21" />
+        <mark key="." line="18" column="11" />
+        <mark key="[" line="18" column="11" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/views/check/third.js" timestamp="1449564779895">
         <mark key="]" line="4" column="0" />
@@ -660,11 +666,11 @@
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/project/heix/passport-frontend/resources/login/login.blade.php" timestamp="1452593017518">
-        <mark key="]" line="11" column="15" />
-        <mark key="^" line="11" column="15" />
-        <mark key="." line="11" column="15" />
-        <mark key="[" line="11" column="14" />
+      <file name="$USER_HOME$/project/heix/passport-frontend/resources/login/login.blade.php" timestamp="1452595006512">
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="20" />
+        <mark key="." line="10" column="0" />
+        <mark key="[" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/tag/tag.js" timestamp="1452480562408">
         <mark key="'" line="86" column="17" />
@@ -998,46 +1004,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly/mnKzlnLDmtYvor5Xkvb/nlKjmnKzlnLDphY3nva7vvIznur/kuIrpnIDor7fmsYLlkI7lj7DojrflvpfphY3nva4KZmlzLm1lZGlhKCdwdWJsaXNoJykubWF0Y2goJ2NvbmZpZy9kZWJ1Zy5qc29uJyx7CiAgICBkb21haW46ICdodHRwOi8vYWRtaW4udGhlb25lcGV0LmNvbS8nLAogICAgdXJsOiAnY29uZmlnLmpzb24nCn0pCg==</text>
+        <text encoding="base64">PHNjcmlwdD4KICAgIHJlcXVpcmUoWyIuL2luZGV4LmpzIl0pOwo8L3NjcmlwdD4K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>j</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">LyoqCiAqIOWOi+e8qemFjee9rgogKi8KLy8g5riF6Zmk5YW25LuW6YWN572u77yM5Y+q5L+d55WZ5aaC5LiL6YWN572uCi8vIGZpcy5tYXRjaCgnbGlicy8qKi5qcycsIHsKLy8gICAvLyBmaXMtb3B0aW1pemVyLXVnbGlmeS1qcyDmj5Lku7bov5vooYzljovnvKnvvIzlt7LlhoXnva4KLy8gICBvcHRpbWl6ZXI6IGZpcy5wbHVnaW4oJ3VnbGlmeS1qcycpCi8vIH0pCgpmaXMubWF0Y2goJ2xpYnMvKionLCB7CiAgICB1c2VIYXNoOiBmYWxzZQp9KQpmaXMubWF0Y2goJ2xpYnMvcmVxdWlyZWpzLyoqJywgewogICAgaXNNb2Q6IGZhbHNlCn0pCmZpcy5tYXRjaCgnbGlicy9wbHVwbG9hZC8qKicsIHsKICAgIGlzTW9kOiBmYWxzZQp9KQpmaXMubWF0Y2goJ2xpYnMvYm9vdHN0cmFwLyoqJywgewogICAgdXNlU2FtZU5hbWVSZXF1aXJlOiBmYWxzZQp9KQpmaXMubWF0Y2goJ3BrZy8qKicsIHsKICAgIGlzTW9kOiBmYWxzZSwKICAgIHVzZUhhc2g6IGZhbHNlCn0pCg==</text>
+      <register name="2" type="4">
+        <text>s</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly/mnKzlnLDmtYvor5Xkvb/nlKjmnKzlnLDphY3nva7vvIznur/kuIrpnIDor7fmsYLlkI7lj7DojrflvpfphY3nva4KZmlzLm1lZGlhKCdwdWJsaXNoJykubWF0Y2goJ2NvbmZpZy9kZWJ1Zy5qc29uJyx7CiAgICBkb21haW46ICdodHRwOi8vYWRtaW4udGhlb25lcGV0LmNvbS8nLAogICAgdXJsOiAnY29uZmlnLmpzb24nCn0pCg==</text>
+        <text encoding="base64">PHNjcmlwdD4KICAgIHJlcXVpcmUoWyIuL2luZGV4LmpzIl0pOwo8L3NjcmlwdD4K</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHVybDogYXNzZXRfcGF0aCArICIvJDEiLAogICAgcmVsZWFzZTogIi9wdWJsaWMiICsgYXNzZXRfcGF0aCArICIvJDEiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdW5kZXJzY29yZTogWwogICAgICAgICAgICAgICAgICAgICIvL2Nkbi5ib290Y3NzLmNvbS91bmRlcnNjb3JlLmpzLzEuOC4zL3VuZGVyc2NvcmUtbWluLmpzIgogICAgICAgICAgICBdCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="4">
-        <text>,</text>
+        <text>false</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PCEtLS0tPgo=</text>
+        <text encoding="base64">ICAgIC8vaXNNb2Q6IHRydWUsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PHNjcmlwdD48L3NjcmlwdD4K</text>
+        <text encoding="base64">ZmlzLm1lZGlhKCdkZWJ1ZycpLm1hdGNoKCc6OnBhY2thZ2UnLHsKICAgIHBvc3RwYWNrYWdlcjogZmlzLnBsdWdpbignbG9hZGVyJywgewogICAgICAgIGFsbEluT25lOiBmYWxzZQogICAgfSkKfSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>Document</text>
+        <text encoding="base64">IC8vIOi1hOa6kOaYoOWwhOihqOWGheW1jA==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9Ii8vY2RuLmJvb3Rjc3MuY29tL3Z1ZS8xLjAuMTMvdnVlLm1pbi5qcyI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyByZXNvdWNlbWFwOiAiL3BrZy8ke2ZpbGVwYXRofS1tYXAuanMiCg==</text>
       </register>
       <register name="/" type="4">
         <text>resource</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>s</text>
       </register>
     </registers>
     <search>
