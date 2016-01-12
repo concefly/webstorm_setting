@@ -172,12 +172,12 @@
         <mark key="." line="8" column="22" />
         <mark key="[" line="8" column="19" />
       </file>
-      <file name="$USER_HOME$/project/heix/passport-frontend/fis-conf.js" timestamp="1452588531627">
-        <mark key="'" line="129" column="8" />
-        <mark key="]" line="4" column="48" />
-        <mark key="^" line="4" column="48" />
-        <mark key="." line="4" column="48" />
-        <mark key="[" line="4" column="48" />
+      <file name="$USER_HOME$/project/heix/passport-frontend/fis-conf.js" timestamp="1452593372254">
+        <mark key="'" line="20" column="17" />
+        <mark key="]" line="129" column="2" />
+        <mark key="^" line="129" column="2" />
+        <mark key="." line="129" column="2" />
+        <mark key="[" line="129" column="2" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/tag/tag.js" timestamp="1450429400524">
         <mark key="]" line="23" column="8" />
@@ -304,6 +304,12 @@
         <mark key="^" line="19" column="56" />
         <mark key="." line="19" column="56" />
         <mark key="[" line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/heix/passport-frontend/resources/layout.blade.php" timestamp="1452592105405">
+        <mark key="]" line="1" column="16" />
+        <mark key="^" line="1" column="16" />
+        <mark key="." line="1" column="16" />
+        <mark key="[" line="1" column="14" />
       </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/app/Http/routes.php" timestamp="1450066115914">
         <mark key="]" line="136" column="44" />
@@ -654,6 +660,12 @@
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/project/heix/passport-frontend/resources/login/login.blade.php" timestamp="1452593017518">
+        <mark key="]" line="11" column="15" />
+        <mark key="^" line="11" column="15" />
+        <mark key="." line="11" column="15" />
+        <mark key="[" line="11" column="14" />
+      </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/tag/tag.js" timestamp="1452480562408">
         <mark key="'" line="86" column="17" />
         <mark key="]" line="20" column="12" />
@@ -883,7 +895,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/project/pet/wechat/views/check/demo.html" />
       <jump line="35" column="7" filename="$USER_HOME$/project/pet/wechat/views/check/index.js" />
       <jump line="80" column="0" filename="$USER_HOME$/project/pet/wechat/views/check/index.js" />
       <jump line="24" column="37" filename="$USER_HOME$/project/pet/wechat/views/check/index.js" />
@@ -983,49 +994,50 @@
       <jump line="4" column="23" filename="$USER_HOME$/project/heix/passport-frontend/fis-conf.js" />
       <jump line="30" column="13" filename="$USER_HOME$/project/heix/passport-frontend/fis-conf.js" />
       <jump line="129" column="8" filename="$USER_HOME$/project/heix/passport-frontend/fis-conf.js" />
+      <jump line="20" column="17" filename="$USER_HOME$/project/heix/passport-frontend/fis-conf.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>eb</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly/mnKzlnLDmtYvor5Xkvb/nlKjmnKzlnLDphY3nva7vvIznur/kuIrpnIDor7fmsYLlkI7lj7DojrflvpfphY3nva4KZmlzLm1lZGlhKCdwdWJsaXNoJykubWF0Y2goJ2NvbmZpZy9kZWJ1Zy5qc29uJyx7CiAgICBkb21haW46ICdodHRwOi8vYWRtaW4udGhlb25lcGV0LmNvbS8nLAogICAgdXJsOiAnY29uZmlnLmpzb24nCn0pCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>w</text>
+      <register name="2" type="2">
+        <text encoding="base64">LyoqCiAqIOWOi+e8qemFjee9rgogKi8KLy8g5riF6Zmk5YW25LuW6YWN572u77yM5Y+q5L+d55WZ5aaC5LiL6YWN572uCi8vIGZpcy5tYXRjaCgnbGlicy8qKi5qcycsIHsKLy8gICAvLyBmaXMtb3B0aW1pemVyLXVnbGlmeS1qcyDmj5Lku7bov5vooYzljovnvKnvvIzlt7LlhoXnva4KLy8gICBvcHRpbWl6ZXI6IGZpcy5wbHVnaW4oJ3VnbGlmeS1qcycpCi8vIH0pCgpmaXMubWF0Y2goJ2xpYnMvKionLCB7CiAgICB1c2VIYXNoOiBmYWxzZQp9KQpmaXMubWF0Y2goJ2xpYnMvcmVxdWlyZWpzLyoqJywgewogICAgaXNNb2Q6IGZhbHNlCn0pCmZpcy5tYXRjaCgnbGlicy9wbHVwbG9hZC8qKicsIHsKICAgIGlzTW9kOiBmYWxzZQp9KQpmaXMubWF0Y2goJ2xpYnMvYm9vdHN0cmFwLyoqJywgewogICAgdXNlU2FtZU5hbWVSZXF1aXJlOiBmYWxzZQp9KQpmaXMubWF0Y2goJ3BrZy8qKicsIHsKICAgIGlzTW9kOiBmYWxzZSwKICAgIHVzZUhhc2g6IGZhbHNlCn0pCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>eb</text>
+      <register name="1" type="2">
+        <text encoding="base64">Ly/mnKzlnLDmtYvor5Xkvb/nlKjmnKzlnLDphY3nva7vvIznur/kuIrpnIDor7fmsYLlkI7lj7DojrflvpfphY3nva4KZmlzLm1lZGlhKCdwdWJsaXNoJykubWF0Y2goJ2NvbmZpZy9kZWJ1Zy5qc29uJyx7CiAgICBkb21haW46ICdodHRwOi8vYWRtaW4udGhlb25lcGV0LmNvbS8nLAogICAgdXJsOiAnY29uZmlnLmpzb24nCn0pCg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHRoaXMuZ2V0RGF0YSkgewogICAgICAgICAgICAgICAgaWYgKHRoaXMuZ2V0RGF0YSBpbnN0YW5jZW9mIEZ1bmN0aW9uKSB7CiAgICAgICAgICAgICAgICAgICAgdGhpcy5nZXREYXRhKHsKICAgICAgICAgICAgICAgICAgICAgICAgcmVzdWx0OiBzZWxmLnJlc3VsdCwKICAgICAgICAgICAgICAgICAgICAgICAgcGFnZTogcGFnZSwKICAgICAgICAgICAgICAgICAgICAgICAgbGltaXQ6IHBhZ2VMaW1pdCwKICAgICAgICAgICAgICAgICAgICAgICAga2V5d29yZHM6IHNlbGYuc2VhcmNoCiAgICAgICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBlbHNlIGlmICh0aGlzLmdldERhdGEgaW5zdGFuY2VvZiBBcnJheSkgewogICAgICAgICAgICAgICAgICAgIHNlbGYuZGF0YSA9IHRoaXMuZ2V0RGF0YTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGVsc2UgaWYgKF8uaXNTdHJpbmcodGhpcy5nZXREYXRhKSkgewogICAgICAgICAgICAgICAgICAgICQuYXBpLmdldCh0aGlzLmdldERhdGEsIHsKICAgICAgICAgICAgICAgICAgICAgICAgcGFnZTogcGFnZSwKICAgICAgICAgICAgICAgICAgICAgICAgbGltaXQ6IHBhZ2VMaW1pdCwKICAgICAgICAgICAgICAgICAgICAgICAga2V5d29yZHM6IHNlbGYuc2VhcmNoCiAgICAgICAgICAgICAgICAgICAgfSkudGhlbihmdW5jdGlvbiAoZGF0YSkgewogICAgICAgICAgICAgICAgICAgICAgICBzZWxmLnJlc3VsdCA9IGRhdGE7CiAgICAgICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHVybDogYXNzZXRfcGF0aCArICIvJDEiLAogICAgcmVsZWFzZTogIi9wdWJsaWMiICsgYXNzZXRfcGF0aCArICIvJDEiCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>laravel-frontend</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdW5kZXJzY29yZTogWwogICAgICAgICAgICAgICAgICAgICIvL2Nkbi5ib290Y3NzLmNvbS91bmRlcnNjb3JlLmpzLzEuOC4zL3VuZGVyc2NvcmUtbWluLmpzIgogICAgICAgICAgICBdCg==</text>
       </register>
       <register name="6" type="4">
-        <text>packy</text>
+        <text>,</text>
       </register>
-      <register name="5" type="4">
-        <text>board</text>
+      <register name="5" type="2">
+        <text encoding="base64">PCEtLS0tPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly/lr7nlupTlkI7nq6/mqKHnu4TvvIznm67liY3mnInkuInkuKrkuI3lkIzlnLDmlrnvvJpgYm9hcmRg5ZCO5Y+w44CBYG1vYmlsZWDlvq7kv6Hnq6/jgIFgb2ZmaWNpYWxg5a6Y572RCg==</text>
+        <text encoding="base64">PHNjcmlwdD48L3NjcmlwdD4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvL2xvYWRJbml0aWFsOiBmdW5jdGlvbigpIHsKICAgICAgICAvLyAgICB2YXIgc2VsZiA9IHRoaXM7CiAgICAgICAgLy8gICAgaWYgKHRoaXMuZ2V0SW5pdGlhbCkgewogICAgICAgIC8vICAgICAgICBpZiAoXy5pc1N0cmluZyh0aGlzLmdldEluaXRpYWwpIHx8IF8uaXNOdW1iZXIodGhpcy5nZXRJbml0aWFsKSApIHsKICAgICAgICAvLyAgICAgICAgICAgIHZhciB0ZW1wID0gc2VsZi5yZXN1bHQuZGF0YVtOdW1iZXIodGhpcy5nZXRJbml0aWFsKV07CiAgICAgICAgLy8gICAgICAgICAgICBpZih0ZW1wKSBzZWxmLnNlbGVjdGVkID0gdGVtcDsKICAgICAgICAvLyAgICAgICAgfQogICAgICAgIC8vICAgICAgICBlbHNlIGlmIChfLmlzT2JqZWN0KHRoaXMuZ2V0SW5pdGlhbCkpIHsKICAgICAgICAvLyAgICAgICAgICAgIHNlbGYuc2VsZWN0ZWQgPSB0aGlzLmdldEluaXRpYWw7CiAgICAgICAgLy8gICAgICAgIH0KICAgICAgICAvLyAgICB9IGVsc2UgewogICAgICAgIC8vICAgICAgICBzZWxmLnNlbGVjdGVkID0gc2VsZWN0KCk7CiAgICAgICAgLy8gICAgfQogICAgICAgIC8vfSwK</text>
+      <register name="9" type="4">
+        <text>Document</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDliJ3lp4vljJbmlbDmja4KICAgICAgICAvL3NlbGYubG9hZEluaXRpYWwoKTsK</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9Ii8vY2RuLmJvb3Rjc3MuY29tL3Z1ZS8xLjAuMTMvdnVlLm1pbi5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="/" type="4">
         <text>resource</text>
       </register>
       <register name="-" type="4">
-        <text>eb</text>
+        <text>,</text>
       </register>
     </registers>
     <search>
@@ -1061,7 +1073,6 @@
         <entry>resource</entry>
       </history-search>
       <history-cmd>
-        <entry>45</entry>
         <entry encoding="base64">NzUsOTEgcy88YS88YnV0dG9uL2c=</entry>
         <entry encoding="base64">NzUsOTEgcy9hPi9idXR0b24+L2c=</entry>
         <entry>73,93 s/item.id/item</entry>
@@ -1080,6 +1091,7 @@
         <entry>e</entry>
         <entry>q</entry>
         <entry>102,122 s/getData/getInitial</entry>
+        <entry>74</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
