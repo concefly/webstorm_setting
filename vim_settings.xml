@@ -107,6 +107,11 @@
         <mark key="." line="1" column="67" />
         <mark key="[" line="1" column="64" />
       </file>
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/module/module.detail.edit.tpl" timestamp="1450685365514">
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="[" line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/project/pet/wechat/views/check/second.js" timestamp="1449562845867">
         <mark key="]" line="17" column="31" />
         <mark key="^" line="17" column="31" />
@@ -427,6 +432,11 @@
         <mark key="." line="12" column="60" />
         <mark key="[" line="12" column="60" />
       </file>
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/module/module.detail.add.html" timestamp="1450665335094">
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="[" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/user/user.tag.tpl" timestamp="1450248411601">
         <mark key="]" line="44" column="93" />
         <mark key="^" line="44" column="93" />
@@ -450,6 +460,11 @@
         <mark key="^" line="1" column="37" />
         <mark key="." line="1" column="37" />
         <mark key="[" line="0" column="125" />
+      </file>
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/author/author.detail.tpl" timestamp="1450234288411">
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="[" line="24" column="0" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/tag/tag.tpl" timestamp="1450425845693">
         <mark key="]" line="10" column="63" />
@@ -541,11 +556,10 @@
         <mark key="." line="10" column="52" />
         <mark key="[" line="10" column="52" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/selector/single.js" timestamp="1452564511413">
-        <mark key="'" line="98" column="12" />
-        <mark key="]" line="140" column="0" />
-        <mark key="." line="140" column="0" />
-        <mark key="[" line="140" column="0" />
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/selector/single.js" timestamp="1452565645974">
+        <mark key="]" line="164" column="0" />
+        <mark key="." line="164" column="0" />
+        <mark key="[" line="164" column="0" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/module/module.detail.js" timestamp="1452482665713">
         <mark key="'" line="68" column="22" />
@@ -609,6 +623,11 @@
         <mark key="^" line="27" column="7" />
         <mark key="." line="27" column="7" />
         <mark key="[" line="22" column="70" />
+      </file>
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/module/module.detail.edit.js" timestamp="1452063490859">
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
+        <mark key="[" line="80" column="0" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/grid/grid2.html" timestamp="1449643260277">
         <mark key="]" line="2" column="100" />
@@ -686,6 +705,11 @@
         <mark key="^" line="53" column="40" />
         <mark key="." line="53" column="40" />
         <mark key="[" line="52" column="31" />
+      </file>
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/permission/admin-list.js" timestamp="1452076665034">
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="[" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/product/product.js" timestamp="1450425665736">
         <mark key="]" line="39" column="62" />
@@ -949,40 +973,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coaXRlbS5pZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDliJ3lp4vljJbmlbDmja4KICAgICAgICAvL3NlbGYubG9hZEluaXRpYWwoKTsK</text>
       </register>
-      <register name="3" type="4">
-        <text>:</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAvLyDmjqXlj5dOdW1iZXLmiJZPYmplY3TmiJZTdHJpbmcKICAgICAgICAvLyDlkIzmraXojrflj5bmlbDmja7vvIxudW1iZXLmiJZzdHJpbmfmiY3mnInmlYgKICAgICAgICAvL2dldEluaXRpYWw6IHsKICAgICAgICAvLyAgICBkZWZhdWx0OiBmdW5jdGlvbigpIHsKICAgICAgICAvLyAgICAgICAgcmV0dXJuICIxIjsKICAgICAgICAvLyAgICB9LAogICAgICAgIC8vICAgIHZhbGlkYXRvcjogZnVuY3Rpb24odmFsdWUpIHsKICAgICAgICAvLyAgICAgICAgaWYoXy5pc051bWJlcih2YWx1ZSkgfHwgXy5pc1N0cmluZyh2YWx1ZSkgfHwgXy5pc09iamVjdCh2YWx1ZSkpIHsKICAgICAgICAvLyAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgIC8vICAgICAgICB9CiAgICAgICAgLy8gICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAvLyAgICB9CiAgICAgICAgLy99Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5hdXRob3JJZCA9IGF1dGhvci5pZDsK</text>
+        <text encoding="base64">ICAgICAgICAvL2xvYWRJbml0aWFsOiBmdW5jdGlvbigpIHsKICAgICAgICAvLyAgICB2YXIgc2VsZiA9IHRoaXM7CiAgICAgICAgLy8gICAgaWYgKHRoaXMuZ2V0SW5pdGlhbCkgewogICAgICAgIC8vICAgICAgICBpZiAoXy5pc1N0cmluZyh0aGlzLmdldEluaXRpYWwpIHx8IF8uaXNOdW1iZXIodGhpcy5nZXRJbml0aWFsKSApIHsKICAgICAgICAvLyAgICAgICAgICAgIHZhciB0ZW1wID0gc2VsZi5yZXN1bHQuZGF0YVtOdW1iZXIodGhpcy5nZXRJbml0aWFsKV07CiAgICAgICAgLy8gICAgICAgICAgICBpZih0ZW1wKSBzZWxmLnNlbGVjdGVkID0gdGVtcDsKICAgICAgICAvLyAgICAgICAgfQogICAgICAgIC8vICAgICAgICBlbHNlIGlmIChfLmlzT2JqZWN0KHRoaXMuZ2V0SW5pdGlhbCkpIHsKICAgICAgICAvLyAgICAgICAgICAgIHNlbGYuc2VsZWN0ZWQgPSB0aGlzLmdldEluaXRpYWw7CiAgICAgICAgLy8gICAgICAgIH0KICAgICAgICAvLyAgICB9IGVsc2UgewogICAgICAgIC8vICAgICAgICBzZWxmLnNlbGVjdGVkID0gc2VsZWN0KCk7CiAgICAgICAgLy8gICAgfQogICAgICAgIC8vfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coaXRlbS5pZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDliJ3lp4vljJbmlbDmja4KICAgICAgICAvL3NlbGYubG9hZEluaXRpYWwoKTsK</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKHRoaXMuZ2V0RGF0YSkgewogICAgICAgICAgICAgICAgaWYgKHRoaXMuZ2V0RGF0YSBpbnN0YW5jZW9mIEZ1bmN0aW9uKSB7CiAgICAgICAgICAgICAgICAgICAgdGhpcy5nZXREYXRhKHsKICAgICAgICAgICAgICAgICAgICAgICAgcmVzdWx0OiBzZWxmLnJlc3VsdCwKICAgICAgICAgICAgICAgICAgICAgICAgcGFnZTogcGFnZSwKICAgICAgICAgICAgICAgICAgICAgICAgbGltaXQ6IHBhZ2VMaW1pdCwKICAgICAgICAgICAgICAgICAgICAgICAga2V5d29yZHM6IHNlbGYuc2VhcmNoCiAgICAgICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBlbHNlIGlmICh0aGlzLmdldERhdGEgaW5zdGFuY2VvZiBBcnJheSkgewogICAgICAgICAgICAgICAgICAgIHNlbGYuZGF0YSA9IHRoaXMuZ2V0RGF0YTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGVsc2UgaWYgKF8uaXNTdHJpbmcodGhpcy5nZXREYXRhKSkgewogICAgICAgICAgICAgICAgICAgICQuYXBpLmdldCh0aGlzLmdldERhdGEsIHsKICAgICAgICAgICAgICAgICAgICAgICAgcGFnZTogcGFnZSwKICAgICAgICAgICAgICAgICAgICAgICAgbGltaXQ6IHBhZ2VMaW1pdCwKICAgICAgICAgICAgICAgICAgICAgICAga2V5d29yZHM6IHNlbGYuc2VhcmNoCiAgICAgICAgICAgICAgICAgICAgfSkudGhlbihmdW5jdGlvbiAoZGF0YSkgewogICAgICAgICAgICAgICAgICAgICAgICBzZWxmLnJlc3VsdCA9IGRhdGE7CiAgICAgICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpc0l0ZW1BY3RpdmU6IGZ1bmN0aW9uKGl0ZW0pIHsKICAgICAgICAgICAgcmV0dXJuIGl0ZW0uaWQ9PXRoaXMuc2VsZWN0ZWQuaWQ7CiAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGl0ZW0uaWQpOwo=</text>
       </register>
       <register name="6" type="4">
-        <text>index</text>
+        <text>:</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGluZGV4ID0gTnVtYmVyKHNlbGYuaGlnaHRMaWdodElkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5hdXRob3JJZCA9IGF1dGhvci5pZDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGl0ZW0uaWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coaXRlbS5pZCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKF8uc29tZShzZWxmLnJlc3UpKQo=</text>
+      <register name="9" type="4">
+        <text>index</text>
       </register>
-      <register name="8" type="4">
-        <text>HightLight</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGluZGV4ID0gTnVtYmVyKHNlbGYuaGlnaHRMaWdodElkKTsK</text>
       </register>
       <register name="/" type="4">
         <text>seleted</text>
