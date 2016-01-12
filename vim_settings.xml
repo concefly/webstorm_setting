@@ -172,6 +172,13 @@
         <mark key="." line="8" column="22" />
         <mark key="[" line="8" column="19" />
       </file>
+      <file name="$USER_HOME$/project/heix/passport-frontend/fis-conf.js" timestamp="1452588531627">
+        <mark key="'" line="129" column="8" />
+        <mark key="]" line="4" column="48" />
+        <mark key="^" line="4" column="48" />
+        <mark key="." line="4" column="48" />
+        <mark key="[" line="4" column="48" />
+      </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/tag/tag.js" timestamp="1450429400524">
         <mark key="]" line="23" column="8" />
         <mark key="^" line="32" column="27" />
@@ -876,10 +883,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="200" column="36" filename="$USER_HOME$/project/pet/wechat/views/check/demo.html" />
-      <jump line="11" column="27" filename="$USER_HOME$/project/pet/wechat/views/check/all.js" />
-      <jump line="26" column="0" filename="$USER_HOME$/project/pet/wechat/views/check/demo.html" />
-      <jump line="212" column="0" filename="$USER_HOME$/project/pet/wechat/views/check/demo.html" />
       <jump line="7" column="0" filename="$USER_HOME$/project/pet/wechat/views/check/demo.html" />
       <jump line="35" column="7" filename="$USER_HOME$/project/pet/wechat/views/check/index.js" />
       <jump line="80" column="0" filename="$USER_HOME$/project/pet/wechat/views/check/index.js" />
@@ -976,55 +979,59 @@
       <jump line="22" column="8" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/related-article/related-article.js" />
       <jump line="111" column="24" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/selector/single.js" />
       <jump line="101" column="12" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/selector/single.js" />
+      <jump line="146" column="6" filename="$USER_HOME$/project/heix/passport-frontend/fis-conf.js" />
+      <jump line="4" column="23" filename="$USER_HOME$/project/heix/passport-frontend/fis-conf.js" />
+      <jump line="30" column="13" filename="$USER_HOME$/project/heix/passport-frontend/fis-conf.js" />
+      <jump line="129" column="8" filename="$USER_HOME$/project/heix/passport-frontend/fis-conf.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>packy</text>
+        <text>eb</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDliJ3lp4vljJbmlbDmja4KICAgICAgICAvL3NlbGYubG9hZEluaXRpYWwoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>laravel-frontend</text>
+        <text>w</text>
       </register>
       <register name="1" type="4">
-        <text>packy</text>
+        <text>eb</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKHRoaXMuZ2V0RGF0YSkgewogICAgICAgICAgICAgICAgaWYgKHRoaXMuZ2V0RGF0YSBpbnN0YW5jZW9mIEZ1bmN0aW9uKSB7CiAgICAgICAgICAgICAgICAgICAgdGhpcy5nZXREYXRhKHsKICAgICAgICAgICAgICAgICAgICAgICAgcmVzdWx0OiBzZWxmLnJlc3VsdCwKICAgICAgICAgICAgICAgICAgICAgICAgcGFnZTogcGFnZSwKICAgICAgICAgICAgICAgICAgICAgICAgbGltaXQ6IHBhZ2VMaW1pdCwKICAgICAgICAgICAgICAgICAgICAgICAga2V5d29yZHM6IHNlbGYuc2VhcmNoCiAgICAgICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBlbHNlIGlmICh0aGlzLmdldERhdGEgaW5zdGFuY2VvZiBBcnJheSkgewogICAgICAgICAgICAgICAgICAgIHNlbGYuZGF0YSA9IHRoaXMuZ2V0RGF0YTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGVsc2UgaWYgKF8uaXNTdHJpbmcodGhpcy5nZXREYXRhKSkgewogICAgICAgICAgICAgICAgICAgICQuYXBpLmdldCh0aGlzLmdldERhdGEsIHsKICAgICAgICAgICAgICAgICAgICAgICAgcGFnZTogcGFnZSwKICAgICAgICAgICAgICAgICAgICAgICAgbGltaXQ6IHBhZ2VMaW1pdCwKICAgICAgICAgICAgICAgICAgICAgICAga2V5d29yZHM6IHNlbGYuc2VhcmNoCiAgICAgICAgICAgICAgICAgICAgfSkudGhlbihmdW5jdGlvbiAoZGF0YSkgewogICAgICAgICAgICAgICAgICAgICAgICBzZWxmLnJlc3VsdCA9IGRhdGE7CiAgICAgICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5hdXRob3JJZCA9IGF1dGhvci5pZDsK</text>
+      <register name="7" type="4">
+        <text>laravel-frontend</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coaXRlbS5pZCk7Cg==</text>
+      <register name="6" type="4">
+        <text>packy</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDmjqXlj5dOdW1iZXLmiJZPYmplY3TmiJZTdHJpbmcKICAgICAgICAvLyDlkIzmraXojrflj5bmlbDmja7vvIxudW1iZXLmiJZzdHJpbmfmiY3mnInmlYgKICAgICAgICAvL2dldEluaXRpYWw6IHsKICAgICAgICAvLyAgICBkZWZhdWx0OiBmdW5jdGlvbigpIHsKICAgICAgICAvLyAgICAgICAgcmV0dXJuICIxIjsKICAgICAgICAvLyAgICB9LAogICAgICAgIC8vICAgIHZhbGlkYXRvcjogZnVuY3Rpb24odmFsdWUpIHsKICAgICAgICAvLyAgICAgICAgaWYoXy5pc051bWJlcih2YWx1ZSkgfHwgXy5pc1N0cmluZyh2YWx1ZSkgfHwgXy5pc09iamVjdCh2YWx1ZSkpIHsKICAgICAgICAvLyAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgIC8vICAgICAgICB9CiAgICAgICAgLy8gICAgICAgIHJldHVybiBmYWxzZTsKICAgICAgICAvLyAgICB9CiAgICAgICAgLy99Cg==</text>
+      <register name="5" type="4">
+        <text>board</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvL2xvYWRJbml0aWFsOiBmdW5jdGlvbigpIHsKICAgICAgICAvLyAgICB2YXIgc2VsZiA9IHRoaXM7CiAgICAgICAgLy8gICAgaWYgKHRoaXMuZ2V0SW5pdGlhbCkgewogICAgICAgIC8vICAgICAgICBpZiAoXy5pc1N0cmluZyh0aGlzLmdldEluaXRpYWwpIHx8IF8uaXNOdW1iZXIodGhpcy5nZXRJbml0aWFsKSApIHsKICAgICAgICAvLyAgICAgICAgICAgIHZhciB0ZW1wID0gc2VsZi5yZXN1bHQuZGF0YVtOdW1iZXIodGhpcy5nZXRJbml0aWFsKV07CiAgICAgICAgLy8gICAgICAgICAgICBpZih0ZW1wKSBzZWxmLnNlbGVjdGVkID0gdGVtcDsKICAgICAgICAvLyAgICAgICAgfQogICAgICAgIC8vICAgICAgICBlbHNlIGlmIChfLmlzT2JqZWN0KHRoaXMuZ2V0SW5pdGlhbCkpIHsKICAgICAgICAvLyAgICAgICAgICAgIHNlbGYuc2VsZWN0ZWQgPSB0aGlzLmdldEluaXRpYWw7CiAgICAgICAgLy8gICAgICAgIH0KICAgICAgICAvLyAgICB9IGVsc2UgewogICAgICAgIC8vICAgICAgICBzZWxmLnNlbGVjdGVkID0gc2VsZWN0KCk7CiAgICAgICAgLy8gICAgfQogICAgICAgIC8vfSwK</text>
+        <text encoding="base64">Ly/lr7nlupTlkI7nq6/mqKHnu4TvvIznm67liY3mnInkuInkuKrkuI3lkIzlnLDmlrnvvJpgYm9hcmRg5ZCO5Y+w44CBYG1vYmlsZWDlvq7kv6Hnq6/jgIFgb2ZmaWNpYWxg5a6Y572RCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGl0ZW0uaWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvL2xvYWRJbml0aWFsOiBmdW5jdGlvbigpIHsKICAgICAgICAvLyAgICB2YXIgc2VsZiA9IHRoaXM7CiAgICAgICAgLy8gICAgaWYgKHRoaXMuZ2V0SW5pdGlhbCkgewogICAgICAgIC8vICAgICAgICBpZiAoXy5pc1N0cmluZyh0aGlzLmdldEluaXRpYWwpIHx8IF8uaXNOdW1iZXIodGhpcy5nZXRJbml0aWFsKSApIHsKICAgICAgICAvLyAgICAgICAgICAgIHZhciB0ZW1wID0gc2VsZi5yZXN1bHQuZGF0YVtOdW1iZXIodGhpcy5nZXRJbml0aWFsKV07CiAgICAgICAgLy8gICAgICAgICAgICBpZih0ZW1wKSBzZWxmLnNlbGVjdGVkID0gdGVtcDsKICAgICAgICAvLyAgICAgICAgfQogICAgICAgIC8vICAgICAgICBlbHNlIGlmIChfLmlzT2JqZWN0KHRoaXMuZ2V0SW5pdGlhbCkpIHsKICAgICAgICAvLyAgICAgICAgICAgIHNlbGYuc2VsZWN0ZWQgPSB0aGlzLmdldEluaXRpYWw7CiAgICAgICAgLy8gICAgICAgIH0KICAgICAgICAvLyAgICB9IGVsc2UgewogICAgICAgIC8vICAgICAgICBzZWxmLnNlbGVjdGVkID0gc2VsZWN0KCk7CiAgICAgICAgLy8gICAgfQogICAgICAgIC8vfSwK</text>
       </register>
-      <register name="8" type="4">
-        <text>:</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAvLyDliJ3lp4vljJbmlbDmja4KICAgICAgICAvL3NlbGYubG9hZEluaXRpYWwoKTsK</text>
       </register>
       <register name="/" type="4">
-        <text>seleted</text>
+        <text>resource</text>
       </register>
       <register name="-" type="4">
-        <text>packy</text>
+        <text>eb</text>
       </register>
     </registers>
     <search>
-      <last-search>seleted</last-search>
+      <last-search>resource</last-search>
       <last-offset />
-      <last-pattern>seleted</last-pattern>
+      <last-pattern>resource</last-pattern>
       <last-replace>getInitial</last-replace>
       <last-substitute>getData</last-substitute>
       <last-dir>1</last-dir>
@@ -1032,7 +1039,6 @@
     </search>
     <history>
       <history-search>
-        <entry>detail.id</entry>
         <entry>author</entry>
         <entry encoding="base64">PGE=</entry>
         <entry encoding="base64">YT4=</entry>
@@ -1052,6 +1058,7 @@
         <entry>articleList</entry>
         <entry>getData</entry>
         <entry>seleted</entry>
+        <entry>resource</entry>
       </history-search>
       <history-cmd>
         <entry>45</entry>
