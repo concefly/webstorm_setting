@@ -282,11 +282,10 @@
         <mark key="." line="34" column="81" />
         <mark key="[" line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/project/heix/passport-frontend/resources/style.scss" timestamp="1452744482498">
-        <mark key="]" line="25" column="38" />
-        <mark key="^" line="25" column="38" />
-        <mark key="." line="25" column="38" />
-        <mark key="[" line="25" column="27" />
+      <file name="$USER_HOME$/project/heix/passport-frontend/resources/style.scss" timestamp="1452759172621">
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="[" line="14" column="0" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/label/label-primary.html" timestamp="1449541357036">
         <mark key="]" line="1" column="16" />
@@ -342,11 +341,11 @@
         <mark key="." line="19" column="56" />
         <mark key="[" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/project/heix/passport-frontend/resources/layout.blade.php" timestamp="1452753696432">
-        <mark key="]" line="30" column="81" />
-        <mark key="^" line="30" column="81" />
-        <mark key="." line="30" column="81" />
-        <mark key="[" line="29" column="67" />
+      <file name="$USER_HOME$/project/heix/passport-frontend/resources/layout.blade.php" timestamp="1452758468422">
+        <mark key="]" line="15" column="38" />
+        <mark key="^" line="15" column="38" />
+        <mark key="." line="15" column="38" />
+        <mark key="[" line="15" column="4" />
       </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/app/Http/routes.php" timestamp="1450066115914">
         <mark key="]" line="136" column="44" />
@@ -1121,46 +1120,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIi8vbWFpbC5mIgo=</text>
+        <text encoding="base64">ICAtd2Via2l0LWJveC1hbGlnbjogY2VudGVyOwogIC1tb3otYm94LWFsaWduOiBjZW50ZXI7CiAgLW1zLWZsZXgtYWxpZ246IGNlbnRlcjsKICAtd2Via2l0LWFsaWduLWl0ZW1zOiBjZW50ZXI7CiAgYWxpZ24taXRlbXM6IGNlbnRlcjsK</text>
       </register>
-      <register name="3" type="4">
-        <text>163</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBkaXNwbGF5OiBmbGV4Owo=</text>
       </register>
-      <register name="2" type="4">
-        <text>163</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBib3gtYWwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIi8vbWFpbC5mIgo=</text>
+        <text encoding="base64">ICAtd2Via2l0LWJveC1hbGlnbjogY2VudGVyOwogIC1tb3otYm94LWFsaWduOiBjZW50ZXI7CiAgLW1zLWZsZXgtYWxpZ246IGNlbnRlcjsKICAtd2Via2l0LWFsaWduLWl0ZW1zOiBjZW50ZXI7CiAgYWxpZ24taXRlbXM6IGNlbnRlcjsK</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIi8vbWFpbC4xNjMuY29tIjogL0AxNjMuY29tJC8sCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>?ticket=&quot;+ticket</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICBwb3NpdGlvbjogcmVsYXRpdmU7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>&quot;</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgdG9wOiA1MCU7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>+</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBmbGV4OiBhdXRvOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text>163</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBwb3NpdGlvbjogcmVsYXRpdmU7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvL3Bvc2l0aW9uOiByZWxhdGl2ZTsKICAvL3dpZHRoOiAxMDAlOwogIC8vdG9wOiA1MCU7Cg==</text>
       </register>
       <register name="/" type="4">
         <text>line-height</text>
       </register>
       <register name="-" type="4">
-        <text>163</text>
+        <text>absolute</text>
       </register>
     </registers>
     <search>
