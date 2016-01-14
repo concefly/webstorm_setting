@@ -120,11 +120,11 @@
         <mark key="." line="120" column="28" />
         <mark key="[" line="120" column="25" />
       </file>
-      <file name="$USER_HOME$/project/heix/passport-frontend/resources/signup/index.js" timestamp="1452745579280">
-        <mark key="]" line="50" column="51" />
-        <mark key="^" line="50" column="51" />
-        <mark key="." line="50" column="51" />
-        <mark key="[" line="40" column="45" />
+      <file name="$USER_HOME$/project/heix/passport-frontend/resources/signup/index.js" timestamp="1452750227123">
+        <mark key="]" line="120" column="42" />
+        <mark key="^" line="120" column="41" />
+        <mark key="." line="120" column="41" />
+        <mark key="[" line="120" column="0" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/config.js" timestamp="1449711795748">
         <mark key="]" line="5" column="33" />
@@ -420,11 +420,11 @@
         <mark key="." line="2" column="0" />
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/project/heix/passport-frontend/resources/forgot/forgot.blade.php" timestamp="1452680516684">
-        <mark key="]" line="3" column="26" />
-        <mark key="^" line="3" column="26" />
-        <mark key="." line="3" column="26" />
-        <mark key="[" line="3" column="23" />
+      <file name="$USER_HOME$/project/heix/passport-frontend/resources/forgot/forgot.blade.php" timestamp="1452749578389">
+        <mark key="]" line="8" column="10" />
+        <mark key="^" line="8" column="10" />
+        <mark key="." line="8" column="10" />
+        <mark key="[" line="8" column="11" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/margin.scss" timestamp="1449453963480">
         <mark key="]" line="23" column="0" />
@@ -738,6 +738,12 @@
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/project/heix/passport-frontend/resources/forgot/index.js" timestamp="1452750247863">
+        <mark key="]" line="120" column="42" />
+        <mark key="^" line="120" column="19" />
+        <mark key="." line="120" column="0" />
+        <mark key="[" line="120" column="0" />
+      </file>
       <file name="$USER_HOME$/project/heix/passport-frontend/resources/login/login.blade.php" timestamp="1452738412401">
         <mark key="]" line="28" column="15" />
         <mark key="." line="33" column="0" />
@@ -891,6 +897,12 @@
         <mark key="^" line="8" column="39" />
         <mark key="." line="8" column="39" />
         <mark key="[" line="8" column="35" />
+      </file>
+      <file name="$USER_HOME$/project/heix/passport-frontend/resources/forgot/forgot.entrance.tpl" timestamp="1452749922397">
+        <mark key="]" line="44" column="49" />
+        <mark key="^" line="44" column="49" />
+        <mark key="." line="44" column="49" />
+        <mark key="[" line="44" column="50" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/package.json" timestamp="1449479047622">
         <mark key="]" line="21" column="0" />
@@ -1102,47 +1114,47 @@
       <jump line="42" column="6" filename="$USER_HOME$/project/heix/passport-frontend/libs/style-utils/utils.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>disabled v-if=&quot;error.length&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLnVzZXJFeGlzdCA9ICdubyc7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IHYtZWxzZSA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICA8dGFibGUgY2xhc3M9InRhYmxlIHV0aWwtbXQtNzAiPgogICAgICAgICAgICA8dHI+CiAgICAgICAgICAgICAgICA8dGQ+PGEgaHJlZj0iLyIgY2xhc3M9InRleHQtd2hpdGUiPuW3suaciei0puWPt++8jOWOu+eZu+W9lTwvYT48L3RkPgogICAgICAgICAgICA8L3RyPgogICAgICAgIDwvdGFibGU+Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0ic3VibWl0IiB2YWx1ZT0i5rOo5YaMIiBjbGFzcz0iYnRuIGJ0bi1ibG9jayBidG4tcHJpbWFyeSIgdi1lbHNlID4K</text>
+      <register name="2" type="4">
+        <text>注册</text>
       </register>
-      <register name="1" type="4">
-        <text>disabled v-if=&quot;error.length&quot;</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLmVycm9yID0gIiI7Cg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGhyIGNsYXNzPSJ1dGlsLW10LTE1MCBoci1tdXRlIj4KICAgICAgICAgICAgPHAgY2xhc3M9InRleHQtY2VudGVyIj4KICAgICAgICAgICAgICAgIDxhIGhyZWY9ImphdmFzY3JpcHQ6OyIgY2xhc3M9InRleHQtd2hpdGUiIEBjbGljaz0iZ29CYWNrKCkiPui/m+WFpee9keerme+8jOeojeWQjumqjOivgTwvYT4KICAgICAgICAgICAgPC9wPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWxmLnVzZXJFeGlzdCA9ICdubyc7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>验</text>
+        <text>s</text>
       </register>
       <register name="6" type="4">
-        <text>证</text>
+        <text encoding="base64">ZXJ2aWNlQGhlaXguY24g</text>
       </register>
       <register name="5" type="4">
-        <text>thanks</text>
+        <text>注册成功</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0ic3VibWl0IiB2YWx1ZT0i5rOo5YaMIiBjbGFzcz0iYnRuIGJ0bi1ibG9jayBidG4tcHJpbWFyeSIgZGlzYWJsZWQgdi1pZj0iZXJyb3IubGVuZ3RoIj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGhyIGNsYXNzPSJ1dGlsLW10LTE1MCBoci1tdXRlIj4KICAgICAgICAgICAgPHAgY2xhc3M9InRleHQtY2VudGVyIj4KICAgICAgICAgICAgICAgIDxhIGhyZWY9ImphdmFzY3JpcHQ6OyIgY2xhc3M9InRleHQtd2hpdGUgdXRpbC1mb250XzE0IiBAY2xpY2s9ImdvQmFjaygpIj7nm7TmjqXov5vlhaXnvZHnq5k8L2E+CiAgICAgICAgICAgIDwvcD4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>稍</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGhyIGNsYXNzPSJ1dGlsLW10LTE1MCBoci1tdXRlIj4K</text>
       </register>
-      <register name="8" type="4">
-        <text>后</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhIGhyZWY9ImphdmFzY3JpcHQ6OyIgY2xhc3M9InRleHQtd2hpdGUgdXRpbC1mb250XzE0IiBAY2xpY2s9ImdvQmFjaygpIj7ov5vlhaXnvZHnq5nvvIznqI3lkI7pqozor4E8L2E+Cg==</text>
       </register>
       <register name="/" type="4">
         <text>line-height</text>
       </register>
       <register name="-" type="4">
-        <text>disabled v-if=&quot;error.length&quot;</text>
+        <text>注册</text>
       </register>
     </registers>
     <search>
@@ -1188,7 +1200,6 @@
         <entry>s/intro/email/g</entry>
         <entry>s/avatar_url/avatar_id/g</entry>
         <entry>112,130 s/getData/getShow</entry>
-        <entry>e</entry>
         <entry>102,122 s/getData/getInitial</entry>
         <entry>74</entry>
         <entry>q</entry>
@@ -1197,6 +1208,7 @@
         <entry>44,55 s/#/m#/g</entry>
         <entry>44,55 s/: $i/: -$i/g</entry>
         <entry>wq</entry>
+        <entry>e</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
