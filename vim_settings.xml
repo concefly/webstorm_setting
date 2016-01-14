@@ -366,11 +366,11 @@
         <mark key="." line="4" column="5" />
         <mark key="[" line="6" column="23" />
       </file>
-      <file name="$USER_HOME$/project/heix/passport-frontend/resources/signup/signup.entrance.tpl" timestamp="1452682579791">
-        <mark key="]" line="17" column="79" />
-        <mark key="^" line="17" column="79" />
-        <mark key="." line="17" column="79" />
-        <mark key="[" line="17" column="60" />
+      <file name="$USER_HOME$/project/heix/passport-frontend/resources/signup/signup.entrance.tpl" timestamp="1452736804840">
+        <mark key="]" line="13" column="44" />
+        <mark key="^" line="13" column="44" />
+        <mark key="." line="13" column="44" />
+        <mark key="[" line="13" column="44" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.normal.tpl" timestamp="1450148638114">
         <mark key="]" line="59" column="38" />
@@ -934,11 +934,11 @@
         <mark key="." line="13" column="23" />
         <mark key="[" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/project/heix/passport-frontend/libs/utils/util.js" timestamp="1452681987934">
-        <mark key="]" line="23" column="29" />
-        <mark key="^" line="23" column="29" />
-        <mark key="." line="23" column="29" />
-        <mark key="[" line="23" column="27" />
+      <file name="$USER_HOME$/project/heix/passport-frontend/libs/utils/util.js" timestamp="1452736714529">
+        <mark key="]" line="26" column="23" />
+        <mark key="^" line="26" column="23" />
+        <mark key="." line="26" column="23" />
+        <mark key="[" line="33" column="9" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/user/user.list.js" timestamp="1450237301831">
         <mark key="]" line="51" column="26" />
@@ -1101,47 +1101,47 @@
       <jump line="15" column="28" filename="$USER_HOME$/project/heix/passport-frontend/resources/login/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>else</text>
       </register>
       <register name="3" type="4">
-        <text>password</text>
+        <text>name</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJwYXNzd29yZCIgY2xhc3M9ImZvcm0tY29udHJvbCIgbmFtZT0iY29kZSIgaWQ9ImNvZGUiIHBsYWNlaG9sZGVyPSLnn63kv6Hpqozor4HnoIEiIGF1dG9jb21wbGV0ZT0ib2ZmIiB2LW1vZGVsPSJzZWxmLmNvZGUiPgo=</text>
+        <text encoding="base64">ICAgICAgICByZWdNYXAuZm9yRWFjaChmdW5jdGlvbihyZWcsIG5hbWUpIHsKICAgICAgICAgICAgaWYocmVnLmV4ZWMoc3RyKSkgewogICAgICAgICAgICAgICAgdHlwZSA9IG5hbWU7CiAgICAgICAgICAgICAgICByZXR1cm4gOwogICAgICAgICAgICB9CiAgICAgICAgfSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>else</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1ncm91cCI+CiAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0icGFzc3dvcmQiIGNsYXNzPSJmb3JtLWNvbnRyb2wiIG5hbWU9InBhc3N3b3JkIiBpZD0icGFzc3dvcmQiIHBsYWNlaG9sZGVyPSLor7fovpPlhaU25L2N5Lul5LiK5a+G56CBIiBhdXRvY29tcGxldGU9Im9mZiIgdi1tb2RlbD0ic2VsZi5wYXNzd29yZCI+CiAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYK</text>
       </register>
-      <register name="6" type="4">
-        <text>password</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IoaT0wO2k8cmVnTWFwLmxlbmd0aCxpKyspIHsKICAgICAgICB9Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>text</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB2YXIgaSA9IDA7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>请输入6位以上密码</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB2YXIgdHlwZSA9ICJ1bmtub3duIjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHR5cGUpOwo=</text>
+      <register name="9" type="4">
+        <text>name</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text>line-height</text>
       </register>
       <register name="-" type="4">
-        <text>password</text>
+        <text>else</text>
       </register>
     </registers>
     <search>
