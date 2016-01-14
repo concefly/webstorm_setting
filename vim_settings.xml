@@ -120,11 +120,11 @@
         <mark key="." line="120" column="28" />
         <mark key="[" line="120" column="25" />
       </file>
-      <file name="$USER_HOME$/project/heix/passport-frontend/resources/signup/index.js" timestamp="1452752762422">
-        <mark key="]" line="7" column="35" />
-        <mark key="^" line="7" column="35" />
-        <mark key="." line="7" column="35" />
-        <mark key="[" line="7" column="28" />
+      <file name="$USER_HOME$/project/heix/passport-frontend/resources/signup/index.js" timestamp="1452760603662">
+        <mark key="]" line="32" column="28" />
+        <mark key="^" line="32" column="28" />
+        <mark key="." line="32" column="28" />
+        <mark key="[" line="32" column="24" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/config.js" timestamp="1449711795748">
         <mark key="]" line="5" column="33" />
@@ -1119,47 +1119,47 @@
       <jump line="42" column="6" filename="$USER_HOME$/project/heix/passport-frontend/libs/style-utils/utils.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAtd2Via2l0LWJveC1hbGlnbjogY2VudGVyOwogIC1tb3otYm94LWFsaWduOiBjZW50ZXI7CiAgLW1zLWZsZXgtYWxpZ246IGNlbnRlcjsKICAtd2Via2l0LWFsaWduLWl0ZW1zOiBjZW50ZXI7CiAgYWxpZ24taXRlbXM6IGNlbnRlcjsK</text>
+      <register name="&quot;" type="4">
+        <text>phone</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkaXNwbGF5OiBmbGV4Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBib3gtYWwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAtd2Via2l0LWJveC1hbGlnbjogY2VudGVyOwogIC1tb3otYm94LWFsaWduOiBjZW50ZXI7CiAgLW1zLWZsZXgtYWxpZ246IGNlbnRlcjsKICAtd2Via2l0LWFsaWduLWl0ZW1zOiBjZW50ZXI7CiAgYWxpZ24taXRlbXM6IGNlbnRlcjsK</text>
+      <register name="1" type="4">
+        <text>phone</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIi8vbWFpbC4xNjMuY29tIjogL0AxNjMuY29tJC8sCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBwb3NpdGlvbjogcmVsYXRpdmU7Cg==</text>
+      <register name="7" type="4">
+        <text>'</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgdG9wOiA1MCU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBmbGV4OiBhdXRvOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBzZWxmID0gdGhpczsKICAgICAgICAgICAgICAgIHZhciBkYXRhID0ge307CiAgICAgICAgICAgICAgICB2YXIgdHlwZSA9IHRoaXMudXNlck5hbWVUeXBlOwogICAgICAgICAgICAgICAgaWYodHlwZT09InVua25vd24iKSB7CiAgICAgICAgICAgICAgICAgICAgc2VsZi51c2VyRXhpc3QgPSAnbm8nOwogICAgICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGRhdGFbdHlwZV0gPSB0aGlzLnNlbGYudXNlcm5hbWU7CiAgICAgICAgICAgICAgICBzZWxmLnVzZXJFeGlzdCA9ICdsb2FkaW5nJzsKICAgICAgICAgICAgICAgIGFwaS5nZXQoewogICAgICAgICAgICAgICAgICAgIHVybDogIi91c2VyL2NoZWNrRXhpc3QiLAogICAgICAgICAgICAgICAgICAgIGRhdGE6IGRhdGEKICAgICAgICAgICAgICAgIH0pCiAgICAgICAgICAgICAgICAgICAgLmRvbmUoZnVuY3Rpb24oZGF0YSkgewogICAgICAgICAgICAgICAgICAgICAgICBzZWxmLnVzZXJFeGlzdCA9ICJ5ZXMiOwogICAgICAgICAgICAgICAgICAgIH0pCiAgICAgICAgICAgICAgICAgICAgLmZhaWwoZnVuY3Rpb24oKXsKICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi51c2VyRXhpc3QgPSAibm8iOwogICAgICAgICAgICAgICAgICAgIH0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwb3NpdGlvbjogcmVsYXRpdmU7Cg==</text>
+        <text encoding="base64">ICAtd2Via2l0LWJveC1hbGlnbjogY2VudGVyOwogIC1tb3otYm94LWFsaWduOiBjZW50ZXI7CiAgLW1zLWZsZXgtYWxpZ246IGNlbnRlcjsKICAtd2Via2l0LWFsaWduLWl0ZW1zOiBjZW50ZXI7CiAgYWxpZ24taXRlbXM6IGNlbnRlcjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvL3Bvc2l0aW9uOiByZWxhdGl2ZTsKICAvL3dpZHRoOiAxMDAlOwogIC8vdG9wOiA1MCU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCd1c2VyTmFtZVR5cGUnKTsK</text>
       </register>
       <register name="/" type="4">
         <text>line-height</text>
       </register>
       <register name="-" type="4">
-        <text>absolute</text>
+        <text>phone</text>
       </register>
     </registers>
     <search>
@@ -1195,7 +1195,6 @@
         <entry>line-height</entry>
       </history-search>
       <history-cmd>
-        <entry>367</entry>
         <entry>49,54 s/searchQuery.//</entry>
         <entry>50,56 s/cover_id/banner_id/g</entry>
         <entry>s/title/abstract/g</entry>
@@ -1214,6 +1213,7 @@
         <entry>44,55 s/: $i/: -$i/g</entry>
         <entry>wq</entry>
         <entry>e</entry>
+        <entry>ws</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -1252,6 +1252,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
