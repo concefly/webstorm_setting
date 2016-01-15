@@ -215,12 +215,12 @@
         <mark key="." line="8" column="22" />
         <mark key="[" line="8" column="19" />
       </file>
-      <file name="$USER_HOME$/project/heix/passport-frontend/fis-conf.js" timestamp="1452823467551">
+      <file name="$USER_HOME$/project/heix/passport-frontend/fis-conf.js" timestamp="1452825612889">
         <mark key="'" line="21" column="17" />
-        <mark key="]" line="49" column="28" />
-        <mark key="^" line="49" column="28" />
-        <mark key="." line="49" column="28" />
-        <mark key="[" line="49" column="26" />
+        <mark key="]" line="91" column="48" />
+        <mark key="^" line="91" column="48" />
+        <mark key="." line="91" column="48" />
+        <mark key="[" line="91" column="42" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/tag/tag.js" timestamp="1450429400524">
         <mark key="]" line="23" column="8" />
@@ -246,11 +246,12 @@
         <mark key="." line="90" column="45" />
         <mark key="[" line="90" column="35" />
       </file>
-      <file name="$USER_HOME$/project/heix/passport-frontend/resources/signup/template.tpl" timestamp="1452766099688">
+      <file name="$USER_HOME$/project/heix/passport-frontend/resources/signup/template.tpl" timestamp="1452824259544">
         <mark key="'" line="18" column="32" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="[" line="23" column="0" />
+        <mark key="]" line="48" column="40" />
+        <mark key="^" line="48" column="40" />
+        <mark key="." line="48" column="40" />
+        <mark key="[" line="48" column="27" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/font.scss" timestamp="1449712262284">
         <mark key="]" line="13" column="13" />
@@ -294,11 +295,11 @@
         <mark key="." line="34" column="81" />
         <mark key="[" line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/project/heix/passport-frontend/resources/style.scss" timestamp="1452823421384">
-        <mark key="]" line="23" column="42" />
-        <mark key="^" line="23" column="42" />
-        <mark key="." line="23" column="42" />
-        <mark key="[" line="23" column="25" />
+      <file name="$USER_HOME$/project/heix/passport-frontend/resources/style.scss" timestamp="1452825330643">
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="36" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="[" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/label/label-primary.html" timestamp="1449541357036">
         <mark key="]" line="1" column="16" />
@@ -348,23 +349,17 @@
         <mark key="." line="70" column="54" />
         <mark key="[" line="70" column="29" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/article.detail.tpl" timestamp="1452562884492">
-        <mark key="'" line="82" column="51" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="76" />
-        <mark key="[" line="18" column="0" />
-      </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/app/Http/Kernel.php" timestamp="1449804920421">
         <mark key="]" line="19" column="56" />
         <mark key="^" line="19" column="56" />
         <mark key="." line="19" column="56" />
         <mark key="[" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/project/heix/passport-frontend/resources/layout.blade.php" timestamp="1452768572007">
-        <mark key="]" line="12" column="54" />
-        <mark key="^" line="12" column="54" />
-        <mark key="." line="12" column="54" />
-        <mark key="[" line="12" column="33" />
+      <file name="$USER_HOME$/project/heix/passport-frontend/resources/layout.blade.php" timestamp="1452825593032">
+        <mark key="]" line="6" column="44" />
+        <mark key="^" line="6" column="44" />
+        <mark key="." line="6" column="44" />
+        <mark key="[" line="7" column="75" />
       </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/app/Http/routes.php" timestamp="1450066115914">
         <mark key="]" line="136" column="44" />
@@ -372,11 +367,10 @@
         <mark key="." line="136" column="44" />
         <mark key="[" line="136" column="17" />
       </file>
-      <file name="$USER_HOME$/project/heix/passport-frontend/resources/signup/signup.blade.php" timestamp="1452681438431">
-        <mark key="]" line="8" column="8" />
-        <mark key="^" line="8" column="8" />
-        <mark key="." line="8" column="8" />
-        <mark key="[" line="8" column="9" />
+      <file name="$USER_HOME$/project/heix/passport-frontend/resources/signup/signup.blade.php" timestamp="1452824222112">
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="[" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/label.js" timestamp="1449481101574">
         <mark key="]" line="4" column="5" />
@@ -408,6 +402,12 @@
         <mark key="." line="81" column="24" />
         <mark key="[" line="81" column="21" />
       </file>
+      <file name="$USER_HOME$/project/heix/passport-frontend/resources/bootstrap-custom.less" timestamp="1452825374568">
+        <mark key="]" line="1" column="23" />
+        <mark key="^" line="1" column="23" />
+        <mark key="." line="1" column="23" />
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/common/notFinished/notFinished.js" timestamp="1450250682048">
         <mark key="]" line="7" column="40" />
         <mark key="^" line="7" column="40" />
@@ -419,6 +419,10 @@
         <mark key="^" line="61" column="28" />
         <mark key="." line="61" column="28" />
         <mark key="[" line="61" column="28" />
+      </file>
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/author/author.list.js" timestamp="1452076661676">
+        <mark key="]" line="67" column="1" />
+        <mark key="[" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/project/heix/passport-frontend/output/resources/views/pc/layout.blade.php" timestamp="1452594964967">
         <mark key="]" line="18" column="11" />
@@ -438,11 +442,11 @@
         <mark key="." line="2" column="0" />
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/project/heix/passport-frontend/resources/forgot/forgot.blade.php" timestamp="1452752674494">
-        <mark key="]" line="3" column="26" />
+      <file name="$USER_HOME$/project/heix/passport-frontend/resources/forgot/forgot.blade.php" timestamp="1452824238568">
+        <mark key="]" line="6" column="0" />
         <mark key="^" line="3" column="26" />
-        <mark key="." line="3" column="26" />
-        <mark key="[" line="3" column="23" />
+        <mark key="." line="6" column="0" />
+        <mark key="[" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/margin.scss" timestamp="1449453963480">
         <mark key="]" line="23" column="0" />
@@ -475,6 +479,10 @@
         <mark key="^" line="54" column="71" />
         <mark key="." line="3" column="26" />
         <mark key="[" line="3" column="26" />
+      </file>
+      <file name="$USER_HOME$/project/heix/passport-frontend/libs/bootstrap/less/bootstrap.less" timestamp="1452825101608">
+        <mark key="]" line="55" column="35" />
+        <mark key="[" line="15" column="0" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/paragraph/title-info.html" timestamp="1449555759494">
         <mark key="]" line="2" column="27" />
@@ -762,10 +770,11 @@
         <mark key="." line="22" column="30" />
         <mark key="[" line="22" column="24" />
       </file>
-      <file name="$USER_HOME$/project/heix/passport-frontend/resources/login/login.blade.php" timestamp="1452738412401">
-        <mark key="]" line="28" column="15" />
-        <mark key="." line="33" column="0" />
-        <mark key="[" line="26" column="0" />
+      <file name="$USER_HOME$/project/heix/passport-frontend/resources/login/login.blade.php" timestamp="1452824273653">
+        <mark key="]" line="23" column="40" />
+        <mark key="^" line="23" column="40" />
+        <mark key="." line="23" column="40" />
+        <mark key="[" line="23" column="28" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/tag/tag.js" timestamp="1452480562408">
         <mark key="'" line="86" column="17" />
@@ -1016,6 +1025,10 @@
         <mark key="." line="66" column="11" />
         <mark key="[" line="42" column="29" />
       </file>
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/author/author.list.tpl" timestamp="1452077860192">
+        <mark key="]" line="44" column="5" />
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/project/pet/wechat/views/check/all.scss" timestamp="1449456056731">
         <mark key="]" line="31" column="43" />
         <mark key="^" line="31" column="43" />
@@ -1028,6 +1041,7 @@
         <mark key="." line="2" column="98" />
         <mark key="[" line="2" column="80" />
       </file>
+      <file name="$USER_HOME$/project/heix/passport-frontend/libs/bootstrap/less/bootstrap-custom.less" timestamp="1452825812082" />
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/related-article/related-article.js" timestamp="1450666800634">
         <mark key="]" line="21" column="31" />
         <mark key="^" line="21" column="31" />
@@ -1138,47 +1152,47 @@
       <jump line="140" column="26" filename="$USER_HOME$/project/heix/passport-frontend/libs/bootstrap/less/forms.less" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>png</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gPT09PT09PT09PT09PT09PT09IOW8leWFpSBib290c3RyYXAg5qC35byPID09PT09PT09PT09PT09PT09PQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>png</text>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8ucm93LXdyYXBwZXIgewovLyAgdHJhbnNmb3JtOiB0cmFuc2xhdGVZKC01MCUpOwovL30KCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>./m_bg_compose.jpg</text>
+      <register name="2" type="2">
+        <text encoding="base64">Ly8gPT09PT09PT09PT09PT09PT09IOW8leWFpSBib290c3RyYXAg5qC35byPID09PT09PT09PT09PT09PT09PQoKLy8gQ29yZSBDU1MKQGltcG90ICIvbGlicy9ib290c3RyYXAvbGVzcy9zY2FmZm9sZGluZy5sZXNzIjsKQGltcG90ICIvbGlicy9ib290c3RyYXAvbGVzcy90eXBlLmxlc3MiOwpAaW1wb3QgIi9saWJzL2Jvb3RzdHJhcC9sZXNzL2NvZGUubGVzcyI7CkBpbXBvdCAiL2xpYnMvYm9vdHN0cmFwL2xlc3MvZ3JpZC5sZXNzIjsKQGltcG90ICIvbGlicy9ib290c3RyYXAvbGVzcy90YWJsZXMubGVzcyI7CkBpbXBvdCAiL2xpYnMvYm9vdHN0cmFwL2xlc3MvZm9ybXMubGVzcyI7CkBpbXBvdCAiL2xpYnMvYm9vdHN0cmFwL2xlc3MvYnV0dG9ucy5sZXNzIjsKCi8vIENvbXBvbmVudHMKQGltcG90ICIvbGlicy9ib290c3RyYXAvbGVzcy9jb21wb25lbnQtYW5pbWF0aW9ucy5sZXNzIjsKQGltcG90ICIvbGlicy9ib290c3RyYXAvbGVzcy9kcm9wZG93bnMubGVzcyI7CkBpbXBvdCAiL2xpYnMvYm9vdHN0cmFwL2xlc3MvYnV0dG9uLWdyb3Vwcy5sZXNzIjsKQGltcG90ICIvbGlicy9ib290c3RyYXAvbGVzcy9pbnB1dC1ncm91cHMubGVzcyI7CkBpbXBvdCAiL2xpYnMvYm9vdHN0cmFwL2xlc3MvbmF2cy5sZXNzIjsKQGltcG90ICIvbGlicy9ib290c3RyYXAvbGVzcy9uYXZiYXIubGVzcyI7CkBpbXBvdCAiL2xpYnMvYm9vdHN0cmFwL2xlc3MvYnJlYWRjcnVtYnMubGVzcyI7CkBpbXBvdCAiL2xpYnMvYm9vdHN0cmFwL2xlc3MvcGFnaW5hdGlvbi5sZXNzIjsKQGltcG90ICIvbGlicy9ib290c3RyYXAvbGVzcy9wYWdlci5sZXNzIjsKQGltcG90ICIvbGlicy9ib290c3RyYXAvbGVzcy9sYWJlbHMubGVzcyI7CkBpbXBvdCAiL2xpYnMvYm9vdHN0cmFwL2xlc3MvYmFkZ2VzLmxlc3MiOwpAaW1wb3QgIi9saWJzL2Jvb3RzdHJhcC9sZXNzL2p1bWJvdHJvbi5sZXNzIjsKQGltcG90ICIvbGlicy9ib290c3RyYXAvbGVzcy90aHVtYm5haWxzLmxlc3MiOwpAaW1wb3QgIi9saWJzL2Jvb3RzdHJhcC9sZXNzL2FsZXJ0cy5sZXNzIjsKQGltcG90ICIvbGlicy9ib290c3RyYXAvbGVzcy9wcm9ncmVzcy1iYXJzLmxlc3MiOwpAaW1wb3QgIi9saWJzL2Jvb3RzdHJhcC9sZXNzL21lZGlhLmxlc3MiOwpAaW1wb3QgIi9saWJzL2Jvb3RzdHJhcC9sZXNzL2xpc3QtZ3JvdXAubGVzcyI7CkBpbXBvdCAiL2xpYnMvYm9vdHN0cmFwL2xlc3MvcGFuZWxzLmxlc3MiOwpAaW1wb3QgIi9saWJzL2Jvb3RzdHJhcC9sZXNzL3Jlc3BvbnNpdmUtZW1iZWQubGVzcyI7CkBpbXBvdCAiL2xpYnMvYm9vdHN0cmFwL2xlc3Mvd2VsbHMubGVzcyI7CkBpbXBvdCAiL2xpYnMvYm9vdHN0cmFwL2xlc3MvY2xvc2UubGVzcyI7CgovLyBDb21wb25lbnRzIHcvIEphdmFTY3JpcHQKQGltcG90ICIvbGlicy9ib290c3RyYXAvbGVzcy9tb2RhbHMubGVzcyI7CkBpbXBvdCAiL2xpYnMvYm9vdHN0cmFwL2xlc3MvdG9vbHRpcC5sZXNzIjsKQGltcG90ICIvbGlicy9ib290c3RyYXAvbGVzcy9wb3BvdmVycy5sZXNzIjsKQGltcG90ICIvbGlicy9ib290c3RyYXAvbGVzcy9jYXJvdXNlbC5sZXNzIjsKCi8vIFV0aWxpdHkgY2xhc3NlcwpAaW1wb3QgIi9saWJzL2Jvb3RzdHJhcC9sZXNzL3V0aWxpdGllcy5sZXNzIjsKQGltcG90ICIvbGlicy9ib290c3RyYXAvbGVzcy9yZXNwb25zaXZlLXV0aWxpdGllcy5sZXNzIjsK</text>
       </register>
-      <register name="1" type="4">
-        <text>png</text>
+      <register name="1" type="2">
+        <text encoding="base64">Ly8gPT09PT09PT09PT09PT09PT09IOW8leWFpSBib290c3RyYXAg5qC35byPID09PT09PT09PT09PT09PT09PQo=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZmlzLm1hdGNoKCIvcmVzb3VyY2VzLygqKi5wbmcpIiwgewogICAgdXJsOiBhc3NldF9wYXRoICsgIi8kMSIsCiAgICByZWxlYXNlOiAiL3B1YmxpYyIgKyBhc3NldF9wYXRoICsgIi8kMSIKfSk7Cg==</text>
+        <text encoding="base64">Ly8gQ29yZSBDU1MKQGltcG9ydCAic2NhZmZvbGRpbmcubGVzcyI7CkBpbXBvcnQgInR5cGUubGVzcyI7CkBpbXBvcnQgImNvZGUubGVzcyI7CkBpbXBvcnQgImdyaWQubGVzcyI7CkBpbXBvcnQgInRhYmxlcy5sZXNzIjsKQGltcG9ydCAiZm9ybXMubGVzcyI7CkBpbXBvcnQgImJ1dHRvbnMubGVzcyI7CgovLyBDb21wb25lbnRzCkBpbXBvcnQgImNvbXBvbmVudC1hbmltYXRpb25zLmxlc3MiOwpAaW1wb3J0ICJkcm9wZG93bnMubGVzcyI7CkBpbXBvcnQgImJ1dHRvbi1ncm91cHMubGVzcyI7CkBpbXBvcnQgImlucHV0LWdyb3Vwcy5sZXNzIjsKQGltcG9ydCAibmF2cy5sZXNzIjsKQGltcG9ydCAibmF2YmFyLmxlc3MiOwpAaW1wb3J0ICJicmVhZGNydW1icy5sZXNzIjsKQGltcG9ydCAicGFnaW5hdGlvbi5sZXNzIjsKQGltcG9ydCAicGFnZXIubGVzcyI7CkBpbXBvcnQgImxhYmVscy5sZXNzIjsKQGltcG9ydCAiYmFkZ2VzLmxlc3MiOwpAaW1wb3J0ICJqdW1ib3Ryb24ubGVzcyI7CkBpbXBvcnQgInRodW1ibmFpbHMubGVzcyI7CkBpbXBvcnQgImFsZXJ0cy5sZXNzIjsKQGltcG9ydCAicHJvZ3Jlc3MtYmFycy5sZXNzIjsKQGltcG9ydCAibWVkaWEubGVzcyI7CkBpbXBvcnQgImxpc3QtZ3JvdXAubGVzcyI7CkBpbXBvcnQgInBhbmVscy5sZXNzIjsKQGltcG9ydCAicmVzcG9uc2l2ZS1lbWJlZC5sZXNzIjsKQGltcG9ydCAid2VsbHMubGVzcyI7CkBpbXBvcnQgImNsb3NlLmxlc3MiOwoKLy8gQ29tcG9uZW50cyB3LyBKYXZhU2NyaXB0CkBpbXBvcnQgIm1vZGFscy5sZXNzIjsKQGltcG9ydCAidG9vbHRpcC5sZXNzIjsKQGltcG9ydCAicG9wb3ZlcnMubGVzcyI7CkBpbXBvcnQgImNhcm91c2VsLmxlc3MiOwoKLy8gVXRpbGl0eSBjbGFzc2VzCkBpbXBvcnQgInV0aWxpdGllcy5sZXNzIjsKQGltcG9ydCAicmVzcG9uc2l2ZS11dGlsaXRpZXMubGVzcyI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0ZW1wID0gCg==</text>
+        <text encoding="base64">Ly8ucm93LXdyYXBwZXIgewovLyAgdHJhbnNmb3JtOiB0cmFuc2xhdGVZKC01MCUpOwovL30K</text>
       </register>
-      <register name="6" type="4">
-        <text>url</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>@input-height-base</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iL2xpYnMvYm9vdHN0cmFwL2xlc3MvYm9vdHN0cmFwLmxlc3MiPgo=</text>
       </register>
       <register name="4" type="4">
-        <text>bg</text>
+        <text>小</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>-</text>
+      <register name="9" type="2">
+        <text encoding="base64">77yM55uu5YmN5pSv5oyBMTYzLDEyNu+8jOaWsOa1qu+8jOaQnOeLkO+8jOaQnOeLl++8jFRPTe+8jHFx77yMZm94bWFpbOi/meWHoOS4qumCrueuseW5s+WPsOOAggo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="8" type="4">
+        <text>/libs/bootstrap/less/</text>
       </register>
       <register name="/" type="4">
         <text>placeholder</text>
       </register>
       <register name="-" type="4">
-        <text>png</text>
+        <text>小</text>
       </register>
     </registers>
     <search>
