@@ -132,11 +132,11 @@
         <mark key="." line="120" column="28" />
         <mark key="[" line="120" column="25" />
       </file>
-      <file name="$USER_HOME$/project/heix/passport-frontend/resources/signup/index.js" timestamp="1452844532793">
-        <mark key="]" line="4" column="25" />
-        <mark key="^" line="4" column="25" />
-        <mark key="." line="4" column="25" />
-        <mark key="[" line="4" column="22" />
+      <file name="$USER_HOME$/project/heix/passport-frontend/resources/signup/index.js" timestamp="1452847348981">
+        <mark key="]" line="113" column="95" />
+        <mark key="^" line="113" column="95" />
+        <mark key="." line="113" column="95" />
+        <mark key="[" line="111" column="13" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/config.js" timestamp="1449711795748">
         <mark key="]" line="5" column="33" />
@@ -252,12 +252,12 @@
         <mark key="." line="90" column="45" />
         <mark key="[" line="90" column="35" />
       </file>
-      <file name="$USER_HOME$/project/heix/passport-frontend/resources/signup/template.tpl" timestamp="1452824259544">
+      <file name="$USER_HOME$/project/heix/passport-frontend/resources/signup/template.tpl" timestamp="1452847173318">
         <mark key="'" line="18" column="32" />
-        <mark key="]" line="48" column="40" />
-        <mark key="^" line="48" column="40" />
-        <mark key="." line="48" column="40" />
-        <mark key="[" line="48" column="27" />
+        <mark key="]" line="27" column="155" />
+        <mark key="^" line="27" column="155" />
+        <mark key="." line="27" column="155" />
+        <mark key="[" line="27" column="134" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/font.scss" timestamp="1449712262284">
         <mark key="]" line="13" column="13" />
@@ -1055,10 +1055,11 @@
         <mark key="." line="21" column="31" />
         <mark key="[" line="20" column="28" />
       </file>
-      <file name="$USER_HOME$/project/heix/passport-frontend/resources/login/template.tpl" timestamp="1452839223575">
-        <mark key="]" line="21" column="6" />
-        <mark key="." line="0" column="0" />
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/project/heix/passport-frontend/resources/login/template.tpl" timestamp="1452847910845">
+        <mark key="]" line="24" column="79" />
+        <mark key="^" line="18" column="81" />
+        <mark key="." line="24" column="51" />
+        <mark key="[" line="24" column="51" />
       </file>
     </filemarks>
     <jumps>
@@ -1165,46 +1166,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>uitl</text>
+        <text encoding="base64">IGNsYXNzPSJ1dGlsLWN1cnNvcl9wb2ludGVyIg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PHNjcmlwdD4KICAgIHJlcXVpcmUoX191cmkoImluZGV4LmpzIikpOwo8L3NjcmlwdD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0icm93Ij4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC14cy00Ij4KICAgICAgICAgICAgICAgICAgICA8aW1nIHNyYz0iLi9pYy1sb2dpbi13ZWNoYXQucG5nIiBhbHQ9IiI+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC14cy00Ij4KICAgICAgICAgICAgICAgICAgICA8aW1nIHNyYz0iLi9pYy1sb2dpbi13ZWliby5wbmciIGFsdD0iIj4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLXhzLTQiPgogICAgICAgICAgICAgICAgICAgIDxpbWcgc3JjPSIuL2ljLWxvZ2luLXFxLnBuZyIgYWx0PSIiPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
-      <register name="2" type="4">
-        <text>uitl</text>
-      </register>
-      <register name="1" type="4">
-        <text>uitl</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9ImluZGV4LmpzIj48L3NjcmlwdD4K</text>
-      </register>
-      <register name="7" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJmb3JtLWdyb3VwIj4KICAgICAgICA8L2Rpdj4K</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">IGNsYXNzPSJ1dGlsLWN1cnNvcl9wb2ludGVyIg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">PHNwYW4+PGkgY2xhc3M9ImZhIGZhLXdlaWJvIj48L2k+PC9zcGFuPg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhciBWdWUgPSByZXF1aXJlKCJWdWUiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC14cy00Ij48L2Rpdj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC14cy00Ij48L2Rpdj4K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>weibo</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">PHNjcmlwdD4KICAgIHJlcXVpcmUoX191cmkoImluZGV4LmpzIikpOwo8L3NjcmlwdD4K</text>
+      <register name="4" type="4">
+        <text>weibo</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>require</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHRhYmxlIGNsYXNzPSJ0YWJsZSI+CiAgICAgICAgICAgICAgICA8dHI+CiAgICAgICAgICAgICAgICAgICAgPHRkPjwvdGQ+CiAgICAgICAgICAgICAgICA8L3RyPgogICAgICAgICAgICA8L3RhYmxlPg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmaW5lKGZ1bmN0aW9uKHJlcXVpcmUpewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="/" type="4">
         <text>placeholder</text>
       </register>
       <register name="-" type="4">
-        <text>uitl</text>
+        <text>weibo</text>
       </register>
     </registers>
     <search>
@@ -1240,7 +1241,6 @@
         <entry>placeholder</entry>
       </history-search>
       <history-cmd>
-        <entry>49,54 s/searchQuery.//</entry>
         <entry>50,56 s/cover_id/banner_id/g</entry>
         <entry>s/title/abstract/g</entry>
         <entry>59,73 s/newDetail/detail/g</entry>
@@ -1259,6 +1259,7 @@
         <entry>wq</entry>
         <entry>e</entry>
         <entry>ws</entry>
+        <entry>127</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
