@@ -40,13 +40,6 @@
         <mark key="." line="28" column="114" />
         <mark key="[" line="28" column="115" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/config/config.router.js" timestamp="1450670402798">
-        <mark key="'" line="340" column="46" />
-        <mark key="]" line="409" column="61" />
-        <mark key="^" line="409" column="61" />
-        <mark key="." line="409" column="61" />
-        <mark key="[" line="409" column="59" />
-      </file>
       <file name="$USER_HOME$/project/heix/passport-frontend/libs/bootstrap/less/mixins/background-variant.less" timestamp="1452682415886">
         <mark key="]" line="3" column="37" />
         <mark key="^" line="3" column="37" />
@@ -454,25 +447,11 @@
         <mark key="." line="9" column="35" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.detail.tpl" timestamp="1450681009565">
-        <mark key="'" line="17" column="79" />
-        <mark key="]" line="17" column="79" />
-        <mark key="^" line="17" column="79" />
-        <mark key="." line="17" column="79" />
-        <mark key="[" line="17" column="64" />
-      </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/background.scss" timestamp="1449474667050">
         <mark key="]" line="7" column="42" />
         <mark key="^" line="7" column="2" />
         <mark key="." line="7" column="42" />
         <mark key="[" line="7" column="41" />
-      </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/module/module.detail.tpl" timestamp="1450684892648">
-        <mark key="'" line="30" column="54" />
-        <mark key="]" line="4" column="120" />
-        <mark key="^" line="4" column="120" />
-        <mark key="." line="4" column="120" />
-        <mark key="[" line="4" column="93" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/file-upload/file-upload.js" timestamp="1450259135864">
         <mark key="]" line="3" column="26" />
@@ -666,13 +645,6 @@
         <mark key="." line="8" column="33" />
         <mark key="[" line="8" column="31" />
       </file>
-      <file name="$USER_HOME$/project/heix/passport-frontend/libs/style-utils/utils.scss" timestamp="1452744364559">
-        <mark key="'" line="42" column="6" />
-        <mark key="]" line="7" column="16" />
-        <mark key="^" line="42" column="12" />
-        <mark key="." line="7" column="16" />
-        <mark key="[" line="7" column="16" />
-      </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/module/module.detail.tpl" timestamp="1452482930867">
         <mark key="]" line="10" column="52" />
         <mark key="^" line="10" column="52" />
@@ -722,13 +694,6 @@
         <mark key="." line="6" column="17" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.list.tpl" timestamp="1450433517347">
-        <mark key="'" line="72" column="85" />
-        <mark key="]" line="10" column="14" />
-        <mark key="^" line="9" column="51" />
-        <mark key="." line="9" column="51" />
-        <mark key="[" line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/user/user.notification.tpl" timestamp="1450250073493">
         <mark key="]" line="9" column="115" />
         <mark key="^" line="9" column="115" />
@@ -775,13 +740,6 @@
         <mark key="^" line="23" column="40" />
         <mark key="." line="23" column="40" />
         <mark key="[" line="23" column="28" />
-      </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/tag/tag.js" timestamp="1452480562408">
-        <mark key="'" line="86" column="17" />
-        <mark key="]" line="20" column="12" />
-        <mark key="^" line="37" column="8" />
-        <mark key="." line="20" column="12" />
-        <mark key="[" line="20" column="12" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/author/author.detail.tpl" timestamp="1452133070278">
         <mark key="]" line="47" column="5" />
@@ -1018,7 +976,7 @@
         <mark key="." line="122" column="18" />
         <mark key="[" line="122" column="15" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/article.detail.js" timestamp="1452564751765">
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/article.detail.js" timestamp="1452827100234">
         <mark key="'" line="101" column="22" />
         <mark key="]" line="66" column="11" />
         <mark key="^" line="66" column="11" />
