@@ -88,12 +88,12 @@
         <mark key="." line="3" column="72" />
         <mark key="[" line="3" column="59" />
       </file>
-      <file name="$USER_HOME$/project/heix/passport-frontend/resources/login/index.js" timestamp="1452854321587">
+      <file name="$USER_HOME$/project/heix/passport-frontend/resources/login/index.js" timestamp="1452855423205">
         <mark key="'" line="8" column="28" />
-        <mark key="]" line="74" column="55" />
-        <mark key="^" line="74" column="72" />
-        <mark key="." line="74" column="55" />
-        <mark key="[" line="74" column="55" />
+        <mark key="]" line="81" column="30" />
+        <mark key="^" line="81" column="30" />
+        <mark key="." line="81" column="30" />
+        <mark key="[" line="81" column="10" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/label/label-default.html" timestamp="1449545544823">
         <mark key="]" line="2" column="16" />
@@ -294,11 +294,11 @@
         <mark key="." line="34" column="81" />
         <mark key="[" line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/project/heix/passport-frontend/resources/style.scss" timestamp="1452835668683">
-        <mark key="]" line="4" column="5" />
-        <mark key="^" line="4" column="5" />
-        <mark key="." line="4" column="5" />
-        <mark key="[" line="4" column="5" />
+      <file name="$USER_HOME$/project/heix/passport-frontend/resources/style.scss" timestamp="1452855308579">
+        <mark key="]" line="60" column="15" />
+        <mark key="^" line="60" column="15" />
+        <mark key="." line="60" column="15" />
+        <mark key="[" line="59" column="14" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/label/label-primary.html" timestamp="1449541357036">
         <mark key="]" line="1" column="16" />
@@ -741,11 +741,11 @@
         <mark key="." line="4" column="25" />
         <mark key="[" line="4" column="22" />
       </file>
-      <file name="$USER_HOME$/project/heix/passport-frontend/resources/login/login.blade.php" timestamp="1452851026799">
-        <mark key="]" line="9" column="29" />
-        <mark key="^" line="9" column="29" />
-        <mark key="." line="9" column="29" />
-        <mark key="[" line="8" column="0" />
+      <file name="$USER_HOME$/project/heix/passport-frontend/resources/login/login.blade.php" timestamp="1452855361376">
+        <mark key="]" line="9" column="42" />
+        <mark key="^" line="9" column="42" />
+        <mark key="." line="9" column="42" />
+        <mark key="[" line="9" column="29" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/author/author.detail.tpl" timestamp="1452133070278">
         <mark key="]" line="47" column="5" />
@@ -1126,46 +1126,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>SECRET</text>
+        <text>event.target</text>
       </register>
       <register name="3" type="4">
-        <text>,</text>
+        <text>20px</text>
       </register>
-      <register name="2" type="4">
-        <text>+&quot;?provider=wechat&quot;</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBhbGVydCgi5pWs6K+35pyf5b6F77yBIik7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>SECRET</text>
+        <text>event.target</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICQoZG9jdW1lbnQpLm9uKCJjbGljayIsICIjcXEtbG9naW4tYnRuIiwgZnVuY3Rpb24oZXZlbnQpewogICAgICAgIFFDLkxvZ2luLnNob3dQb3B1cChvcHRpb25zKTsKICAgIH0pOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBRQy5Mb2dpbi5zaG93UG9wdXAob3B0aW9ucyk7Cg==</text>
+      <register name="7" type="4">
+        <text>,</text>
       </register>
       <register name="6" type="4">
-        <text>'wechatSDK',</text>
+        <text>+&quot;?provider=wechat&quot;</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>SECRET</text>
       </register>
       <register name="4" type="4">
-        <text>_</text>
+        <text>20px</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>qq</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>placeholder</text>
       </register>
       <register name="-" type="4">
-        <text>SECRET</text>
+        <text>event.target</text>
       </register>
     </registers>
     <search>
