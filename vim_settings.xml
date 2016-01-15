@@ -95,12 +95,12 @@
         <mark key="." line="3" column="72" />
         <mark key="[" line="3" column="59" />
       </file>
-      <file name="$USER_HOME$/project/heix/passport-frontend/resources/login/index.js" timestamp="1452844282328">
+      <file name="$USER_HOME$/project/heix/passport-frontend/resources/login/index.js" timestamp="1452849346855">
         <mark key="'" line="8" column="28" />
-        <mark key="]" line="26" column="28" />
-        <mark key="^" line="26" column="28" />
-        <mark key="." line="26" column="28" />
-        <mark key="[" line="26" column="24" />
+        <mark key="]" line="55" column="31" />
+        <mark key="^" line="55" column="31" />
+        <mark key="." line="55" column="31" />
+        <mark key="[" line="55" column="17" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/label/label-default.html" timestamp="1449545544823">
         <mark key="]" line="2" column="16" />
@@ -368,11 +368,11 @@
         <mark key="." line="19" column="56" />
         <mark key="[" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/project/heix/passport-frontend/resources/layout.blade.php" timestamp="1452844324818">
-        <mark key="]" line="55" column="27" />
-        <mark key="^" line="55" column="27" />
-        <mark key="." line="55" column="27" />
-        <mark key="[" line="54" column="29" />
+      <file name="$USER_HOME$/project/heix/passport-frontend/resources/layout.blade.php" timestamp="1452849493055">
+        <mark key="]" line="53" column="103" />
+        <mark key="^" line="53" column="113" />
+        <mark key="." line="53" column="103" />
+        <mark key="[" line="53" column="103" />
       </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/app/Http/routes.php" timestamp="1450066115914">
         <mark key="]" line="136" column="44" />
@@ -1055,11 +1055,11 @@
         <mark key="." line="21" column="31" />
         <mark key="[" line="20" column="28" />
       </file>
-      <file name="$USER_HOME$/project/heix/passport-frontend/resources/login/template.tpl" timestamp="1452847910845">
-        <mark key="]" line="24" column="79" />
-        <mark key="^" line="18" column="81" />
-        <mark key="." line="24" column="51" />
-        <mark key="[" line="24" column="51" />
+      <file name="$USER_HOME$/project/heix/passport-frontend/resources/login/template.tpl" timestamp="1452848942391">
+        <mark key="]" line="24" column="95" />
+        <mark key="^" line="24" column="95" />
+        <mark key="." line="24" column="95" />
+        <mark key="[" line="21" column="83" />
       </file>
     </filemarks>
     <jumps>
@@ -1166,46 +1166,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGNsYXNzPSJ1dGlsLWN1cnNvcl9wb2ludGVyIg==</text>
+        <text encoding="base64">JmRlYnVnPXRydWU=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0icm93Ij4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC14cy00Ij4KICAgICAgICAgICAgICAgICAgICA8aW1nIHNyYz0iLi9pYy1sb2dpbi13ZWNoYXQucG5nIiBhbHQ9IiI+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC14cy00Ij4KICAgICAgICAgICAgICAgICAgICA8aW1nIHNyYz0iLi9pYy1sb2dpbi13ZWliby5wbmciIGFsdD0iIj4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLXhzLTQiPgogICAgICAgICAgICAgICAgICAgIDxpbWcgc3JjPSIuL2ljLWxvZ2luLXFxLnBuZyIgYWx0PSIiPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2Pgo=</text>
+      <register name="3" type="4">
+        <text>YOUR</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>wb_connect_btn</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJmb3JtLWdyb3VwIj4KICAgICAgICA8L2Rpdj4K</text>
+      <register name="1" type="4">
+        <text encoding="base64">JmRlYnVnPXRydWU=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IGNsYXNzPSJ1dGlsLWN1cnNvcl9wb2ludGVyIg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">PHNwYW4+PGkgY2xhc3M9ImZhIGZhLXdlaWJvIj48L2k+PC9zcGFuPg==</text>
+        <text>weibo</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC14cy00Ij48L2Rpdj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC14cy00Ij48L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0icm93Ij4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC14cy00Ij4KICAgICAgICAgICAgICAgICAgICA8aW1nIHNyYz0iLi9pYy1sb2dpbi13ZWNoYXQucG5nIiBhbHQ9IiI+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC14cy00Ij4KICAgICAgICAgICAgICAgICAgICA8aW1nIHNyYz0iLi9pYy1sb2dpbi13ZWliby5wbmciIGFsdD0iIj4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLXhzLTQiPgogICAgICAgICAgICAgICAgICAgIDxpbWcgc3JjPSIuL2ljLWxvZ2luLXFxLnBuZyIgYWx0PSIiPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
-      <register name="5" type="4">
-        <text>weibo</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>weibo</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJmb3JtLWdyb3VwIj4KICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgPHRhYmxlIGNsYXNzPSJ0YWJsZSI+CiAgICAgICAgICAgICAgICA8dHI+CiAgICAgICAgICAgICAgICAgICAgPHRkPjwvdGQ+CiAgICAgICAgICAgICAgICA8L3RyPgogICAgICAgICAgICA8L3RhYmxlPg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC14cy00Ij48L2Rpdj4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC14cy00Ij48L2Rpdj4K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>weibo</text>
       </register>
       <register name="/" type="4">
         <text>placeholder</text>
       </register>
       <register name="-" type="4">
-        <text>weibo</text>
+        <text encoding="base64">JmRlYnVnPXRydWU=</text>
       </register>
     </registers>
     <search>
