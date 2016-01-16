@@ -951,10 +951,10 @@
         <mark key="." line="13" column="23" />
         <mark key="[" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/project/heix/passport-frontend/libs/utils/util.js" timestamp="1452916121116">
-        <mark key="]" line="36" column="35" />
-        <mark key="^" line="36" column="35" />
-        <mark key="." line="36" column="35" />
+      <file name="$USER_HOME$/project/heix/passport-frontend/libs/utils/util.js" timestamp="1452917333619">
+        <mark key="]" line="36" column="24" />
+        <mark key="^" line="36" column="24" />
+        <mark key="." line="36" column="24" />
         <mark key="[" line="35" column="9" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/user/user.list.js" timestamp="1450237301831">
@@ -1124,41 +1124,41 @@
       <jump line="89" column="20" filename="$USER_HOME$/project/heix/passport-frontend/resources/login/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICsgIiZnb0JhY2s9IiArIHV0aWwuZ29CYWNrVXJsKCk=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhuZXdVcmwpOwo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="2" type="4">
         <text encoding="base64">ICsgIiZnb0JhY2s9IiArIHV0aWwuZ29CYWNrVXJsKCk=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LmJnLWRhbmdlciB7CiAgLmJnLXZhcmlhbnQoQHN0YXRlLWRhbmdlci1iZyk7Cn0K</text>
       </register>
       <register name="7" type="4">
-        <text>@state-danger-bg</text>
-      </register>
-      <register name="6" type="4">
         <text>primary</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">KyImcmVkaXJlY3RfdXJpPSIrdXRpbC5nb0JhY2tVcmwoKQ==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">KyAiJmNvZGU9IiArIG9SZXN1bHQuY29kZSArICImc3RhdGU9IiArIG9SZXN1bHQuc3RhdGU=</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>white</text>
+        <text>danger</text>
       </register>
       <register name="8" type="4">
-        <text>danger</text>
+        <text>@state-danger-bg</text>
       </register>
       <register name="/" type="4">
         <text>WECHAT</text>
