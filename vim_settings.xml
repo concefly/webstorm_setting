@@ -88,10 +88,10 @@
         <mark key="." line="3" column="72" />
         <mark key="[" line="3" column="59" />
       </file>
-      <file name="$USER_HOME$/project/heix/passport-frontend/resources/login/index.js" timestamp="1452915155362">
+      <file name="$USER_HOME$/project/heix/passport-frontend/resources/login/index.js" timestamp="1452916689188">
         <mark key="'" line="89" column="20" />
         <mark key="]" line="87" column="55" />
-        <mark key="^" line="89" column="20" />
+        <mark key="^" line="87" column="86" />
         <mark key="." line="87" column="55" />
         <mark key="[" line="87" column="55" />
       </file>
@@ -951,11 +951,11 @@
         <mark key="." line="13" column="23" />
         <mark key="[" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/project/heix/passport-frontend/libs/utils/util.js" timestamp="1452911249874">
-        <mark key="]" line="81" column="28" />
-        <mark key="^" line="81" column="28" />
-        <mark key="." line="81" column="28" />
-        <mark key="[" line="80" column="27" />
+      <file name="$USER_HOME$/project/heix/passport-frontend/libs/utils/util.js" timestamp="1452916121116">
+        <mark key="]" line="36" column="35" />
+        <mark key="^" line="36" column="35" />
+        <mark key="." line="36" column="35" />
+        <mark key="[" line="35" column="9" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/user/user.list.js" timestamp="1450237301831">
         <mark key="]" line="51" column="26" />
@@ -1125,46 +1125,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">KyImcmVkaXJlY3RfdXJpPSIrdXRpbC5nb0JhY2tVcmwoKQ==</text>
+        <text encoding="base64">ICsgIiZnb0JhY2s9IiArIHV0aWwuZ29CYWNrVXJsKCk=</text>
       </register>
       <register name="3" type="4">
-        <text>@state-danger-bg</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="2" type="4">
-        <text>primary</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhuZXdVcmwpOwo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">KyImcmVkaXJlY3RfdXJpPSIrdXRpbC5nb0JhY2tVcmwoKQ==</text>
+        <text encoding="base64">ICsgIiZnb0JhY2s9IiArIHV0aWwuZ29CYWNrVXJsKCk=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LmJnLWRhbmdlciB7CiAgLmJnLXZhcmlhbnQoQHN0YXRlLWRhbmdlci1iZyk7Cn0K</text>
       </register>
       <register name="7" type="4">
-        <text>stop</text>
+        <text>@state-danger-bg</text>
       </register>
       <register name="6" type="4">
-        <text>preventBubble();</text>
+        <text>primary</text>
       </register>
       <register name="5" type="4">
-        <text>white</text>
+        <text encoding="base64">KyImcmVkaXJlY3RfdXJpPSIrdXRpbC5nb0JhY2tVcmwoKQ==</text>
       </register>
       <register name="4" type="4">
-        <text>danger</text>
+        <text encoding="base64">KyAiJmNvZGU9IiArIG9SZXN1bHQuY29kZSArICImc3RhdGU9IiArIG9SZXN1bHQuc3RhdGU=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICQoZG9jdW1lbnQpLm9uKCJjbGljayIsICI6bm90KCN3ZWNoYXQtbG9naW4tYnRuKSIsIGZ1bmN0aW9uKGV2ZW50KXsKICAgICAgICAkKCIjd2VjaGF0LWxvZ2luLXFyY29kZSIpLmFkZENsYXNzKCJoaWRkZW4iKTsKICAgIH0pOwo=</text>
+      <register name="9" type="4">
+        <text>white</text>
       </register>
       <register name="8" type="4">
-        <text>btn</text>
+        <text>danger</text>
       </register>
       <register name="/" type="4">
         <text>WECHAT</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KyImcmVkaXJlY3RfdXJpPSIrdXRpbC5nb0JhY2tVcmwoKQ==</text>
+        <text encoding="base64">ICsgIiZnb0JhY2s9IiArIHV0aWwuZ29CYWNrVXJsKCk=</text>
       </register>
     </registers>
     <search>
