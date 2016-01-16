@@ -88,12 +88,12 @@
         <mark key="." line="3" column="72" />
         <mark key="[" line="3" column="59" />
       </file>
-      <file name="$USER_HOME$/project/heix/passport-frontend/resources/login/index.js" timestamp="1452913027625">
-        <mark key="'" line="8" column="28" />
-        <mark key="]" line="87" column="70" />
-        <mark key="^" line="87" column="70" />
-        <mark key="." line="87" column="70" />
-        <mark key="[" line="87" column="56" />
+      <file name="$USER_HOME$/project/heix/passport-frontend/resources/login/index.js" timestamp="1452915155362">
+        <mark key="'" line="89" column="20" />
+        <mark key="]" line="87" column="55" />
+        <mark key="^" line="89" column="20" />
+        <mark key="." line="87" column="55" />
+        <mark key="[" line="87" column="55" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/label/label-default.html" timestamp="1449545544823">
         <mark key="]" line="2" column="16" />
@@ -119,11 +119,11 @@
         <mark key="." line="6" column="16" />
         <mark key="[" line="5" column="17" />
       </file>
-      <file name="$USER_HOME$/project/heix/passport-frontend/libs/bootstrap/less/type.less" timestamp="1452680009317">
-        <mark key="]" line="120" column="28" />
-        <mark key="^" line="120" column="28" />
-        <mark key="." line="120" column="28" />
-        <mark key="[" line="120" column="25" />
+      <file name="$USER_HOME$/project/heix/passport-frontend/libs/bootstrap/less/type.less" timestamp="1452914816058">
+        <mark key="]" line="146" column="17" />
+        <mark key="^" line="146" column="17" />
+        <mark key="." line="146" column="17" />
+        <mark key="[" line="146" column="14" />
       </file>
       <file name="$USER_HOME$/project/heix/passport-frontend/resources/signup/index.js" timestamp="1452847348981">
         <mark key="]" line="113" column="95" />
@@ -741,11 +741,11 @@
         <mark key="." line="4" column="25" />
         <mark key="[" line="4" column="22" />
       </file>
-      <file name="$USER_HOME$/project/heix/passport-frontend/resources/login/login.blade.php" timestamp="1452855361376">
-        <mark key="]" line="9" column="42" />
-        <mark key="^" line="9" column="42" />
-        <mark key="." line="9" column="42" />
-        <mark key="[" line="9" column="29" />
+      <file name="$USER_HOME$/project/heix/passport-frontend/resources/login/login.blade.php" timestamp="1452914832769">
+        <mark key="]" line="9" column="44" />
+        <mark key="^" line="9" column="44" />
+        <mark key="." line="9" column="44" />
+        <mark key="[" line="9" column="40" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/author/author.detail.tpl" timestamp="1452133070278">
         <mark key="]" line="47" column="5" />
@@ -1008,7 +1008,6 @@
         <mark key="." line="2" column="98" />
         <mark key="[" line="2" column="80" />
       </file>
-      <file name="$USER_HOME$/project/heix/passport-frontend/libs/bootstrap/less/bootstrap-custom.less" timestamp="1452825812082" />
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/related-article/related-article.js" timestamp="1450666800634">
         <mark key="]" line="21" column="31" />
         <mark key="^" line="21" column="31" />
@@ -1023,7 +1022,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="8" filename="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/user/user.detail.js" />
       <jump line="74" column="32" filename="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.list.tpl" />
       <jump line="86" column="28" filename="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.list.tpl" />
       <jump line="72" column="85" filename="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.list.tpl" />
@@ -1123,49 +1121,50 @@
       <jump line="87" column="45" filename="$USER_HOME$/project/heix/passport-frontend/resources/layout.blade.php" />
       <jump line="81" column="15" filename="$USER_HOME$/project/heix/passport-frontend/resources/layout.blade.php" />
       <jump line="82" column="8" filename="$USER_HOME$/project/heix/passport-frontend/resources/layout.blade.php" />
+      <jump line="89" column="20" filename="$USER_HOME$/project/heix/passport-frontend/resources/login/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text encoding="base64">KyImcmVkaXJlY3RfdXJpPSIrdXRpbC5nb0JhY2tVcmwoKQ==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIFdCMi5hbnlXaGVyZShmdW5jdGlvbihXKSB7CiAgICAgICAgVy5wYXJzZUNNRCgiL29hdXRoMi9hdXRob3JpemUiLCBmdW5jdGlvbihvUmVzdWx0LCBiU3RhdHVzKXsKICAgICAgICAgICAgaWYoYlN0YXR1cykgewogICAgICAgICAgICAgICAgY29uc29sZS5sb2coIm9SZXN1bHQiLG9SZXN1bHQpOwogICAgICAgICAgICAgICAgd2luZG93LmxvY2F0aW9uLmhyZWYgPSB3aW5kb3cuY29uZmlnLndlaWJvLnJlZGlyZWN0X3VyaSArICImY29kZT0iICsgb1Jlc3VsdC5jb2RlICsgIiZzdGF0ZT0iICsgb1Jlc3VsdC5zdGF0ZSArICImcmVkaXJlY3RfdXJpPSIgKyB1dGlsLmdvQmFja1VybCgpOwogICAgICAgICAgICB9CiAgICAgICAgfSwgewogICAgICAgICAgICBjbGllbnRfaWQ6IHdpbmRvdy5jb25maWcud2VpYm8uYXBwaWQsCiAgICAgICAgICAgIHJlZGlyZWN0X3VyaTogd2luZG93LmNvbmZpZy53ZWliby5yZWRpcmVjdF91cmksCiAgICAgICAgICAgIHNjb3BlOiB3aW5kb3cuY29uZmlnLndlaWJvLnNjb3BlIHx8ICJhbGwiLAogICAgICAgICAgICBzdGF0ZTogImRlZmF1bHQiCiAgICAgICAgfSkKICAgIH0pOwo=</text>
+      <register name="3" type="4">
+        <text>@state-danger-bg</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygid2VpYm8gbG9naW4iLCBhcmd1bWVudHMpOwo=</text>
+      <register name="2" type="4">
+        <text>primary</text>
       </register>
       <register name="1" type="4">
-        <text>,</text>
+        <text encoding="base64">KyImcmVkaXJlY3RfdXJpPSIrdXRpbC5nb0JhY2tVcmwoKQ==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgdXJsID0gd2luZG93LmNvbmZpZy5yZWRpcmVjdEhvc3Q7CiAgICAgICAgdmFyIHRlbXAgPSAiIjsKICAgICAgICB2YXIgbmV3VXJsID0gIiI7CiAgICAgICAgLy8g5LyY5YWI57qnIHF1ZXJ5ID4gY29va2llCiAgICAgICAgdGVtcCA9ICQuY29va2llKHdpbmRvdy5jb25maWcucmVkaXJlY3ROYW1lKTsKICAgICAgICBpZih0ZW1wKSB7CiAgICAgICAgICAgIHVybCA9IHRlbXA7CiAgICAgICAgfQogICAgICAgIHRlbXAgPSAkLnF1ZXJ5LmdldCh3aW5kb3cuY29uZmlnLnJlZGlyZWN0TmFtZSk7CiAgICAgICAgaWYodGVtcCkgewogICAgICAgICAgICB1cmwgPSB0ZW1wOwogICAgICAgIH0K</text>
+        <text encoding="base64">LmJnLWRhbmdlciB7CiAgLmJnLXZhcmlhbnQoQHN0YXRlLWRhbmdlci1iZyk7Cn0K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgdXJsID0gd2luZG93LmNvbmZpZy5yZWRpcmVjdEhvc3Q7CiAgICAgICAgdmFyIHRlbXAgPSAiIjsKICAgICAgICB2YXIgbmV3VXJsID0gIiI7CiAgICAgICAgLy8g5LyY5YWI57qnIHF1ZXJ5ID4gY29va2llCiAgICAgICAgdGVtcCA9ICQuY29va2llKHdpbmRvdy5jb25maWcucmVkaXJlY3ROYW1lKTsKICAgICAgICBpZih0ZW1wKSB7CiAgICAgICAgICAgIHVybCA9IHRlbXA7CiAgICAgICAgfQogICAgICAgIHRlbXAgPSAkLnF1ZXJ5LmdldCh3aW5kb3cuY29uZmlnLnJlZGlyZWN0TmFtZSk7CiAgICAgICAgaWYodGVtcCkgewogICAgICAgICAgICB1cmwgPSB0ZW1wOwogICAgICAgIH0KICAgICAgICAvLwo=</text>
+      <register name="7" type="4">
+        <text>stop</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>preventBubble();</text>
       </register>
       <register name="5" type="4">
-        <text>conifg</text>
+        <text>white</text>
       </register>
       <register name="4" type="4">
-        <text>conifg</text>
+        <text>danger</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKG9SZXN1bHQpOwo=</text>
+        <text encoding="base64">ICAgICQoZG9jdW1lbnQpLm9uKCJjbGljayIsICI6bm90KCN3ZWNoYXQtbG9naW4tYnRuKSIsIGZ1bmN0aW9uKGV2ZW50KXsKICAgICAgICAkKCIjd2VjaGF0LWxvZ2luLXFyY29kZSIpLmFkZENsYXNzKCJoaWRkZW4iKTsKICAgIH0pOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>btn</text>
       </register>
       <register name="/" type="4">
         <text>WECHAT</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">KyImcmVkaXJlY3RfdXJpPSIrdXRpbC5nb0JhY2tVcmwoKQ==</text>
       </register>
     </registers>
     <search>
