@@ -245,12 +245,12 @@
         <mark key="." line="90" column="45" />
         <mark key="[" line="90" column="35" />
       </file>
-      <file name="$USER_HOME$/project/heix/passport-frontend/resources/signup/template.tpl" timestamp="1452847173318">
+      <file name="$USER_HOME$/project/heix/passport-frontend/resources/signup/template.tpl" timestamp="1452927971245">
         <mark key="'" line="18" column="32" />
-        <mark key="]" line="27" column="155" />
-        <mark key="^" line="27" column="155" />
-        <mark key="." line="27" column="155" />
-        <mark key="[" line="27" column="134" />
+        <mark key="]" line="40" column="93" />
+        <mark key="^" line="40" column="93" />
+        <mark key="." line="40" column="93" />
+        <mark key="[" line="40" column="93" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/font.scss" timestamp="1449712262284">
         <mark key="]" line="13" column="13" />
@@ -1123,17 +1123,17 @@
       <jump line="89" column="20" filename="$USER_HOME$/project/heix/passport-frontend/resources/login/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh1cmwpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHN0eWxlPSJ3aWR0aDogMTQ1cHgiIA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>options</text>
       </register>
-      <register name="1" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh1cmwpOwo=</text>
+      </register>
+      <register name="1" type="4">
+        <text encoding="base64">IHN0eWxlPSJ3aWR0aDogMTQ1cHgiIA==</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">d2luZG93LmNvbmZpZy53ZWNoYXQucmVkaXJlY3RfdXJpICsgIiZzaGl0X3dlY2hhdD0iICsgdXRpbC5nb0JhY2tVcmwoKSw=</text>
@@ -1142,28 +1142,28 @@
         <text>goBack</text>
       </register>
       <register name="6" type="4">
-        <text>goBack</text>
-      </register>
-      <register name="5" type="4">
         <text encoding="base64">d2luZG93LmNvbmZpZy53ZWNoYXQucmVkaXJlY3RfdXJpICsgIiZzaGl0X3dlY2hhdD0iICsgdXRpbC5nb0JhY2tVcmwoKSw=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIChmdW5jdGlvbihhLCBiKSB7CiAgICAgICAgZnVuY3Rpb24gZChhKSB7CiAgICAgICAgICAgIHBhcmVudCA9IHt9OwogICAgICAgICAgICB2YXIgZSwgYyA9IGIuY3JlYXRlRWxlbWVudCgiaWZyYW1lIiksCiAgICAgICAgICAgICAgICBkID0gImh0dHBzOi8vb3Blbi53ZWl4aW4ucXEuY29tL2Nvbm5lY3QvcXJjb25uZWN0P2FwcGlkPSIgKyBhLmFwcGlkICsgIiZzY29wZT0iICsgYS5zY29wZSArICImcmVkaXJlY3RfdXJpPSIgKyBhLnJlZGlyZWN0X3VyaSArICImc3RhdGU9IiArIGEuc3RhdGUgKyAiJmxvZ2luX3R5cGU9anNzZGsiOwogICAgICAgICAgICBkICs9IGEuc3R5bGUgPyAiJnN0eWxlPSIgKyBhLnN0eWxlOiAiIiwKICAgICAgICAgICAgICAgIGQgKz0gYS5ocmVmID8gIiZocmVmPSIgKyBhLmhyZWY6ICIiLAogICAgICAgICAgICAgICAgYy5zcmMgPSBkLAogICAgICAgICAgICAgICAgYy5mcmFtZUJvcmRlciA9ICIwIiwKICAgICAgICAgICAgICAgIGMuYWxsb3dUcmFuc3BhcmVuY3kgPSAidHJ1ZSIsCiAgICAgICAgICAgICAgICBjLnNjcm9sbGluZyA9ICJubyIsCiAgICAgICAgICAgICAgICBjLndpZHRoID0gIjMwMHB4IiwKICAgICAgICAgICAgICAgIGMuaGVpZ2h0ID0gIjQwMHB4IiwKICAgICAgICAgICAgICAgIGUgPSBiLmdldEVsZW1lbnRCeUlkKGEuaWQpLAogICAgICAgICAgICAgICAgZS5pbm5lckhUTUwgPSAiIiwKICAgICAgICAgICAgICAgIGUuYXBwZW5kQ2hpbGQoYykKICAgICAgICB9CiAgICAgICAgYS5XeExvZ2luVjIgPSBkCiAgICB9KSh3aW5kb3csIGRvY3VtZW50KTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>V</text>
+        <text>2</text>
       </register>
       <register name="8" type="4">
-        <text>2</text>
+        <text>goBack</text>
       </register>
       <register name="/" type="4">
         <text>WECHAT</text>
       </register>
       <register name="-" type="4">
-        <text>options</text>
+        <text encoding="base64">IHN0eWxlPSJ3aWR0aDogMTQ1cHgiIA==</text>
       </register>
     </registers>
     <search>
