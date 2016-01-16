@@ -88,11 +88,12 @@
         <mark key="." line="3" column="72" />
         <mark key="[" line="3" column="59" />
       </file>
-      <file name="$USER_HOME$/project/heix/passport-frontend/resources/login/index.js" timestamp="1452911377280">
+      <file name="$USER_HOME$/project/heix/passport-frontend/resources/login/index.js" timestamp="1452913027625">
         <mark key="'" line="8" column="28" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-        <mark key="[" line="54" column="0" />
+        <mark key="]" line="87" column="70" />
+        <mark key="^" line="87" column="70" />
+        <mark key="." line="87" column="70" />
+        <mark key="[" line="87" column="56" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/label/label-default.html" timestamp="1449545544823">
         <mark key="]" line="2" column="16" />
@@ -1124,29 +1125,29 @@
       <jump line="82" column="8" filename="$USER_HOME$/project/heix/passport-frontend/resources/layout.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygid2VpYm8gbG9naW4iLCBhcmd1bWVudHMpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
-      <register name="3" type="4">
-        <text>conifg</text>
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIFdCMi5hbnlXaGVyZShmdW5jdGlvbihXKSB7CiAgICAgICAgVy5wYXJzZUNNRCgiL29hdXRoMi9hdXRob3JpemUiLCBmdW5jdGlvbihvUmVzdWx0LCBiU3RhdHVzKXsKICAgICAgICAgICAgaWYoYlN0YXR1cykgewogICAgICAgICAgICAgICAgY29uc29sZS5sb2coIm9SZXN1bHQiLG9SZXN1bHQpOwogICAgICAgICAgICAgICAgd2luZG93LmxvY2F0aW9uLmhyZWYgPSB3aW5kb3cuY29uZmlnLndlaWJvLnJlZGlyZWN0X3VyaSArICImY29kZT0iICsgb1Jlc3VsdC5jb2RlICsgIiZzdGF0ZT0iICsgb1Jlc3VsdC5zdGF0ZSArICImcmVkaXJlY3RfdXJpPSIgKyB1dGlsLmdvQmFja1VybCgpOwogICAgICAgICAgICB9CiAgICAgICAgfSwgewogICAgICAgICAgICBjbGllbnRfaWQ6IHdpbmRvdy5jb25maWcud2VpYm8uYXBwaWQsCiAgICAgICAgICAgIHJlZGlyZWN0X3VyaTogd2luZG93LmNvbmZpZy53ZWliby5yZWRpcmVjdF91cmksCiAgICAgICAgICAgIHNjb3BlOiB3aW5kb3cuY29uZmlnLndlaWJvLnNjb3BlIHx8ICJhbGwiLAogICAgICAgICAgICBzdGF0ZTogImRlZmF1bHQiCiAgICAgICAgfSkKICAgIH0pOwo=</text>
       </register>
-      <register name="1" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygid2VpYm8gbG9naW4iLCBhcmd1bWVudHMpOwo=</text>
+      </register>
+      <register name="1" type="4">
+        <text>,</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB2YXIgdXJsID0gd2luZG93LmNvbmZpZy5yZWRpcmVjdEhvc3Q7CiAgICAgICAgdmFyIHRlbXAgPSAiIjsKICAgICAgICB2YXIgbmV3VXJsID0gIiI7CiAgICAgICAgLy8g5LyY5YWI57qnIHF1ZXJ5ID4gY29va2llCiAgICAgICAgdGVtcCA9ICQuY29va2llKHdpbmRvdy5jb25maWcucmVkaXJlY3ROYW1lKTsKICAgICAgICBpZih0ZW1wKSB7CiAgICAgICAgICAgIHVybCA9IHRlbXA7CiAgICAgICAgfQogICAgICAgIHRlbXAgPSAkLnF1ZXJ5LmdldCh3aW5kb3cuY29uZmlnLnJlZGlyZWN0TmFtZSk7CiAgICAgICAgaWYodGVtcCkgewogICAgICAgICAgICB1cmwgPSB0ZW1wOwogICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB2YXIgdXJsID0gd2luZG93LmNvbmZpZy5yZWRpcmVjdEhvc3Q7CiAgICAgICAgdmFyIHRlbXAgPSAiIjsKICAgICAgICB2YXIgbmV3VXJsID0gIiI7CiAgICAgICAgLy8g5LyY5YWI57qnIHF1ZXJ5ID4gY29va2llCiAgICAgICAgdGVtcCA9ICQuY29va2llKHdpbmRvdy5jb25maWcucmVkaXJlY3ROYW1lKTsKICAgICAgICBpZih0ZW1wKSB7CiAgICAgICAgICAgIHVybCA9IHRlbXA7CiAgICAgICAgfQogICAgICAgIHRlbXAgPSAkLnF1ZXJ5LmdldCh3aW5kb3cuY29uZmlnLnJlZGlyZWN0TmFtZSk7CiAgICAgICAgaWYodGVtcCkgewogICAgICAgICAgICB1cmwgPSB0ZW1wOwogICAgICAgIH0KICAgICAgICAvLwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IA==</text>
+      </register>
+      <register name="5" type="4">
+        <text>conifg</text>
       </register>
       <register name="4" type="4">
         <text>conifg</text>
@@ -1154,17 +1155,17 @@
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>bStatus</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKG9SZXN1bHQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKG9SZXN1bHQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="/" type="4">
         <text>WECHAT</text>
       </register>
       <register name="-" type="4">
-        <text>conifg</text>
+        <text>,</text>
       </register>
     </registers>
     <search>
