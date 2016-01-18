@@ -102,12 +102,12 @@
         <mark key="." line="3" column="72" />
         <mark key="[" line="3" column="59" />
       </file>
-      <file name="$USER_HOME$/project/heix/passport-frontend/resources/login/index.js" timestamp="1452926633661">
+      <file name="$USER_HOME$/project/heix/passport-frontend/resources/login/index.js" timestamp="1453090550170">
         <mark key="'" line="88" column="20" />
-        <mark key="]" line="116" column="27" />
-        <mark key="^" line="83" column="24" />
-        <mark key="." line="116" column="27" />
-        <mark key="[" line="116" column="27" />
+        <mark key="]" line="118" column="13" />
+        <mark key="^" line="118" column="13" />
+        <mark key="." line="118" column="13" />
+        <mark key="[" line="118" column="13" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/label/label-default.html" timestamp="1449545544823">
         <mark key="]" line="2" column="16" />
@@ -375,12 +375,11 @@
         <mark key="." line="19" column="56" />
         <mark key="[" line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/project/heix/passport-frontend/resources/layout.blade.php" timestamp="1452910815215">
-        <mark key="'" line="82" column="8" />
-        <mark key="]" line="83" column="20" />
-        <mark key="^" line="83" column="20" />
-        <mark key="." line="83" column="20" />
-        <mark key="[" line="82" column="53" />
+      <file name="$USER_HOME$/project/heix/passport-frontend/resources/layout.blade.php" timestamp="1453089843784">
+        <mark key="]" line="88" column="63" />
+        <mark key="^" line="88" column="19" />
+        <mark key="." line="88" column="63" />
+        <mark key="[" line="88" column="63" />
       </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/app/Http/routes.php" timestamp="1450066115914">
         <mark key="]" line="136" column="44" />
@@ -604,6 +603,12 @@
         <mark key="." line="24" column="0" />
         <mark key="[" line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/project/heix/passport-frontend/libs/api/a.js" timestamp="1453089050528">
+        <mark key="]" line="965" column="59" />
+        <mark key="^" line="965" column="59" />
+        <mark key="." line="965" column="59" />
+        <mark key="[" line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/tag/tag.tpl" timestamp="1450425845693">
         <mark key="]" line="10" column="63" />
         <mark key="^" line="10" column="63" />
@@ -779,9 +784,6 @@
         <mark key="." line="43" column="47" />
         <mark key="[" line="6" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1453082535587">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/resources/views/cms/post/topDaily.blade.php" timestamp="1449742618187">
         <mark key="]" line="27" column="7" />
         <mark key="^" line="27" column="7" />
@@ -811,11 +813,11 @@
         <mark key="." line="4" column="25" />
         <mark key="[" line="4" column="22" />
       </file>
-      <file name="$USER_HOME$/project/heix/passport-frontend/resources/login/login.blade.php" timestamp="1452914832769">
-        <mark key="]" line="9" column="44" />
-        <mark key="^" line="9" column="44" />
-        <mark key="." line="9" column="44" />
-        <mark key="[" line="9" column="40" />
+      <file name="$USER_HOME$/project/heix/passport-frontend/resources/login/login.blade.php" timestamp="1453089908464">
+        <mark key="]" line="11" column="15" />
+        <mark key="^" line="11" column="23" />
+        <mark key="." line="11" column="15" />
+        <mark key="[" line="11" column="14" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/tag/tag.js" timestamp="1452480562408">
         <mark key="'" line="86" column="17" />
@@ -1205,46 +1207,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>insertButton(</text>
       </register>
       <register name="3" type="4">
-        <text>e</text>
+        <text>j</text>
       </register>
       <register name="2" type="4">
-        <text>a</text>
+        <text>s</text>
       </register>
       <register name="1" type="4">
-        <text>d</text>
+        <text>insertButton(</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYoIV8uaXNVbmRlZmluZWQodGhpcy53aWR0aCkpIHsKICAgICAgICAgICAgICAgIHJlLnB1c2goIndpZHRoOiIrdGhpcy53aWR0aCkKICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGhlaWdodDogMDsKICAgIGJvcmRlcjogbm9uZTsKICAgIHRyYW5zaXRpb246IGhlaWdodCAuMnM7Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">aHR0cHM6Ly9ncmFwaC5xcS5jb20vb2F1dGgyLjAvYXV0aG9yaXplP3Jlc3BvbnNlX3R5cGU9Y29kZSZjbGllbnRfaWQ9Iit3aW5kb3cuY29uZmlnLnFxLmFwcGlkKyImcmVkaXJlY3RfdXJpPSIrd2luZG93LmNvbmZpZy5xcS5yZWRpcmVjdF91cmkrIiZzY29wZT0=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaGVpZ2h0OiAkc2VsZWN0b3ItYm9keS1oZWlnaHQ7CiAgICAgIGJvcmRlcjogMXB4IHNvbGlkICNhYWE7CiAgICAgIHRyYW5zaXRpb246IGhlaWdodCAuMnM7Cg==</text>
+      <register name="6" type="4">
+        <text />
       </register>
-      <register name="5" type="4">
-        <text>-</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBRQy5Mb2dpbi5pbnNlcnRCdXR0b24oewogICAgICAgICAgICBidG5JZDogInFxLWxvZ2luLWJ0biIKICAgICAgICB9KQo=</text>
       </register>
       <register name="4" type="4">
-        <text>h</text>
+        <text>.</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>-</text>
+        <text>}</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAvL2hlaWdodDogJHNlbGVjdG9yLWJvZHktaGVpZ2h0Owo=</text>
+      <register name="8" type="4">
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>fontSize</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>insertButton(</text>
       </register>
     </registers>
     <search>
@@ -1340,6 +1342,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
