@@ -22,6 +22,13 @@
         <mark key="." line="6" column="31" />
         <mark key="[" line="6" column="26" />
       </file>
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/config/config.router.js" timestamp="1450670402798">
+        <mark key="'" line="340" column="46" />
+        <mark key="]" line="409" column="61" />
+        <mark key="^" line="409" column="61" />
+        <mark key="." line="409" column="61" />
+        <mark key="[" line="409" column="59" />
+      </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/resources/assets/js/admin/plugin/qiniu.vue" timestamp="1449825501998">
         <mark key="]" line="93" column="27" />
         <mark key="^" line="93" column="27" />
@@ -178,12 +185,12 @@
         <mark key="." line="39" column="18" />
         <mark key="[" line="39" column="19" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/article.detail.tpl" timestamp="1453167820062">
-        <mark key="'" line="92" column="51" />
-        <mark key="]" line="71" column="45" />
-        <mark key="^" line="102" column="49" />
-        <mark key="." line="102" column="49" />
-        <mark key="[" line="69" column="0" />
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/article.detail.tpl" timestamp="1453170385985">
+        <mark key="'" line="80" column="51" />
+        <mark key="]" line="115" column="68" />
+        <mark key="^" line="115" column="68" />
+        <mark key="." line="115" column="68" />
+        <mark key="[" line="16" column="45" />
       </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/app/Http/routes.php" timestamp="1450066115914">
         <mark key="]" line="136" column="44" />
@@ -431,6 +438,13 @@
         <mark key="." line="2" column="0" />
         <mark key="[" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.list.tpl" timestamp="1450433517347">
+        <mark key="'" line="72" column="85" />
+        <mark key="]" line="10" column="14" />
+        <mark key="^" line="9" column="51" />
+        <mark key="." line="9" column="51" />
+        <mark key="[" line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/libs/vue-html-editor/vue-html-editor.js" timestamp="1453109506578">
         <mark key="]" line="88" column="7" />
         <mark key="." line="88" column="7" />
@@ -497,6 +511,13 @@
         <mark key="^" line="33" column="61" />
         <mark key="." line="33" column="61" />
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/tag/tag.js" timestamp="1452480562408">
+        <mark key="'" line="86" column="17" />
+        <mark key="]" line="20" column="12" />
+        <mark key="^" line="37" column="8" />
+        <mark key="." line="20" column="12" />
+        <mark key="[" line="20" column="12" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/api/main.js" timestamp="1449481863273">
         <mark key="]" line="4" column="36" />
@@ -810,6 +831,13 @@
         <mark key="." line="4" column="5" />
         <mark key="[" line="6" column="23" />
       </file>
+      <file name="$USER_HOME$/project/heix/passport-frontend/libs/utils/qqSDK.js" timestamp="1453101713906">
+        <mark key="'" line="1208" column="4" />
+        <mark key="]" line="979" column="47" />
+        <mark key="^" line="979" column="47" />
+        <mark key="." line="979" column="47" />
+        <mark key="[" line="977" column="40" />
+      </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/common/notFinished/notFinished.js" timestamp="1450250682048">
         <mark key="]" line="7" column="40" />
         <mark key="^" line="7" column="40" />
@@ -832,11 +860,25 @@
         <mark key="." line="2" column="0" />
         <mark key="[" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.detail.tpl" timestamp="1450681009565">
+        <mark key="'" line="17" column="79" />
+        <mark key="]" line="17" column="79" />
+        <mark key="^" line="17" column="79" />
+        <mark key="." line="17" column="79" />
+        <mark key="[" line="17" column="64" />
+      </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/margin.scss" timestamp="1449453963480">
         <mark key="]" line="23" column="0" />
         <mark key="^" line="9" column="35" />
         <mark key="." line="9" column="35" />
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/module/module.detail.tpl" timestamp="1450684892648">
+        <mark key="'" line="30" column="54" />
+        <mark key="]" line="4" column="120" />
+        <mark key="^" line="4" column="120" />
+        <mark key="." line="4" column="120" />
+        <mark key="[" line="4" column="93" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/summernote/article.style.js" timestamp="1453109149634">
         <mark key="]" line="36" column="0" />
@@ -932,6 +974,13 @@
         <mark key="." line="29" column="75" />
         <mark key="[" line="28" column="48" />
       </file>
+      <file name="$USER_HOME$/project/heix/passport-frontend/libs/style-utils/utils.scss" timestamp="1452744364559">
+        <mark key="'" line="42" column="6" />
+        <mark key="]" line="7" column="16" />
+        <mark key="^" line="42" column="12" />
+        <mark key="." line="7" column="16" />
+        <mark key="[" line="7" column="16" />
+      </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/module/module.detail.js" timestamp="1452482665713">
         <mark key="'" line="68" column="22" />
         <mark key="]" line="117" column="56" />
@@ -993,11 +1042,11 @@
         <mark key="." line="27" column="2" />
         <mark key="[" line="24" column="2" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/selector/style.scss" timestamp="1453106456094">
-        <mark key="]" line="11" column="23" />
-        <mark key="^" line="11" column="23" />
-        <mark key="." line="11" column="23" />
-        <mark key="[" line="11" column="11" />
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/selector/style.scss" timestamp="1453170166528">
+        <mark key="]" line="5" column="30" />
+        <mark key="^" line="47" column="36" />
+        <mark key="." line="5" column="30" />
+        <mark key="[" line="5" column="29" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/author-select/author-select.tpl" timestamp="1450681131033">
         <mark key="]" line="3" column="79" />
@@ -1077,6 +1126,13 @@
         <mark key="^" line="20" column="68" />
         <mark key="." line="20" column="68" />
         <mark key="[" line="20" column="66" />
+      </file>
+      <file name="$USER_HOME$/project/heix/passport-frontend/libs/utils/qc.js" timestamp="1453099446121">
+        <mark key="'" line="1091" column="62" />
+        <mark key="]" line="450" column="7" />
+        <mark key="^" line="450" column="7" />
+        <mark key="." line="450" column="7" />
+        <mark key="[" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/resources/assets/js/cms/plugin/utils.js" timestamp="1449742439060">
         <mark key="]" line="12" column="51" />
@@ -1218,46 +1274,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>file</text>
+        <text>100px</text>
       </register>
       <register name="3" type="4">
-        <text>file-uploaded</text>
+        <text>file</text>
       </register>
-      <register name="2" type="4">
-        <text>arguments</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRoIGNsYXNzPSJ2dG9wIj5TZWxlY3Qgd3JhcHBlcjwvdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHN3cmFwcGVyIHdpZHRoPSI1MHB4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHVsIHNsb3Q9Imxpc3QiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpPjE8L2xpPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpPjI8L2xpPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpPjM8L2xpPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3VsPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvc3dyYXBwZXI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3RkPgogICAgICAgICAgICAgICAgICAgICAgICA8L3RyPgo=</text>
       </register>
       <register name="1" type="4">
-        <text>file</text>
+        <text>100px</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZmlsZS11cGxvYWQgOnVwbG9hZGVkLWlkLnN5bmM9ImRldGFpbC5iYW5uZXJfaWQiIDp0b2tlbi11cmw9InFpbml1LnRva2VuVXJsKCkiIDpjb25maWc9InFpbml1LnVwbG9hZFNldHRpbmciPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YSBpZD0icGlja1ZpZGVvQ292ZXIiIGNsYXNzPSJidG4gYnRuLXN1Y2Nlc3MgYnRuLWZsYXQgYnRuVXBsb2FkIj7kuIrkvKDlm77niYc8L2E+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9maWxlLXVwbG9hZD4K</text>
       </register>
       <register name="7" type="4">
-        <text>:uploaded-id.sync=&quot;detail.banner_id&quot;</text>
-      </register>
-      <register name="6" type="4">
-        <text>VideoCover</text>
-      </register>
-      <register name="5" type="4">
         <text>media</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>FileUploaded</text>
+      </register>
+      <register name="5" type="4">
+        <text>file-uploaded</text>
+      </register>
+      <register name="4" type="4">
+        <text>arguments</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">X19pbmxpbmUoImxpYnMvc3VtbWVybm90ZS9sYW5nL3N1bW1lcm5vdGUtemgtQ04iKTsK</text>
+      <register name="9" type="4">
+        <text>:uploaded-id.sync=&quot;detail.banner_id&quot;</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">KGZ1bmN0aW9uICgkKSB7CiAgICAkLmV4dGVuZCgkLnN1bW1lcm5vdGUubGFuZywgewogICAgICAgICd6aC1DTic6IHsKICAgICAgICAgICAgZm9udDogewogICAgICAgICAgICAgICAgYm9sZDogJ+eyl+S9kycsCiAgICAgICAgICAgICAgICBpdGFsaWM6ICfmlpzkvZMnLAogICAgICAgICAgICAgICAgdW5kZXJsaW5lOiAn5LiL5YiS57q/JywKICAgICAgICAgICAgICAgIGNsZWFyOiAn5riF6Zmk5qC85byPJywKICAgICAgICAgICAgICAgIGhlaWdodDogJ+ihjOmrmCcsCiAgICAgICAgICAgICAgICBuYW1lOiAn5a2X5L2TJywKICAgICAgICAgICAgICAgIHN0cmlrZXRocm91Z2g6ICfliKDpmaTnur8nLAogICAgICAgICAgICAgICAgc3Vic2NyaXB0OiAn5LiL5qCHJywKICAgICAgICAgICAgICAgIHN1cGVyc2NyaXB0OiAn5LiK5qCHJywKICAgICAgICAgICAgICAgIHNpemU6ICflrZflj7cnCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIGltYWdlOiB7CiAgICAgICAgICAgICAgICBpbWFnZTogJ+WbvueJhycsCiAgICAgICAgICAgICAgICBpbnNlcnQ6ICfmj5LlhaXlm77niYcnLAogICAgICAgICAgICAgICAgcmVzaXplRnVsbDogJ+e8qeaUvuiHsyAxMDAlJywKICAgICAgICAgICAgICAgIHJlc2l6ZUhhbGY6ICfnvKnmlL7oh7MgNTAlJywKICAgICAgICAgICAgICAgIHJlc2l6ZVF1YXJ0ZXI6ICfnvKnmlL7oh7MgMjUlJywKICAgICAgICAgICAgICAgIGZsb2F0TGVmdDogJ+mdoOW3pua1ruWKqCcsCiAgICAgICAgICAgICAgICBmbG9hdFJpZ2h0OiAn6Z2g5Y+z5rWu5YqoJywKICAgICAgICAgICAgICAgIGZsb2F0Tm9uZTogJ+WPlua2iOa1ruWKqCcsCiAgICAgICAgICAgICAgICBzaGFwZVJvdW5kZWQ6ICflvaLnirY6IOWchuinkicsCiAgICAgICAgICAgICAgICBzaGFwZUNpcmNsZTogJ+W9oueKtjog5ZyGJywKICAgICAgICAgICAgICAgIHNoYXBlVGh1bWJuYWlsOiAn5b2i54q2OiDnvKnnlaXlm74nLAogICAgICAgICAgICAgICAgc2hhcGVOb25lOiAn5b2i54q2OiDml6AnLAogICAgICAgICAgICAgICAgZHJhZ0ltYWdlSGVyZTogJ+WwhuWbvueJh+aLluaLveiHs+atpOWkhCcsCiAgICAgICAgICAgICAgICBzZWxlY3RGcm9tRmlsZXM6ICfku47mnKzlnLDkuIrkvKAnLAogICAgICAgICAgICAgICAgbWF4aW11bUZpbGVTaXplOiAn5paH5Lu25aSn5bCP5pyA5aSn5YC8JywKICAgICAgICAgICAgICAgIG1heGltdW1GaWxlU2l6ZUVycm9yOiAn5paH5Lu25aSn5bCP6LaF5Ye65pyA5aSn5YC844CCJywKICAgICAgICAgICAgICAgIHVybDogJ+WbvueJh+WcsOWdgCcsCiAgICAgICAgICAgICAgICByZW1vdmU6ICfnp7vpmaTlm77niYcnCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIHZpZGVvOiB7CiAgICAgICAgICAgICAgICB2aWRlbzogJ+inhumikScsCiAgICAgICAgICAgICAgICB2aWRlb0xpbms6ICfop4bpopHpk77mjqUnLAogICAgICAgICAgICAgICAgaW5zZXJ0OiAn5o+S5YWl6KeG6aKRJywKICAgICAgICAgICAgICAgIHVybDogJ+inhumikeWcsOWdgCcsCiAgICAgICAgICAgICAgICBwcm92aWRlcnM6ICco5LyY6YW3LCBJbnN0YWdyYW0sIERhaWx5TW90aW9uLCBZb3V0dWJl562JKScKICAgICAgICAgICAgfSwKICAgICAgICAgICAgbGluazogewogICAgICAgICAgICAgICAgbGluazogJ+mTvuaOpScsCiAgICAgICAgICAgICAgICBpbnNlcnQ6ICfmj5LlhaXpk77mjqUnLAogICAgICAgICAgICAgICAgdW5saW5rOiAn5Y676Zmk6ZO+5o6lJywKICAgICAgICAgICAgICAgIGVkaXQ6ICfnvJbovpHpk77mjqUnLAogICAgICAgICAgICAgICAgdGV4dFRvRGlzcGxheTogJ+aYvuekuuaWh+acrCcsCiAgICAgICAgICAgICAgICB1cmw6ICfpk77mjqXlnLDlnYAnLAogICAgICAgICAgICAgICAgb3BlbkluTmV3V2luZG93OiAn5Zyo5paw56qX5Y+j5omT5byAJwogICAgICAgICAgICB9LAogICAgICAgICAgICB0YWJsZTogewogICAgICAgICAgICAgICAgdGFibGU6ICfooajmoLwnCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIGhyOiB7CiAgICAgICAgICAgICAgICBpbnNlcnQ6ICfmsLTlubPnur8nCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIHN0eWxlOiB7CiAgICAgICAgICAgICAgICBzdHlsZTogJ+agt+W8jycsCiAgICAgICAgICAgICAgICBub3JtYWw6ICfmma7pgJonLAogICAgICAgICAgICAgICAgYmxvY2txdW90ZTogJ+W8leeUqCcsCiAgICAgICAgICAgICAgICBwcmU6ICfku6PnoIEnLAogICAgICAgICAgICAgICAgaDE6ICfmoIfpopggMScsCiAgICAgICAgICAgICAgICBoMjogJ+agh+mimCAyJywKICAgICAgICAgICAgICAgIGgzOiAn5qCH6aKYIDMnLAogICAgICAgICAgICAgICAgaDQ6ICfmoIfpopggNCcsCiAgICAgICAgICAgICAgICBoNTogJ+agh+mimCA1JywKICAgICAgICAgICAgICAgIGg2OiAn5qCH6aKYIDYnCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIGxpc3RzOiB7CiAgICAgICAgICAgICAgICB1bm9yZGVyZWQ6ICfml6Dluo/liJfooagnLAogICAgICAgICAgICAgICAgb3JkZXJlZDogJ+acieW6j+WIl+ihqCcKICAgICAgICAgICAgfSwKICAgICAgICAgICAgb3B0aW9uczogewogICAgICAgICAgICAgICAgaGVscDogJ+W4ruWKqScsCiAgICAgICAgICAgICAgICBmdWxsc2NyZWVuOiAn5YWo5bGPJywKICAgICAgICAgICAgICAgIGNvZGV2aWV3OiAn5rqQ5Luj56CBJwogICAgICAgICAgICB9LAogICAgICAgICAgICBwYXJhZ3JhcGg6IHsKICAgICAgICAgICAgICAgIHBhcmFncmFwaDogJ+auteiQvScsCiAgICAgICAgICAgICAgICBvdXRkZW50OiAn5YeP5bCR57yp6L+bJywKICAgICAgICAgICAgICAgIGluZGVudDogJ+WinuWKoOe8qei/mycsCiAgICAgICAgICAgICAgICBsZWZ0OiAn5bem5a+56b2QJywKICAgICAgICAgICAgICAgIGNlbnRlcjogJ+WxheS4reWvuem9kCcsCiAgICAgICAgICAgICAgICByaWdodDogJ+WPs+Wvuem9kCcsCiAgICAgICAgICAgICAgICBqdXN0aWZ5OiAn5Lik56uv5a+56b2QJwogICAgICAgICAgICB9LAogICAgICAgICAgICBjb2xvcjogewogICAgICAgICAgICAgICAgcmVjZW50OiAn5pyA6L+R5L2/55SoJywKICAgICAgICAgICAgICAgIG1vcmU6ICfmm7TlpJonLAogICAgICAgICAgICAgICAgYmFja2dyb3VuZDogJ+iDjOaZrycsCiAgICAgICAgICAgICAgICBmb3JlZ3JvdW5kOiAn5YmN5pmvJywKICAgICAgICAgICAgICAgIHRyYW5zcGFyZW50OiAn6YCP5piOJywKICAgICAgICAgICAgICAgIHNldFRyYW5zcGFyZW50OiAn6YCP5piOJywKICAgICAgICAgICAgICAgIHJlc2V0OiAn6YeN572uJywKICAgICAgICAgICAgICAgIHJlc2V0VG9EZWZhdWx0OiAn6buY6K6kJwogICAgICAgICAgICB9LAogICAgICAgICAgICBzaG9ydGN1dDogewogICAgICAgICAgICAgICAgc2hvcnRjdXRzOiAn5b+r5o236ZSuJywKICAgICAgICAgICAgICAgIGNsb3NlOiAn5YWz6ZetJywKICAgICAgICAgICAgICAgIHRleHRGb3JtYXR0aW5nOiAn5paH5pys5qC85byPJywKICAgICAgICAgICAgICAgIGFjdGlvbjogJ+WKqOS9nCcsCiAgICAgICAgICAgICAgICBwYXJhZ3JhcGhGb3JtYXR0aW5nOiAn5q616JC95qC85byPJywKICAgICAgICAgICAgICAgIGRvY3VtZW50U3R5bGU6ICfmlofmoaPmoLflvI8nLAogICAgICAgICAgICAgICAgZXh0cmFLZXlzOiAn6aKd5aSW5oyJ6ZSuJwogICAgICAgICAgICB9LAogICAgICAgICAgICBoaXN0b3J5OiB7CiAgICAgICAgICAgICAgICB1bmRvOiAn5pKk6ZSAJywKICAgICAgICAgICAgICAgIHJlZG86ICfph43lgZonCiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9KTsKfSkoalF1ZXJ5KTsK</text>
+      <register name="8" type="4">
+        <text>VideoCover</text>
       </register>
       <register name="/" type="4">
         <text>$summernote</text>
       </register>
       <register name="-" type="4">
-        <text>file</text>
+        <text>100px</text>
       </register>
     </registers>
     <search>
