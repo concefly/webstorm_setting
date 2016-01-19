@@ -273,11 +273,12 @@
         <mark key="." line="7" column="42" />
         <mark key="[" line="7" column="41" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/editor.js" timestamp="1453168466050">
-        <mark key="]" line="40" column="28" />
-        <mark key="^" line="40" column="28" />
-        <mark key="." line="40" column="28" />
-        <mark key="[" line="40" column="24" />
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/editor.js" timestamp="1453198820475">
+        <mark key="'" line="66" column="18" />
+        <mark key="]" line="89" column="54" />
+        <mark key="^" line="89" column="54" />
+        <mark key="." line="89" column="54" />
+        <mark key="[" line="87" column="71" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/file-upload/file-upload.js" timestamp="1450259135864">
         <mark key="]" line="3" column="26" />
@@ -457,10 +458,10 @@
         <mark key="." line="9" column="51" />
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/libs/vue-html-editor/vue-html-editor.js" timestamp="1453109506578">
-        <mark key="]" line="88" column="7" />
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/libs/vue-html-editor/vue-html-editor.js" timestamp="1453198600097">
+        <mark key="]" line="115" column="2" />
         <mark key="." line="88" column="7" />
-        <mark key="[" line="88" column="7" />
+        <mark key="[" line="104" column="0" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/author/author.list.js" timestamp="1450235430206">
         <mark key="]" line="67" column="1" />
@@ -1177,7 +1178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4536" column="7" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/libs/summernote/summernote.js" />
       <jump line="6173" column="28" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/libs/summernote/summernote.js" />
       <jump line="6174" column="44" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/libs/summernote/summernote.js" />
       <jump line="137" column="6" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/libs/summernote/summernote.js" />
@@ -1277,63 +1277,63 @@
       <jump line="113" column="50" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/article.detail.tpl" />
       <jump line="34" column="67" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/article.detail.tpl" />
       <jump line="18" column="31" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/selector/single.tpl" />
+      <jump line="69" column="18" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/editor.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYodGhpcy5jdXJyZW50QXJ0aWNsZVR5cGU9PTMpIHsKICAgICAgICAgICAgICAgIHJldHVybiA7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICB3YXRjaDogewogICAgIm1vZGVsIjogZnVuY3Rpb24gKHZhbCwgb2xkVmFsKSB7CiAgICAgIGlmICghIHRoaXMuaXNDaGFuZ2luZykgewogICAgICAgIHRoaXMuaXNDaGFuZ2luZyA9IHRydWU7CiAgICAgICAgLy8gIG5vdGUgdGhhdCBzZXR0aW5nIGNvZGUgdmFsdWUgZG9lcyBub3QgYXV0b21hdGljYWxseSB0cmlnZ2VyCiAgICAgICAgLy8gIHRoZSAic3VtbWVybm90ZS5jaGFuZ2UiIGV2ZW50CiAgICAgICAgdmFyIGNvZGUgPSAodmFsID09PSBudWxsID8gIiIgOiB2YWwpOwogICAgICAgIHRoaXMuY29udHJvbC5jb2RlKGNvZGUpLnRyaWdnZXIoInN1bW1lcm5vdGUuY2hhbmdlIik7CiAgICAgICAgdGhpcy5pc0NoYW5naW5nID0gZmFsc2U7CiAgICAgIH0KICAgIH0KICB9Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>*</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>务</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9uQ2hhbmdlOiBmdW5jdGlvbihjb250ZW50cywgJGVkaXRhYmxlKSB7CiAgICAgICAgICAgICAgICAgICAgc2VsZi5tb2RlbCA9IGNvbnRlbnRzOwogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="4">
-        <text>必</text>
+        <text>,</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYodGhpcy5jdXJyZW50QXJ0aWNsZVR5cGU9PTMpIHsKICAgICAgICAgICAgICAgIHJldHVybiA7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICB3YXRjaDogewogICAgIm1vZGVsIjogZnVuY3Rpb24gKHZhbCwgb2xkVmFsKSB7CiAgICAgIGlmICghIHRoaXMuaXNDaGFuZ2luZykgewogICAgICAgIHRoaXMuaXNDaGFuZ2luZyA9IHRydWU7CiAgICAgICAgLy8gIG5vdGUgdGhhdCBzZXR0aW5nIGNvZGUgdmFsdWUgZG9lcyBub3QgYXV0b21hdGljYWxseSB0cmlnZ2VyCiAgICAgICAgLy8gIHRoZSAic3VtbWVybm90ZS5jaGFuZ2UiIGV2ZW50CiAgICAgICAgdmFyIGNvZGUgPSAodmFsID09PSBudWxsID8gIiIgOiB2YWwpOwogICAgICAgIHRoaXMuY29udHJvbC5jb2RlKGNvZGUpLnRyaWdnZXIoInN1bW1lcm5vdGUuY2hhbmdlIik7CiAgICAgICAgdGhpcy5pc0NoYW5naW5nID0gZmFsc2U7CiAgICAgIH0KICAgIH0KICB9Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>name</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgLy8gTm90ZSB0aGF0IHdlIGRvIG5vdCB1c2UgdGhlICJvbkNoYW5nZSIgb3B0aW9ucyBvZiB0aGUgc3VtbWVybm90ZQogICAgICAvLyBjb25zdHJ1Y3Rvci4gSW5zdGVhZCwgd2UgdXNlIGEgZXZlbnQgaGFuZGxlciBvZiAic3VtbWVybm90ZS5jaGFuZ2UiCiAgICAgIC8vIGV2ZW50IGJlY2F1c2UgdGhhdCBJIGRvbid0IGtub3cgaG93IHRvIHRyaWdnZXIgdGhlICJvbkNoYW5nZSIgZXZlbnQKICAgICAgLy8gaGFuZGxlciBhZnRlciBjaGFuZ2luZyB0aGUgY29kZSBvZiBzdW1tZXJub3RlIHZpYSAiLmNvZGUoKSIgZnVuY3Rpb24uCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>*</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIGlmICghIG1lLmlzQ2hhbmdpbmcpIHsKICAgICAgICAgICAgbWUuaXNDaGFuZ2luZyA9IHRydWU7CiAgICAgICAgICAgIHZhciBjb2RlID0gbWUuY29udHJvbC5jb2RlKCk7CiAgICAgICAgICAgIG1lLm1vZGVsID0gKGNvZGUgPT09IG51bGwgfHwgY29kZS5sZW5ndGggPT09IDAgPyBudWxsIDogY29kZSk7CiAgICAgICAgICAgIG1lLiRuZXh0VGljayhmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgbWUuaXNDaGFuZ2luZyA9IGZhbHNlOwogICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="5" type="4">
-        <text>务</text>
+        <text>;</text>
       </register>
       <register name="4" type="4">
-        <text>必</text>
+        <text>)</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>name</text>
+        <text>必</text>
       </register>
       <register name="8" type="4">
-        <text>false</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>视频</text>
+        <text>me</text>
       </register>
       <register name="-" type="4">
-        <text>必</text>
+        <text>,</text>
       </register>
     </registers>
     <search>
       <last-search>视频</last-search>
       <last-offset />
-      <last-pattern>视频</last-pattern>
-      <last-replace>abstract</last-replace>
-      <last-substitute>title</last-substitute>
+      <last-pattern>me</last-pattern>
+      <last-replace>self</last-replace>
+      <last-substitute>me</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>8</entry>
         <entry>toolbar</entry>
         <entry>fontSize</entry>
         <entry>response_type</entry>
@@ -1353,9 +1353,9 @@
         <entry>text-danger</entry>
         <entry>题图</entry>
         <entry>视频</entry>
+        <entry>me</entry>
       </history-search>
       <history-cmd>
-        <entry>s/intro/email/g</entry>
         <entry>s/avatar_url/avatar_id/g</entry>
         <entry>112,130 s/getData/getShow</entry>
         <entry>102,122 s/getData/getInitial</entry>
@@ -1374,6 +1374,7 @@
         <entry>sw</entry>
         <entry>s/$summernote/control</entry>
         <entry>203,215 s/title/abstract/g</entry>
+        <entry>70,77 s/me/self/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
