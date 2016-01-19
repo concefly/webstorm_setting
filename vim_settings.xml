@@ -157,11 +157,11 @@
         <mark key="." line="39" column="18" />
         <mark key="[" line="39" column="19" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/article.detail.tpl" timestamp="1453178170528">
-        <mark key="]" line="21" column="82" />
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/article.detail.tpl" timestamp="1453181610093">
+        <mark key="]" line="163" column="22" />
         <mark key="^" line="21" column="82" />
-        <mark key="." line="21" column="82" />
-        <mark key="[" line="21" column="74" />
+        <mark key="." line="158" column="0" />
+        <mark key="[" line="158" column="0" />
       </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/app/Http/routes.php" timestamp="1450066115914">
         <mark key="]" line="136" column="44" />
@@ -558,10 +558,11 @@
         <mark key="." line="46" column="50" />
         <mark key="[" line="46" column="25" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/article.detail.js" timestamp="1453178221673">
-        <mark key="]" line="262" column="0" />
-        <mark key="." line="262" column="0" />
-        <mark key="[" line="262" column="0" />
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/article.detail.js" timestamp="1453181983740">
+        <mark key="]" line="250" column="47" />
+        <mark key="^" line="250" column="47" />
+        <mark key="." line="250" column="47" />
+        <mark key="[" line="250" column="47" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/author/author.list.tpl" timestamp="1452077860192">
         <mark key="]" line="44" column="5" />
@@ -1144,47 +1145,47 @@
       <jump line="243" column="21" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/article.detail.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCF0aGlzLmRldGFpbC5pZCApCg==</text>
+      <register name="&quot;" type="4">
+        <text>6</text>
       </register>
-      <register name="3" type="4">
-        <text>strict</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8IS0tYWN0aW9uIGJhci0tPgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNsZWFyZml4Ij4KICAgICAgICAgICAgICAgICAgICAgICAgPGJ1dHRvbiBjbGFzcz0iYnRuIGJ0bi1kYW5nZXIgYnRuLWZsYXQgcHVsbC1yaWdodCIgQGNsaWNrPSJkZWwoZGV0YWlsKSIgc3R5bGU9Im1hcmdpbi1sZWZ0OiAxZW0iIHYtaWY9ImRldGFpbC5pZCI+5Yig6ZmkPC9idXR0b24+CiAgICAgICAgICAgICAgICAgICAgICAgIDxidXR0b24gY2xhc3M9ImJ0biBidG4tZGVmYXVsdCBidG4tZmxhdCBwdWxsLXJpZ2h0IiBAY2xpY2s9InNhdmUiIHN0eWxlPSJtYXJnaW4tbGVmdDogMWVtIj7kv53lrZjojYnnqL88L2J1dHRvbj4KICAgICAgICAgICAgICAgICAgICAgICAgPGJ1dHRvbiBjbGFzcz0iYnRuIGJ0bi1zdWNjZXNzIGJ0bi1mbGF0IHB1bGwtcmlnaHQiIEBjbGljaz0icG9zdCIgc3R5bGU9Im1hcmdpbi1sZWZ0OiAxZW0iPuaPkOS6pOWuoeaguDwvYnV0dG9uPgogICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="2" type="4">
-        <text>title</text>
+        <text>6</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCF0aGlzLmRldGFpbC5pZCApCg==</text>
+      <register name="1" type="4">
+        <text>6</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHAgY2xhc3M9InRleHQtZXJyb3IiPnslIGxpbnQoImRldGFpbC50aXRsZSIpKCkgJX08L3A+Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy5saW50KCkpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoc3RyaWN0KSB7CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>strict</text>
       </register>
-      <register name="4" type="4">
-        <text>strict</text>
+      <register name="6" type="4">
+        <text>title</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCF0aGlzLmRldGFpbC5pZCApCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coImxpbnRfZGV0YWlsLmF1dGhvci5pZCIpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>!</text>
+        <text>strict</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCLkuLrpgJrov4fmtYvor5UiKTsK</text>
+      <register name="8" type="4">
+        <text>strict</text>
       </register>
       <register name="/" type="4">
         <text>$summernote</text>
       </register>
       <register name="-" type="4">
-        <text>title</text>
+        <text>6</text>
       </register>
     </registers>
     <search>
