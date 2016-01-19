@@ -465,10 +465,11 @@
         <mark key="." line="27" column="7" />
         <mark key="[" line="22" column="70" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/module/module.detail.edit.js" timestamp="1453187898249">
-        <mark key="]" line="128" column="13" />
-        <mark key="." line="128" column="13" />
-        <mark key="[" line="128" column="13" />
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/module/module.detail.edit.js" timestamp="1453195979383">
+        <mark key="]" line="93" column="27" />
+        <mark key="^" line="93" column="27" />
+        <mark key="." line="93" column="27" />
+        <mark key="[" line="93" column="23" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/grid/grid2.html" timestamp="1449643260277">
         <mark key="]" line="2" column="100" />
@@ -601,12 +602,12 @@
         <mark key="." line="866" column="20" />
         <mark key="[" line="865" column="44" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/article.detail.js" timestamp="1453191170852">
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/article.detail.js" timestamp="1453195852656">
         <mark key="'" line="154" column="36" />
-        <mark key="]" line="317" column="47" />
-        <mark key="^" line="317" column="47" />
-        <mark key="." line="317" column="47" />
-        <mark key="[" line="316" column="58" />
+        <mark key="]" line="176" column="41" />
+        <mark key="^" line="205" column="23" />
+        <mark key="." line="176" column="41" />
+        <mark key="[" line="176" column="40" />
       </file>
       <file name="$USER_HOME$/project/heix/passport-frontend/libs/bootstrap/less/forms.less" timestamp="1452822054095">
         <mark key="'" line="140" column="26" />
@@ -1221,47 +1222,47 @@
       <jump line="18" column="31" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/selector/single.tpl" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICogQHR5cGUge3t0ZW1wbGF0ZTogKiwgZGF0YTogbW9kdWxlLmV4cG9ydHMuZGF0YSwgbWV0aG9kczoge3NhdmU6IG1vZHVsZS5leHBvcnRzLm1ldGhvZHMuc2F2ZX19fQo=</text>
+      <register name="&quot;" type="4">
+        <text>name</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="3" type="4">
+        <text>name</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>false</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICogQHR5cGUge3t0ZW1wbGF0ZTogKiwgZGF0YTogbW9kdWxlLmV4cG9ydHMuZGF0YSwgbWV0aG9kczoge3NhdmU6IG1vZHVsZS5leHBvcnRzLm1ldGhvZHMuc2F2ZX19fQo=</text>
+      <register name="1" type="4">
+        <text>name</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dmFyIGNvbmZpZyA9IHJlcXVpcmUoImNvbmZpZyIpOwp2YXIgJCA9IHJlcXVpcmUoImpxdWVyeSIpOwp2YXIgXyA9IHJlcXVpcmUoInVuZGVyc2NvcmUiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYodGhpcy5jdXJyZW50QXJ0aWNsZVR5cGUhPTIpIHsKICAgICAgICAgICAgICAgIHJldHVybiA7CiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxtb2RhbD4KICAgICAgICAgICAgICAgICAgICA8aDQgc2xvdD0iaGVhZGVyIj5CPC9oND4KICAgICAgICAgICAgICAgIDwvbW9kYWw+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmlja25hbWU6IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlkOiAiMCIsCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIAo=</text>
+        <text encoding="base64">ICogQHR5cGUge3t0ZW1wbGF0ZTogKiwgZGF0YTogbW9kdWxlLmV4cG9ydHMuZGF0YSwgbWV0aG9kczoge3NhdmU6IG1vZHVsZS5leHBvcnRzLm1ldGhvZHMuc2F2ZX19fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>hide</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbmlja25hbWU6IAo=</text>
       </register>
-      <register name="8" type="4">
-        <text>n</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlkOiAiMCIsCg==</text>
       </register>
       <register name="/" type="4">
         <text>题图</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>name</text>
       </register>
     </registers>
     <search>
