@@ -189,12 +189,12 @@
         <mark key="." line="39" column="18" />
         <mark key="[" line="39" column="19" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/article.detail.tpl" timestamp="1453275361048">
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/article.detail.tpl" timestamp="1453285453769">
         <mark key="'" line="31" column="67" />
-        <mark key="]" line="188" column="0" />
+        <mark key="]" line="95" column="36" />
         <mark key="^" line="12" column="36" />
-        <mark key="." line="188" column="0" />
-        <mark key="[" line="188" column="0" />
+        <mark key="." line="95" column="36" />
+        <mark key="[" line="95" column="0" />
       </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/app/Http/routes.php" timestamp="1450066115914">
         <mark key="]" line="136" column="44" />
@@ -279,12 +279,12 @@
         <mark key="." line="7" column="42" />
         <mark key="[" line="7" column="41" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/editor.js" timestamp="1453282224870">
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/editor.js" timestamp="1453288238171">
         <mark key="'" line="26" column="26" />
-        <mark key="]" line="91" column="20" />
-        <mark key="^" line="91" column="20" />
-        <mark key="." line="91" column="20" />
-        <mark key="[" line="91" column="19" />
+        <mark key="]" line="55" column="39" />
+        <mark key="^" line="55" column="39" />
+        <mark key="." line="55" column="39" />
+        <mark key="[" line="55" column="33" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/file-upload/file-upload.js" timestamp="1450259135864">
         <mark key="]" line="3" column="26" />
@@ -604,6 +604,12 @@
         <mark key="^" line="10" column="20" />
         <mark key="." line="21" column="0" />
         <mark key="[" line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/plugin.article.scss" timestamp="1453287040219">
+        <mark key="]" line="12" column="15" />
+        <mark key="^" line="12" column="15" />
+        <mark key="." line="12" column="15" />
+        <mark key="[" line="12" column="17" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/file-upload/file-upload.js" timestamp="1453168551367">
         <mark key="]" line="60" column="45" />
@@ -1039,11 +1045,11 @@
         <mark key="." line="6" column="17" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/article-style/article-style.scss" timestamp="1453278960420">
-        <mark key="]" line="45" column="11" />
-        <mark key="^" line="45" column="11" />
-        <mark key="." line="45" column="11" />
-        <mark key="[" line="45" column="9" />
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/article-style/article-style.scss" timestamp="1453286392594">
+        <mark key="]" line="77" column="16" />
+        <mark key="^" line="77" column="16" />
+        <mark key="." line="77" column="16" />
+        <mark key="[" line="71" column="9" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/views/check/third.html" timestamp="1449631386242">
         <mark key="]" line="40" column="5" />
@@ -1069,11 +1075,11 @@
         <mark key="." line="26" column="23" />
         <mark key="[" line="29" column="25" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/plugin.article.js" timestamp="1453281048429">
-        <mark key="]" line="24" column="29" />
-        <mark key="^" line="24" column="29" />
-        <mark key="." line="24" column="29" />
-        <mark key="[" line="21" column="2" />
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/plugin.article.js" timestamp="1453287315642">
+        <mark key="]" line="17" column="72" />
+        <mark key="^" line="17" column="72" />
+        <mark key="." line="17" column="72" />
+        <mark key="[" line="17" column="74" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.list.js" timestamp="1450423705050">
         <mark key="]" line="53" column="40" />
@@ -1171,8 +1177,12 @@
         <mark key="." line="37" column="23" />
         <mark key="[" line="37" column="23" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" timestamp="1453281533589">
-        <mark key="'" line="6732" column="6" />
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" timestamp="1453288535179">
+        <mark key="'" line="5992" column="6" />
+        <mark key="]" line="5202" column="99" />
+        <mark key="^" line="5606" column="70" />
+        <mark key="." line="5606" column="70" />
+        <mark key="[" line="5202" column="62" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/views/check/template-index-check.html" timestamp="1449711733135">
         <mark key="]" line="41" column="41" />
@@ -1217,10 +1227,11 @@
         <mark key="." line="31" column="43" />
         <mark key="[" line="31" column="34" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/editor.tpl" timestamp="1453277563626">
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="[" line="1" column="0" />
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/editor.tpl" timestamp="1453286241514">
+        <mark key="]" line="1" column="18" />
+        <mark key="^" line="1" column="18" />
+        <mark key="." line="1" column="18" />
+        <mark key="[" line="1" column="9" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/related-article/related-article.js" timestamp="1450666800634">
         <mark key="]" line="21" column="31" />
@@ -1230,17 +1241,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3220" column="13" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
-      <jump line="3224" column="23" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
-      <jump line="3227" column="23" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
-      <jump line="3229" column="36" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
-      <jump line="3233" column="20" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
-      <jump line="3238" column="26" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
-      <jump line="3241" column="47" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
-      <jump line="3247" column="9" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
-      <jump line="3290" column="19" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
-      <jump line="3293" column="42" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
-      <jump line="3297" column="10" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
       <jump line="3302" column="29" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
       <jump line="3312" column="33" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
       <jump line="3314" column="24" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
@@ -1330,55 +1330,66 @@
       <jump line="1530" column="10" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
       <jump line="1529" column="22" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
       <jump line="6732" column="6" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
+      <jump line="6782" column="17" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
+      <jump line="5211" column="27" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
+      <jump line="6788" column="6" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
+      <jump line="5190" column="38" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
+      <jump line="5442" column="27" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
+      <jump line="5446" column="46" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
+      <jump line="6089" column="15" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
+      <jump line="6045" column="15" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
+      <jump line="6066" column="13" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
+      <jump line="6725" column="23" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
+      <jump line="5992" column="6" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>,</text>
       </register>
       <register name="3" type="4">
-        <text>&quot;articleStyle</text>
+        <text>,</text>
       </register>
-      <register name="2" type="4">
-        <text>&quot;</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9uQmx1cjogZnVuY3Rpb24oKSB7CiAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2cobWUuY29udHJvbC5zdW1tZXJub3RlKCJjcmVhdGVSYW5nZSIpKTsKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICBvbkZvY3VzOiBmdW5jdGlvbigpIHsKICAgICAgICAgICAgICAgICAgICAvL21lLmNvbnRyb2wuc3VtbWVybm90ZSgicmVzdG9yZVJhbmdlIik7CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>e</text>
+        <text>,</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cmVxdWlyZSgnc3VtbWVybm90ZScpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtZS5jb250cm9sLnN1bW1lcm5vdGUoInNhdmVSYW5nZSIpOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>dropdowns</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtZS5jb250cm9sLmNvZGUobWUubW9kZWwpOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>&quot;articleStyle&quot;</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>saveRange</text>
       </register>
-      <register name="4" type="4">
-        <text>,</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9uQmx1cjogZnVuY3Rpb24oKSB7CiAgICAgICAgICAgICAgICAgICAgbWUuY29udHJvbC5zdW1tZXJub3RlKCJzYXZlUmFuZ2UiKTsKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICBvbkZvY3VzOiBmdW5jdGlvbigpIHsKICAgICAgICAgICAgICAgICAgICBtZS5jb250cm9sLnN1bW1lcm5vdGUoInJlc3RvcmVSYW5nZSIpOwogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>button</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgb25Jbml0OiBmdW5jdGlvbigpIHsKICAgICAgICAgICAgICAgIG1lLmNvbnRyb2wuY29kZShtZS5tb2RlbCk7CiAgICAgICAgICAgIH0sCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="/" type="4">
-        <text>buttons</text>
+        <text>ImageDialog</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>,</text>
       </register>
     </registers>
     <search>
-      <last-search>buttons</last-search>
+      <last-search>ImageDialog</last-search>
       <last-offset />
-      <last-pattern>buttons</last-pattern>
+      <last-pattern>ImageDialog</last-pattern>
       <last-replace>self</last-replace>
       <last-substitute>me</last-substitute>
       <last-dir>1</last-dir>
@@ -1386,10 +1397,6 @@
     </search>
     <history>
       <history-search>
-        <entry>showPop</entry>
-        <entry>$summernote</entry>
-        <entry>title</entry>
-        <entry>text-danger</entry>
         <entry>题图</entry>
         <entry>视频</entry>
         <entry>me</entry>
@@ -1406,11 +1413,12 @@
         <entry>minHeight</entry>
         <entry>buttoms</entry>
         <entry>buttons</entry>
+        <entry>fontSizes</entry>
+        <entry>picture</entry>
+        <entry>imageDialog.show</entry>
+        <entry>ImageDialog</entry>
       </history-search>
       <history-cmd>
-        <entry>74</entry>
-        <entry>q</entry>
-        <entry>6,8 s/padding/margin/g</entry>
         <entry>4,8 s/padding/margin/g</entry>
         <entry>44,55 s/#/m#/g</entry>
         <entry>44,55 s/: $i/: -$i/g</entry>
@@ -1427,6 +1435,9 @@
         <entry>555</entry>
         <entry>689</entry>
         <entry>557</entry>
+        <entry>5067</entry>
+        <entry>5607</entry>
+        <entry>5199</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
