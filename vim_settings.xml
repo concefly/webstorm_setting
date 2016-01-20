@@ -195,12 +195,12 @@
         <mark key="." line="39" column="18" />
         <mark key="[" line="39" column="19" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/article.detail.tpl" timestamp="1453197050889">
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/article.detail.tpl" timestamp="1453271557485">
         <mark key="'" line="31" column="67" />
-        <mark key="]" line="137" column="40" />
-        <mark key="^" line="45" column="53" />
-        <mark key="." line="137" column="40" />
-        <mark key="[" line="137" column="40" />
+        <mark key="]" line="12" column="36" />
+        <mark key="^" line="12" column="36" />
+        <mark key="." line="12" column="36" />
+        <mark key="[" line="10" column="112" />
       </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/app/Http/routes.php" timestamp="1450066115914">
         <mark key="]" line="136" column="44" />
@@ -652,12 +652,12 @@
         <mark key="." line="866" column="20" />
         <mark key="[" line="865" column="44" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/article.detail.js" timestamp="1453197192686">
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/article.detail.js" timestamp="1453271580405">
         <mark key="'" line="154" column="36" />
-        <mark key="]" line="180" column="13" />
-        <mark key="^" line="128" column="23" />
-        <mark key="." line="178" column="0" />
-        <mark key="[" line="178" column="0" />
+        <mark key="]" line="138" column="34" />
+        <mark key="^" line="138" column="34" />
+        <mark key="." line="138" column="34" />
+        <mark key="[" line="133" column="39" />
       </file>
       <file name="$USER_HOME$/project/heix/passport-frontend/libs/bootstrap/less/forms.less" timestamp="1452822054095">
         <mark key="'" line="140" column="26" />
@@ -1328,47 +1328,47 @@
       <jump line="113" column="25" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/validator2/bootstrapValidator.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8cCBjbGFzcz0iaGVscC1pbmxpbmUiPjwvcD4K</text>
+      <register name="&quot;" type="4">
+        <text>64</text>
       </register>
       <register name="3" type="4">
-        <text>parent</text>
-      </register>
-      <register name="2" type="4">
         <text>help</text>
       </register>
-      <register name="1" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICA8cCBjbGFzcz0iaGVscC1pbmxpbmUiPjwvcD4K</text>
+      </register>
+      <register name="1" type="4">
+        <text>64</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8cCBjbGFzcz0idGV4dC1lcnJvciI+PC9wPgo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAkZWwucGFyZW50cyhzZWxmLnBhcmVudCkuZmluZCgnLmhlbHAtaW5saW5lJykK</text>
-      </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>parent</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>td</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>reutrn</text>
+      </register>
+      <register name="4" type="4">
+        <text>parent</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>e</text>
-      </register>
-      <register name="8" type="4">
         <text>,</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAkZWwucGFyZW50cyhzZWxmLnBhcmVudCkuZmluZCgnLmhlbHAtaW5saW5lJykK</text>
       </register>
       <register name="/" type="4">
         <text>_submit</text>
       </register>
       <register name="-" type="4">
-        <text>help</text>
+        <text>64</text>
       </register>
     </registers>
     <search>
