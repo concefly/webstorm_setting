@@ -416,11 +416,10 @@
         <mark key="." line="12" column="60" />
         <mark key="[" line="12" column="60" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/validator/validator.js" timestamp="1453270780899">
-        <mark key="]" line="22" column="30" />
-        <mark key="^" line="22" column="30" />
-        <mark key="." line="22" column="30" />
-        <mark key="[" line="21" column="50" />
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/validator/validator.js" timestamp="1453273894527">
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="[" line="22" column="0" />
       </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/resources/assets/js/admin/admin.js" timestamp="1449823190742">
         <mark key="]" line="53" column="0" />
@@ -543,11 +542,11 @@
         <mark key="." line="4" column="18" />
         <mark key="[" line="4" column="12" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/author/author.detail.tpl" timestamp="1453189115737">
-        <mark key="]" line="41" column="21" />
-        <mark key="^" line="32" column="63" />
-        <mark key="." line="32" column="63" />
-        <mark key="[" line="37" column="0" />
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/author/author.detail.tpl" timestamp="1453273807974">
+        <mark key="]" line="7" column="53" />
+        <mark key="^" line="7" column="53" />
+        <mark key="." line="7" column="53" />
+        <mark key="[" line="7" column="55" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/tag/tag.js" timestamp="1452480562408">
         <mark key="'" line="86" column="17" />
@@ -708,11 +707,11 @@
         <mark key="." line="16" column="30" />
         <mark key="[" line="16" column="2" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/author-select/author-add.js" timestamp="1453270339331">
-        <mark key="]" line="21" column="13" />
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/author-select/author-add.js" timestamp="1453273939127">
+        <mark key="]" line="34" column="5" />
         <mark key="^" line="25" column="22" />
-        <mark key="." line="21" column="13" />
-        <mark key="[" line="21" column="13" />
+        <mark key="." line="34" column="5" />
+        <mark key="[" line="34" column="5" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/paragraph/title-primary.html" timestamp="1449555933840">
         <mark key="]" line="2" column="20" />
@@ -1163,11 +1162,11 @@
         <mark key="." line="2" column="0" />
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/author/author.detail.js" timestamp="1453188184889">
-        <mark key="]" line="91" column="0" />
-        <mark key="^" line="70" column="61" />
-        <mark key="." line="91" column="0" />
-        <mark key="[" line="91" column="0" />
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/author/author.detail.js" timestamp="1453273526190">
+        <mark key="]" line="37" column="23" />
+        <mark key="^" line="69" column="61" />
+        <mark key="." line="37" column="23" />
+        <mark key="[" line="37" column="23" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/views/check/template-index-check.html" timestamp="1449711733135">
         <mark key="]" line="41" column="41" />
@@ -1329,46 +1328,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>64</text>
+        <text>,</text>
       </register>
-      <register name="3" type="4">
-        <text>help</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZXZlbnQpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8cCBjbGFzcz0iaGVscC1pbmxpbmUiPjwvcD4K</text>
+        <text encoding="base64">ICAgIGNvbXBvbmVudHM6IHsKICAgICAgICB2YWxpZGF0b3I6IHJlcXVpcmUoIi9jb21wb25lbnRzL3ZhbGlkYXRvcjIvdmFsaWRhdG9yIikKICAgIH0K</text>
       </register>
       <register name="1" type="4">
-        <text>64</text>
+        <text>,</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8cCBjbGFzcz0idGV4dC1lcnJvciI+PC9wPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cCBjbGFzcz0idGV4dC1lcnJvciI+PC9wPgo=</text>
       </register>
-      <register name="7" type="4">
-        <text>parent</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cCBjbGFzcz0idGV4dC1lcnJvciI+PC9wPgo=</text>
       </register>
-      <register name="6" type="4">
-        <text>td</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cCBjbGFzcz0idGV4dC1lcnJvciI+PC9wPgo=</text>
       </register>
-      <register name="5" type="4">
-        <text>reutrn</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cCBjbGFzcz0idGV4dC1lcnJvciI+PC9wPgo=</text>
       </register>
       <register name="4" type="4">
-        <text>parent</text>
+        <text>&quot;</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>,</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmV2ZW50RGVmYXVsdCgpOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAkZWwucGFyZW50cyhzZWxmLnBhcmVudCkuZmluZCgnLmhlbHAtaW5saW5lJykK</text>
+      <register name="8" type="4">
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>_submit</text>
       </register>
       <register name="-" type="4">
-        <text>64</text>
+        <text>,</text>
       </register>
     </registers>
     <search>
