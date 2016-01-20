@@ -279,12 +279,12 @@
         <mark key="." line="7" column="42" />
         <mark key="[" line="7" column="41" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/editor.js" timestamp="1453278019736">
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/editor.js" timestamp="1453282224870">
         <mark key="'" line="26" column="26" />
-        <mark key="]" line="98" column="28" />
-        <mark key="^" line="98" column="28" />
-        <mark key="." line="98" column="28" />
-        <mark key="[" line="98" column="27" />
+        <mark key="]" line="91" column="20" />
+        <mark key="^" line="91" column="20" />
+        <mark key="." line="91" column="20" />
+        <mark key="[" line="91" column="19" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/file-upload/file-upload.js" timestamp="1450259135864">
         <mark key="]" line="3" column="26" />
@@ -503,9 +503,6 @@
         <mark key="^" line="93" column="27" />
         <mark key="." line="93" column="27" />
         <mark key="[" line="93" column="23" />
-      </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/validator/validator2.js" timestamp="1453255012637">
-        <mark key="[" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/grid/grid2.html" timestamp="1449643260277">
         <mark key="]" line="2" column="100" />
@@ -1072,8 +1069,11 @@
         <mark key="." line="26" column="23" />
         <mark key="[" line="29" column="25" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/plugin.article.js" timestamp="1453279471587">
-        <mark key="[" line="3" column="0" />
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/plugin.article.js" timestamp="1453281048429">
+        <mark key="]" line="24" column="29" />
+        <mark key="^" line="24" column="29" />
+        <mark key="." line="24" column="29" />
+        <mark key="[" line="21" column="2" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.list.js" timestamp="1450423705050">
         <mark key="]" line="53" column="40" />
@@ -1171,8 +1171,8 @@
         <mark key="." line="37" column="23" />
         <mark key="[" line="37" column="23" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" timestamp="1453279339973">
-        <mark key="'" line="6915" column="24" />
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" timestamp="1453281533589">
+        <mark key="'" line="6732" column="6" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/views/check/template-index-check.html" timestamp="1449711733135">
         <mark key="]" line="41" column="41" />
@@ -1230,28 +1230,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="851" column="17" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/validator2/bootstrapValidator.js" />
-      <jump line="856" column="17" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/validator2/bootstrapValidator.js" />
-      <jump line="937" column="55" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/validator2/bootstrapValidator.js" />
-      <jump line="939" column="37" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/validator2/bootstrapValidator.js" />
-      <jump line="1020" column="21" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/validator2/bootstrapValidator.js" />
-      <jump line="686" column="0" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/validator2/bootstrapValidator.js" />
-      <jump line="410" column="0" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/elements/elements.scss" />
-      <jump line="685" column="12" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/validator2/bootstrapValidator.js" />
-      <jump line="857" column="17" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/validator2/bootstrapValidator.js" />
-      <jump line="862" column="17" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/validator2/bootstrapValidator.js" />
-      <jump line="863" column="17" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/validator2/bootstrapValidator.js" />
-      <jump line="943" column="55" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/validator2/bootstrapValidator.js" />
-      <jump line="945" column="37" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/validator2/bootstrapValidator.js" />
-      <jump line="1026" column="21" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/validator2/bootstrapValidator.js" />
-      <jump line="51" column="13" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/validator2/bootstrapValidator.js" />
-      <jump line="113" column="25" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/validator2/bootstrapValidator.js" />
-      <jump line="26" column="26" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/editor.js" />
-      <jump line="187" column="55" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
-      <jump line="3211" column="15" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
-      <jump line="3217" column="72" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
-      <jump line="3218" column="10" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
-      <jump line="3219" column="40" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
       <jump line="3220" column="13" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
       <jump line="3224" column="23" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
       <jump line="3227" column="23" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
@@ -1330,55 +1308,77 @@
       <jump line="3257" column="0" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
       <jump line="5084" column="44" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
       <jump line="6915" column="24" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
+      <jump line="1709" column="10" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
+      <jump line="3770" column="44" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
+      <jump line="3769" column="38" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
+      <jump line="3762" column="0" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
+      <jump line="5956" column="22" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
+      <jump line="6126" column="22" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
+      <jump line="6442" column="22" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
+      <jump line="6721" column="9" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
+      <jump line="5752" column="22" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
+      <jump line="5749" column="24" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
+      <jump line="5741" column="24" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
+      <jump line="5604" column="48" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
+      <jump line="5603" column="32" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
+      <jump line="5597" column="12" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
+      <jump line="1861" column="53" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
+      <jump line="1852" column="8" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
+      <jump line="1849" column="10" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
+      <jump line="1532" column="35" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
+      <jump line="1531" column="18" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
+      <jump line="1530" column="10" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
+      <jump line="1529" column="22" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
+      <jump line="6732" column="6" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>bottom</text>
+        <text>e</text>
       </register>
       <register name="3" type="4">
-        <text>circle</text>
+        <text>&quot;articleStyle</text>
       </register>
       <register name="2" type="4">
-        <text>decimal</text>
+        <text>&quot;</text>
       </register>
       <register name="1" type="4">
-        <text>bottom</text>
+        <text>e</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBtYXJnaW4tYm90dG9tOiAxNXB4Owo=</text>
+        <text encoding="base64">cmVxdWlyZSgnc3VtbWVybm90ZScpOwo=</text>
       </register>
       <register name="7" type="4">
-        <text>form</text>
+        <text>dropdowns</text>
       </register>
       <register name="6" type="4">
-        <text>160</text>
+        <text>&quot;articleStyle&quot;</text>
       </register>
       <register name="5" type="4">
-        <text>en</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text>self</text>
+        <text>,</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGluaGVyaXQ6IGZhbHNlLAo=</text>
+      <register name="9" type="4">
+        <text>button</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHdhdGNoOiB7CiAgICAgICAgbW9kZWw6IGZ1bmN0aW9uKHZhbHVlKSB7CiAgICAgICAgICAgIHRoaXMuY29udHJvbC5zdW1tZXJub3RlKCJjb2RlIiwgdmFsdWUpOwogICAgICAgIH0KICAgIH0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="/" type="4">
-        <text>magic</text>
+        <text>buttons</text>
       </register>
       <register name="-" type="4">
-        <text>bottom</text>
+        <text>e</text>
       </register>
     </registers>
     <search>
-      <last-search>magic</last-search>
+      <last-search>buttons</last-search>
       <last-offset />
-      <last-pattern>magic</last-pattern>
+      <last-pattern>buttons</last-pattern>
       <last-replace>self</last-replace>
       <last-substitute>me</last-substitute>
       <last-dir>1</last-dir>
@@ -1386,9 +1386,6 @@
     </search>
     <history>
       <history-search>
-        <entry>code</entry>
-        <entry>get_user</entry>
-        <entry>Login</entry>
         <entry>showPop</entry>
         <entry>$summernote</entry>
         <entry>title</entry>
@@ -1406,6 +1403,9 @@
         <entry>style</entry>
         <entry>fa-magic</entry>
         <entry>magic</entry>
+        <entry>minHeight</entry>
+        <entry>buttoms</entry>
+        <entry>buttons</entry>
       </history-search>
       <history-cmd>
         <entry>74</entry>
