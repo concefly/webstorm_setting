@@ -195,23 +195,18 @@
         <mark key="." line="39" column="18" />
         <mark key="[" line="39" column="19" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/article.detail.tpl" timestamp="1453271557485">
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/article.detail.tpl" timestamp="1453275361048">
         <mark key="'" line="31" column="67" />
-        <mark key="]" line="12" column="36" />
+        <mark key="]" line="188" column="0" />
         <mark key="^" line="12" column="36" />
-        <mark key="." line="12" column="36" />
-        <mark key="[" line="10" column="112" />
+        <mark key="." line="188" column="0" />
+        <mark key="[" line="188" column="0" />
       </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/app/Http/routes.php" timestamp="1450066115914">
         <mark key="]" line="136" column="44" />
         <mark key="^" line="136" column="44" />
         <mark key="." line="136" column="44" />
         <mark key="[" line="136" column="17" />
-      </file>
-      <file name="$USER_HOME$/project/heix/passport-frontend/resources/signup/signup.blade.php" timestamp="1453102107154">
-        <mark key="]" line="14" column="4" />
-        <mark key="." line="13" column="0" />
-        <mark key="[" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/user/user.tag.js" timestamp="1450248525969">
         <mark key="]" line="41" column="26" />
@@ -439,11 +434,6 @@
         <mark key="." line="10" column="52" />
         <mark key="[" line="10" column="52" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/selector/single.js" timestamp="1453106796718">
-        <mark key="]" line="12" column="29" />
-        <mark key="." line="164" column="0" />
-        <mark key="[" line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/resources/assets/js/admin/components/modal/imageModal.vue" timestamp="1449822121728">
         <mark key="]" line="30" column="34" />
         <mark key="^" line="29" column="139" />
@@ -480,11 +470,6 @@
         <mark key="^" line="9" column="51" />
         <mark key="." line="9" column="51" />
         <mark key="[" line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/libs/vue-html-editor/vue-html-editor.js" timestamp="1453198600097">
-        <mark key="]" line="115" column="2" />
-        <mark key="." line="88" column="7" />
-        <mark key="[" line="104" column="0" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/author/author.list.js" timestamp="1450235430206">
         <mark key="]" line="67" column="1" />
@@ -934,11 +919,6 @@
         <mark key="." line="4" column="120" />
         <mark key="[" line="4" column="93" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/summernote/article.style.js" timestamp="1453109149634">
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-        <mark key="[" line="36" column="0" />
-      </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/permission/admin.list.tpl" timestamp="1452145814225">
         <mark key="]" line="29" column="44" />
         <mark key="^" line="29" column="44" />
@@ -986,12 +966,12 @@
         <mark key="." line="34" column="19" />
         <mark key="[" line="34" column="14" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/config/config.router.js" timestamp="1453082182553">
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/config/config.router.js" timestamp="1453275310816">
         <mark key="'" line="263" column="9" />
-        <mark key="]" line="412" column="32" />
-        <mark key="^" line="412" column="32" />
-        <mark key="." line="412" column="32" />
-        <mark key="[" line="412" column="19" />
+        <mark key="]" line="74" column="36" />
+        <mark key="^" line="74" column="36" />
+        <mark key="." line="74" column="36" />
+        <mark key="[" line="74" column="34" />
       </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/resources/assets/js/layout/header.js" timestamp="1449739354880">
         <mark key="]" line="19" column="40" />
@@ -1327,47 +1307,47 @@
       <jump line="113" column="25" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/validator2/bootstrapValidator.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8IS0tPGRpdj48aW5wdXQgdHlwZT0icmFkaW8iIG5hbWU9ImNhdGVnb3JpZXMiIHZhbHVlPTMgdi1tb2RlbD0iY3VycmVudENhdGVnb3J5Ij7mmbrog73noazku7Y8L2Rpdj4tLT4K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZXZlbnQpOwo=</text>
+      <register name="3" type="4">
+        <text>专题</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbXBvbmVudHM6IHsKICAgICAgICB2YWxpZGF0b3I6IHJlcXVpcmUoIi9jb21wb25lbnRzL3ZhbGlkYXRvcjIvdmFsaWRhdG9yIikKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPCEtLTxkaXY+PGlucHV0IHR5cGU9InJhZGlvIiBuYW1lPSJjYXRlZ29yaWVzIiB2YWx1ZT0zIHYtbW9kZWw9ImN1cnJlbnRDYXRlZ29yeSI+5pm66IO956Gs5Lu2PC9kaXY+LS0+Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>,</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8IS0tPGRpdj48aW5wdXQgdHlwZT0icmFkaW8iIG5hbWU9ImNhdGVnb3JpZXMiIHZhbHVlPTMgdi1tb2RlbD0iY3VycmVudENhdGVnb3J5Ij7mmbrog73noazku7Y8L2Rpdj4tLT4K</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cCBjbGFzcz0idGV4dC1lcnJvciI+PC9wPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxmaWxlLXVwbG9hZCA6dXBsb2FkZWQtaWQuc3luYz0iZGV0YWlsLmJhbm5lcl9pZCIgOnRva2VuLXVybD0icWluaXUudG9rZW5VcmwoKSIgOmNvbmZpZz0icWluaXUudXBsb2FkU2V0dGluZyI+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cCBjbGFzcz0idGV4dC1lcnJvciI+PC9wPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dHI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0aCBjbGFzcz0idnRvcCI+6KeG6aKR5bCB6Z2iPC90aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiB2LWlmPSJkZXRhaWwuYmFubmVyX2lkIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW1nIDpzcmM9InFpbml1LnByZXZpZXdVcmwrZGV0YWlsLmJhbm5lcl9pZCIgYWx0PSIiIGhlaWdodD0iMjAwIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGZpbGUtdXBsb2FkIDp1cGxvYWRlZC1pZC5zeW5jPSJkZXRhaWwuYmFubmVyX2lkIiA6dG9rZW4tdXJsPSJxaW5pdS50b2tlblVybCgpIiA6Y29uZmlnPSJxaW5pdS51cGxvYWRTZXR0aW5nIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YSBpZD0icGlja1ZpZGVvQ292ZXIiIGNsYXNzPSJidG4gYnRuLXN1Y2Nlc3MgYnRuLWZsYXQgYnRuVXBsb2FkIj7kuIrkvKDlm77niYc8L2E+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2ZpbGUtdXBsb2FkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGltYWdlLXNlbGVjdCA6aW1hZ2UtaWQuc3luYz0iZGV0YWlsLmJhbm5lcl9pZCI+PC9pbWFnZS1zZWxlY3Q+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC90cj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cCBjbGFzcz0idGV4dC1lcnJvciI+PC9wPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3RyPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cCBjbGFzcz0idGV4dC1lcnJvciI+PC9wPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dHI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0aCBjbGFzcz0idnRvcCI+6KeG6aKR5bCB6Z2iPC90aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiB2LWlmPSJkZXRhaWwuYmFubmVyX2lkIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW1nIDpzcmM9InFpbml1LnByZXZpZXdVcmwrZGV0YWlsLmJhbm5lcl9pZCIgYWx0PSIiIGhlaWdodD0iMjAwIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGZpbGUtdXBsb2FkIDp1cGxvYWRlZC1pZC5zeW5jPSJkZXRhaWwuYmFubmVyX2lkIiA6dG9rZW4tdXJsPSJxaW5pdS50b2tlblVybCgpIiA6Y29uZmlnPSJxaW5pdS51cGxvYWRTZXR0aW5nIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YSBpZD0icGlja1ZpZGVvQ292ZXIiIGNsYXNzPSJidG4gYnRuLXN1Y2Nlc3MgYnRuLWZsYXQgYnRuVXBsb2FkIj7kuIrkvKDlm77niYc8L2E+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2ZpbGUtdXBsb2FkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGltYWdlLXNlbGVjdCA6aW1hZ2UtaWQuc3luYz0iZGV0YWlsLmJhbm5lcl9pZCI+PC9pbWFnZS1zZWxlY3Q+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC90cj4K</text>
       </register>
-      <register name="4" type="4">
-        <text>&quot;</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0cj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGggY2xhc3M9InZ0b3AiPuinhumikeWwgemdojwvdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IHYtaWY9ImRldGFpbC5iYW5uZXJfaWQiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGltZyA6c3JjPSJxaW5pdS5wcmV2aWV3VXJsK2RldGFpbC5iYW5uZXJfaWQiIGFsdD0iIiBoZWlnaHQ9IjIwMCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZmlsZS11cGxvYWQgOnVwbG9hZGVkLWlkLnN5bmM9ImRldGFpbC5iYW5uZXJfaWQiIDp0b2tlbi11cmw9InFpbml1LnRva2VuVXJsKCkiIDpjb25maWc9InFpbml1LnVwbG9hZFNldHRpbmciPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgaWQ9InBpY2tWaWRlb0NvdmVyIiBjbGFzcz0iYnRuIGJ0bi1zdWNjZXNzIGJ0bi1mbGF0IGJ0blVwbG9hZCI+5LiK5Lyg5Zu+54mHPC9hPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2ZpbGUtdXBsb2FkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW1hZ2Utc2VsZWN0IDppbWFnZS1pZC5zeW5jPSJkZXRhaWwuYmFubmVyX2lkIj48L2ltYWdlLXNlbGVjdD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3RkPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC90cj4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmV2ZW50RGVmYXVsdCgpOwo=</text>
+        <text encoding="base64">ICAgIGNvbXBvbmVudHM6IHsKICAgICAgICB2YWxpZGF0b3I6IHJlcXVpcmUoIi9jb21wb25lbnRzL3ZhbGlkYXRvcjIvdmFsaWRhdG9yIikKICAgIH0K</text>
       </register>
       <register name="8" type="4">
-        <text>e</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>_submit</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>专题</text>
       </register>
     </registers>
     <search>
