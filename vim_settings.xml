@@ -243,11 +243,11 @@
         <mark key="." line="1" column="23" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/author-select/author-add.tpl" timestamp="1453254742998">
-        <mark key="]" line="7" column="94" />
-        <mark key="^" line="7" column="94" />
-        <mark key="." line="7" column="94" />
-        <mark key="[" line="3" column="73" />
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/author-select/author-add.tpl" timestamp="1453264328265">
+        <mark key="]" line="10" column="35" />
+        <mark key="^" line="0" column="34" />
+        <mark key="." line="10" column="0" />
+        <mark key="[" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/gulpfile.js" timestamp="1450060083570">
         <mark key="]" line="61" column="28" />
@@ -273,11 +273,11 @@
         <mark key="." line="13" column="0" />
         <mark key="[" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/validator2/validator.js" timestamp="1453256972296">
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="11" column="35" />
-        <mark key="." line="12" column="0" />
-        <mark key="[" line="12" column="0" />
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/validator2/validator.js" timestamp="1453264053696">
+        <mark key="]" line="10" column="26" />
+        <mark key="^" line="10" column="26" />
+        <mark key="." line="10" column="26" />
+        <mark key="[" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/background.scss" timestamp="1449474667050">
         <mark key="]" line="7" column="42" />
@@ -346,6 +346,7 @@
         <mark key="." line="44" column="93" />
         <mark key="[" line="44" column="89" />
       </file>
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/libs/bootstrap-validator/bootstrap-validator.js" timestamp="1453264107186" />
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/step/step-default.html" timestamp="1449634588710">
         <mark key="]" line="1" column="59" />
         <mark key="^" line="1" column="59" />
@@ -410,9 +411,11 @@
         <mark key="." line="12" column="60" />
         <mark key="[" line="12" column="60" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/validator/validator.js" timestamp="1453255198557">
-        <mark key="]" line="4" column="33" />
-        <mark key="[" line="4" column="0" />
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/validator/validator.js" timestamp="1453264278846">
+        <mark key="]" line="17" column="45" />
+        <mark key="^" line="17" column="45" />
+        <mark key="." line="17" column="45" />
+        <mark key="[" line="17" column="35" />
       </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/resources/assets/js/admin/admin.js" timestamp="1449823190742">
         <mark key="]" line="53" column="0" />
@@ -658,6 +661,7 @@
         <mark key="." line="122" column="18" />
         <mark key="[" line="122" column="15" />
       </file>
+      <file name="$USER_HOME$/project/heix/passport-frontend/libs/bootstrap/less/bootstrap-custom.less" timestamp="1452825812082" />
       <file name="$USER_HOME$/project/heix/passport-frontend/resources/login/template.tpl" timestamp="1452848942391">
         <mark key="]" line="24" column="95" />
         <mark key="^" line="24" column="95" />
@@ -700,11 +704,11 @@
         <mark key="." line="16" column="30" />
         <mark key="[" line="16" column="2" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/author-select/author-add.js" timestamp="1453201571573">
-        <mark key="]" line="30" column="47" />
-        <mark key="^" line="30" column="47" />
-        <mark key="." line="30" column="47" />
-        <mark key="[" line="30" column="44" />
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/author-select/author-add.js" timestamp="1453259722258">
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="37" column="42" />
+        <mark key="." line="26" column="0" />
+        <mark key="[" line="26" column="0" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/paragraph/title-primary.html" timestamp="1449555933840">
         <mark key="]" line="2" column="20" />
@@ -747,11 +751,22 @@
         <mark key="." line="4" column="0" />
         <mark key="[" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/validator2/bootstrapValidator.js" timestamp="1453263148030">
+        <mark key="'" line="113" column="25" />
+        <mark key="]" line="634" column="0" />
+        <mark key="." line="634" column="0" />
+        <mark key="[" line="634" column="0" />
+      </file>
       <file name="$USER_HOME$/project/pet/wechat/views/check/detail.js" timestamp="1449569791124">
         <mark key="]" line="21" column="44" />
         <mark key="^" line="21" column="44" />
         <mark key="." line="21" column="44" />
         <mark key="[" line="21" column="28" />
+      </file>
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/validator2/bootstrapValidator.css" timestamp="1453262544557">
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="[" line="12" column="0" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/author-select/author-select.js" timestamp="1450680935424">
         <mark key="]" line="23" column="0" />
@@ -856,14 +871,20 @@
         <mark key="." line="88" column="58" />
         <mark key="[" line="88" column="58" />
       </file>
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/validator2/validator.tpl" timestamp="1453258858017">
+        <mark key="]" line="2" column="34" />
+        <mark key="^" line="2" column="34" />
+        <mark key="." line="2" column="34" />
+        <mark key="[" line="2" column="20" />
+      </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/label.js" timestamp="1449481101574">
         <mark key="]" line="4" column="5" />
         <mark key="^" line="6" column="19" />
         <mark key="." line="4" column="5" />
         <mark key="[" line="6" column="23" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/elements/elements.scss" timestamp="1453253941472">
-        <mark key="'" line="230" column="19" />
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/elements/elements.scss" timestamp="1453262563621">
+        <mark key="'" line="410" column="0" />
       </file>
       <file name="$USER_HOME$/project/heix/passport-frontend/libs/utils/qqSDK.js" timestamp="1453101713906">
         <mark key="'" line="1208" column="4" />
@@ -980,11 +1001,11 @@
         <mark key="." line="24" column="0" />
         <mark key="[" line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/author-select/author-select.js" timestamp="1453201669164">
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/author-select/author-select.js" timestamp="1453258517745">
         <mark key="]" line="44" column="28" />
         <mark key="^" line="44" column="28" />
         <mark key="." line="44" column="28" />
-        <mark key="[" line="43" column="31" />
+        <mark key="[" line="44" column="29" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/fis-conf.js" timestamp="1449644256423">
         <mark key="]" line="136" column="61" />
@@ -1053,10 +1074,6 @@
         <mark key="^" line="53" column="40" />
         <mark key="." line="53" column="40" />
         <mark key="[" line="52" column="31" />
-      </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/article.list.tpl" timestamp="1452498649600">
-        <mark key="]" line="220" column="139" />
-        <mark key="[" line="220" column="0" />
       </file>
       <file name="$USER_HOME$/project/heix/passport-frontend/libs/utils/vue.js" timestamp="1452843323585">
         <mark key="]" line="6" column="26" />
@@ -1205,40 +1222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="615" column="12" filename="$USER_HOME$/project/heix/passport-frontend/libs/utils/qc.js" />
-      <jump line="620" column="12" filename="$USER_HOME$/project/heix/passport-frontend/libs/utils/qc.js" />
-      <jump line="643" column="49" filename="$USER_HOME$/project/heix/passport-frontend/libs/utils/qc.js" />
-      <jump line="700" column="103" filename="$USER_HOME$/project/heix/passport-frontend/libs/utils/qc.js" />
-      <jump line="790" column="16" filename="$USER_HOME$/project/heix/passport-frontend/libs/utils/qc.js" />
-      <jump line="837" column="101" filename="$USER_HOME$/project/heix/passport-frontend/libs/utils/qc.js" />
-      <jump line="857" column="20" filename="$USER_HOME$/project/heix/passport-frontend/libs/utils/qc.js" />
-      <jump line="860" column="199" filename="$USER_HOME$/project/heix/passport-frontend/libs/utils/qc.js" />
-      <jump line="914" column="16" filename="$USER_HOME$/project/heix/passport-frontend/libs/utils/qc.js" />
-      <jump line="1003" column="32" filename="$USER_HOME$/project/heix/passport-frontend/libs/utils/qc.js" />
-      <jump line="1091" column="62" filename="$USER_HOME$/project/heix/passport-frontend/libs/utils/qc.js" />
-      <jump line="967" column="79" filename="$USER_HOME$/project/heix/passport-frontend/libs/utils/qqSDK.js" />
-      <jump line="975" column="174" filename="$USER_HOME$/project/heix/passport-frontend/libs/utils/qqSDK.js" />
-      <jump line="1201" column="38" filename="$USER_HOME$/project/heix/passport-frontend/libs/utils/qqSDK.js" />
-      <jump line="1226" column="16" filename="$USER_HOME$/project/heix/passport-frontend/libs/utils/qqSDK.js" />
-      <jump line="1230" column="16" filename="$USER_HOME$/project/heix/passport-frontend/libs/utils/qqSDK.js" />
-      <jump line="1234" column="16" filename="$USER_HOME$/project/heix/passport-frontend/libs/utils/qqSDK.js" />
-      <jump line="1238" column="16" filename="$USER_HOME$/project/heix/passport-frontend/libs/utils/qqSDK.js" />
-      <jump line="1242" column="16" filename="$USER_HOME$/project/heix/passport-frontend/libs/utils/qqSDK.js" />
-      <jump line="1246" column="16" filename="$USER_HOME$/project/heix/passport-frontend/libs/utils/qqSDK.js" />
-      <jump line="1250" column="16" filename="$USER_HOME$/project/heix/passport-frontend/libs/utils/qqSDK.js" />
-      <jump line="1254" column="16" filename="$USER_HOME$/project/heix/passport-frontend/libs/utils/qqSDK.js" />
-      <jump line="1258" column="16" filename="$USER_HOME$/project/heix/passport-frontend/libs/utils/qqSDK.js" />
-      <jump line="1262" column="16" filename="$USER_HOME$/project/heix/passport-frontend/libs/utils/qqSDK.js" />
-      <jump line="1266" column="16" filename="$USER_HOME$/project/heix/passport-frontend/libs/utils/qqSDK.js" />
-      <jump line="1270" column="16" filename="$USER_HOME$/project/heix/passport-frontend/libs/utils/qqSDK.js" />
-      <jump line="1274" column="16" filename="$USER_HOME$/project/heix/passport-frontend/libs/utils/qqSDK.js" />
-      <jump line="1278" column="16" filename="$USER_HOME$/project/heix/passport-frontend/libs/utils/qqSDK.js" />
-      <jump line="1282" column="16" filename="$USER_HOME$/project/heix/passport-frontend/libs/utils/qqSDK.js" />
-      <jump line="1286" column="16" filename="$USER_HOME$/project/heix/passport-frontend/libs/utils/qqSDK.js" />
-      <jump line="1290" column="16" filename="$USER_HOME$/project/heix/passport-frontend/libs/utils/qqSDK.js" />
-      <jump line="1294" column="16" filename="$USER_HOME$/project/heix/passport-frontend/libs/utils/qqSDK.js" />
-      <jump line="1298" column="24" filename="$USER_HOME$/project/heix/passport-frontend/libs/utils/qqSDK.js" />
-      <jump line="1299" column="28" filename="$USER_HOME$/project/heix/passport-frontend/libs/utils/qqSDK.js" />
       <jump line="1303" column="32" filename="$USER_HOME$/project/heix/passport-frontend/libs/utils/qqSDK.js" />
       <jump line="483" column="26" filename="$USER_HOME$/project/heix/passport-frontend/libs/utils/qqSDK.js" />
       <jump line="812" column="8" filename="$USER_HOME$/project/heix/passport-frontend/libs/utils/qqSDK.js" />
@@ -1305,55 +1288,89 @@
       <jump line="366" column="85" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/elements/elements.scss" />
       <jump line="369" column="17" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/elements/elements.scss" />
       <jump line="230" column="19" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/elements/elements.scss" />
+      <jump line="27" column="81" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/validator2/bootstrapValidator.js" />
+      <jump line="50" column="58" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/validator2/bootstrapValidator.js" />
+      <jump line="94" column="61" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/validator2/bootstrapValidator.js" />
+      <jump line="106" column="21" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/validator2/bootstrapValidator.js" />
+      <jump line="110" column="45" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/validator2/bootstrapValidator.js" />
+      <jump line="111" column="26" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/validator2/bootstrapValidator.js" />
+      <jump line="112" column="47" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/validator2/bootstrapValidator.js" />
+      <jump line="129" column="71" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/validator2/bootstrapValidator.js" />
+      <jump line="130" column="37" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/validator2/bootstrapValidator.js" />
+      <jump line="131" column="39" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/validator2/bootstrapValidator.js" />
+      <jump line="133" column="51" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/validator2/bootstrapValidator.js" />
+      <jump line="135" column="57" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/validator2/bootstrapValidator.js" />
+      <jump line="139" column="40" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/validator2/bootstrapValidator.js" />
+      <jump line="162" column="0" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/validator2/bootstrapValidator.js" />
+      <jump line="1947" column="9" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/validator2/bootstrapValidator.js" />
+      <jump line="544" column="42" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/validator2/bootstrapValidator.js" />
+      <jump line="553" column="52" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/validator2/bootstrapValidator.js" />
+      <jump line="628" column="8" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/validator2/bootstrapValidator.js" />
+      <jump line="851" column="17" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/validator2/bootstrapValidator.js" />
+      <jump line="856" column="17" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/validator2/bootstrapValidator.js" />
+      <jump line="937" column="55" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/validator2/bootstrapValidator.js" />
+      <jump line="939" column="37" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/validator2/bootstrapValidator.js" />
+      <jump line="1020" column="21" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/validator2/bootstrapValidator.js" />
+      <jump line="686" column="0" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/validator2/bootstrapValidator.js" />
+      <jump line="410" column="0" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/elements/elements.scss" />
+      <jump line="685" column="12" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/validator2/bootstrapValidator.js" />
+      <jump line="857" column="17" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/validator2/bootstrapValidator.js" />
+      <jump line="862" column="17" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/validator2/bootstrapValidator.js" />
+      <jump line="863" column="17" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/validator2/bootstrapValidator.js" />
+      <jump line="943" column="55" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/validator2/bootstrapValidator.js" />
+      <jump line="945" column="37" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/validator2/bootstrapValidator.js" />
+      <jump line="1026" column="21" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/validator2/bootstrapValidator.js" />
+      <jump line="51" column="13" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/validator2/bootstrapValidator.js" />
+      <jump line="113" column="25" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/validator2/bootstrapValidator.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICogQHR5cGUge3twcm9wczoge2ZpZWxkczoge3R5cGU6IE9iamVjdCwgcmVxdWlyZWQ6IGJvb2xlYW59LCBzdWJtaXRCdG46IHt0eXBlOiBTdHJpbmcsIGRlZmF1bHQ6IG1vZHVsZS5leHBvcnRzLnByb3BzLnN1Ym1pdEJ0bi5kZWZhdWx0fX0sIHRlbXBsYXRlOiBzdHJpbmcsIHJlYWR5OiBtb2R1bGUuZXhwb3J0cy5yZWFkeX19Cg==</text>
+        <text encoding="base64">ICAgICAgICA8cCBjbGFzcz0iaGVscC1pbmxpbmUiPjwvcD4K</text>
       </register>
-      <register name="3" type="4">
-        <text>formValidation</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIDwvdGVtcGxhdGU+Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>This value is not valid</text>
+        <text>parents</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICogQHR5cGUge3twcm9wczoge2ZpZWxkczoge3R5cGU6IE9iamVjdCwgcmVxdWlyZWQ6IGJvb2xlYW59LCBzdWJtaXRCdG46IHt0eXBlOiBTdHJpbmcsIGRlZmF1bHQ6IG1vZHVsZS5leHBvcnRzLnByb3BzLnN1Ym1pdEJ0bi5kZWZhdWx0fX0sIHRlbXBsYXRlOiBzdHJpbmcsIHJlYWR5OiBtb2R1bGUuZXhwb3J0cy5yZWFkeX19Cg==</text>
+      <register name="1" type="4">
+        <text>'</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgJCA9IHJlcXVpcmUoJ2pxdWVyeScpCg==</text>
+        <text encoding="base64">ICAgICAgICA8cCBjbGFzcz0iaGVscC1pbmxpbmUiPjwvcD4K</text>
       </register>
-      <register name="7" type="4">
-        <text>p</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZS5wcmV2ZW50RGVmYXVsdCgpOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>form-grou</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="4">
-        <text>form-group</text>
+        <text>:fields=&quot;fields&quot;</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVmYXVsdDogZnVuY3Rpb24oKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gewogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIDx0ZW1wbGF0ZSBzbG90PSJmb3JtIj4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>form-group</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYoaXNWYWxpZCkgewo=</text>
       </register>
-      <register name="8" type="4">
-        <text />
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="/" type="4">
-        <text>form</text>
+        <text>_submit</text>
       </register>
       <register name="-" type="4">
-        <text>This value is not valid</text>
+        <text>'</text>
       </register>
     </registers>
     <search>
-      <last-search>form</last-search>
+      <last-search>_submit</last-search>
       <last-offset />
-      <last-pattern>form</last-pattern>
+      <last-pattern>_submit</last-pattern>
       <last-replace>self</last-replace>
       <last-substitute>me</last-substitute>
       <last-dir>1</last-dir>
@@ -1361,12 +1378,6 @@
     </search>
     <history>
       <history-search>
-        <entry>fontSize</entry>
-        <entry>response_type</entry>
-        <entry>window.top</entry>
-        <entry>window</entry>
-        <entry>user_ctt</entry>
-        <entry>javascript:logout()</entry>
         <entry>get_user_info</entry>
         <entry>api</entry>
         <entry>auth</entry>
@@ -1381,11 +1392,14 @@
         <entry>视频</entry>
         <entry>me</entry>
         <entry>form</entry>
+        <entry>submit</entry>
+        <entry>submitHandler</entry>
+        <entry>handler</entry>
+        <entry>_onError</entry>
+        <entry>help-block</entry>
+        <entry>_submit</entry>
       </history-search>
       <history-cmd>
-        <entry>s/avatar_url/avatar_id/g</entry>
-        <entry>112,130 s/getData/getShow</entry>
-        <entry>102,122 s/getData/getInitial</entry>
         <entry>74</entry>
         <entry>q</entry>
         <entry>6,8 s/padding/margin/g</entry>
@@ -1402,6 +1416,9 @@
         <entry>s/$summernote/control</entry>
         <entry>203,215 s/title/abstract/g</entry>
         <entry>70,77 s/me/self/g</entry>
+        <entry>555</entry>
+        <entry>689</entry>
+        <entry>557</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
