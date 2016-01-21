@@ -626,6 +626,9 @@
         <mark key="." line="13" column="23" />
         <mark key="[" line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/uploader/uploader.js" timestamp="1453367159475">
+        <mark key="[" line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/user/user.list.js" timestamp="1450237301831">
         <mark key="]" line="51" column="26" />
         <mark key="^" line="51" column="26" />
@@ -1038,6 +1041,11 @@
         <mark key="^" line="6" column="17" />
         <mark key="." line="6" column="17" />
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/uploader/uploader.simple.js" timestamp="1453367284236">
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/article-style/article-style.scss" timestamp="1453286392594">
         <mark key="]" line="77" column="16" />
