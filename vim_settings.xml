@@ -189,12 +189,12 @@
         <mark key="." line="39" column="18" />
         <mark key="[" line="39" column="19" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/article.detail.tpl" timestamp="1453285453769">
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/article.detail.tpl" timestamp="1453340888383">
         <mark key="'" line="31" column="67" />
-        <mark key="]" line="95" column="36" />
-        <mark key="^" line="12" column="36" />
-        <mark key="." line="95" column="36" />
-        <mark key="[" line="95" column="0" />
+        <mark key="]" line="144" column="65" />
+        <mark key="^" line="144" column="65" />
+        <mark key="." line="144" column="65" />
+        <mark key="[" line="143" column="114" />
       </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/app/Http/routes.php" timestamp="1450066115914">
         <mark key="]" line="136" column="44" />
@@ -279,12 +279,12 @@
         <mark key="." line="7" column="42" />
         <mark key="[" line="7" column="41" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/editor.js" timestamp="1453288238171">
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/editor.js" timestamp="1453341001856">
         <mark key="'" line="26" column="26" />
-        <mark key="]" line="55" column="39" />
-        <mark key="^" line="55" column="39" />
-        <mark key="." line="55" column="39" />
-        <mark key="[" line="55" column="33" />
+        <mark key="]" line="55" column="32" />
+        <mark key="^" line="55" column="32" />
+        <mark key="." line="55" column="32" />
+        <mark key="[" line="55" column="32" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/file-upload/file-upload.js" timestamp="1450259135864">
         <mark key="]" line="3" column="26" />
@@ -648,12 +648,12 @@
         <mark key="." line="866" column="20" />
         <mark key="[" line="865" column="44" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/article.detail.js" timestamp="1453271580405">
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/article.detail.js" timestamp="1453340773064">
         <mark key="'" line="154" column="36" />
-        <mark key="]" line="138" column="34" />
-        <mark key="^" line="138" column="34" />
-        <mark key="." line="138" column="34" />
-        <mark key="[" line="133" column="39" />
+        <mark key="]" line="133" column="40" />
+        <mark key="^" line="133" column="40" />
+        <mark key="." line="133" column="40" />
+        <mark key="[" line="134" column="35" />
       </file>
       <file name="$USER_HOME$/project/heix/passport-frontend/libs/bootstrap/less/forms.less" timestamp="1452822054095">
         <mark key="'" line="140" column="26" />
@@ -1344,37 +1344,37 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>picture</text>
       </register>
       <register name="3" type="4">
         <text>,</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9uQmx1cjogZnVuY3Rpb24oKSB7CiAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2cobWUuY29udHJvbC5zdW1tZXJub3RlKCJjcmVhdGVSYW5nZSIpKTsKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICBvbkZvY3VzOiBmdW5jdGlvbigpIHsKICAgICAgICAgICAgICAgICAgICAvL21lLmNvbnRyb2wuc3VtbWVybm90ZSgicmVzdG9yZVJhbmdlIik7CiAgICAgICAgICAgICAgICB9Cg==</text>
+      <register name="2" type="4">
+        <text>&quot;</text>
       </register>
       <register name="1" type="4">
-        <text>,</text>
+        <text>picture</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtZS5jb250cm9sLnN1bW1lcm5vdGUoInNhdmVSYW5nZSIpOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtZS5jb250cm9sLmNvZGUobWUubW9kZWwpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>saveRange</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIG9uQmx1cjogZnVuY3Rpb24oKSB7CiAgICAgICAgICAgICAgICAgICAgbWUuY29udHJvbC5zdW1tZXJub3RlKCJzYXZlUmFuZ2UiKTsKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICBvbkZvY3VzOiBmdW5jdGlvbigpIHsKICAgICAgICAgICAgICAgICAgICBtZS5jb250cm9sLnN1bW1lcm5vdGUoInJlc3RvcmVSYW5nZSIpOwogICAgICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="5" type="4">
+        <text>,</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9uQmx1cjogZnVuY3Rpb24oKSB7CiAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2cobWUuY29udHJvbC5zdW1tZXJub3RlKCJjcmVhdGVSYW5nZSIpKTsKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICBvbkZvY3VzOiBmdW5jdGlvbigpIHsKICAgICAgICAgICAgICAgICAgICAvL21lLmNvbnRyb2wuc3VtbWVybm90ZSgicmVzdG9yZVJhbmdlIik7CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb25Jbml0OiBmdW5jdGlvbigpIHsKICAgICAgICAgICAgICAgIG1lLmNvbnRyb2wuY29kZShtZS5tb2RlbCk7CiAgICAgICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtZS5jb250cm9sLmNvZGUobWUubW9kZWwpOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -1383,7 +1383,7 @@
         <text>ImageDialog</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>picture</text>
       </register>
     </registers>
     <search>
@@ -1482,6 +1482,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
