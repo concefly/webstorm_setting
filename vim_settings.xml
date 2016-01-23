@@ -71,11 +71,11 @@
         <mark key="." line="1" column="25" />
         <mark key="[" line="1" column="36" />
       </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/resources/layout.blade.php" timestamp="1453518816507">
-        <mark key="]" line="63" column="6" />
-        <mark key="^" line="63" column="6" />
-        <mark key="." line="63" column="6" />
-        <mark key="[" line="61" column="10" />
+      <file name="$USER_HOME$/project/heix/cms-frontend/resources/layout.blade.php" timestamp="1453521567302">
+        <mark key="]" line="17" column="37" />
+        <mark key="^" line="17" column="37" />
+        <mark key="." line="17" column="37" />
+        <mark key="[" line="17" column="7" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/article.scss" timestamp="1449221982648">
         <mark key="]" line="6" column="16" />
@@ -604,8 +604,11 @@
         <mark key="." line="24" column="22" />
         <mark key="[" line="24" column="21" />
       </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/resources/header.js" timestamp="1453518417978">
-        <mark key="[" line="3" column="0" />
+      <file name="$USER_HOME$/project/heix/cms-frontend/resources/header.js" timestamp="1453521465518">
+        <mark key="]" line="22" column="36" />
+        <mark key="^" line="22" column="36" />
+        <mark key="." line="22" column="36" />
+        <mark key="[" line="20" column="48" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/permission/admin-list.js" timestamp="1452076665034">
         <mark key="]" line="4" column="0" />
@@ -671,9 +674,6 @@
         <mark key="^" line="13" column="23" />
         <mark key="." line="13" column="23" />
         <mark key="[" line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/uploader/uploader.js" timestamp="1453367159475">
-        <mark key="[" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/user/user.list.js" timestamp="1450237301831">
         <mark key="]" line="51" column="26" />
@@ -1450,46 +1450,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>| publish_time</text>
+        <text>;</text>
       </register>
       <register name="3" type="4">
-        <text>&quot;</text>
+        <text>| publish_time</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>hover</text>
       </register>
       <register name="1" type="4">
-        <text>| publish_time</text>
+        <text>;</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QGluY2x1ZGUgdGV4dC1lbXBoYXNpcy12YXJpYW50KCcudGV4dC1kYW5nZXInLCAkc3RhdGUtZGFuZ2VyLXRleHQpOwo=</text>
       </register>
       <register name="7" type="4">
-        <text>暂</text>
-      </register>
-      <register name="6" type="4">
-        <text>无</text>
-      </register>
-      <register name="5" type="4">
         <text>数</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>据</text>
+      </register>
+      <register name="5" type="4">
+        <text>&quot;</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>:</text>
+        <text>暂</text>
       </register>
       <register name="8" type="4">
-        <text>&quot;</text>
+        <text>无</text>
       </register>
       <register name="/" type="4">
         <text>font-size</text>
       </register>
       <register name="-" type="4">
-        <text>| publish_time</text>
+        <text>;</text>
       </register>
     </registers>
     <search>
