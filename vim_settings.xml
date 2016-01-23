@@ -71,11 +71,11 @@
         <mark key="." line="1" column="25" />
         <mark key="[" line="1" column="36" />
       </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/resources/layout.blade.php" timestamp="1453460746046">
-        <mark key="]" line="8" column="60" />
-        <mark key="^" line="8" column="60" />
-        <mark key="." line="8" column="60" />
-        <mark key="[" line="8" column="33" />
+      <file name="$USER_HOME$/project/heix/cms-frontend/resources/layout.blade.php" timestamp="1453515684952">
+        <mark key="]" line="32" column="42" />
+        <mark key="^" line="32" column="42" />
+        <mark key="." line="32" column="42" />
+        <mark key="[" line="30" column="18" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/article.scss" timestamp="1449221982648">
         <mark key="]" line="6" column="16" />
@@ -717,12 +717,12 @@
         <mark key="." line="24" column="95" />
         <mark key="[" line="21" column="83" />
       </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/article.blade.php" timestamp="1453461807993">
+      <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/article.blade.php" timestamp="1453514955884">
         <mark key="'" line="74" column="31" />
-        <mark key="]" line="52" column="40" />
-        <mark key="^" line="52" column="40" />
-        <mark key="." line="52" column="40" />
-        <mark key="[" line="52" column="40" />
+        <mark key="]" line="86" column="40" />
+        <mark key="^" line="86" column="40" />
+        <mark key="." line="86" column="40" />
+        <mark key="[" line="86" column="30" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/selector/wrapper.tpl" timestamp="1453111192578">
         <mark key="]" line="5" column="51" />
@@ -1428,46 +1428,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>nickname</text>
+        <text>-fluid</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7JGFydGljbGUtPmFic3RyYWN0fX0K</text>
+      <register name="3" type="4">
+        <text>HEADER</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      <register name="2" type="4">
+        <text>Brand</text>
       </register>
       <register name="1" type="4">
-        <text>nickname</text>
+        <text>-fluid</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHA+e3skYXJ0aWNsZS0+YXV0aG9yLT5uaWNrbmFtZSBvciAiIn19PC9wPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdj4KICAgICAgICAgICAgICAgIFRBR1MKICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgIDxociBjbGFzcz0idGhpY2tuZXNzIHV0aWwtbWItNTAiPgo=</text>
       </register>
       <register name="6" type="4">
-        <text>6px</text>
+        <text>10</text>
       </register>
       <register name="5" type="4">
-        <text>#f5f5f5</text>
+        <text>10</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">ZGFya2VuKCR3ZWxsLWJnLCA3JSkg</text>
+        <text>div</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3skdGFnLT50aXRsZX19PC9zcGFuPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0ibGFiZWwgbGFiZWwtcHJpbWFyeSI+Cg==</text>
+      <register name="8" type="4">
+        <text>nickname</text>
       </register>
       <register name="/" type="4">
         <text>body</text>
       </register>
       <register name="-" type="4">
-        <text>nickname</text>
+        <text>-fluid</text>
       </register>
     </registers>
     <search>
