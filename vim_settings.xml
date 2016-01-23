@@ -1056,9 +1056,6 @@
         <mark key="[" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/config/config.vue.js" timestamp="1453519664509">
-        <mark key="]" line="70" column="11" />
-        <mark key="^" line="70" column="11" />
-        <mark key="." line="70" column="11" />
         <mark key="[" line="67" column="13" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/textalign.scss" timestamp="1449454193632">
@@ -1151,11 +1148,11 @@
         <mark key="." line="6" column="17" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/article-style/article-style.scss" timestamp="1453286392594">
-        <mark key="]" line="77" column="16" />
-        <mark key="^" line="77" column="16" />
-        <mark key="." line="77" column="16" />
-        <mark key="[" line="71" column="9" />
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/article-style/article-style.scss" timestamp="1453534335938">
+        <mark key="]" line="41" column="15" />
+        <mark key="^" line="26" column="16" />
+        <mark key="." line="41" column="15" />
+        <mark key="[" line="41" column="14" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/views/check/third.html" timestamp="1449631386242">
         <mark key="]" line="40" column="5" />
@@ -1181,11 +1178,12 @@
         <mark key="." line="26" column="23" />
         <mark key="[" line="29" column="25" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/plugin.article.js" timestamp="1453365462322">
-        <mark key="'" line="95" column="30" />
-        <mark key="]" line="110" column="36" />
-        <mark key="." line="110" column="36" />
-        <mark key="[" line="110" column="36" />
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/plugin.article.js" timestamp="1453534243838">
+        <mark key="'" line="83" column="30" />
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="43" column="27" />
+        <mark key="." line="44" column="0" />
+        <mark key="[" line="44" column="0" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/article.list.tpl" timestamp="1453519418733">
         <mark key="'" line="165" column="80" />
@@ -1461,47 +1459,47 @@
       <jump line="91" column="23" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IGNsYXNzPSJ0aHVtYm5haWwi</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBmb250LXNpemU6IDE4cHg7Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGltZyBzcmM9Int7ZW52KCdRTl9DRE4nKX19e3skYS0+Y292ZXJfaWR9fSIgYWx0PSIiPgo=</text>
+      <register name="3" type="4">
+        <text>标题1</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IGNsYXNzPSJ0aHVtYm5haWwi</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjYXNlICLmoIfpopg0IjoKICAgICAgICAgICAgICAgICAgICAgICAgY29udGV4dC5pbnZva2UoImZvcm1hdEg0Iik7CiAgICAgICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgICAgIGNhc2UgIuagh+mimDUiOgogICAgICAgICAgICAgICAgICAgICAgICBjb250ZXh0Lmludm9rZSgiZm9ybWF0SDUiKTsKICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICAgICAgY2FzZSAi5qCH6aKYNiI6CiAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRleHQuaW52b2tlKCJmb3JtYXRINiIpOwogICAgICAgICAgICAgICAgICAgICAgICBicmVhazsK</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IGNsYXNzPSJ0aHVtYm5haWwi</text>
+        <text>25px</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">e3tlbnYoJ1FOX0NETicpfX17eyRhLT5jb3Zlcl9pZH19</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBmb250LXNpemU6IDE4cHg7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>o</text>
+        <text encoding="base64">IGNsYXNzPSJ0aHVtYm5haWwi</text>
       </register>
       <register name="6" type="4">
-        <text>m</text>
+        <text encoding="base64">IGNsYXNzPSJ0aHVtYm5haWwi</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      <register name="5" type="4">
+        <text>标题1</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSIvYXJ0aWNsZS97eyRhLT5pZH19IiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9InRodW1ibmFpbCI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICLmoIfpopg0IiwKICAgICAgICAgICAgICAgICLmoIfpopg1IiwKICAgICAgICAgICAgICAgICLmoIfpopg2IiwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>t</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSIvYXJ0aWNsZS97eyRhLT5pZH19IiB0YXJnZXQ9Il9ibGFuayIgY2xhc3M9InRodW1ibmFpbCI+Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>t</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGltZyBzcmM9Int7ZW52KCdRTl9DRE4nKX19e3skYS0+Y292ZXJfaWR9fSIgYWx0PSIiPgo=</text>
       </register>
       <register name="/" type="4">
         <text>font-size</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGNsYXNzPSJ0aHVtYm5haWwi</text>
+        <text>25px</text>
       </register>
     </registers>
     <search>
