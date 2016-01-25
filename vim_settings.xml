@@ -826,11 +826,10 @@
         <mark key="." line="7" column="15" />
         <mark key="[" line="5" column="12" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/article.list.js" timestamp="1453714934467">
-        <mark key="]" line="57" column="24" />
-        <mark key="^" line="120" column="23" />
-        <mark key="." line="57" column="0" />
-        <mark key="[" line="57" column="0" />
+      <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/article.list.js" timestamp="1453715867903">
+        <mark key="]" line="110" column="0" />
+        <mark key="." line="110" column="0" />
+        <mark key="[" line="110" column="0" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/views/check/template-index-analyze.html" timestamp="1449744951695">
         <mark key="]" line="41" column="138" />
@@ -1336,40 +1335,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYodGhpcy5nZXRQdWJsaXNoVGltZShpdGVtKSkgewogICAgICAgICAgICAgICAgYWxlcnQoIuivt+WFiOWPlua2iOWumuaXtuWPkeW4gyIpOwogICAgICAgICAgICAgICAgcmV0dXJuIDsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuaW5mbyA9ICLorr7nva7lpLHotKUiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYodGhpcy5nZXRQdWJsaXNoVGltZShpdGVtKSkgewogICAgICAgICAgICAgICAgYWxlcnQoIuivt+WFiOWPlua2iOWumuaXtuWPkeW4gyIpOwogICAgICAgICAgICAgICAgcmV0dXJuIDsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuZGlzYWJsZSA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYodGhpcy5nZXRQdWJsaXNoVGltZShpdGVtKSkgewogICAgICAgICAgICAgICAgYWxlcnQoIuivt+WFiOWPlua2iOWumuaXtuWPkeW4gyIpOwogICAgICAgICAgICAgICAgcmV0dXJuIDsKICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>data.publish_time</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYodGhpcy5nZXRQdWJsaXNoVGltZShpdGVtKSkgewogICAgICAgICAgICAgICAgYWxlcnQoIuivt+WFiOWPlua2iOWumuaXtuWPkeW4gyIpOwogICAgICAgICAgICAgICAgcmV0dXJuIDsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiA7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>Math.floor(time)</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuY2hhbmdlU3RhdGUoInN0YXRpYyIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuaW5mbyA9ICIiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuaW5mbyA9ICLorr7nva7lpLHotKUiOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuZGlzYWJsZSA9IGZhbHNlOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuY2hhbmdlU3RhdGUoInN0YXRpYyIpOwo=</text>
+      <register name="4" type="4">
+        <text>data.publish_time</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>this.publishTimeStamp</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuaW5mbyA9ICIiOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5fc2V0VGltZXIoMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuZGlzYWJsZSA9IGZhbHNlOwo=</text>
       </register>
       <register name="/" type="4">
         <text>hour</text>
