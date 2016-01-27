@@ -72,11 +72,17 @@
         <mark key="." line="1" column="25" />
         <mark key="[" line="1" column="36" />
       </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/resources/layout.blade.php" timestamp="1453795949559">
-        <mark key="]" line="176" column="35" />
-        <mark key="^" line="137" column="121" />
-        <mark key="." line="176" column="35" />
-        <mark key="[" line="176" column="35" />
+      <file name="$USER_HOME$/project/heix/cms-frontend/resources/user/profile/add_tag_dialog.tpl" timestamp="1453866793915">
+        <mark key="]" line="4" column="183" />
+        <mark key="^" line="4" column="183" />
+        <mark key="." line="4" column="183" />
+        <mark key="[" line="4" column="173" />
+      </file>
+      <file name="$USER_HOME$/project/heix/cms-frontend/resources/layout.blade.php" timestamp="1453867253930">
+        <mark key="]" line="232" column="26" />
+        <mark key="^" line="232" column="26" />
+        <mark key="." line="232" column="26" />
+        <mark key="[" line="230" column="30" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/article.scss" timestamp="1449221982648">
         <mark key="]" line="6" column="16" />
@@ -509,12 +515,11 @@
         <mark key="." line="28" column="0" />
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/resources/user/profile/index.blade.php" timestamp="1453861890444">
-        <mark key="'" line="0" column="0" />
-        <mark key="]" line="35" column="44" />
-        <mark key="^" line="55" column="39" />
-        <mark key="." line="35" column="44" />
-        <mark key="[" line="35" column="43" />
+      <file name="$USER_HOME$/project/heix/cms-frontend/resources/user/profile/index.blade.php" timestamp="1453867794714">
+        <mark key="]" line="65" column="0" />
+        <mark key="^" line="64" column="40" />
+        <mark key="." line="65" column="0" />
+        <mark key="[" line="65" column="0" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.list.tpl" timestamp="1450433517347">
         <mark key="'" line="72" column="85" />
@@ -568,18 +573,24 @@
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/forms.scss" timestamp="1453864813113">
+        <mark key="]" line="36" column="22" />
+        <mark key="^" line="36" column="22" />
+        <mark key="." line="36" column="22" />
+        <mark key="[" line="35" column="22" />
+      </file>
       <file name="$USER_HOME$/project/heix/passport-frontend/resources/forgot/index.js" timestamp="1453105784526">
         <mark key="]" line="93" column="35" />
         <mark key="^" line="93" column="35" />
         <mark key="." line="93" column="35" />
         <mark key="[" line="93" column="31" />
       </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/labels.scss" timestamp="1453459765154">
+      <file name="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/labels.scss" timestamp="1453864929934">
         <mark key="'" line="44" column="24" />
-        <mark key="]" line="6" column="17" />
-        <mark key="^" line="6" column="17" />
-        <mark key="." line="6" column="17" />
-        <mark key="[" line="9" column="16" />
+        <mark key="]" line="5" column="23" />
+        <mark key="^" line="5" column="23" />
+        <mark key="." line="5" column="23" />
+        <mark key="[" line="5" column="17" />
       </file>
       <file name="$USER_HOME$/project/heix/passport-frontend/libs/utils/qqSDK2.js" timestamp="1453099614696">
         <mark key="]" line="4" column="18" />
@@ -1099,6 +1110,12 @@
         <mark key="." line="18" column="4" />
         <mark key="[" line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/project/heix/cms-frontend/resources/user/profile/index.js" timestamp="1453867645363">
+        <mark key="]" line="113" column="57" />
+        <mark key="^" line="113" column="77" />
+        <mark key="." line="113" column="57" />
+        <mark key="[" line="113" column="57" />
+      </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/publish-timer.tpl" timestamp="1453713861549">
         <mark key="]" line="30" column="11" />
         <mark key="^" line="30" column="11" />
@@ -1408,13 +1425,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5142" column="53" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
-      <jump line="5260" column="96" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
-      <jump line="6846" column="29" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
-      <jump line="6876" column="28" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
-      <jump line="2107" column="9" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
-      <jump line="3919" column="0" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
-      <jump line="5656" column="45" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
       <jump line="5662" column="24" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
       <jump line="5177" column="36" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
       <jump line="5202" column="36" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote.js" />
@@ -1508,63 +1518,69 @@
       <jump line="14" column="55" filename="$USER_HOME$/project/heix/cms-frontend/resources/user/notification/notification.blade.php" />
       <jump line="4" column="0" filename="$USER_HOME$/project/heix/cms-frontend/resources/user/profile/index.blade.php" />
       <jump line="0" column="0" filename="$USER_HOME$/project/heix/cms-frontend/resources/user/profile/index.blade.php" />
+      <jump line="86" column="8" filename="$USER_HOME$/project/heix/cms-frontend/resources/user/profile/index.blade.php" />
+      <jump line="87" column="7" filename="$USER_HOME$/project/heix/cms-frontend/resources/user/profile/index.blade.php" />
+      <jump line="88" column="8" filename="$USER_HOME$/project/heix/cms-frontend/resources/user/profile/index.blade.php" />
+      <jump line="89" column="8" filename="$USER_HOME$/project/heix/cms-frontend/resources/user/profile/index.blade.php" />
+      <jump line="90" column="8" filename="$USER_HOME$/project/heix/cms-frontend/resources/user/profile/index.blade.php" />
+      <jump line="91" column="8" filename="$USER_HOME$/project/heix/cms-frontend/resources/user/profile/index.blade.php" />
+      <jump line="67" column="65" filename="$USER_HOME$/project/heix/cms-frontend/resources/user/profile/index.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>10</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>10</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC90ZW1wbGF0ZT4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
-      <register name="2" type="4">
-        <text>10</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9ImxhYmVsIGxhYmVsLXByaW1hcnkgbGFiZWwtYmlnIHV0aWwtbXItNSIgdi1mb3I9InRhZyBpbiBzZWxmLnRhZ3MiIHRyYWNrLWJ5PSJpZCI+JHt0YWcudGl0bGV9PC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICA8YWRkLXRhZy1kaWFsb2cgQGRvbmU9ImFkZFRhZyI+PC9hZGQtdGFnLWRpYWxvZz4K</text>
       </register>
-      <register name="1" type="4">
-        <text>10</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiPgogICAgICAgICAgICAgICAgICAgIDxsYWJlbCBmb3I9Im5pY2tuYW1lIiBjbGFzcz0iY29udHJvbC1sYWJlbCBjb2wtc20tMiB0ZXh0LXJpZ2h0Ij48c3BhbiBjbGFzcz0idGV4dC13YXJuaW5nIj4qPC9zcGFuPuaYteensDwvbGFiZWw+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLXNtLTEwIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9InRleHQiIGNsYXNzPSJmb3JtLWNvbnRyb2wiIG5hbWU9Im5pY2tuYW1lIiBpZD0ibmlja25hbWUiIG1heGxlbmd0aD0iMzAiIHBsYWNlaG9sZGVyPSLor7fovpPlhaUyfjMw5a2X5Lul5YaF55qE5pi156ewIiB2LW1vZGVsPSJzZWxmLm5pY2tuYW1lIj4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgIDxzcGFuIGNsYXNzPSJ1dGlsLWN1cnNvcl9wb2ludGVyIHRleHQtbXV0ZSI+5Y+W5raIPC9zcGFuPgo=</text>
       </register>
       <register name="7" type="4">
-        <text>nickname</text>
+        <text>console.log(item.id);</text>
       </register>
-      <register name="6" type="4">
-        <text>input</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQGZvcmVhY2ggKCR1c2VyLT50YWdzIGFzICR0YWcpCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">dHlwZT0idGV4dCIg</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgQGVuZGZvcmVhY2gK</text>
       </register>
-      <register name="4" type="4">
-        <text>10</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9ImxhYmVsIGxhYmVsLXByaW1hcnkgbGFiZWwtYmlnIHV0aWwtbXItNSIgdi1mb3I9InRhZyBpbiBzZWxmLnRhZ3MiIHRyYWNrLWJ5PSJpZCI+JHt0YWcudGl0bGV9PC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICA8YWRkLXRhZy1kaWFsb2cgQGRvbmU9ImFkZFRhZyI+PC9hZGQtdGFnLWRpYWxvZz4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>请输入2</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuc2VsZi50YWdzLnB1c2gK</text>
       </register>
-      <register name="8" type="4">
-        <text>~30字以内的昵称</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="/" type="4">
-        <text>47,51 s</text>
+        <text>id</text>
       </register>
       <register name="-" type="4">
-        <text>10</text>
+        <text>console.log(item.id);</text>
       </register>
     </registers>
     <search>
       <last-search>47,51 s</last-search>
       <last-offset />
-      <last-pattern>47,51 s</last-pattern>
-      <last-replace>minute</last-replace>
-      <last-substitute>hour</last-substitute>
+      <last-pattern>id</last-pattern>
+      <last-replace>company_id</last-replace>
+      <last-substitute>id</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>note-current</entry>
         <entry>colors</entry>
         <entry>mute</entry>
         <entry>text</entry>
@@ -1584,14 +1600,9 @@
         <entry>text-success</entry>
         <entry>text-</entry>
         <entry>47,51 s</entry>
+        <entry>id</entry>
       </history-search>
       <history-cmd>
-        <entry>s/$summernote/control</entry>
-        <entry>203,215 s/title/abstract/g</entry>
-        <entry>70,77 s/me/self/g</entry>
-        <entry>555</entry>
-        <entry>689</entry>
-        <entry>557</entry>
         <entry>5067</entry>
         <entry>5607</entry>
         <entry>5199</entry>
@@ -1605,6 +1616,12 @@
         <entry>21,23 s/date/hour/g</entry>
         <entry>21,23 s/hour/minute/g</entry>
         <entry>q</entry>
+        <entry>s/id/nickname/g</entry>
+        <entry>s/id/sex/g</entry>
+        <entry>s/id/phone/g</entry>
+        <entry>s/id/email/g</entry>
+        <entry>s/id/avatar_url/g</entry>
+        <entry>s/id/company_id/g</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
