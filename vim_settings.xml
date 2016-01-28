@@ -89,11 +89,11 @@
         <mark key="." line="4" column="45" />
         <mark key="[" line="4" column="36" />
       </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/resources/layout.blade.php" timestamp="1453949198797">
-        <mark key="]" line="174" column="56" />
-        <mark key="^" line="174" column="56" />
-        <mark key="." line="174" column="56" />
-        <mark key="[" line="174" column="46" />
+      <file name="$USER_HOME$/project/heix/cms-frontend/resources/layout.blade.php" timestamp="1453951351868">
+        <mark key="]" line="207" column="76" />
+        <mark key="^" line="207" column="76" />
+        <mark key="." line="207" column="76" />
+        <mark key="[" line="207" column="48" />
       </file>
       <file name="$USER_HOME$/project/heix/passport-frontend/libs/utils/query.js" timestamp="1452675816328">
         <mark key="]" line="6" column="2" />
@@ -409,11 +409,11 @@
         <mark key="." line="4" column="31" />
         <mark key="[" line="4" column="32" />
       </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/fis-conf.js" timestamp="1453883530600">
-        <mark key="]" line="133" column="0" />
-        <mark key="^" line="131" column="22" />
-        <mark key="." line="133" column="0" />
-        <mark key="[" line="133" column="0" />
+      <file name="$USER_HOME$/project/heix/cms-frontend/fis-conf.js" timestamp="1453950038576">
+        <mark key="]" line="171" column="59" />
+        <mark key="^" line="171" column="59" />
+        <mark key="." line="171" column="59" />
+        <mark key="[" line="170" column="56" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/user/user.tag.tpl" timestamp="1450248411601">
         <mark key="]" line="44" column="93" />
@@ -1119,12 +1119,12 @@
         <mark key="." line="48" column="47" />
         <mark key="[" line="48" column="19" />
       </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/navbar.scss" timestamp="1453947745750">
+      <file name="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/navbar.scss" timestamp="1453951060026">
         <mark key="'" line="608" column="11" />
-        <mark key="]" line="786" column="17" />
-        <mark key="^" line="786" column="17" />
-        <mark key="." line="786" column="17" />
-        <mark key="[" line="780" column="1" />
+        <mark key="]" line="676" column="29" />
+        <mark key="^" line="676" column="29" />
+        <mark key="." line="676" column="29" />
+        <mark key="[" line="675" column="29" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/buttons.scss" timestamp="1453860699828">
         <mark key="]" line="172" column="8" />
@@ -1665,47 +1665,47 @@
       <jump line="608" column="11" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/navbar.scss" />
     </jumps>
     <registers>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcGFkZGluZzogMTBweCAwOwogICAgICBtYXJnaW46IDAgMTBweDsK</text>
+      <register name="3" type="4">
+        <text>=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>575757</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="1" type="4">
-        <text>575757</text>
-      </register>
-      <register name="0" type="4">
-        <text>class=&quot;util-font_12 util-pt-10 util-pb-10 util-pl-10&quot;</text>
-      </register>
-      <register name="7" type="4">
         <text encoding="base64">IA==</text>
       </register>
+      <register name="2" type="4">
+        <text>&quot;</text>
+      </register>
+      <register name="1" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHJlbGVhc2U6IHJlc291cmNlc19wYXRoICsgIi8kMSIK</text>
+      </register>
+      <register name="7" type="4">
+        <text>l</text>
+      </register>
       <register name="6" type="4">
-        <text encoding="base64">IDEwcHggMA==</text>
+        <text>a</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi10b3A6IDNweDsK</text>
+      <register name="5" type="4">
+        <text>s</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHRyYW5zZm9ybTogOwo=</text>
+      <register name="4" type="4">
+        <text>s</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>util-font_12 util-pt-10 util-pb-10 util-pl-10</text>
+        <text>util-pt-10 util-pb-10&quot;</text>
       </register>
       <register name="8" type="4">
-        <text>class=&quot;&quot; style=&quot;color:#575757&quot;</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text>dropdown</text>
       </register>
       <register name="-" type="4">
-        <text>575757</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
