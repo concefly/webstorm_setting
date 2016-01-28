@@ -89,11 +89,11 @@
         <mark key="." line="4" column="45" />
         <mark key="[" line="4" column="36" />
       </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/resources/layout.blade.php" timestamp="1453951351868">
-        <mark key="]" line="207" column="76" />
-        <mark key="^" line="207" column="76" />
-        <mark key="." line="207" column="76" />
-        <mark key="[" line="207" column="48" />
+      <file name="$USER_HOME$/project/heix/cms-frontend/resources/layout.blade.php" timestamp="1453953521827">
+        <mark key="]" line="16" column="29" />
+        <mark key="^" line="16" column="29" />
+        <mark key="." line="16" column="29" />
+        <mark key="[" line="15" column="19" />
       </file>
       <file name="$USER_HOME$/project/heix/passport-frontend/libs/utils/query.js" timestamp="1452675816328">
         <mark key="]" line="6" column="2" />
@@ -408,12 +408,6 @@
         <mark key="^" line="4" column="31" />
         <mark key="." line="4" column="31" />
         <mark key="[" line="4" column="32" />
-      </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/fis-conf.js" timestamp="1453950038576">
-        <mark key="]" line="171" column="59" />
-        <mark key="^" line="171" column="59" />
-        <mark key="." line="171" column="59" />
-        <mark key="[" line="170" column="56" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/user/user.tag.tpl" timestamp="1450248411601">
         <mark key="]" line="44" column="93" />
@@ -917,7 +911,7 @@
         <mark key="." line="18" column="36" />
         <mark key="[" line="18" column="19" />
       </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/resources/main.scss" timestamp="1453949100839">
+      <file name="$USER_HOME$/project/heix/cms-frontend/resources/main.scss" timestamp="1453953620474">
         <mark key="]" line="22" column="18" />
         <mark key="^" line="22" column="18" />
         <mark key="." line="22" column="18" />
@@ -1666,46 +1660,46 @@
     </jumps>
     <registers>
       <register name="3" type="4">
-        <text>=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>how</text>
       </register>
       <register name="2" type="4">
-        <text>&quot;</text>
+        <text>,</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>how</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlbGVhc2U6IHJlc291cmNlc19wYXRoICsgIi8kMSIK</text>
+        <text encoding="base64">PHNjcmlwdCBzcmM9Ii8vY2RuLmJvb3Rjc3MuY29tL3JlcXVpcmUuanMvMi4xLjIyL3JlcXVpcmUubWluLmpzIj48L3NjcmlwdD4KPHNjcmlwdD4KICAgIC8vID09PT09PT09PT09PT09PSBjb25maWcgPT09PT09PT09PT09PT0KICAgIHdpbmRvdy5jb25maWcgPSB7fTsKICAgIC8vIENETgogICAgd2luZG93LmNvbmZpZy5jZG4gPSAie3tlbnYoJ1FOX0NETicpfX0iOwogICAgLy8gcGFzc3BvcnQKICAgIHdpbmRvdy5jb25maWcucGFzc3BvcnRVcmwgPSAiLy9wYXNzcG9ydC5oZWl4LmNuIjsKICAgIC8vIGFwaeebuOWFswogICAgd2luZG93LmNvbmZpZy5hcGkgPSB7CiAgICAgICAgcHJlZml4OiAiLzAuMSIKICAgIH07CiAgICAvLyDkuIPniZvkuIrkvKAKICAgIHdpbmRvdy5jb25maWcucWluaXUgPSB7CiAgICAgICAgYnVja2V0OiAid2Vic2l0ZSIsCiAgICAgICAgZG9tYWluOiB3aW5kb3cuY29uZmlnLmNkbgogICAgfTsKICAgIC8vIERFQlVHIChWdWVqcykKICAgIHdpbmRvdy5jb25maWcuZGVidWcgPSB0cnVlOwogICAgLy8gPT09PT09PT09PT09PT09IHJlcXVpcmUganMgY29uZmlnID09PT09PT09PT09PT09PT09CiAgICByZXF1aXJlLmNvbmZpZyh7CiAgICAgICAgLy8g5a6a5L2NbGliIHVybAogICAgICAgIGJhc2VVcmw6IF9fdXJpKCIvbGlicy9fX2luZGV4X18iKS5yZXBsYWNlKCJfX2luZGV4X18iLCIiKSwKICAgICAgICBwYXRoczogewogICAgICAgICAgICBqcXVlcnk6IFsKICAgICAgICAgICAgICAgICAgICAiLy9jZG4uYm9vdGNzcy5jb20vanF1ZXJ5LzIuMS40L2pxdWVyeS5taW4iCiAgICAgICAgICAgIF0sCiAgICAgICAgICAgIFZ1ZU9yaWdpbjogWwogICAgICAgICAgICAgICAgICAgICIvL2Nkbi5ib290Y3NzLmNvbS92dWUvMS4wLjEzL3Z1ZS5taW4iCiAgICAgICAgICAgIF0sCiAgICAgICAgICAgIGNvb2tpZTogWwogICAgICAgICAgICAgICAgICAgICIvL2Nkbi5ib290Y3NzLmNvbS9qcXVlcnktY29va2llLzEuNC4xL2pxdWVyeS5jb29raWUubWluIgogICAgICAgICAgICBdLAogICAgICAgICAgICBtYXNvbnJ5OiBbCiAgICAgICAgICAgICAgICAgICAgIi8vY2RuLmJvb3Rjc3MuY29tL21hc29ucnkvNC4wLjAvbWFzb25yeS5wa2dkLm1pbiIKICAgICAgICAgICAgXSwKICAgICAgICAgICAgdW5kZXJzY29yZTogWwogICAgICAgICAgICAgICAgICAgICIvL2Nkbi5ib290Y3NzLmNvbS91bmRlcnNjb3JlLmpzLzEuOC4zL3VuZGVyc2NvcmUtbWluIgogICAgICAgICAgICBdLAogICAgICAgICAgICBwbHVwbG9hZDogWwogICAgICAgICAgICAgICAgICAgICIvL2Nkbi5ib290Y3NzLmNvbS9wbHVwbG9hZC8yLjEuOC9wbHVwbG9hZC5mdWxsLm1pbiIKICAgICAgICAgICAgXQogICAgICAgIH0sCiAgICAgICAgcGFja2FnZXM6IFsKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgbmFtZTogImxpYnMiLAogICAgICAgICAgICAgICAgbG9jYXRpb246IF9fdXJpKCIvbGlicy9fX2luZGV4X18iKS5yZXBsYWNlKCJfX2luZGV4X18iLCIiKQogICAgICAgICAgICB9CiAgICAgICAgXSwKICAgICAgICBzaGltOiB7CiAgICAgICAgICAgIHF1ZXJ5OiBbImpxdWVyeSJdLAogICAgICAgICAgICBjb29raWU6IFsianF1ZXJ5Il0sCiAgICAgICAgICAgIHVuZGVyc2NvcmU6IHsKICAgICAgICAgICAgICAgIGV4cG9ydHM6ICJfIgogICAgICAgICAgICB9LAogICAgICAgICAgICBwbHVwbG9hZDogewogICAgICAgICAgICAgICAgZXhwb3J0czogInBsdXBsb2FkIgogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfSk7Cjwvc2NyaXB0Pgo8c2NyaXB0IHNyYz0ibWFpbi5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>l</text>
+        <text>e</text>
       </register>
       <register name="6" type="4">
-        <text>a</text>
+        <text>s</text>
       </register>
       <register name="5" type="4">
-        <text>s</text>
+        <text>u</text>
       </register>
       <register name="4" type="4">
-        <text>s</text>
+        <text>$</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>util-pt-10 util-pb-10&quot;</text>
+        <text>-</text>
       </register>
       <register name="8" type="4">
-        <text>c</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>dropdown</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>how</text>
       </register>
     </registers>
     <search>
