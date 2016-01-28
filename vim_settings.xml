@@ -834,11 +834,11 @@
         <mark key="." line="24" column="95" />
         <mark key="[" line="21" column="83" />
       </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/article.blade.php" timestamp="1453967128716">
-        <mark key="]" line="102" column="58" />
-        <mark key="^" line="102" column="58" />
-        <mark key="." line="102" column="58" />
-        <mark key="[" line="102" column="32" />
+      <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/article.blade.php" timestamp="1453968806732">
+        <mark key="]" line="102" column="38" />
+        <mark key="^" line="102" column="38" />
+        <mark key="." line="102" column="38" />
+        <mark key="[" line="102" column="33" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/selector/wrapper.tpl" timestamp="1453111192578">
         <mark key="]" line="5" column="51" />
@@ -963,11 +963,11 @@
         <mark key="." line="23" column="0" />
         <mark key="[" line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/article.js" timestamp="1453967780901">
-        <mark key="]" line="21" column="27" />
-        <mark key="^" line="21" column="27" />
-        <mark key="." line="21" column="27" />
-        <mark key="[" line="14" column="25" />
+      <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/article.js" timestamp="1453969133756">
+        <mark key="]" line="53" column="36" />
+        <mark key="^" line="53" column="36" />
+        <mark key="." line="53" column="36" />
+        <mark key="[" line="52" column="30" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/module/module.detail.js" timestamp="1450685264005">
         <mark key="]" line="11" column="0" />
@@ -1107,11 +1107,10 @@
         <mark key="." line="979" column="47" />
         <mark key="[" line="977" column="40" />
       </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/libs/interface/vue.js" timestamp="1453889367500">
-        <mark key="]" line="48" column="47" />
-        <mark key="^" line="48" column="47" />
-        <mark key="." line="48" column="47" />
-        <mark key="[" line="48" column="19" />
+      <file name="$USER_HOME$/project/heix/cms-frontend/libs/interface/vue.js" timestamp="1453968053060">
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+        <mark key="[" line="53" column="0" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/navbar.scss" timestamp="1453951060026">
         <mark key="'" line="608" column="11" />
@@ -1318,11 +1317,11 @@
         <mark key="." line="7" column="16" />
         <mark key="[" line="7" column="16" />
       </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/comment.tpl" timestamp="1453967811924">
-        <mark key="]" line="6" column="51" />
-        <mark key="^" line="13" column="8" />
-        <mark key="." line="6" column="51" />
-        <mark key="[" line="6" column="51" />
+      <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/comment.tpl" timestamp="1453969388670">
+        <mark key="]" line="7" column="45" />
+        <mark key="^" line="4" column="44" />
+        <mark key="." line="7" column="34" />
+        <mark key="[" line="7" column="34" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/javascripts/bootstrap/tab.js" timestamp="1453965352809">
         <mark key="'" line="0" column="0" />
@@ -1667,47 +1666,47 @@
       <jump line="0" column="0" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/javascripts/bootstrap/tab.js" />
     </jumps>
     <registers>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICBwcm9wczogewogICAgICAgICAgICBhcnRpY2xlSWQ6IHsKICAgICAgICAgICAgICAgIHR5cGU6IAogICAgICAgICAgICB9CiAgICAgICAgfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaXRlbS5jcmVhdG9yID0gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWQ6ICIiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbmlja25hbWU6ICIiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXZhdGFyX3VybDogIiIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>...&quot;</text>
+        <text encoding="base64">IHV0aWwtcGwtMTA=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC4uLgo=</text>
+      <register name="2" type="4">
+        <text>;</text>
       </register>
       <register name="1" type="4">
-        <text>...&quot;</text>
+        <text encoding="base64">IHV0aWwtcGwtMTA=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJ0aHVtYi10ZXh0X2ZvY3VzIGhvdmVyLWhpZGUgdGV4dC13aGl0ZSIgc3R5bGU9ImZvbnQtc2l6ZTogNTBweDsiPgo=</text>
       </register>
-      <register name="7" type="4">
-        <text>e</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRhdGEuY3JlYXRvci5pZDsKICAgICAgICAgICAgICAgICAgICAgICAgfSBjYXRjaCAoZSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgZGF0YS5jcmVhdG9yID0gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlkOiAiIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBuaWNrbmFtZTogIiIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXZhdGFyX3VybDogIiIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZW1wbGF0ZT4KICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIDwvdGVtcGxhdGU+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="5" type="4">
+        <text>data</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhciBjb21tZW50ID0gbmV3IFZ1ZSh7CiAgICB9KTsK</text>
+      <register name="4" type="4">
+        <text>data</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>i</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8g6Iul5peg5YiZ5aGr5YWFY3JlYXRvcu+8jOmYsuatouaKpemUmQo=</text>
       </register>
-      <register name="8" type="4">
-        <text>t</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5yZW1vdGUgPSAK</text>
       </register>
       <register name="/" type="4">
         <text>dropdown</text>
       </register>
       <register name="-" type="4">
-        <text>...&quot;</text>
+        <text encoding="base64">IHV0aWwtcGwtMTA=</text>
       </register>
     </registers>
     <search>
