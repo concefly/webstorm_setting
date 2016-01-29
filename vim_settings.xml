@@ -750,11 +750,11 @@
         <mark key="." line="24" column="95" />
         <mark key="[" line="21" column="83" />
       </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/article.blade.php" timestamp="1454041704573">
+      <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/article.blade.php" timestamp="1454045504689">
         <mark key="]" line="9" column="4" />
-        <mark key="^" line="13" column="9" />
-        <mark key="." line="15" column="0" />
-        <mark key="[" line="5" column="0" />
+        <mark key="^" line="9" column="4" />
+        <mark key="." line="9" column="4" />
+        <mark key="[" line="9" column="1" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/selector/wrapper.tpl" timestamp="1453111192578">
         <mark key="]" line="5" column="51" />
@@ -1314,11 +1314,11 @@
         <mark key="[" line="20" column="20" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/libs/share/plugin_share.blade.php" timestamp="1454033006689" />
-      <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.blade.php" timestamp="1454041715688">
-        <mark key="]" line="5" column="43" />
-        <mark key="^" line="5" column="43" />
-        <mark key="." line="5" column="43" />
-        <mark key="[" line="5" column="38" />
+      <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.blade.php" timestamp="1454045525009">
+        <mark key="]" line="6" column="4" />
+        <mark key="^" line="6" column="4" />
+        <mark key="." line="6" column="4" />
+        <mark key="[" line="6" column="2" />
       </file>
       <file name="$USER_HOME$/project/heix/passport-frontend/resources/forgot/forgot.entrance.tpl" timestamp="1452751745415">
         <mark key="]" line="19" column="31" />
@@ -1515,46 +1515,46 @@
     </jumps>
     <registers>
       <register name="3" type="2">
-        <text encoding="base64">PGRpdiBjbGFzcz0idXRpbC1tYi01MCI+PC9kaXY+Cg==</text>
-      </register>
-      <register name="&quot;" type="2">
         <text encoding="base64">PGxpbmsgcmVsPSJzdHlsZXNoZWV0IiBocmVmPSIvYXNzZXRzL2Nzcy9hcnRpY2xlLXN0eWxlLmNzcyI+Cg==</text>
+      </register>
+      <register name="&quot;" type="4">
+        <text>how</text>
       </register>
       <register name="2" type="4">
-        <text>example_video_1</text>
+        <text>show</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">PGxpbmsgcmVsPSJzdHlsZXNoZWV0IiBocmVmPSIvYXNzZXRzL2Nzcy9hcnRpY2xlLXN0eWxlLmNzcyI+Cg==</text>
+      <register name="1" type="4">
+        <text>how</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QHNlY3Rpb24oImhlYWQtZXh0cmEiKQpAcGFyZW50CjxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iL2Fzc2V0cy9jc3MvYXJ0aWNsZS1zdHlsZS5jc3MiPgo8bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9Ii4vYXJ0aWNsZS5zY3NzIj4KQHNob3cK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PGRpdiBjbGFzcz0iY29udGFpbmVyLWZsdWlkIj4KICAgIAo8L2Rpdj4K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">PGRpdj4KICAgIAo8L2Rpdj4K</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgQHNlY3Rpb24oImFydGljbGUtYmFubmVyIikKICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InV0aWwtbWItNTAiPjwvZGl2PgogICAgICAgICAgICBAc2hvdwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIDwhLS0gYmFubmVyIC0tPgogICAgPGRpdiBjbGFzcz0icm93Ij4KICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbWQtMTIiPgogICAgICAgIDwvZGl2PgogICAgPC9kaXY+Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">PGRpdiBjbGFzcz0idXRpbC1tYi01MCI+PC9kaXY+Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text>example_video_1</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQGlmIChjb3VudCgkYXJ0aWNsZS0+cmVsQXJ0aWNsZXMpPjApCg==</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0iY29udGFpbmVyLWZsdWlkIj4KICAgIAo8L2Rpdj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQGVuZGlmCg==</text>
+        <text encoding="base64">PGRpdj4KICAgIAo8L2Rpdj4K</text>
       </register>
       <register name="/" type="4">
         <text>mark</text>
       </register>
       <register name="-" type="4">
-        <text>example_video_1</text>
+        <text>how</text>
       </register>
     </registers>
     <search>
