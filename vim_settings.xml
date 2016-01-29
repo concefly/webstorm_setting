@@ -80,11 +80,11 @@
         <mark key="." line="4" column="45" />
         <mark key="[" line="4" column="36" />
       </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/resources/layout.blade.php" timestamp="1454059940010">
-        <mark key="]" line="34" column="38" />
+      <file name="$USER_HOME$/project/heix/cms-frontend/resources/layout.blade.php" timestamp="1454065341816">
+        <mark key="]" line="34" column="37" />
         <mark key="^" line="34" column="38" />
-        <mark key="." line="34" column="38" />
-        <mark key="[" line="34" column="33" />
+        <mark key="." line="34" column="37" />
+        <mark key="[" line="34" column="37" />
       </file>
       <file name="$USER_HOME$/project/heix/passport-frontend/libs/utils/query.js" timestamp="1452675816328">
         <mark key="]" line="6" column="2" />
@@ -1491,47 +1491,47 @@
       <jump line="1707" column="13" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
     </jumps>
     <registers>
-      <register name="3" type="4">
-        <text>util-font_16</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgd2lkdGg6IDEwMCU7CiAgaGVpZ2h0OiAxMDAlOwogIHRvcDogMDsKICBsZWZ0OiAwOwogIGRpc3BsYXk6IGZsZXg7CiAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7CiAgYWxpZ24taXRlbXM6IGNlbnRlcjsKICB0ZXh0LWFsaWduOiBjZW50ZXI7Cn0K</text>
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBnZXRNb250aChkYXRlKSsiLiIrZ2V0RGF0ZShkYXRlKTsK</text>
       </register>
-      <register name="1" type="2">
+      <register name="&quot;" type="4">
+        <text>s</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyIG5vdyA9IG5ldyBEYXRlKCk7CiAgICAgICAgICAgIGlmKGRhdGUuZ2V0RnVsbFllYXIoKTxub3cuZ2V0RnVsbFllYXIoKSl7CiAgICAgICAgICAgICAgICByZXR1cm4gZGF0ZS5nZXRGdWxsWWVhcigpKyIuIitnZXRNb250aChkYXRlKSsiLiIrZ2V0RGF0ZShkYXRlKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="1" type="4">
+        <text>s</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgd2lkdGg6IDEwMCU7CiAgaGVpZ2h0OiAxMDAlOwogIHRvcDogMDsKICBsZWZ0OiAwOwogIGRpc3BsYXk6IGZsZXg7CiAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7CiAgYWxpZ24taXRlbXM6IGNlbnRlcjsKICB0ZXh0LWFsaWduOiBjZW50ZXI7Cn0K</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">Pg==</text>
-      </register>
-      <register name="6" type="4">
         <text>a</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>/</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">PA==</text>
+      </register>
+      <register name="4" type="4">
+        <text>util-font_16</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">PGEgY2xhc3M9InV0aWwtZm9udF8xNiIgOmhyZWY9ImxpbmsoYXJ0aWNsZSkiIHRhcmdldD0iX2JsYW5rIj4=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">PGEgY2xhc3M9InV0aWwtZm9udF8xNiIgOmhyZWY9ImxpbmsoYXJ0aWNsZSkiIHRhcmdldD0iX2JsYW5rIj4=</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>vjs-control-bar</text>
       </register>
       <register name="-" type="4">
-        <text>util-font_16</text>
+        <text>s</text>
       </register>
     </registers>
     <search>
