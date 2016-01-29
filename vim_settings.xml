@@ -80,11 +80,11 @@
         <mark key="." line="4" column="45" />
         <mark key="[" line="4" column="36" />
       </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/resources/layout.blade.php" timestamp="1454040159092">
-        <mark key="]" line="77" column="63" />
-        <mark key="^" line="77" column="65" />
-        <mark key="." line="77" column="63" />
-        <mark key="[" line="77" column="63" />
+      <file name="$USER_HOME$/project/heix/cms-frontend/resources/layout.blade.php" timestamp="1454050988917">
+        <mark key="]" line="78" column="59" />
+        <mark key="^" line="78" column="61" />
+        <mark key="." line="78" column="59" />
+        <mark key="[" line="78" column="59" />
       </file>
       <file name="$USER_HOME$/project/heix/passport-frontend/libs/utils/query.js" timestamp="1452675816328">
         <mark key="]" line="6" column="2" />
@@ -373,6 +373,12 @@
         <mark key="^" line="4" column="31" />
         <mark key="." line="4" column="31" />
         <mark key="[" line="4" column="32" />
+      </file>
+      <file name="$USER_HOME$/project/heix/cms-frontend/fis-conf.js" timestamp="1454052626801">
+        <mark key="]" line="132" column="17" />
+        <mark key="^" line="132" column="17" />
+        <mark key="." line="132" column="17" />
+        <mark key="[" line="132" column="13" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/libs/share/plugin_share.tpl" timestamp="1454033049427">
         <mark key="[" line="10" column="6" />
@@ -750,11 +756,11 @@
         <mark key="." line="24" column="95" />
         <mark key="[" line="21" column="83" />
       </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/article.blade.php" timestamp="1454045504689">
-        <mark key="]" line="9" column="4" />
-        <mark key="^" line="9" column="4" />
-        <mark key="." line="9" column="4" />
-        <mark key="[" line="9" column="1" />
+      <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/article.blade.php" timestamp="1454052730338">
+        <mark key="]" line="84" column="0" />
+        <mark key="^" line="101" column="89" />
+        <mark key="." line="84" column="0" />
+        <mark key="[" line="84" column="0" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/selector/wrapper.tpl" timestamp="1453111192578">
         <mark key="]" line="5" column="51" />
@@ -1116,12 +1122,11 @@
         <mark key="." line="13" column="31" />
         <mark key="[" line="7" column="18" />
       </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" timestamp="1454047395563">
-        <mark key="'" line="1235" column="15" />
-        <mark key="]" line="1601" column="8" />
-        <mark key="^" line="1601" column="8" />
-        <mark key="." line="1601" column="8" />
-        <mark key="[" line="1601" column="1" />
+      <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" timestamp="1454052141121">
+        <mark key="]" line="122" column="0" />
+        <mark key="^" line="143" column="18" />
+        <mark key="." line="122" column="0" />
+        <mark key="[" line="122" column="0" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/header.tpl" timestamp="1453530148342">
         <mark key="]" line="1" column="0" />
@@ -1193,12 +1198,11 @@
         <mark key="." line="8" column="33" />
         <mark key="[" line="8" column="31" />
       </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/comment.tpl" timestamp="1453985148159">
-        <mark key="'" line="87" column="107" />
-        <mark key="]" line="2" column="38" />
-        <mark key="^" line="4" column="32" />
-        <mark key="." line="2" column="38" />
-        <mark key="[" line="2" column="37" />
+      <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/comment.tpl" timestamp="1454052875842">
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="29" column="19" />
+        <mark key="." line="30" column="0" />
+        <mark key="[" line="30" column="0" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/image.scss" timestamp="1449455803785">
         <mark key="]" line="3" column="20" />
@@ -1315,11 +1319,11 @@
         <mark key="[" line="20" column="20" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/libs/share/plugin_share.blade.php" timestamp="1454033006689" />
-      <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.blade.php" timestamp="1454046909260">
-        <mark key="]" line="11" column="45" />
-        <mark key="^" line="10" column="34" />
-        <mark key="." line="11" column="45" />
-        <mark key="[" line="11" column="45" />
+      <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.blade.php" timestamp="1454051161977">
+        <mark key="]" line="12" column="61" />
+        <mark key="^" line="12" column="61" />
+        <mark key="." line="12" column="61" />
+        <mark key="[" line="12" column="45" />
       </file>
       <file name="$USER_HOME$/project/heix/passport-frontend/resources/forgot/forgot.entrance.tpl" timestamp="1452751745415">
         <mark key="]" line="19" column="31" />
@@ -1345,11 +1349,10 @@
         <mark key="." line="37" column="23" />
         <mark key="[" line="89" column="0" />
       </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.js" timestamp="1454041265354">
-        <mark key="]" line="9" column="10" />
-        <mark key="^" line="9" column="10" />
-        <mark key="." line="9" column="10" />
-        <mark key="[" line="9" column="4" />
+      <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.js" timestamp="1454050933472">
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="[" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/views/check/template-index-check.html" timestamp="1449711733135">
         <mark key="]" line="41" column="41" />
@@ -1413,16 +1416,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="2" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/navbar.scss" />
-      <jump line="0" column="0" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/navbar.scss" />
-      <jump line="676" column="17" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/navbar.scss" />
-      <jump line="128" column="13" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/navbar.scss" />
-      <jump line="142" column="4" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/navbar.scss" />
-      <jump line="135" column="56" filename="$USER_HOME$/project/heix/cms-frontend/resources/layout.blade.php" />
-      <jump line="14" column="16" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/publish-timer.tpl" />
-      <jump line="15" column="45" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/publish-timer.tpl" />
-      <jump line="17" column="16" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/publish-timer.tpl" />
-      <jump line="20" column="20" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/publish-timer.tpl" />
       <jump line="36" column="47" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/variables.scss" />
       <jump line="22" column="19" filename="$USER_HOME$/project/heix/cms-frontend/resources/user/home/app.js" />
       <jump line="14" column="55" filename="$USER_HOME$/project/heix/cms-frontend/resources/user/notification/notification.blade.php" />
@@ -1498,6 +1491,21 @@
       <jump line="456" column="3" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
       <jump line="1754" column="21" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
       <jump line="1758" column="13" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="1641" column="11" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="1651" column="36" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="1564" column="0" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="1235" column="15" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="50" column="29" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="62" column="36" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="76" column="32" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="82" column="39" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="1230" column="0" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="6" column="32" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="24" column="32" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="319" column="29" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="325" column="36" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="571" column="1" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="29" column="11" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
       <jump line="738" column="11" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
       <jump line="751" column="3" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
       <jump line="763" column="35" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
@@ -1505,63 +1513,58 @@
       <jump line="777" column="58" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
       <jump line="783" column="34" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
       <jump line="788" column="30" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
-      <jump line="1637" column="19" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
-      <jump line="1641" column="11" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
-      <jump line="1651" column="36" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
-      <jump line="50" column="29" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
-      <jump line="62" column="36" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
-      <jump line="76" column="32" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
-      <jump line="82" column="39" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
-      <jump line="1235" column="15" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="1637" column="11" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="1703" column="21" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="1707" column="13" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
     </jumps>
     <registers>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8cD5Mb3JlbSBpcHN1bSBkb2xvciBzaXQgYW1ldCwgY29uc2VjdGV0dXIgYWRpcGlzaWNpbmcgZWxpdC4gRG9sb3J1bSBlb3MgbGFib3Jpb3NhbSBtYWlvcmVzIHRlbXBvcmUgdW5kZS4gQ29uc2VxdWF0dXIgY29uc2VxdXVudHVyIGV0IGlkIGlzdGUgbWFnbmFtIHBhcmlhdHVyIHF1aWRlbSBxdWlzIHVsbGFtISBEb2xvcmUgZXhwZWRpdGEgbmloaWwgcXVpc3F1YW0gcmVjdXNhbmRhZSB2b2x1cHRhdGVzLjwvcD4K</text>
+      </register>
+      <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>vjs-default-skin</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIDx0ZW1wbGF0ZSB2LWlmPSJyZW1vdGUuZGF0YS5sZW5ndGg9PTAiPgogICAgICAgIDxwIGNsYXNzPSJ0ZXh0LWNlbnRlciB1dGlsLXAtMjAiPuaaguaXoOivhOiuujwvcD4KICAgIDwvdGVtcGxhdGU+CiAgICA8dWwgY2xhc3M9Im1lZGlhLWxpc3QgdXRpbC1wdC0zMCIgdi1lbHNlPgogICAgICAgIDxsaSBjbGFzcz0ibWVkaWEiIHYtZm9yPSJpdGVtIGluIHJlbW90ZS5kYXRhIj4KICAgICAgICAgICAgPGRpdiBjbGFzcz0idXRpbC1tYi0yMCI+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJtZWRpYS1sZWZ0Ij4KICAgICAgICAgICAgICAgICAgICA8aW1nIGNsYXNzPSJtZWRpYS1vYmplY3QgaW1nLWNpcmNsZSIgOnNyYz0iaXRlbS5jcmVhdG9yLmF2YXRhcl91cmwgfCBpbWFnZSA2MCA2MCB0cnVlIiBoZWlnaHQ9IjYwIiB3aWR0aD0iNjAiPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJtZWRpYS1ib2R5IHV0aWwtcGwtMTAiPgogICAgICAgICAgICAgICAgICAgIDxoNCBjbGFzcz0ibWVkaWEtaGVhZGluZyB0ZXh0LXN1Y2Nlc3MgdXRpbC1mb250XzE0IHV0aWwtbWItMTAiPgogICAgICAgICAgICAgICAgICAgICAgICAke2l0ZW0uY3JlYXRvci5uaWNrbmFtZX0KICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9InB1bGwtcmlnaHQgdXRpbC1mb250XzE0IHRleHQtbXV0ZSI+JHtpdGVtLmNyZWF0ZWRfYXQgfCB0aW1lU2ltcGxpZnl9PC9zcGFuPgogICAgICAgICAgICAgICAgICAgIDwvaDQ+CiAgICAgICAgICAgICAgICAgICAgPHAgY2xhc3M9InV0aWwtZm9udF8xNiI+JHtpdGVtLmNvbnRlbnR9PC9wPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8IS0tYWN0aW9uIGJhci0tPgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJjbGVhcmZpeCB1dGlsLW1iLTIwIj4KICAgICAgICAgICAgICAgIDxtYXJrIGNsYXNzPSJtYXJrIHV0aWwtY3Vyc29yX3BvaW50ZXIiIEBjbGljaz0icmVwbHlUb2dnbGUoaXRlbSkiPgogICAgICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJmYSBmYS1jb21tZW50Ij48L2k+5oiR6KaB6K6o6K66CiAgICAgICAgICAgICAgICA8L21hcms+CiAgICAgICAgICAgICAgICA8bWFyayBjbGFzcz0ibWFyayB1dGlsLWN1cnNvcl9wb2ludGVyIHV0aWwtbWwtMjAgcHVsbC1yaWdodCIgQGNsaWNrPSJ0aHVtYihpdGVtLCdkb3duJykiPgogICAgICAgICAgICAgICAgICAgIDxpIDpjbGFzcz0ie2ZhOjEsICdmYS10aHVtYnMtby1kb3duJzoxLCBhY3RpdmU6IGl0ZW0uZGlnZ1N0YXR1cz09MX0iPjwvaT4ke2l0ZW0uZG93bl9jb3VudH0KICAgICAgICAgICAgICAgIDwvbWFyaz4KICAgICAgICAgICAgICAgIDxtYXJrIGNsYXNzPSJtYXJrIHV0aWwtY3Vyc29yX3BvaW50ZXIgcHVsbC1yaWdodCIgQGNsaWNrPSJ0aHVtYihpdGVtLCd1cCcpIj4KICAgICAgICAgICAgICAgICAgICA8aSA6Y2xhc3M9IntmYToxLCAnZmEtdGh1bWJzLW8tdXAnOjEsIGFjdGl2ZTogaXRlbS5kaWdnU3RhdHVzPT0yfSI+PC9pPiR7aXRlbS51cF9jb3VudH0KICAgICAgICAgICAgICAgIDwvbWFyaz4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDx1bCBjbGFzcz0ibWVkaWEtbGlzdCB1dGlsLXBsLTgwIj4KICAgICAgICAgICAgICAgIDwhLS1yZXBseSBmb3JtLS0+CiAgICAgICAgICAgICAgICA8bGkgY2xhc3M9Im1lZGlhIiB2LXNob3c9InNlbGYucmVwbHlpbmdJZD09aXRlbS5pZCI+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0ibWVkaWEtYm9keSI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxmb3JtID4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZXh0YXJlYSBjb2xzPSIzMCIgcm93cz0iMTAiIGNsYXNzPSJmb3JtLWNvbnRyb2wgdXRpbC1oLTEwMCIgdi1tb2RlbD0ic2VsZi5yZXBseUNvbW1lbnQiPjwvdGV4dGFyZWE+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9mb3JtPgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjbGVhcmZpeCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIGNsYXNzPSJwdWxsLXJpZ2h0IGJ0biBidG4tcHJpbWFyeSB1dGlsLWZvbnRfMTIgdXRpbC1tbC0xMCB1dGlsLXBsLTI1IHV0aWwtcHItMjUiIGRpc2FibGVkIHYtaWY9ImlzUmVwbHlpbmciPuato+WcqOWbnuWkjTwvYnV0dG9uPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGJ1dHRvbiBjbGFzcz0icHVsbC1yaWdodCBidG4gYnRuLXByaW1hcnkgdXRpbC1mb250XzEyIHV0aWwtbWwtMTAgdXRpbC1wbC0yNSB1dGlsLXByLTI1IiB2LWVsc2UgQGNsaWNrPSJyZXBseVRvKGl0ZW0pIj7lm57lpI08L2J1dHRvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxidXR0b24gY2xhc3M9InB1bGwtcmlnaHQgYnRuIGJ0bi1kZWZhdWx0IHV0aWwtZm9udF8xMiB1dGlsLXBsLTI1IHV0aWwtcHItMjUiIEBjbGljaz0icmVwbHlDYW5jZWwoaXRlbSkiPuWPlua2iDwvYnV0dG9uPgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgICAgICA8IS0tc3ViIGNvbW1lbnQtLT4KICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0ibWVkaWEgdXRpbC1tdC0yNSIgdi1mb3I9InN1Ykl0ZW0gaW4gaXRlbS5zb25fY29tbWVudHMiPgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InV0aWwtbWItMjAiPgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJtZWRpYS1sZWZ0Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgY2xhc3M9Im1lZGlhLW9iamVjdCBpbWctY2lyY2xlIiA6c3JjPSJzdWJJdGVtLmNyZWF0b3IuYXZhdGFyX3VybCB8IGltYWdlIDYwIDYwIHRydWUiIGhlaWdodD0iNjAiIHdpZHRoPSI2MCI+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJtZWRpYS1ib2R5IHV0aWwtcGwtMTAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGg0IGNsYXNzPSJtZWRpYS1oZWFkaW5nIHRleHQtc3VjY2VzcyB1dGlsLWZvbnRfMTQgdXRpbC1tYi0xMCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJHtzdWJJdGVtLmNyZWF0b3Iubmlja25hbWV9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9InB1bGwtcmlnaHQgdXRpbC1mb250XzE0IHRleHQtbXV0ZSI+JHtzdWJJdGVtLmNyZWF0ZWRfYXQgfCB0aW1lU2ltcGxpZnl9PC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9oND4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxwIGNsYXNzPSJ1dGlsLWZvbnRfMTYiPiR7c3ViSXRlbS5jb250ZW50fTwvcD4KICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPCEtLWFjdGlvbiBiYXItLT4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjbGVhcmZpeCB1dGlsLW1iLTIwIj4KICAgICAgICAgICAgICAgICAgICAgICAgPG1hcmsgY2xhc3M9Im1hcmsgdXRpbC1jdXJzb3JfcG9pbnRlciB1dGlsLW1sLTIwIHB1bGwtcmlnaHQiIEBjbGljaz0idGh1bWIoc3ViSXRlbSwnZG93bicpIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpIDpjbGFzcz0ie2ZhOjEsICdmYS10aHVtYnMtby1kb3duJzoxLCBhY3RpdmU6IHN1Ykl0ZW0uZGlnZ1N0YXR1cz09MX0iPjwvaT4ke3N1Ykl0ZW0uZG93bl9jb3VudH0KICAgICAgICAgICAgICAgICAgICAgICAgPC9tYXJrPgogICAgICAgICAgICAgICAgICAgICAgICA8bWFyayBjbGFzcz0ibWFyayB1dGlsLWN1cnNvcl9wb2ludGVyIHB1bGwtcmlnaHQiIEBjbGljaz0idGh1bWIoc3ViSXRlbSwndXAnKSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aSA6Y2xhc3M9IntmYToxLCAnZmEtdGh1bWJzLW8tdXAnOjEsIGFjdGl2ZTogc3ViSXRlbS5kaWdnU3RhdHVzPT0yfSI+PC9pPiR7c3ViSXRlbS51cF9jb3VudH0KICAgICAgICAgICAgICAgICAgICAgICAgPC9tYXJrPgogICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPC9saT4KICAgICAgICAgICAgPC91bD4KICAgICAgICAgICAgPGhyIGNsYXNzPSJoci13aGl0ZSIgc3R5bGU9ImJvcmRlci13aWR0aDogMnB4OyI+CiAgICAgICAgPC9saT4KICAgIDwvdWw+Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>js</text>
-      </register>
-      <register name="1" type="4">
-        <text>vjs-default-skin</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8udmpzLWRlZmF1bHQtc2tpbiAudmpzLWJpZy1wbGF5LWJ1dHRvbiB7Ci8vICBmb250LXNpemU6IDNlbTsKLy8gICRiaWctcGxheS13aWR0aDogM2VtOwovLyAgJGJpZy1wbGF5LWhlaWdodDogM2VtOwovLwovLyAgbGluZS1oZWlnaHQ6ICRiaWctcGxheS1oZWlnaHQ7Ci8vICBoZWlnaHQ6ICRiaWctcGxheS1oZWlnaHQ7Ci8vICB3aWR0aDogJGJpZy1wbGF5LXdpZHRoOwovLwovLyAgYm9yZGVyOiAwLjA2NjY2ZW0gc29saWQgI2ZmZjsKLy8gIGJvcmRlci1yYWRpdXM6IDEwMDBlbTsKLy8KLy8gIEBpZiAkY2VudGVyLWJpZy1wbGF5LWJ1dHRvbiB7Ci8vICAgIGxlZnQ6IDUwJTsKLy8gICAgdG9wOiA1MCU7Ci8vICAgIG1hcmdpbi1sZWZ0OiAtKCRiaWctcGxheS13aWR0aCAvIDIpOwovLyAgICBtYXJnaW4tdG9wOiAtKCRiaWctcGxheS1oZWlnaHQgLyAyKTsKLy8gIH0gQGVsc2UgewovLyAgICBsZWZ0OiAwLjVlbTsKLy8gICAgdG9wOiAwLjVlbTsKLy8gIH0KLy8KLy8gICY6OmJlZm9yZSB7Ci8vICAgIGRpc3BsYXk6IGJsb2NrOwovLyAgICBoZWlnaHQ6IDUwcHg7Ci8vICAgIHdpZHRoOiAxMDAlOwovLyAgICB0b3A6IDUwJTsKLy8gICAgbGVmdDogMDsKLy8gICAgbWFyZ2luLXRvcDogLTI1cHg7Ci8vICAgIHRleHQtYWxpZ246IGNlbnRlcjsKLy8gICAgZm9udC1zaXplOiA1MHB4OwovLyAgICBsaW5lLWhlaWdodDogNTBweDsKLy8gICAgY29sb3I6ICNmZmY7Ci8vICB9Ci8vfQovLwovLy52anMtZGVmYXVsdC1za2luIC52anMtY29udHJvbC1iYXIgewovLyAgcGFkZGluZzogMCBjYWxjKDUwJSAtIDQ4MHB4KTsKLy99Ci8vCi8vLnZpZGVvLWpzIC52anMtY29udHJvbC1iYXIsCi8vLnZpZGVvLWpzIC52anMtYmlnLXBsYXktYnV0dG9uLAovLy52aWRlby1qcyAudmpzLW1lbnUtYnV0dG9uIC52anMtbWVudS1jb250ZW50IHsKLy8gIGJhY2tncm91bmQtY29sb3I6ICRwcmltYXJ5LWJhY2tncm91bmQtY29sb3I7Ci8vICBiYWNrZ3JvdW5kLWNvbG9yOiByZ2JhKCRwcmltYXJ5LWJhY2tncm91bmQtY29sb3IsIDAuNyk7Ci8vfQovLwovLyRzbGlkZXItYmctY29sb3I6IGxpZ2h0ZW4oJHByaW1hcnktYmFja2dyb3VuZC1jb2xvciwgMzMlKTsKLy8KLy8udmlkZW8tanMgLnZqcy1zbGlkZXIgewovLyAgYmFja2dyb3VuZC1jb2xvcjogJHNsaWRlci1iZy1jb2xvcjsKLy8gIGJhY2tncm91bmQtY29sb3I6IHJnYmEoJHNsaWRlci1iZy1jb2xvciwgMC41KTsKLy99Ci8vCi8vLnZpZGVvLWpzIC52anMtdm9sdW1lLWxldmVsLAovLy52aWRlby1qcyAudmpzLXBsYXktcHJvZ3Jlc3MsCi8vLnZpZGVvLWpzIC52anMtc2xpZGVyLWJhciB7Ci8vICBiYWNrZ3JvdW5kOiAkcHJpbWFyeS1mb3JlZ3JvdW5kLWNvbG9yOwovL30KLy8KLy8udmlkZW8tanMgLnZqcy1sb2FkLXByb2dyZXNzIHsKLy8gIGJhY2tncm91bmQ6IGxpZ3RoZW4oJHNsaWRlci1iZy1jb2xvciwgMjUlKTsKLy8gIGJhY2tncm91bmQ6IHJnYmEoJHNsaWRlci1iZy1jb2xvciwgMC41KTsKLy99Ci8vCi8vLnZpZGVvLWpzIC52anMtbG9hZC1wcm9ncmVzcyBkaXYgewovLyAgYmFja2dyb3VuZDogbGlndGhlbigkc2xpZGVyLWJnLWNvbG9yLCA1MCUpOwovLyAgYmFja2dyb3VuZDogcmdiYSgkc2xpZGVyLWJnLWNvbG9yLCAwLjc1KTsKLy99Ci8vCi8vLy8g5b2T5YmN5pKt5pS+5pe26Ze0Ci8vLnZqcy1kZWZhdWx0LXNraW4gLnZqcy1jdXJyZW50LXRpbWUtZGlzcGxheSB7Ci8vICBjb2xvcjogJHByaW1hcnktYWN0aXZlLWNvbG9yOwovL30KLy8KLy8vLyDpn7Pph4/mnaEKLy8udmlkZW8tanMudmpzLWRlZmF1bHQtc2tpbiAudmpzLXZvbHVtZS1sZXZlbCB7Ci8vICBiYWNrZ3JvdW5kLWNvbG9yOiAkcHJpbWFyeS1hY3RpdmUtY29sb3I7Ci8vfQovLy52aWRlby1qcy52anMtZGVmYXVsdC1za2luIC52anMtdm9sdW1lLWhhbmRsZS52anMtc2xpZGVyLWhhbmRsZTo6YmVmb3JlIHsKLy8gIGRpc3BsYXk6IG5vbmU7Ci8vICAvL2NvbG9yOiAkcHJpbWFyeS1hY3RpdmUtY29sb3I7Ci8vfQovLwovLy8vIOinhumikeaXtumXtOadoQovLy52aWRlby1qcy52anMtZGVmYXVsdC1za2luIC52anMtcGxheS1wcm9ncmVzcyB7Ci8vICBiYWNrZ3JvdW5kLWNvbG9yOiAkcHJpbWFyeS1hY3RpdmUtY29sb3I7Ci8vfQovLy52aWRlby1qcy52anMtZGVmYXVsdC1za2luIC52anMtc2Vlay1oYW5kbGUgewovLyAgZGlzcGxheTogbm9uZTsKLy99Cg==</text>
+        <text encoding="base64">LnZpZGVvLWpzLnZqcy1kZWZhdWx0LXNraW4gLnZqcy1jdXJyZW50LXRpbWUtZGlzcGxheSB7CiAgbGluZS1oZWlnaHQ6IDUwcHg7Cn0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx2aWRlbyBpZD0iYXJ0aWNsZS12aWRlbyIgY2xhc3M9InZpZGVvLWpzIHZqcy1kZWZhdWx0LXNraW4iIGNvbnRyb2xzIHByZWxvYWQ9Im5vbmUiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjQ1MCIKICAgICAgICAgICAgICAgICAgICAgICBwb3N0ZXI9Int7ZW52KCdRTl9DRE4nKX19e3skYXJ0aWNsZS0+YmFubmVyX2lkIG9yICIifX0iCiAgICAgICAgICAgICAgICBkYXRhLXNldHVwPSJ7fSI+CiAgICAgICAgICAgICAgICAgICAgPHNvdXJjZSBzcmM9Int7ZW52KCdRTl9DRE4nKX19e3sgJGFydGljbGUtPm1lZGlhc1swXS0+aWQgfX0iIHR5cGU9J3ZpZGVvL21wNCcgLz4KICAgICAgICAgICAgICAgICAgICA8cCBjbGFzcz0idmpzLW5vLWpzIj4KICAgICAgICAgICAgICAgICAgICAgICAg5L2g55qE5rWP6KeI5Zmo5LiN5pSv5oyB5pKt5pS+6K+l5b2V5YOP5bim77yM6K+35bCd6K+V5pu05o2i5rWP6KeI5ZmoCiAgICAgICAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICAgICAgPC92aWRlbz4K</text>
+        <text encoding="base64">ICBoZWlnaHQ6IDUwcHg7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImNvbnRhaW5lciI+CiAgICAgICAgPGRpdiBjbGFzcz0icm93Ij4KICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLTEyIj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+CiAgICA8L2Rpdj4K</text>
+      <register name="6" type="4">
+        <text>true</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IHZqcy1kZWZhdWx0LXNraW4=</text>
+        <text>true</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">LnZpZGVvLWpzIHsKICB3aWR0aDogMTAwJTsKfQo=</text>
+      <register name="4" type="4">
+        <text>true</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>vjs-current-time-display</text>
       </register>
       <register name="8" type="4">
-        <text>960px</text>
+        <text>current-time-display</text>
       </register>
       <register name="/" type="4">
-        <text>play-control</text>
+        <text>vjs-control-bar</text>
       </register>
       <register name="-" type="4">
-        <text>vjs-default-skin</text>
+        <text>true</text>
       </register>
     </registers>
     <search>
-      <last-search>play-control</last-search>
+      <last-search>vjs-control-bar</last-search>
       <last-offset />
-      <last-pattern>play-control</last-pattern>
+      <last-pattern>vjs-control-bar</last-pattern>
       <last-replace>subItem</last-replace>
       <last-substitute>item</last-substitute>
       <last-dir>1</last-dir>
@@ -1569,7 +1572,6 @@
     </search>
     <history>
       <history-search>
-        <entry>navbar</entry>
         <entry>font-size</entry>
         <entry>month</entry>
         <entry>minute</entry>
@@ -1587,11 +1589,11 @@
         <entry>mark</entry>
         <entry>width</entry>
         <entry>vjs-tech</entry>
-        <entry>vjs-control-bar</entry>
         <entry>play-control</entry>
+        <entry>vjs-control</entry>
+        <entry>vjs-control-bar</entry>
       </history-search>
       <history-cmd>
-        <entry>5663</entry>
         <entry>45,67 s/-bg//g</entry>
         <entry>574,585 s/-bg//g</entry>
         <entry>sw</entry>
@@ -1610,6 +1612,7 @@
         <entry>33,38 s/password/password2/g</entry>
         <entry>64,75 s/item/subItem/g</entry>
         <entry>85,92 s/item/subItem/g</entry>
+        <entry>718</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
