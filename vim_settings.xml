@@ -1116,11 +1116,12 @@
         <mark key="." line="13" column="31" />
         <mark key="[" line="7" column="18" />
       </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" timestamp="1454041868320">
-        <mark key="]" line="1688" column="1" />
-        <mark key="^" line="1688" column="1" />
-        <mark key="." line="1688" column="1" />
-        <mark key="[" line="1574" column="1" />
+      <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" timestamp="1454047395563">
+        <mark key="'" line="1235" column="15" />
+        <mark key="]" line="1601" column="8" />
+        <mark key="^" line="1601" column="8" />
+        <mark key="." line="1601" column="8" />
+        <mark key="[" line="1601" column="1" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/header.tpl" timestamp="1453530148342">
         <mark key="]" line="1" column="0" />
@@ -1314,11 +1315,11 @@
         <mark key="[" line="20" column="20" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/libs/share/plugin_share.blade.php" timestamp="1454033006689" />
-      <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.blade.php" timestamp="1454045525009">
-        <mark key="]" line="6" column="4" />
-        <mark key="^" line="6" column="4" />
-        <mark key="." line="6" column="4" />
-        <mark key="[" line="6" column="2" />
+      <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.blade.php" timestamp="1454046909260">
+        <mark key="]" line="11" column="45" />
+        <mark key="^" line="10" column="34" />
+        <mark key="." line="11" column="45" />
+        <mark key="[" line="11" column="45" />
       </file>
       <file name="$USER_HOME$/project/heix/passport-frontend/resources/forgot/forgot.entrance.tpl" timestamp="1452751745415">
         <mark key="]" line="19" column="31" />
@@ -1412,63 +1413,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="229" column="22" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/variables.scss" />
-      <jump line="249" column="19" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/variables.scss" />
-      <jump line="256" column="31" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/variables.scss" />
-      <jump line="505" column="15" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/variables.scss" />
-      <jump line="509" column="12" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/variables.scss" />
-      <jump line="513" column="15" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/variables.scss" />
-      <jump line="517" column="14" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/variables.scss" />
-      <jump line="528" column="13" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/variables.scss" />
-      <jump line="586" column="19" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/variables.scss" />
-      <jump line="588" column="13" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/variables.scss" />
-      <jump line="634" column="45" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/variables.scss" />
-      <jump line="638" column="42" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/variables.scss" />
-      <jump line="642" column="45" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/variables.scss" />
-      <jump line="646" column="44" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/variables.scss" />
-      <jump line="656" column="18" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/variables.scss" />
-      <jump line="693" column="19" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/variables.scss" />
-      <jump line="700" column="21" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/variables.scss" />
-      <jump line="721" column="15" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/variables.scss" />
-      <jump line="725" column="15" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/variables.scss" />
-      <jump line="729" column="45" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/variables.scss" />
-      <jump line="733" column="42" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/variables.scss" />
-      <jump line="737" column="45" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/variables.scss" />
-      <jump line="741" column="44" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/variables.scss" />
-      <jump line="759" column="12" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/variables.scss" />
-      <jump line="760" column="31" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/variables.scss" />
-      <jump line="778" column="18" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/variables.scss" />
-      <jump line="782" column="11" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/variables.scss" />
-      <jump line="800" column="16" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/variables.scss" />
-      <jump line="812" column="10" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/variables.scss" />
-      <jump line="831" column="7" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/variables.scss" />
-      <jump line="32" column="12" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/variables.scss" />
-      <jump line="857" column="1" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/variables.scss" />
-      <jump line="41" column="20" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article.blade.php" />
-      <jump line="53" column="31" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article.blade.php" />
-      <jump line="874" column="8" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/variables.scss" />
-      <jump line="386" column="16" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/variables.scss" />
-      <jump line="412" column="25" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/variables.scss" />
-      <jump line="44" column="24" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/labels.scss" />
-      <jump line="576" column="10" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/variables.scss" />
-      <jump line="582" column="53" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/variables.scss" />
-      <jump line="78" column="43" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/variables.scss" />
-      <jump line="695" column="19" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/variables.scss" />
-      <jump line="702" column="21" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/variables.scss" />
-      <jump line="762" column="31" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/variables.scss" />
-      <jump line="774" column="0" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/variables.scss" />
-      <jump line="278" column="8" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/variables.scss" />
-      <jump line="282" column="8" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/variables.scss" />
-      <jump line="335" column="24" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/variables.scss" />
-      <jump line="337" column="24" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/variables.scss" />
-      <jump line="540" column="4" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/navbar.scss" />
-      <jump line="165" column="16" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/navbar.scss" />
-      <jump line="166" column="2" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/navbar.scss" />
-      <jump line="640" column="2" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/navbar.scss" />
-      <jump line="165" column="80" filename="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/article.list.tpl" />
-      <jump line="91" column="23" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article.blade.php" />
-      <jump line="348" column="43" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/variables.scss" />
-      <jump line="139" column="13" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/type.scss" />
       <jump line="35" column="2" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/navbar.scss" />
       <jump line="0" column="0" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/navbar.scss" />
       <jump line="676" column="17" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/navbar.scss" />
@@ -1512,55 +1456,112 @@
       <jump line="45" column="102" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/comment.tpl" />
       <jump line="84" column="107" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/comment.tpl" />
       <jump line="0" column="0" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/normalize.scss" />
+      <jump line="579" column="4" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="652" column="4" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="661" column="6" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="679" column="6" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="682" column="6" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="686" column="4" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="700" column="4" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="722" column="4" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="725" column="4" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="730" column="2" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="798" column="4" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="820" column="4" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="883" column="6" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="893" column="6" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="902" column="8" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="964" column="4" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="969" column="4" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="1041" column="4" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="1063" column="4" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="1067" column="4" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="1085" column="2" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="1105" column="4" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="1112" column="4" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="1125" column="4" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="1134" column="4" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="1141" column="4" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="1170" column="4" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="1206" column="2" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="1293" column="4" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="1310" column="4" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="1315" column="4" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="1338" column="4" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="1353" column="2" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="1368" column="4" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="1464" column="2" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="1466" column="4" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="1480" column="6" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="1592" column="0" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="1613" column="13" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="456" column="3" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="1754" column="21" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="1758" column="13" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="738" column="11" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="751" column="3" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="763" column="35" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="773" column="98" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="777" column="58" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="783" column="34" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="788" column="30" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="1637" column="19" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="1641" column="11" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="1651" column="36" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="50" column="29" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="62" column="36" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="76" column="32" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="82" column="39" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
+      <jump line="1235" column="15" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
     </jumps>
     <registers>
       <register name="3" type="2">
-        <text encoding="base64">PGxpbmsgcmVsPSJzdHlsZXNoZWV0IiBocmVmPSIvYXNzZXRzL2Nzcy9hcnRpY2xlLXN0eWxlLmNzcyI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>how</text>
+        <text>vjs-default-skin</text>
       </register>
       <register name="2" type="4">
-        <text>show</text>
+        <text>js</text>
       </register>
       <register name="1" type="4">
-        <text>how</text>
+        <text>vjs-default-skin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QHNlY3Rpb24oImhlYWQtZXh0cmEiKQpAcGFyZW50CjxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iL2Fzc2V0cy9jc3MvYXJ0aWNsZS1zdHlsZS5jc3MiPgo8bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9Ii4vYXJ0aWNsZS5zY3NzIj4KQHNob3cK</text>
+        <text encoding="base64">Ly8udmpzLWRlZmF1bHQtc2tpbiAudmpzLWJpZy1wbGF5LWJ1dHRvbiB7Ci8vICBmb250LXNpemU6IDNlbTsKLy8gICRiaWctcGxheS13aWR0aDogM2VtOwovLyAgJGJpZy1wbGF5LWhlaWdodDogM2VtOwovLwovLyAgbGluZS1oZWlnaHQ6ICRiaWctcGxheS1oZWlnaHQ7Ci8vICBoZWlnaHQ6ICRiaWctcGxheS1oZWlnaHQ7Ci8vICB3aWR0aDogJGJpZy1wbGF5LXdpZHRoOwovLwovLyAgYm9yZGVyOiAwLjA2NjY2ZW0gc29saWQgI2ZmZjsKLy8gIGJvcmRlci1yYWRpdXM6IDEwMDBlbTsKLy8KLy8gIEBpZiAkY2VudGVyLWJpZy1wbGF5LWJ1dHRvbiB7Ci8vICAgIGxlZnQ6IDUwJTsKLy8gICAgdG9wOiA1MCU7Ci8vICAgIG1hcmdpbi1sZWZ0OiAtKCRiaWctcGxheS13aWR0aCAvIDIpOwovLyAgICBtYXJnaW4tdG9wOiAtKCRiaWctcGxheS1oZWlnaHQgLyAyKTsKLy8gIH0gQGVsc2UgewovLyAgICBsZWZ0OiAwLjVlbTsKLy8gICAgdG9wOiAwLjVlbTsKLy8gIH0KLy8KLy8gICY6OmJlZm9yZSB7Ci8vICAgIGRpc3BsYXk6IGJsb2NrOwovLyAgICBoZWlnaHQ6IDUwcHg7Ci8vICAgIHdpZHRoOiAxMDAlOwovLyAgICB0b3A6IDUwJTsKLy8gICAgbGVmdDogMDsKLy8gICAgbWFyZ2luLXRvcDogLTI1cHg7Ci8vICAgIHRleHQtYWxpZ246IGNlbnRlcjsKLy8gICAgZm9udC1zaXplOiA1MHB4OwovLyAgICBsaW5lLWhlaWdodDogNTBweDsKLy8gICAgY29sb3I6ICNmZmY7Ci8vICB9Ci8vfQovLwovLy52anMtZGVmYXVsdC1za2luIC52anMtY29udHJvbC1iYXIgewovLyAgcGFkZGluZzogMCBjYWxjKDUwJSAtIDQ4MHB4KTsKLy99Ci8vCi8vLnZpZGVvLWpzIC52anMtY29udHJvbC1iYXIsCi8vLnZpZGVvLWpzIC52anMtYmlnLXBsYXktYnV0dG9uLAovLy52aWRlby1qcyAudmpzLW1lbnUtYnV0dG9uIC52anMtbWVudS1jb250ZW50IHsKLy8gIGJhY2tncm91bmQtY29sb3I6ICRwcmltYXJ5LWJhY2tncm91bmQtY29sb3I7Ci8vICBiYWNrZ3JvdW5kLWNvbG9yOiByZ2JhKCRwcmltYXJ5LWJhY2tncm91bmQtY29sb3IsIDAuNyk7Ci8vfQovLwovLyRzbGlkZXItYmctY29sb3I6IGxpZ2h0ZW4oJHByaW1hcnktYmFja2dyb3VuZC1jb2xvciwgMzMlKTsKLy8KLy8udmlkZW8tanMgLnZqcy1zbGlkZXIgewovLyAgYmFja2dyb3VuZC1jb2xvcjogJHNsaWRlci1iZy1jb2xvcjsKLy8gIGJhY2tncm91bmQtY29sb3I6IHJnYmEoJHNsaWRlci1iZy1jb2xvciwgMC41KTsKLy99Ci8vCi8vLnZpZGVvLWpzIC52anMtdm9sdW1lLWxldmVsLAovLy52aWRlby1qcyAudmpzLXBsYXktcHJvZ3Jlc3MsCi8vLnZpZGVvLWpzIC52anMtc2xpZGVyLWJhciB7Ci8vICBiYWNrZ3JvdW5kOiAkcHJpbWFyeS1mb3JlZ3JvdW5kLWNvbG9yOwovL30KLy8KLy8udmlkZW8tanMgLnZqcy1sb2FkLXByb2dyZXNzIHsKLy8gIGJhY2tncm91bmQ6IGxpZ3RoZW4oJHNsaWRlci1iZy1jb2xvciwgMjUlKTsKLy8gIGJhY2tncm91bmQ6IHJnYmEoJHNsaWRlci1iZy1jb2xvciwgMC41KTsKLy99Ci8vCi8vLnZpZGVvLWpzIC52anMtbG9hZC1wcm9ncmVzcyBkaXYgewovLyAgYmFja2dyb3VuZDogbGlndGhlbigkc2xpZGVyLWJnLWNvbG9yLCA1MCUpOwovLyAgYmFja2dyb3VuZDogcmdiYSgkc2xpZGVyLWJnLWNvbG9yLCAwLjc1KTsKLy99Ci8vCi8vLy8g5b2T5YmN5pKt5pS+5pe26Ze0Ci8vLnZqcy1kZWZhdWx0LXNraW4gLnZqcy1jdXJyZW50LXRpbWUtZGlzcGxheSB7Ci8vICBjb2xvcjogJHByaW1hcnktYWN0aXZlLWNvbG9yOwovL30KLy8KLy8vLyDpn7Pph4/mnaEKLy8udmlkZW8tanMudmpzLWRlZmF1bHQtc2tpbiAudmpzLXZvbHVtZS1sZXZlbCB7Ci8vICBiYWNrZ3JvdW5kLWNvbG9yOiAkcHJpbWFyeS1hY3RpdmUtY29sb3I7Ci8vfQovLy52aWRlby1qcy52anMtZGVmYXVsdC1za2luIC52anMtdm9sdW1lLWhhbmRsZS52anMtc2xpZGVyLWhhbmRsZTo6YmVmb3JlIHsKLy8gIGRpc3BsYXk6IG5vbmU7Ci8vICAvL2NvbG9yOiAkcHJpbWFyeS1hY3RpdmUtY29sb3I7Ci8vfQovLwovLy8vIOinhumikeaXtumXtOadoQovLy52aWRlby1qcy52anMtZGVmYXVsdC1za2luIC52anMtcGxheS1wcm9ncmVzcyB7Ci8vICBiYWNrZ3JvdW5kLWNvbG9yOiAkcHJpbWFyeS1hY3RpdmUtY29sb3I7Ci8vfQovLy52aWRlby1qcy52anMtZGVmYXVsdC1za2luIC52anMtc2Vlay1oYW5kbGUgewovLyAgZGlzcGxheTogbm9uZTsKLy99Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQHNlY3Rpb24oImFydGljbGUtYmFubmVyIikKICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InV0aWwtbWItNTAiPjwvZGl2PgogICAgICAgICAgICBAc2hvdwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx2aWRlbyBpZD0iYXJ0aWNsZS12aWRlbyIgY2xhc3M9InZpZGVvLWpzIHZqcy1kZWZhdWx0LXNraW4iIGNvbnRyb2xzIHByZWxvYWQ9Im5vbmUiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjQ1MCIKICAgICAgICAgICAgICAgICAgICAgICBwb3N0ZXI9Int7ZW52KCdRTl9DRE4nKX19e3skYXJ0aWNsZS0+YmFubmVyX2lkIG9yICIifX0iCiAgICAgICAgICAgICAgICBkYXRhLXNldHVwPSJ7fSI+CiAgICAgICAgICAgICAgICAgICAgPHNvdXJjZSBzcmM9Int7ZW52KCdRTl9DRE4nKX19e3sgJGFydGljbGUtPm1lZGlhc1swXS0+aWQgfX0iIHR5cGU9J3ZpZGVvL21wNCcgLz4KICAgICAgICAgICAgICAgICAgICA8cCBjbGFzcz0idmpzLW5vLWpzIj4KICAgICAgICAgICAgICAgICAgICAgICAg5L2g55qE5rWP6KeI5Zmo5LiN5pSv5oyB5pKt5pS+6K+l5b2V5YOP5bim77yM6K+35bCd6K+V5pu05o2i5rWP6KeI5ZmoCiAgICAgICAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICAgICAgPC92aWRlbz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDwhLS0gYmFubmVyIC0tPgogICAgPGRpdiBjbGFzcz0icm93Ij4KICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbWQtMTIiPgogICAgICAgIDwvZGl2PgogICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImNvbnRhaW5lciI+CiAgICAgICAgPGRpdiBjbGFzcz0icm93Ij4KICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLTEyIj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+CiAgICA8L2Rpdj4K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">PGRpdiBjbGFzcz0idXRpbC1tYi01MCI+PC9kaXY+Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">IHZqcy1kZWZhdWx0LXNraW4=</text>
       </register>
-      <register name="4" type="4">
-        <text>example_video_1</text>
+      <register name="4" type="2">
+        <text encoding="base64">LnZpZGVvLWpzIHsKICB3aWR0aDogMTAwJTsKfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PGRpdiBjbGFzcz0iY29udGFpbmVyLWZsdWlkIj4KICAgIAo8L2Rpdj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">PGRpdj4KICAgIAo8L2Rpdj4K</text>
+      <register name="8" type="4">
+        <text>960px</text>
       </register>
       <register name="/" type="4">
-        <text>mark</text>
+        <text>play-control</text>
       </register>
       <register name="-" type="4">
-        <text>how</text>
+        <text>vjs-default-skin</text>
       </register>
     </registers>
     <search>
-      <last-search>mark</last-search>
+      <last-search>play-control</last-search>
       <last-offset />
-      <last-pattern>mark</last-pattern>
+      <last-pattern>play-control</last-pattern>
       <last-replace>subItem</last-replace>
       <last-substitute>item</last-substitute>
       <last-dir>1</last-dir>
@@ -1568,10 +1569,6 @@
     </search>
     <history>
       <history-search>
-        <entry>label</entry>
-        <entry>-bg</entry>
-        <entry>text-color</entry>
-        <entry>body</entry>
         <entry>navbar</entry>
         <entry>font-size</entry>
         <entry>month</entry>
@@ -1588,6 +1585,10 @@
         <entry>dropdown</entry>
         <entry>item</entry>
         <entry>mark</entry>
+        <entry>width</entry>
+        <entry>vjs-tech</entry>
+        <entry>vjs-control-bar</entry>
+        <entry>play-control</entry>
       </history-search>
       <history-cmd>
         <entry>5663</entry>
