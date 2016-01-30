@@ -722,10 +722,10 @@
         <mark key="[" line="4" column="78" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/article.scss" timestamp="1454143595790">
-        <mark key="]" line="44" column="28" />
-        <mark key="^" line="44" column="58" />
-        <mark key="." line="44" column="28" />
-        <mark key="[" line="44" column="28" />
+        <mark key="]" line="42" column="28" />
+        <mark key="^" line="42" column="58" />
+        <mark key="." line="42" column="28" />
+        <mark key="[" line="42" column="28" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/libs/modal/modal.js" timestamp="1453876939826">
         <mark key="]" line="11" column="0" />
@@ -869,9 +869,9 @@
         <mark key="[" line="21" column="83" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/article.blade.php" timestamp="1454145551032">
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-        <mark key="[" line="47" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+        <mark key="[" line="43" column="0" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/selector/wrapper.tpl" timestamp="1453111192578">
         <mark key="]" line="5" column="51" />
@@ -999,10 +999,6 @@
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/article.js" timestamp="1454144195407">
         <mark key="'" line="258" column="0" />
-        <mark key="]" line="243" column="0" />
-        <mark key="^" line="250" column="13" />
-        <mark key="." line="243" column="0" />
-        <mark key="[" line="243" column="0" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/module/module.detail.js" timestamp="1450685264005">
         <mark key="]" line="11" column="0" />
