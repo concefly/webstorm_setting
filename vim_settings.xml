@@ -642,6 +642,12 @@
         <mark key="." line="39" column="62" />
         <mark key="[" line="39" column="42" />
       </file>
+      <file name="$USER_HOME$/project/heix/cms-frontend/resources/404/index.blade.php" timestamp="1454134483075">
+        <mark key="]" line="7" column="4" />
+        <mark key="^" line="7" column="4" />
+        <mark key="." line="7" column="4" />
+        <mark key="[" line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/libs/modal/modal.js" timestamp="1453876939826">
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
@@ -743,11 +749,11 @@
         <mark key="." line="24" column="95" />
         <mark key="[" line="21" column="83" />
       </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/article.blade.php" timestamp="1454052730338">
-        <mark key="]" line="84" column="0" />
+      <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/article.blade.php" timestamp="1454134105178">
+        <mark key="]" line="1" column="22" />
         <mark key="^" line="101" column="89" />
         <mark key="." line="84" column="0" />
-        <mark key="[" line="84" column="0" />
+        <mark key="[" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/selector/wrapper.tpl" timestamp="1453111192578">
         <mark key="]" line="5" column="51" />
@@ -1494,8 +1500,8 @@
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBnZXRNb250aChkYXRlKSsiLiIrZ2V0RGF0ZShkYXRlKTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">QGV4dGVuZHMoImNtcy5sYXlvdXQiKQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyIG5vdyA9IG5ldyBEYXRlKCk7CiAgICAgICAgICAgIGlmKGRhdGUuZ2V0RnVsbFllYXIoKTxub3cuZ2V0RnVsbFllYXIoKSl7CiAgICAgICAgICAgICAgICByZXR1cm4gZGF0ZS5nZXRGdWxsWWVhcigpKyIuIitnZXRNb250aChkYXRlKSsiLiIrZ2V0RGF0ZShkYXRlKTsKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgfQo=</text>
@@ -1504,7 +1510,7 @@
         <text>s</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgd2lkdGg6IDEwMCU7CiAgaGVpZ2h0OiAxMDAlOwogIHRvcDogMDsKICBsZWZ0OiAwOwogIGRpc3BsYXk6IGZsZXg7CiAganVzdGlmeS1jb250ZW50OiBjZW50ZXI7CiAgYWxpZ24taXRlbXM6IGNlbnRlcjsKICB0ZXh0LWFsaWduOiBjZW50ZXI7Cn0K</text>
+        <text encoding="base64">QGV4dGVuZHMoImNtcy5sYXlvdXQiKQo=</text>
       </register>
       <register name="7" type="4">
         <text>a</text>
