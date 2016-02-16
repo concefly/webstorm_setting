@@ -76,13 +76,6 @@
         <mark key="." line="3" column="72" />
         <mark key="[" line="3" column="59" />
       </file>
-      <file name="$USER_HOME$/project/heix/passport-frontend/resources/login/index.js" timestamp="1455587755967">
-        <mark key="'" line="95" column="20" />
-        <mark key="]" line="74" column="4" />
-        <mark key="^" line="73" column="10" />
-        <mark key="." line="73" column="10" />
-        <mark key="[" line="70" column="0" />
-      </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/related-article/related-article.tpl" timestamp="1452481812410">
         <mark key="]" line="1" column="25" />
         <mark key="^" line="1" column="25" />
@@ -143,11 +136,11 @@
         <mark key="." line="12" column="19" />
         <mark key="[" line="12" column="18" />
       </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/thumbnails.scss" timestamp="1454059287514">
-        <mark key="]" line="133" column="0" />
-        <mark key="^" line="131" column="21" />
-        <mark key="." line="131" column="21" />
-        <mark key="[" line="124" column="0" />
+      <file name="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/thumbnails.scss" timestamp="1455612436420">
+        <mark key="]" line="111" column="1" />
+        <mark key="^" line="111" column="19" />
+        <mark key="." line="111" column="1" />
+        <mark key="[" line="111" column="1" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/user/home/app.js" timestamp="1453803260614">
         <mark key="]" line="24" column="0" />
@@ -203,6 +196,12 @@
         <mark key="^" line="51" column="28" />
         <mark key="." line="51" column="28" />
         <mark key="[" line="51" column="27" />
+      </file>
+      <file name="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/variables.scss" timestamp="1455610324065">
+        <mark key="]" line="462" column="49" />
+        <mark key="^" line="462" column="49" />
+        <mark key="." line="462" column="49" />
+        <mark key="[" line="462" column="40" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/user/user.notification.js" timestamp="1450250038309">
         <mark key="]" line="46" column="18" />
@@ -271,11 +270,11 @@
         <mark key="." line="136" column="44" />
         <mark key="[" line="136" column="17" />
       </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/resources/article_type_list/topic.blade.php" timestamp="1455605549130">
-        <mark key="]" line="7" column="79" />
-        <mark key="^" line="7" column="79" />
-        <mark key="." line="7" column="79" />
-        <mark key="[" line="6" column="7" />
+      <file name="$USER_HOME$/project/heix/cms-frontend/resources/article_type_list/topic.blade.php" timestamp="1455614639207">
+        <mark key="]" line="21" column="28" />
+        <mark key="^" line="8" column="40" />
+        <mark key="." line="21" column="28" />
+        <mark key="[" line="21" column="28" />
       </file>
       <file name="$USER_HOME$/project/heix/passport-frontend/resources/signup/signup.blade.php" timestamp="1453102107154">
         <mark key="]" line="14" column="4" />
@@ -360,11 +359,11 @@
         <mark key="." line="10" column="26" />
         <mark key="[" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/loading.scss" timestamp="1453947106509">
-        <mark key="]" line="12" column="11" />
-        <mark key="^" line="12" column="11" />
-        <mark key="." line="12" column="11" />
-        <mark key="[" line="11" column="29" />
+      <file name="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/loading.scss" timestamp="1455614162661">
+        <mark key="]" line="7" column="15" />
+        <mark key="^" line="7" column="15" />
+        <mark key="." line="7" column="15" />
+        <mark key="[" line="6" column="12" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/background.scss" timestamp="1449474667050">
         <mark key="]" line="7" column="42" />
@@ -427,10 +426,11 @@
         <mark key="." line="4" column="31" />
         <mark key="[" line="4" column="32" />
       </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/fis-conf.js" timestamp="1454135449549">
-        <mark key="]" line="19" column="22" />
-        <mark key="." line="19" column="22" />
-        <mark key="[" line="19" column="22" />
+      <file name="$USER_HOME$/project/heix/cms-frontend/fis-conf.js" timestamp="1455613422108">
+        <mark key="]" line="115" column="27" />
+        <mark key="^" line="115" column="27" />
+        <mark key="." line="115" column="27" />
+        <mark key="[" line="115" column="27" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/user/user.tag.tpl" timestamp="1450248411601">
         <mark key="]" line="44" column="93" />
@@ -496,6 +496,12 @@
         <mark key="." line="1" column="0" />
         <mark key="[" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/project/heix/cms-frontend/resources/article_type_list/video.js" timestamp="1455611978466">
+        <mark key="]" line="46" column="37" />
+        <mark key="^" line="29" column="32" />
+        <mark key="." line="46" column="37" />
+        <mark key="[" line="46" column="36" />
+      </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/media/image.select.js" timestamp="1453112235245">
         <mark key="]" line="96" column="17" />
         <mark key="^" line="96" column="17" />
@@ -560,6 +566,12 @@
         <mark key="." line="30" column="34" />
         <mark key="[" line="30" column="34" />
       </file>
+      <file name="$USER_HOME$/project/heix/cms-frontend/resources/article_type_list/topic.tpl" timestamp="1455612875707">
+        <mark key="]" line="28" column="34" />
+        <mark key="^" line="4" column="37" />
+        <mark key="." line="28" column="34" />
+        <mark key="[" line="28" column="33" />
+      </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/user/home/base.blade.php" timestamp="1453796064620">
         <mark key="]" line="26" column="25" />
         <mark key="^" line="26" column="25" />
@@ -620,7 +632,8 @@
         <mark key="." line="9" column="115" />
         <mark key="[" line="9" column="114" />
       </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap-custom.scss" timestamp="1453797127242">
+      <file name="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap-custom.scss" timestamp="1455613597454">
+        <mark key="'" line="0" column="0" />
         <mark key="]" line="48" column="25" />
         <mark key="^" line="48" column="25" />
         <mark key="." line="48" column="25" />
@@ -774,6 +787,12 @@
         <mark key="." line="8" column="39" />
         <mark key="[" line="8" column="35" />
       </file>
+      <file name="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/pagination.scss" timestamp="1455610864241">
+        <mark key="]" line="66" column="0" />
+        <mark key="^" line="52" column="24" />
+        <mark key="." line="66" column="0" />
+        <mark key="[" line="66" column="0" />
+      </file>
       <file name="$USER_HOME$/project/pet/wechat/package.json" timestamp="1449479047622">
         <mark key="]" line="21" column="0" />
         <mark key="^" line="10" column="20" />
@@ -823,11 +842,11 @@
         <mark key="." line="12" column="15" />
         <mark key="[" line="12" column="17" />
       </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/libs/utils/util.js" timestamp="1454059300369">
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="54" column="73" />
-        <mark key="." line="32" column="0" />
-        <mark key="[" line="32" column="0" />
+      <file name="$USER_HOME$/project/heix/cms-frontend/libs/utils/util.js" timestamp="1455612713858">
+        <mark key="]" line="52" column="38" />
+        <mark key="^" line="52" column="38" />
+        <mark key="." line="52" column="38" />
+        <mark key="[" line="32" column="39" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/file-upload/file-upload.js" timestamp="1453168551367">
         <mark key="]" line="60" column="45" />
@@ -1077,6 +1096,12 @@
         <mark key="." line="40" column="93" />
         <mark key="[" line="40" column="93" />
       </file>
+      <file name="$USER_HOME$/project/heix/cms-frontend/libs/pagination/pagination.tpl" timestamp="1455610948586">
+        <mark key="]" line="12" column="67" />
+        <mark key="^" line="12" column="67" />
+        <mark key="." line="12" column="67" />
+        <mark key="[" line="12" column="64" />
+      </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/publish-timer.js" timestamp="1453714796909">
         <mark key="]" line="126" column="27" />
         <mark key="^" line="126" column="27" />
@@ -1099,6 +1124,12 @@
         <mark key="^" line="41" column="138" />
         <mark key="." line="41" column="138" />
         <mark key="[" line="41" column="114" />
+      </file>
+      <file name="$USER_HOME$/project/heix/cms-frontend/resources/article_type_list/video.tpl" timestamp="1455612865691">
+        <mark key="]" line="32" column="33" />
+        <mark key="^" line="32" column="33" />
+        <mark key="." line="32" column="33" />
+        <mark key="[" line="32" column="25" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/user/user.list.tpl" timestamp="1450249872847">
         <mark key="]" line="36" column="20" />
@@ -1130,11 +1161,11 @@
         <mark key="." line="358" column="51" />
         <mark key="[" line="358" column="41" />
       </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/resources/article_type_list/topic.js" timestamp="1455606174432">
-        <mark key="]" line="16" column="40" />
-        <mark key="^" line="16" column="40" />
-        <mark key="." line="16" column="40" />
-        <mark key="[" line="19" column="3" />
+      <file name="$USER_HOME$/project/heix/cms-frontend/resources/article_type_list/topic.js" timestamp="1455611535256">
+        <mark key="]" line="55" column="44" />
+        <mark key="^" line="55" column="44" />
+        <mark key="." line="55" column="44" />
+        <mark key="[" line="54" column="43" />
       </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/resources/assets/js/admin/components/media/picture.vue" timestamp="1449825452970">
         <mark key="]" line="70" column="54" />
@@ -1202,6 +1233,12 @@
         <mark key="." line="18" column="11" />
         <mark key="[" line="18" column="11" />
       </file>
+      <file name="$USER_HOME$/project/heix/cms-frontend/resources/article_type_list/video.blade.php" timestamp="1455614648623">
+        <mark key="]" line="21" column="28" />
+        <mark key="^" line="37" column="49" />
+        <mark key="." line="21" column="28" />
+        <mark key="[" line="21" column="28" />
+      </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/paragraph/paragraph-tp.html" timestamp="1449555120511">
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="50" />
@@ -1232,10 +1269,6 @@
         <mark key="^" line="4" column="120" />
         <mark key="." line="4" column="120" />
         <mark key="[" line="4" column="93" />
-      </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/mixin_share/share.js" timestamp="1454135568804">
-        <mark key="]" line="37" column="4" />
-        <mark key="[" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/summernote/article.style.js" timestamp="1453109149634">
         <mark key="]" line="36" column="0" />
@@ -1278,13 +1311,6 @@
         <mark key="." line="12" column="60" />
         <mark key="[" line="12" column="60" />
       </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/resources/user/profile/index.js" timestamp="1455603756658">
-        <mark key="'" line="303" column="44" />
-        <mark key="]" line="123" column="0" />
-        <mark key="^" line="120" column="37" />
-        <mark key="." line="123" column="0" />
-        <mark key="[" line="123" column="0" />
-      </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/module/module.detail.add.html" timestamp="1450665335094">
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -1301,6 +1327,11 @@
         <mark key="^" line="13" column="31" />
         <mark key="." line="13" column="31" />
         <mark key="[" line="7" column="18" />
+      </file>
+      <file name="$USER_HOME$/project/heix/cms-frontend/resources/article_type_list/topic.scss" timestamp="1455612783131">
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="[" line="15" column="0" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" timestamp="1454052141121">
         <mark key="]" line="122" column="0" />
@@ -1416,6 +1447,12 @@
         <mark key="." line="6" column="17" />
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/project/heix/cms-frontend/libs/pagination/pagination.js" timestamp="1455608652429">
+        <mark key="]" line="13" column="10" />
+        <mark key="^" line="13" column="10" />
+        <mark key="." line="13" column="10" />
+        <mark key="[" line="13" column="4" />
+      </file>
       <file name="$USER_HOME$/project/pet/wechat/views/check/third.html" timestamp="1449631386242">
         <mark key="]" line="40" column="5" />
         <mark key="^" line="34" column="26" />
@@ -1445,6 +1482,12 @@
         <mark key="^" line="8" column="9" />
         <mark key="." line="8" column="9" />
         <mark key="[" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/heix/cms-frontend/resources/article_type_list/video.scss" timestamp="1455612806947">
+        <mark key="]" line="15" column="13" />
+        <mark key="^" line="15" column="24" />
+        <mark key="." line="15" column="13" />
+        <mark key="[" line="15" column="12" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.normal.js" timestamp="1450149524762">
         <mark key="]" line="26" column="23" />
@@ -1611,11 +1654,11 @@
         <mark key="." line="12" column="51" />
         <mark key="[" line="12" column="50" />
       </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/libs/style-utils/utils.scss" timestamp="1453803605214">
-        <mark key="]" line="10" column="15" />
-        <mark key="^" line="7" column="53" />
-        <mark key="." line="10" column="15" />
-        <mark key="[" line="10" column="14" />
+      <file name="$USER_HOME$/project/heix/cms-frontend/libs/style-utils/utils.scss" timestamp="1455612551010">
+        <mark key="]" line="57" column="30" />
+        <mark key="^" line="57" column="30" />
+        <mark key="." line="57" column="30" />
+        <mark key="[" line="56" column="17" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/views/check/all.scss" timestamp="1449456056731">
         <mark key="]" line="31" column="43" />
@@ -1649,7 +1692,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="55" filename="$USER_HOME$/project/heix/cms-frontend/resources/user/notification/notification.blade.php" />
       <jump line="4" column="0" filename="$USER_HOME$/project/heix/cms-frontend/resources/user/profile/index.blade.php" />
       <jump line="0" column="0" filename="$USER_HOME$/project/heix/cms-frontend/resources/user/profile/index.blade.php" />
       <jump line="86" column="8" filename="$USER_HOME$/project/heix/cms-frontend/resources/user/profile/index.blade.php" />
@@ -1749,55 +1791,62 @@
       <jump line="1707" column="13" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
       <jump line="225" column="7" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article.js" />
       <jump line="259" column="0" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap-custom.scss" />
     </jumps>
     <registers>
-      <register name="3" type="2">
-        <text encoding="base64">aGVpYmFuYmFvCg==</text>
+      <register name="3" type="4">
+        <text>b</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>validate</text>
+      <register name="&quot;" type="8">
+        <text>bb-
+bb-
+bb-</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aGVpYmFuYmFvCg==</text>
+      <register name="2" type="4">
+        <text>-</text>
       </register>
-      <register name="1" type="4">
-        <text>validate</text>
+      <register name="1" type="8">
+        <text>bb-
+bb-
+bb-</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsaWRhdGU6IFsianF1ZXJ5Il0sCg==</text>
+        <text encoding="base64">PGRpdiBpZD0icGFnZUNvbnRhaW5lciI+CiAgICA8ZGl2IGNsYXNzPSJ0ZXh0LWNlbnRlciB1dGlsLXB0LTEyMCB1dGlsLXBiLTEyMCI+CiAgICAgICAg6L295YWl5LitLi4uCiAgICA8L2Rpdj4KPC9kaXY+Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">PGxpbmsgcmVsPSJzdHlsZXNoZWV0IiBocmVmPSIvYXNzZXRzL2Nzcy9hcnRpY2xlLXN0eWxlLmNzcyI+CjxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iLi9hcnRpY2xlLnNjc3MiPgo=</text>
+      <register name="7" type="4">
+        <text>b</text>
       </register>
       <register name="6" type="4">
-        <text>rticle</text>
+        <text>-</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">JGFydGljbGUtPnRpdGxl</text>
+      <register name="5" type="8">
+        <text>bb-
+bb-
+bb-</text>
       </register>
       <register name="4" type="4">
-        <text>layout</text>
+        <text>b</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PHNjcmlwdD4KICAgIHdpbmRvdy5jb25maWcuYXJ0aWNsZU1ldGEgPSB7fTsKICAgIHdpbmRvdy5jb25maWcuYXJ0aWNsZU1ldGEuaWQgPSAie3skYXJ0aWNsZS0+aWR9fSI7CiAgICB3aW5kb3cuY29uZmlnLmFydGljbGVNZXRhLmNvdmVyX2lkID0gInt7JGFydGljbGUtPmlkfX0iOwogICAgd2luZG93LmNvbmZpZy5hcnRpY2xlTWV0YS5hdXRob3JfaWQgPSAie3skYXJ0aWNsZS0+YXV0aG9yX2lkfX0iOwogICAgd2luZG93LmNvbmZpZy5hcnRpY2xlTWV0YS5iYW5uZXJfaWQgPSAie3skYXJ0aWNsZS0+YmFubmVyX2lkfX0iOwogICAgd2luZG93LmNvbmZpZy5hcnRpY2xlTWV0YS5saW5rX2lkID0gInt7JGFydGljbGUtPmxpbmtfaWR9fSI7CiAgICB3aW5kb3cuY29uZmlnLmFydGljbGVNZXRhLnB1Ymxpc2hfdGltZSA9ICJ7eyRhcnRpY2xlLT5wdWJsaXNoX3RpbWV9fSI7CiAgICB3aW5kb3cuY29uZmlnLmFydGljbGVNZXRhLnRpdGxlID0gInt7JGFydGljbGUtPnRpdGxlfX0iOwogICAgd2luZG93LmNvbmZpZy5hcnRpY2xlTWV0YS5pc0ZhdiA9ICJ7eyRhcnRpY2xlLT5pc0Zhdn19IjsKPC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iYmItdGh1bWIiPgo=</text>
       </register>
       <register name="8" type="4">
-        <text>article</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
-        <text>vjs-control-bar</text>
+        <text>loading</text>
       </register>
       <register name="-" type="4">
-        <text>validate</text>
+        <text>-</text>
       </register>
     </registers>
     <search>
-      <last-search>vjs-control-bar</last-search>
+      <last-search>loading</last-search>
       <last-offset />
-      <last-pattern>vjs-control-bar</last-pattern>
+      <last-pattern>loading</last-pattern>
       <last-replace>subItem</last-replace>
       <last-substitute>item</last-substitute>
       <last-dir>1</last-dir>
@@ -1805,7 +1854,6 @@
     </search>
     <history>
       <history-search>
-        <entry>font-size</entry>
         <entry>month</entry>
         <entry>minute</entry>
         <entry>date</entry>
@@ -1825,6 +1873,7 @@
         <entry>play-control</entry>
         <entry>vjs-control</entry>
         <entry>vjs-control-bar</entry>
+        <entry>loading</entry>
       </history-search>
       <history-cmd>
         <entry>574,585 s/-bg//g</entry>
