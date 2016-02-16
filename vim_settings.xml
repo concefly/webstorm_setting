@@ -101,11 +101,11 @@
         <mark key="." line="4" column="45" />
         <mark key="[" line="4" column="36" />
       </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/resources/layout.blade.php" timestamp="1454138617233">
-        <mark key="]" line="90" column="24" />
-        <mark key="^" line="90" column="24" />
-        <mark key="." line="90" column="24" />
-        <mark key="[" line="89" column="31" />
+      <file name="$USER_HOME$/project/heix/cms-frontend/resources/layout.blade.php" timestamp="1455591504811">
+        <mark key="]" line="94" column="19" />
+        <mark key="^" line="94" column="19" />
+        <mark key="." line="94" column="19" />
+        <mark key="[" line="94" column="12" />
       </file>
       <file name="$USER_HOME$/project/heix/passport-frontend/libs/utils/query.js" timestamp="1452675816328">
         <mark key="]" line="6" column="2" />
@@ -572,11 +572,11 @@
         <mark key="." line="2" column="0" />
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/resources/user/profile/index.blade.php" timestamp="1453891360568">
-        <mark key="]" line="67" column="93" />
-        <mark key="^" line="67" column="93" />
-        <mark key="." line="67" column="93" />
-        <mark key="[" line="67" column="74" />
+      <file name="$USER_HOME$/project/heix/cms-frontend/resources/user/profile/index.blade.php" timestamp="1455592651836">
+        <mark key="]" line="36" column="41" />
+        <mark key="^" line="36" column="41" />
+        <mark key="." line="36" column="41" />
+        <mark key="[" line="36" column="41" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.list.tpl" timestamp="1450433517347">
         <mark key="'" line="72" column="85" />
@@ -1243,12 +1243,12 @@
         <mark key="." line="12" column="60" />
         <mark key="[" line="12" column="60" />
       </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/resources/user/profile/index.js" timestamp="1453891510102">
-        <mark key="'" line="251" column="44" />
-        <mark key="]" line="204" column="42" />
-        <mark key="^" line="204" column="42" />
-        <mark key="." line="204" column="42" />
-        <mark key="[" line="202" column="32" />
+      <file name="$USER_HOME$/project/heix/cms-frontend/resources/user/profile/index.js" timestamp="1455593428686">
+        <mark key="'" line="290" column="44" />
+        <mark key="]" line="275" column="66" />
+        <mark key="^" line="275" column="67" />
+        <mark key="." line="275" column="66" />
+        <mark key="[" line="275" column="65" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/module/module.detail.add.html" timestamp="1450665335094">
         <mark key="]" line="1" column="0" />
@@ -1710,47 +1710,47 @@
       <jump line="259" column="0" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article.js" />
     </jumps>
     <registers>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="3" type="4">
+        <text>的昵称</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICBpZigkcHJvdmlkZXJOYW1lPT0id2VpYm8iKSB7CiAgICAgICAgICAgICAgICAgICAgJHdlaWJvU3RhdGUgPSAkcmVxLT5nZXQoInN0YXRlIik7CiAgICAgICAgICAgICAgICAgICAgaWYgKCFpc19udWxsKCR3ZWlib1N0YXRlKSkgewogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gcmVkaXJlY3Qocm91dGUoJ2NoZWNrTG9naW4nKSAuICc/cmVkaXJlY3RfdXJpPScgLiAkd2VpYm9TdGF0ZSk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>error</text>
       </register>
       <register name="2" type="4">
-        <text>shitWechat</text>
+        <text>写简介</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICBpZigkcHJvdmlkZXJOYW1lPT0id2VpYm8iKSB7CiAgICAgICAgICAgICAgICAgICAgJHdlaWJvU3RhdGUgPSAkcmVxLT5nZXQoInN0YXRlIik7CiAgICAgICAgICAgICAgICAgICAgaWYgKCFpc19udWxsKCR3ZWlib1N0YXRlKSkgewogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gcmVkaXJlY3Qocm91dGUoJ2NoZWNrTG9naW4nKSAuICc/cmVkaXJlY3RfdXJpPScgLiAkd2VpYm9TdGF0ZSk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQo=</text>
+      <register name="1" type="4">
+        <text>error</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghaXNfbnVsbCgkc2hpdFdlY2hhdCkpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gcmVkaXJlY3Qocm91dGUoJ2NoZWNrTG9naW4nKSAuICc/cmVkaXJlY3RfdXJpPScgLiAkc2hpdFdlY2hhdCk7CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJhbmdlbGVuZ3RoOiAi6K+36L6T5YWlMn4zMOWtl+eahOaYteensCIK</text>
       </register>
-      <register name="7" type="4">
-        <text>Wechat</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNoaXRfd2VpYm8K</text>
+      <register name="6" type="4">
+        <text encoding="base64">IEBzdWJtaXQucHJldmVudD0ic2F2ZTJyZW1vdGUiIA==</text>
       </register>
       <register name="5" type="4">
-        <text>default</text>
+        <text>2</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRzaGl0V2VpYm8gPSAkcmVxLT5nZXQoJ3NoaXRfd2VpYm8nKTsKICAgICAgICAgICAgICAgIGlmICghaXNfbnVsbCgkc2hpdFdlaWJvKSkgewogICAgICAgICAgICAgICAgICAgIHJldHVybiByZWRpcmVjdChyb3V0ZSgnY2hlY2tMb2dpbicpIC4gJz9yZWRpcmVjdF91cmk9JyAuICRzaGl0V2VpYm8pOwogICAgICAgICAgICAgICAgfQo=</text>
+      <register name="4" type="4">
+        <text>~</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>chat</text>
+        <text>nickname</text>
       </register>
       <register name="8" type="4">
-        <text>shitWechat</text>
+        <text>昵称</text>
       </register>
       <register name="/" type="4">
         <text>vjs-control-bar</text>
       </register>
       <register name="-" type="4">
-        <text>shitWechat</text>
+        <text>error</text>
       </register>
     </registers>
     <search>
