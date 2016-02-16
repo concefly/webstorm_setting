@@ -76,12 +76,12 @@
         <mark key="." line="3" column="72" />
         <mark key="[" line="3" column="59" />
       </file>
-      <file name="$USER_HOME$/project/heix/passport-frontend/resources/login/index.js" timestamp="1453101564779">
-        <mark key="'" line="88" column="20" />
-        <mark key="]" line="112" column="12" />
-        <mark key="^" line="112" column="12" />
-        <mark key="." line="112" column="12" />
-        <mark key="[" line="112" column="8" />
+      <file name="$USER_HOME$/project/heix/passport-frontend/resources/login/index.js" timestamp="1455587755967">
+        <mark key="'" line="95" column="20" />
+        <mark key="]" line="74" column="4" />
+        <mark key="^" line="73" column="10" />
+        <mark key="." line="73" column="10" />
+        <mark key="[" line="70" column="0" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/related-article/related-article.tpl" timestamp="1452481812410">
         <mark key="]" line="1" column="25" />
@@ -891,6 +891,11 @@
         <mark key="." line="26" column="0" />
         <mark key="[" line="26" column="0" />
       </file>
+      <file name="&lt;2c4ff09a-b8c0-4e27-a15b-d9a7e79b435d&gt;/app/Http/Controllers/API/OAuthUserController.php" timestamp="1455590409435">
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
+        <mark key="[" line="107" column="0" />
+      </file>
       <file name="$USER_HOME$/project/heix/passport-frontend/README.md" timestamp="1452768404548">
         <mark key="]" line="5" column="31" />
         <mark key="^" line="5" column="31" />
@@ -1309,6 +1314,12 @@
         <mark key="." line="24" column="0" />
         <mark key="[" line="24" column="0" />
       </file>
+      <file name="&lt;2c4ff09a-b8c0-4e27-a15b-d9a7e79b435d&gt;/public/assets/pc/login/index_0d09d3a.js" timestamp="1455590036354">
+        <mark key="]" line="66" column="38" />
+        <mark key="^" line="66" column="38" />
+        <mark key="." line="66" column="38" />
+        <mark key="[" line="66" column="24" />
+      </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/user/profile/base.blade.php" timestamp="1453977227582">
         <mark key="]" line="21" column="5" />
         <mark key="^" line="3" column="44" />
@@ -1700,46 +1711,46 @@
     </jumps>
     <registers>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iYmRzaGFyZWJ1dHRvbmJveCI+PGEgaHJlZj0iIyIgY2xhc3M9ImJkc19tb3JlIiBkYXRhLWNtZD0ibW9yZSI+PC9hPjxhIGhyZWY9IiMiIGNsYXNzPSJiZHNfcXpvbmUiIGRhdGEtY21kPSJxem9uZSI+PC9hPjxhIGhyZWY9IiMiIGNsYXNzPSJiZHNfdHNpbmEiIGRhdGEtY21kPSJ0c2luYSI+PC9hPjxhIGhyZWY9IiMiIGNsYXNzPSJiZHNfdHFxIiBkYXRhLWNtZD0idHFxIj48L2E+PGEgaHJlZj0iIyIgY2xhc3M9ImJkc19yZW5yZW4iIGRhdGEtY21kPSJyZW5yZW4iPjwvYT48YSBocmVmPSIjIiBjbGFzcz0iYmRzX3dlaXhpbiIgZGF0YS1jbWQ9IndlaXhpbiI+PC9hPjwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IGJhY2tncm91bmQtY29sb3I6ICMwMDAi</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICBpZigkcHJvdmlkZXJOYW1lPT0id2VpYm8iKSB7CiAgICAgICAgICAgICAgICAgICAgJHdlaWJvU3RhdGUgPSAkcmVxLT5nZXQoInN0YXRlIik7CiAgICAgICAgICAgICAgICAgICAgaWYgKCFpc19udWxsKCR3ZWlib1N0YXRlKSkgewogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gcmVkaXJlY3Qocm91dGUoJ2NoZWNrTG9naW4nKSAuICc/cmVkaXJlY3RfdXJpPScgLiAkd2VpYm9TdGF0ZSk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvL3RhcmdldC5maW5kKCIuYmRzX3RzaW5hIikuY3NzKCJiYWNrZ3JvdW5kIiwgInVybCgiK19faW5saW5lKCJtaXhpbl9zaGFyZS9pYy1hcnRpY2xlLXdlaWJvLWJpZy1ub3JtYWwucG5nIikrIikiKTsKICAgICAgICAvL3RhcmdldC5maW5kKCIuYmRzX3dlaXhpbiIpLmNzcygiYmFja2dyb3VuZCIsICJ1cmwoIitfX2lubGluZSgibWl4aW5fc2hhcmUvaWMtYXJ0aWNsZS13ZWNoYXQtYmlnLW5vcm1hbC5wbmciKSsiKSIpOwoK</text>
+      <register name="2" type="4">
+        <text>shitWechat</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IGJhY2tncm91bmQtY29sb3I6ICMwMDAi</text>
+      <register name="1" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICBpZigkcHJvdmlkZXJOYW1lPT0id2VpYm8iKSB7CiAgICAgICAgICAgICAgICAgICAgJHdlaWJvU3RhdGUgPSAkcmVxLT5nZXQoInN0YXRlIik7CiAgICAgICAgICAgICAgICAgICAgaWYgKCFpc19udWxsKCR3ZWlib1N0YXRlKSkgewogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gcmVkaXJlY3Qocm91dGUoJ2NoZWNrTG9naW4nKSAuICc/cmVkaXJlY3RfdXJpPScgLiAkd2VpYm9TdGF0ZSk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICYuYmRzX3RzaW5hIHsKICAgICAgYmFja2dyb3VuZC1pbWFnZTogdXJsKC4vbWl4aW5fc2hhcmUvaWMtYXJ0aWNsZS13ZWliby1iaWctbm9ybWFsLnBuZyk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghaXNfbnVsbCgkc2hpdFdlY2hhdCkpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gcmVkaXJlY3Qocm91dGUoJ2NoZWNrTG9naW4nKSAuICc/cmVkaXJlY3RfdXJpPScgLiAkc2hpdFdlY2hhdCk7CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="4">
-        <text />
+        <text>Wechat</text>
       </register>
-      <register name="6" type="4">
-        <text>./mixin_share/</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNoaXRfd2VpYm8K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">PGRpdiBjbGFzcz0iYmRzaGFyZWJ1dHRvbmJveCI+PGEgaHJlZj0iIyIgY2xhc3M9ImJkc19tb3JlIiBkYXRhLWNtZD0ibW9yZSI+PC9hPjxhIGhyZWY9IiMiIGNsYXNzPSJiZHNfcXpvbmUiIGRhdGEtY21kPSJxem9uZSI+PC9hPjxhIGhyZWY9IiMiIGNsYXNzPSJiZHNfdHNpbmEiIGRhdGEtY21kPSJ0c2luYSI+PC9hPjxhIGhyZWY9IiMiIGNsYXNzPSJiZHNfdHFxIiBkYXRhLWNtZD0idHFxIj48L2E+PGEgaHJlZj0iIyIgY2xhc3M9ImJkc19yZW5yZW4iIGRhdGEtY21kPSJyZW5yZW4iPjwvYT48YSBocmVmPSIjIiBjbGFzcz0iYmRzX3dlaXhpbiIgZGF0YS1jbWQ9IndlaXhpbiI+PC9hPjwvZGl2Pgo=</text>
+      <register name="5" type="4">
+        <text>default</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PHNjcmlwdD53aW5kb3cuX2JkX3NoYXJlX2NvbmZpZz17ImNvbW1vbiI6eyJiZFNuc0tleSI6e30sImJkVGV4dCI6IiIsImJkTWluaSI6IjIiLCJiZFBpYyI6IiIsImJkU3R5bGUiOiIwIiwiYmRTaXplIjoiMTYifSwic2hhcmUiOnt9LCJpbWFnZSI6eyJ2aWV3TGlzdCI6WyJxem9uZSIsInRzaW5hIiwidHFxIiwicmVucmVuIiwid2VpeGluIl0sInZpZXdUZXh0Ijoi5YiG5Lqr5Yiw77yaIiwidmlld1NpemUiOiIxNiJ9LCJzZWxlY3RTaGFyZSI6eyJiZENvbnRhaW5lckNsYXNzIjpudWxsLCJiZFNlbGVjdE1pbmlMaXN0IjpbInF6b25lIiwidHNpbmEiLCJ0cXEiLCJyZW5yZW4iLCJ3ZWl4aW4iXX19O3dpdGgoZG9jdW1lbnQpMFsoZ2V0RWxlbWVudHNCeVRhZ05hbWUoJ2hlYWQnKVswXXx8Ym9keSkuYXBwZW5kQ2hpbGQoY3JlYXRlRWxlbWVudCgnc2NyaXB0JykpLnNyYz0naHR0cDovL2JkaW1nLnNoYXJlLmJhaWR1LmNvbS9zdGF0aWMvYXBpL2pzL3NoYXJlLmpzP3Y9ODk4NjA1OTMuanM/Y2RudmVyc2lvbj0nK34oLW5ldyBEYXRlKCkvMzZlNSldOzwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRzaGl0V2VpYm8gPSAkcmVxLT5nZXQoJ3NoaXRfd2VpYm8nKTsKICAgICAgICAgICAgICAgIGlmICghaXNfbnVsbCgkc2hpdFdlaWJvKSkgewogICAgICAgICAgICAgICAgICAgIHJldHVybiByZWRpcmVjdChyb3V0ZSgnY2hlY2tMb2dpbicpIC4gJz9yZWRpcmVjdF91cmk9JyAuICRzaGl0V2VpYm8pOwogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>chat</text>
       </register>
       <register name="8" type="4">
-        <text>./mixin_share/</text>
+        <text>shitWechat</text>
       </register>
       <register name="/" type="4">
         <text>vjs-control-bar</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGJhY2tncm91bmQtY29sb3I6ICMwMDAi</text>
+        <text>shitWechat</text>
       </register>
     </registers>
     <search>
