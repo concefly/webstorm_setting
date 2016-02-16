@@ -252,6 +252,12 @@
         <mark key="." line="39" column="18" />
         <mark key="[" line="39" column="19" />
       </file>
+      <file name="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/progress-bars.scss" timestamp="1455595719409">
+        <mark key="]" line="30" column="20" />
+        <mark key="^" line="30" column="20" />
+        <mark key="." line="30" column="20" />
+        <mark key="[" line="29" column="41" />
+      </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/article.detail.tpl" timestamp="1453342478474">
         <mark key="'" line="28" column="67" />
         <mark key="]" line="18" column="0" />
@@ -335,6 +341,12 @@
         <mark key="^" line="13" column="20" />
         <mark key="." line="13" column="0" />
         <mark key="[" line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/article_share_inner.scss" timestamp="1455595086183">
+        <mark key="]" line="2" column="26" />
+        <mark key="^" line="2" column="26" />
+        <mark key="." line="2" column="26" />
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/validator2/validator.js" timestamp="1453264053696">
         <mark key="]" line="10" column="26" />
@@ -721,11 +733,11 @@
         <mark key="." line="4" column="89" />
         <mark key="[" line="4" column="89" />
       </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/article.scss" timestamp="1454143595790">
-        <mark key="]" line="42" column="28" />
-        <mark key="^" line="42" column="58" />
-        <mark key="." line="42" column="28" />
-        <mark key="[" line="42" column="28" />
+      <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/article.scss" timestamp="1455594608148">
+        <mark key="]" line="56" column="19" />
+        <mark key="^" line="46" column="17" />
+        <mark key="." line="56" column="0" />
+        <mark key="[" line="56" column="0" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/libs/modal/modal.js" timestamp="1453876939826">
         <mark key="]" line="11" column="0" />
@@ -1002,8 +1014,12 @@
         <mark key="." line="23" column="0" />
         <mark key="[" line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/article.js" timestamp="1454144195407">
-        <mark key="'" line="258" column="0" />
+      <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/article.js" timestamp="1455595117224">
+        <mark key="'" line="260" column="0" />
+        <mark key="]" line="242" column="63" />
+        <mark key="^" line="242" column="63" />
+        <mark key="." line="242" column="63" />
+        <mark key="[" line="242" column="33" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/module/module.detail.js" timestamp="1450685264005">
         <mark key="]" line="11" column="0" />
@@ -1243,12 +1259,11 @@
         <mark key="." line="12" column="60" />
         <mark key="[" line="12" column="60" />
       </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/resources/user/profile/index.js" timestamp="1455593428686">
-        <mark key="'" line="290" column="44" />
-        <mark key="]" line="275" column="66" />
-        <mark key="^" line="275" column="67" />
-        <mark key="." line="275" column="66" />
-        <mark key="[" line="275" column="65" />
+      <file name="$USER_HOME$/project/heix/cms-frontend/resources/user/profile/index.js" timestamp="1455596776042">
+        <mark key="'" line="303" column="44" />
+        <mark key="]" line="104" column="0" />
+        <mark key="." line="104" column="0" />
+        <mark key="[" line="104" column="0" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/module/module.detail.add.html" timestamp="1450665335094">
         <mark key="]" line="1" column="0" />
@@ -1326,11 +1341,11 @@
         <mark key="." line="23" column="0" />
         <mark key="[" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/resources/user/profile/add_avatar_dialog.tpl" timestamp="1453886453132">
-        <mark key="]" line="12" column="31" />
-        <mark key="^" line="12" column="31" />
-        <mark key="." line="12" column="31" />
-        <mark key="[" line="12" column="32" />
+      <file name="$USER_HOME$/project/heix/cms-frontend/resources/user/profile/add_avatar_dialog.tpl" timestamp="1455596653596">
+        <mark key="]" line="11" column="188" />
+        <mark key="^" line="11" column="188" />
+        <mark key="." line="11" column="188" />
+        <mark key="[" line="11" column="183" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/author-select/author-select.js" timestamp="1453258517745">
         <mark key="]" line="44" column="28" />
@@ -1710,47 +1725,47 @@
       <jump line="259" column="0" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article.js" />
     </jumps>
     <registers>
-      <register name="3" type="4">
-        <text>的昵称</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>error</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMucHJvZ3Jlc3MpOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text>写简介</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="1" type="4">
-        <text>error</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMucHJvZ3Jlc3MpOwo=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJhbmdlbGVuZ3RoOiAi6K+36L6T5YWlMn4zMOWtl+eahOaYteensCIK</text>
+        <text encoding="base64">ICAgICAgICBvcGFjaXR5OiAxOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>t</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IEBzdWJtaXQucHJldmVudD0ic2F2ZTJyZW1vdGUiIA==</text>
+        <text>r</text>
       </register>
       <register name="5" type="4">
-        <text>2</text>
+        <text>&quot;</text>
       </register>
-      <register name="4" type="4">
-        <text>~</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgcHJvZ3Jlc3MgPSBuZXcgRmlsZVByb2dyZXNzKGZpbGUsICdmc1VwbG9hZFByb2dyZXNzJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>nickname</text>
+        <text>px</text>
       </register>
       <register name="8" type="4">
-        <text>昵称</text>
+        <text>S</text>
       </register>
       <register name="/" type="4">
         <text>vjs-control-bar</text>
       </register>
       <register name="-" type="4">
-        <text>error</text>
+        <text>&quot;</text>
       </register>
     </registers>
     <search>
@@ -1786,7 +1801,6 @@
         <entry>vjs-control-bar</entry>
       </history-search>
       <history-cmd>
-        <entry>45,67 s/-bg//g</entry>
         <entry>574,585 s/-bg//g</entry>
         <entry>sw</entry>
         <entry>15,17 s/month/minute/g</entry>
@@ -1805,6 +1819,7 @@
         <entry>64,75 s/item/subItem/g</entry>
         <entry>85,92 s/item/subItem/g</entry>
         <entry>718</entry>
+        <entry>w\</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
