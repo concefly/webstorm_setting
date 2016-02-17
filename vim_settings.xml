@@ -322,10 +322,11 @@
         <mark key="." line="13" column="0" />
         <mark key="[" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/resources/home/base.tpl" timestamp="1455690996106">
-        <mark key="'" line="59" column="25" />
-        <mark key="." line="59" column="24" />
-        <mark key="[" line="57" column="18" />
+      <file name="$USER_HOME$/project/heix/cms-frontend/resources/home/base.tpl" timestamp="1455695303729">
+        <mark key="]" line="48" column="61" />
+        <mark key="^" line="48" column="61" />
+        <mark key="." line="48" column="61" />
+        <mark key="[" line="48" column="57" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/article_share_inner.scss" timestamp="1455595086183">
         <mark key="]" line="2" column="26" />
@@ -857,11 +858,11 @@
         <mark key="." line="18" column="36" />
         <mark key="[" line="18" column="19" />
       </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/resources/home/base.js" timestamp="1455692105845">
-        <mark key="]" line="39" column="91" />
-        <mark key="^" line="39" column="91" />
-        <mark key="." line="39" column="91" />
-        <mark key="[" line="39" column="67" />
+      <file name="$USER_HOME$/project/heix/cms-frontend/resources/home/base.js" timestamp="1455695623488">
+        <mark key="]" line="9" column="17" />
+        <mark key="^" line="53" column="103" />
+        <mark key="." line="9" column="17" />
+        <mark key="[" line="9" column="16" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/main.scss" timestamp="1453983890669">
         <mark key="]" line="30" column="24" />
@@ -918,11 +919,11 @@
         <mark key="." line="23" column="0" />
         <mark key="[" line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/resources/home/base.scss" timestamp="1455682599345">
-        <mark key="]" line="20" column="18" />
-        <mark key="^" line="20" column="18" />
-        <mark key="." line="20" column="18" />
-        <mark key="[" line="16" column="19" />
+      <file name="$USER_HOME$/project/heix/cms-frontend/resources/home/base.scss" timestamp="1455695576080">
+        <mark key="]" line="49" column="35" />
+        <mark key="^" line="49" column="35" />
+        <mark key="." line="49" column="35" />
+        <mark key="[" line="47" column="23" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/module/module.detail.js" timestamp="1450685264005">
         <mark key="]" line="11" column="0" />
@@ -1147,10 +1148,12 @@
         <mark key="." line="13" column="31" />
         <mark key="[" line="7" column="18" />
       </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/resources/home/base.blade.php" timestamp="1455689498074">
+      <file name="$USER_HOME$/project/heix/cms-frontend/resources/home/base.blade.php" timestamp="1455695340601">
         <mark key="'" line="74" column="26" />
-        <mark key="]" line="120" column="9" />
-        <mark key="[" line="59" column="0" />
+        <mark key="]" line="110" column="49" />
+        <mark key="^" line="110" column="49" />
+        <mark key="." line="110" column="49" />
+        <mark key="[" line="110" column="48" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" timestamp="1454052141121">
         <mark key="]" line="122" column="0" />
@@ -1248,11 +1251,8 @@
         <mark key="." line="6" column="17" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/resources/column_list/base.tpl" timestamp="1455677201405">
-        <mark key="]" line="22" column="38" />
-        <mark key="^" line="22" column="38" />
-        <mark key="." line="22" column="38" />
-        <mark key="[" line="22" column="33" />
+      <file name="$USER_HOME$/project/heix/cms-frontend/resources/column_list/base.tpl" timestamp="1455693114014">
+        <mark key="[" line="36" column="37" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/libs/pagination/pagination.js" timestamp="1455608652429">
         <mark key="]" line="13" column="10" />
@@ -1575,52 +1575,52 @@
     </jumps>
     <registers>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRhOiAK</text>
+        <text encoding="base64">ICBjb2xvcjogI2ZmZjsKICBiYWNrZ3JvdW5kLWNvbG9yOiAjMjYyNjI2Owo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>262626</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciB0aQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>1</text>
+        <text>262626</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">LyoqCiAqIGluaXQgUGFnZSBsaXN0CiAqLwpyZXF1aXJlKFsianF1ZXJ5IiwgImludGVyZmFjZS92dWUiLCAiYXBpL2FwaSIsICJwYWdpbmF0aW9uL3BhZ2luYXRpb24iXSwgZnVuY3Rpb24oJCwgVnVlLCBhcGksIHBhZ2luYXRpb24pIHsKCiAgICB2YXIgcGFnZUNvbnRhaW5lciA9IG5ldyBWdWUoewogICAgICAgIGVsOiAiI3BhZ2VDb250YWluZXIiLAogICAgICAgIHRlbXBsYXRlOiBfX2lubGluZSgiYmFzZS50cGwiKSwKICAgICAgICBwcm9wczogWyJhdHlwZSJdLAogICAgICAgIGRhdGE6IGZ1bmN0aW9uKCkgewogICAgICAgICAgICByZXR1cm4gewogICAgICAgICAgICAgICAgcmVtb3RlOiB7CiAgICAgICAgICAgICAgICAgICAgY3VycmVudF9wYWdlOiAxLAogICAgICAgICAgICAgICAgICAgIGxhc3RfcGFnZTogMSwKICAgICAgICAgICAgICAgICAgICBkYXRhOiB7fQogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgIGlzTG9hZGluZzogdHJ1ZSwKICAgICAgICAgICAgICAgIGlzSW5pdGlhbDogdHJ1ZQogICAgICAgICAgICB9CiAgICAgICAgfSwKICAgICAgICBtZXRob2RzOiB7CiAgICAgICAgICAgIGZldGNoOiBmdW5jdGlvbihwYWdlKSB7CiAgICAgICAgICAgICAgICBwYWdlID0gcGFnZSB8fCAxOwogICAgICAgICAgICAgICAgdmFyIHNlbGYgPSB0aGlzOwogICAgICAgICAgICAgICAgc2VsZi5pc0xvYWRpbmcgPSB0cnVlOwogICAgICAgICAgICAgICAgYXBpLmdldCh7CiAgICAgICAgICAgICAgICAgICAgICAgIHVybDogIi9jYXRlZ29yeS8iK3NlbGYuYXR5cGUrIi9hcnRpY2xlIiwKICAgICAgICAgICAgICAgICAgICAgICAgZGF0YTogewogICAgICAgICAgICAgICAgICAgICAgICAgICAgcGFnZTogcGFnZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxpbWl0OiAxMAogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgICAgICAgICAuZG9uZShmdW5jdGlvbihkYXRhKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYuaXNMb2FkaW5nID0gZmFsc2U7CiAgICAgICAgICAgICAgICAgICAgICAgIHNlbGYucmVtb3RlID0gZGF0YTsKICAgICAgICAgICAgICAgICAgICAgICAgc2VsZi5pc0luaXRpYWwgPSBmYWxzZTsKICAgICAgICAgICAgICAgICAgICAgICAgd2luZG93LnNjcm9sbFRvKDAsMCk7CiAgICAgICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgfSwKICAgICAgICAgICAgYXJ0aWNsZUxpbms6IGZ1bmN0aW9uKGl0ZW0pIHsKICAgICAgICAgICAgICAgIHJldHVybiAiL2FydGljbGUvIitpdGVtLmlkOwogICAgICAgICAgICB9CiAgICAgICAgfSwKICAgICAgICByZWFkeTogZnVuY3Rpb24gKCkgewogICAgICAgICAgICB0aGlzLmZldGNoKDEpOwogICAgICAgIH0sCiAgICAgICAgY29tcG9uZW50czogewogICAgICAgICAgICBwYWdpbmF0aW9uOiBwYWdpbmF0aW9uCiAgICAgICAgfQogICAgfSk7Cgp9KTsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">IHV0aWwtbXItNQ==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFnaW5hdGlvbjogcGFnaW5hdGlvbgo=</text>
+      <register name="7" type="4">
+        <text>a</text>
       </register>
-      <register name="6" type="4">
-        <text>&quot;pagination/pagination&quot;</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>,</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICB3aWRvd3M7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="4" type="4">
+        <text>primary</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGRhdGEubGVuZ3RoKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzZWxmLnBhZ2VMaXN0LnB1c2goZGF0YSk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0K</text>
+      <register name="9" type="4">
+        <text>e</text>
       </register>
       <register name="8" type="4">
-        <text>(1</text>
+        <text>v</text>
       </register>
       <register name="/" type="4">
-        <text>label</text>
+        <text>topicThumb</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>262626</text>
       </register>
     </registers>
     <search>
-      <last-search>label</last-search>
+      <last-search>topicThumb</last-search>
       <last-offset />
-      <last-pattern>label</last-pattern>
+      <last-pattern>topicThumb</last-pattern>
       <last-replace>util</last-replace>
       <last-substitute>bb</last-substitute>
       <last-dir>1</last-dir>
@@ -1628,7 +1628,6 @@
     </search>
     <history>
       <history-search>
-        <entry>hour</entry>
         <entry>text-success</entry>
         <entry>text-</entry>
         <entry>47,51 s</entry>
@@ -1648,6 +1647,7 @@
         <entry>link</entry>
         <entry>bb</entry>
         <entry>label</entry>
+        <entry>topicThumb</entry>
       </history-search>
       <history-cmd>
         <entry>15,17 s/month/minute/g</entry>
