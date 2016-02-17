@@ -1147,12 +1147,12 @@
         <mark key="." line="13" column="31" />
         <mark key="[" line="7" column="18" />
       </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/resources/home/base.blade.php" timestamp="1455682883629">
-        <mark key="'" line="73" column="26" />
-        <mark key="]" line="77" column="86" />
-        <mark key="^" line="77" column="86" />
-        <mark key="." line="77" column="86" />
-        <mark key="[" line="77" column="76" />
+      <file name="$USER_HOME$/project/heix/cms-frontend/resources/home/base.blade.php" timestamp="1455689222946">
+        <mark key="'" line="74" column="26" />
+        <mark key="]" line="61" column="55" />
+        <mark key="^" line="78" column="17" />
+        <mark key="." line="61" column="55" />
+        <mark key="[" line="61" column="54" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" timestamp="1454052141121">
         <mark key="]" line="122" column="0" />
