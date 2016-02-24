@@ -1009,6 +1009,11 @@
         <mark key="." line="8" column="22" />
         <mark key="[" line="8" column="19" />
       </file>
+      <file name="$USER_HOME$/project/heix/cms-frontend/package.json" timestamp="1456300247934">
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="[" line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/tag/tag.js" timestamp="1450429400524">
         <mark key="]" line="23" column="8" />
         <mark key="^" line="32" column="27" />
@@ -1333,11 +1338,11 @@
         <mark key="." line="30" column="0" />
         <mark key="[" line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/README.md" timestamp="1456299994667">
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="[" line="16" column="0" />
+      <file name="$USER_HOME$/project/heix/cms-frontend/README.md" timestamp="1456301089564">
+        <mark key="]" line="54" column="9" />
+        <mark key="^" line="54" column="9" />
+        <mark key="." line="54" column="9" />
+        <mark key="[" line="38" column="17" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/search/base.blade.php" timestamp="1455764330979">
         <mark key="]" line="19" column="42" />
@@ -1671,34 +1676,33 @@
       <jump line="105" column="0" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text># cms-frontend
-CMS前端构建</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJmaXMzIjogIl4zLjMuMCIsCg==</text>
       </register>
       <register name="3" type="4">
-        <text>headline-type</text>
-      </register>
-      <register name="2" type="4">
         <text>body</text>
       </register>
-      <register name="1" type="4">
+      <register name="2" type="4">
         <text># cms-frontend
 CMS前端构建</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICJmaXMzIjogIl4zLjMuMCIsCg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPCEtLeWIhuS6q+aMiemSri0tPgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJzaGFyZSIgYmQtdGV4dD0ie3skYXJ0aWNsZS0+dGl0bGV9fSIgYmQtcGljPSJ7e2VudignUU5fQ0ROJyl9fXt7JGFydGljbGUtPmNvdmVyX2lkIG9yICcnfX0iIGJkLWRlc2M9Int7JGFydGljbGUtPmFic3RyYWN0fX0iID4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImJkc2hhcmVidXR0b25ib3giIGRhdGEtdGFnPSJzaGFyZV8xIj4KICAgICAgICAgICAgICAgICAgICA8YSBjbGFzcz0iYmRzX3RzaW5hIiBkYXRhLWNtZD0idHNpbmEiID4gPC9hPgogICAgICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJiZHNfd2VpeGluIiBkYXRhLWNtZD0id2VpeGluIj4gPC9hPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
-      <register name="7" type="4">
-        <text>article</text>
-      </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyIG9mZnNldCA9IGNvbnRhaW5lci5vZmZzZXQoKS50b3Atd2luZG93LnNjcm9sbFk7CiAgICAgICAgICAgIHRhcmdldC5jc3MoInRvcCIsIG9mZnNldDwwPyA1MDpvZmZzZXQpOwo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Ci5oZWFkbGluZS10eXBlIC5zaGFyZSB7CiAgbWFyZ2luLWxlZnQ6IC0xMzBweDsKfQo=</text>
+      </register>
+      <register name="4" type="4">
+        <text>headline-type</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1707,7 +1711,7 @@ CMS前端构建</text>
         <text>p</text>
       </register>
       <register name="8" type="4">
-        <text>p</text>
+        <text>article</text>
       </register>
       <register name="/" type="4">
         <text>article-title</text>
