@@ -763,7 +763,7 @@
         <mark key="." line="257" column="23" />
         <mark key="[" line="255" column="69" />
       </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/resources/main.js" timestamp="1455768711617">
+      <file name="$USER_HOME$/project/heix/cms-frontend/resources/main.js" timestamp="1456372968600">
         <mark key="]" line="55" column="38" />
         <mark key="^" line="98" column="43" />
         <mark key="." line="55" column="38" />
@@ -832,12 +832,11 @@
         <mark key="." line="1" column="24" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/article.blade.php" timestamp="1456366491486">
-        <mark key="'" line="99" column="0" />
-        <mark key="]" line="8" column="31" />
-        <mark key="^" line="8" column="31" />
-        <mark key="." line="8" column="31" />
-        <mark key="[" line="8" column="7" />
+      <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/article.blade.php" timestamp="1456372448852">
+        <mark key="'" line="98" column="0" />
+        <mark key="]" line="146" column="0" />
+        <mark key="." line="146" column="0" />
+        <mark key="[" line="146" column="0" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/selector/wrapper.tpl" timestamp="1453111192578">
         <mark key="]" line="5" column="51" />
@@ -990,10 +989,11 @@
         <mark key="." line="49" column="35" />
         <mark key="[" line="47" column="23" />
       </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/article.js" timestamp="1456286488069">
-        <mark key="]" line="255" column="0" />
-        <mark key="." line="255" column="0" />
-        <mark key="[" line="255" column="0" />
+      <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/article.js" timestamp="1456373153083">
+        <mark key="]" line="167" column="56" />
+        <mark key="^" line="167" column="56" />
+        <mark key="." line="167" column="56" />
+        <mark key="[" line="165" column="13" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/components/menu/menu.scss" timestamp="1456221242268">
         <mark key="]" line="16" column="18" />
@@ -1333,11 +1333,11 @@
         <mark key="." line="29" column="75" />
         <mark key="[" line="28" column="48" />
       </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/comment.tpl" timestamp="1454052875842">
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="29" column="19" />
-        <mark key="." line="30" column="0" />
-        <mark key="[" line="30" column="0" />
+      <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/comment.tpl" timestamp="1456373099828">
+        <mark key="]" line="22" column="117" />
+        <mark key="^" line="22" column="117" />
+        <mark key="." line="22" column="117" />
+        <mark key="[" line="19" column="55" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/README.md" timestamp="1456305253256">
         <mark key="]" line="54" column="9" />
@@ -1680,47 +1680,47 @@
       <jump line="105" column="0" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG9wdGltaXplcjogZmlzLnBsdWdpbigiaHRtbC1jb21wcmVzcyIsIHsKICAgICAgICBsZWZ0RGVsaW1pdGVyOiAie3siLAogICAgICAgIHJpZ2h0RGVsaW1pdGVyOiAifX0iCiAgICB9KSwK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>resources_path + &quot;/$1&quot;</text>
+        <text>window.global.login()</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">IGxvZ2luKCk=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIG9wdGltaXplcjogZmlzLnBsdWdpbigiaHRtbC1jb21wcmVzcyIsIHsKICAgICAgICBsZWZ0RGVsaW1pdGVyOiAie3siLAogICAgICAgIHJpZ2h0RGVsaW1pdGVyOiAifX0iCiAgICB9KSwK</text>
+      <register name="1" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsZWZ0RGVsaW1pdGVyOiAiJHsiLAogICAgICAgIHJpZ2h0RGVsaW1pdGVyOiAifSIK</text>
       </register>
       <register name="7" type="4">
-        <text>name=&quot;keywords&quot;</text>
+        <text>top</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QGVuZGlmCg==</text>
+        <text encoding="base64">QHNlY3Rpb24gKCJhcnRpY2xlLWJvZHkiKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">QGlmIGlzc2V0KCRhcnRpY2xlLT50YWdzKQo=</text>
+        <text encoding="base64">QHNob3cK</text>
       </register>
-      <register name="4" type="4">
-        <text>php</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIG9wdGltaXplcjogZmlzLnBsdWdpbigiaHRtbC1jb21wcmVzcyIsIHsKICAgICAgICBsZWZ0RGVsaW1pdGVyOiAie3siLAogICAgICAgIHJpZ2h0RGVsaW1pdGVyOiAifX0iCiAgICB9KSwK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">bWV0YTprdwo=</text>
+      <register name="8" type="4">
+        <text>stop</text>
       </register>
       <register name="/" type="4">
         <text>article-title</text>
       </register>
       <register name="-" type="4">
-        <text>resources_path + &quot;/$1&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
