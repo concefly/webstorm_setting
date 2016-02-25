@@ -436,11 +436,10 @@
         <mark key="." line="4" column="31" />
         <mark key="[" line="4" column="32" />
       </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/fis-conf.js" timestamp="1455613422108">
-        <mark key="]" line="115" column="27" />
-        <mark key="^" line="115" column="27" />
-        <mark key="." line="115" column="27" />
-        <mark key="[" line="115" column="27" />
+      <file name="$USER_HOME$/project/heix/cms-frontend/fis-conf.js" timestamp="1456371487362">
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="[" line="30" column="0" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/user/user.tag.tpl" timestamp="1450248411601">
         <mark key="]" line="44" column="93" />
@@ -1014,10 +1013,11 @@
         <mark key="." line="8" column="22" />
         <mark key="[" line="8" column="19" />
       </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/package.json" timestamp="1456300247934">
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="[" line="16" column="0" />
+      <file name="$USER_HOME$/project/heix/cms-frontend/package.json" timestamp="1456370741634">
+        <mark key="]" line="18" column="35" />
+        <mark key="^" line="18" column="35" />
+        <mark key="." line="18" column="35" />
+        <mark key="[" line="18" column="36" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/tag/tag.js" timestamp="1450429400524">
         <mark key="]" line="23" column="8" />
@@ -1042,10 +1042,6 @@
         <mark key="^" line="13" column="13" />
         <mark key="." line="13" column="13" />
         <mark key="[" line="13" column="7" />
-      </file>
-      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/components/menu-bk/menu.scss" timestamp="1456219790962">
-        <mark key="]" line="0" column="31" />
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/libs/pagination/pagination.tpl" timestamp="1455610948586">
         <mark key="]" line="12" column="67" />
@@ -1685,47 +1681,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">QGlmIGlzc2V0KCRhcnRpY2xlLT50YWdzKQo=</text>
+        <text encoding="base64">ICAgIG9wdGltaXplcjogZmlzLnBsdWdpbigiaHRtbC1jb21wcmVzcyIsIHsKICAgICAgICBsZWZ0RGVsaW1pdGVyOiAie3siLAogICAgICAgIHJpZ2h0RGVsaW1pdGVyOiAifX0iCiAgICB9KSwK</text>
       </register>
       <register name="3" type="4">
-        <text>name=&quot;keywords&quot;</text>
+        <text>resources_path + &quot;/$1&quot;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QGVuZGlmCg==</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">QGlmIGlzc2V0KCRhcnRpY2xlLT50YWdzKQo=</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLeWIhuS6q+aMiemSri0tPgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJzaGFyZSIgYmQtdGV4dD0ie3skYXJ0aWNsZS0+dGl0bGV9fSIgYmQtcGljPSJ7e2VudignUU5fQ0ROJyl9fXt7JGFydGljbGUtPmNvdmVyX2lkIG9yICcnfX0iIGJkLWRlc2M9Int7JGFydGljbGUtPmFic3RyYWN0fX0iID4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImJkc2hhcmVidXR0b25ib3giIGRhdGEtdGFnPSJzaGFyZV8xIj4KICAgICAgICAgICAgICAgICAgICA8YSBjbGFzcz0iYmRzX3RzaW5hIiBkYXRhLWNtZD0idHNpbmEiID4gPC9hPgogICAgICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJiZHNfd2VpeGluIiBkYXRhLWNtZD0id2VpeGluIj4gPC9hPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2Pgo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICJmaXMzIjogIl4zLjMuMCIsCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">PG1ldGE6a2V5d29yZHM+PC9tZXRhOmtleXdvcmRzPgo=</text>
-      </register>
-      <register name="5" type="4">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">bWV0YTprdwo=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIG9wdGltaXplcjogZmlzLnBsdWdpbigiaHRtbC1jb21wcmVzcyIsIHsKICAgICAgICBsZWZ0RGVsaW1pdGVyOiAie3siLAogICAgICAgIHJpZ2h0RGVsaW1pdGVyOiAifX0iCiAgICB9KSwK</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBsZWZ0RGVsaW1pdGVyOiAiJHsiLAogICAgICAgIHJpZ2h0RGVsaW1pdGVyOiAifSIK</text>
+      </register>
+      <register name="7" type="4">
+        <text>name=&quot;keywords&quot;</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">QGVuZGlmCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">QGlmIGlzc2V0KCRhcnRpY2xlLT50YWdzKQo=</text>
+      </register>
+      <register name="4" type="4">
+        <text>php</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>body</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text># cms-frontend
-CMS前端构建</text>
+      <register name="8" type="2">
+        <text encoding="base64">bWV0YTprdwo=</text>
       </register>
       <register name="/" type="4">
         <text>article-title</text>
       </register>
       <register name="-" type="4">
-        <text>name=&quot;keywords&quot;</text>
+        <text>resources_path + &quot;/$1&quot;</text>
       </register>
     </registers>
     <search>
