@@ -832,11 +832,12 @@
         <mark key="." line="1" column="24" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/article.blade.php" timestamp="1456286546652">
-        <mark key="'" line="105" column="0" />
-        <mark key="]" line="41" column="17" />
-        <mark key="." line="143" column="0" />
-        <mark key="[" line="35" column="0" />
+      <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/article.blade.php" timestamp="1456366491486">
+        <mark key="'" line="99" column="0" />
+        <mark key="]" line="8" column="31" />
+        <mark key="^" line="8" column="31" />
+        <mark key="." line="8" column="31" />
+        <mark key="[" line="8" column="7" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/selector/wrapper.tpl" timestamp="1453111192578">
         <mark key="]" line="5" column="51" />
@@ -1244,12 +1245,12 @@
         <mark key="." line="13" column="31" />
         <mark key="[" line="7" column="18" />
       </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/resources/home/base.blade.php" timestamp="1455695340601">
+      <file name="$USER_HOME$/project/heix/cms-frontend/resources/home/base.blade.php" timestamp="1456366517526">
         <mark key="'" line="74" column="26" />
-        <mark key="]" line="110" column="49" />
-        <mark key="^" line="110" column="49" />
-        <mark key="." line="110" column="49" />
-        <mark key="[" line="110" column="48" />
+        <mark key="]" line="8" column="33" />
+        <mark key="^" line="8" column="33" />
+        <mark key="." line="8" column="33" />
+        <mark key="[" line="8" column="6" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" timestamp="1454052141121">
         <mark key="]" line="122" column="0" />
@@ -1683,47 +1684,47 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJmaXMzIjogIl4zLjMuMCIsCg==</text>
+        <text encoding="base64">QGlmIGlzc2V0KCRhcnRpY2xlLT50YWdzKQo=</text>
       </register>
       <register name="3" type="4">
-        <text>body</text>
+        <text>name=&quot;keywords&quot;</text>
       </register>
-      <register name="2" type="4">
-        <text># cms-frontend
-CMS前端构建</text>
+      <register name="2" type="2">
+        <text encoding="base64">QGVuZGlmCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJmaXMzIjogIl4zLjMuMCIsCg==</text>
+        <text encoding="base64">QGlmIGlzc2V0KCRhcnRpY2xlLT50YWdzKQo=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPCEtLeWIhuS6q+aMiemSri0tPgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJzaGFyZSIgYmQtdGV4dD0ie3skYXJ0aWNsZS0+dGl0bGV9fSIgYmQtcGljPSJ7e2VudignUU5fQ0ROJyl9fXt7JGFydGljbGUtPmNvdmVyX2lkIG9yICcnfX0iIGJkLWRlc2M9Int7JGFydGljbGUtPmFic3RyYWN0fX0iID4KICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImJkc2hhcmVidXR0b25ib3giIGRhdGEtdGFnPSJzaGFyZV8xIj4KICAgICAgICAgICAgICAgICAgICA8YSBjbGFzcz0iYmRzX3RzaW5hIiBkYXRhLWNtZD0idHNpbmEiID4gPC9hPgogICAgICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJiZHNfd2VpeGluIiBkYXRhLWNtZD0id2VpeGluIj4gPC9hPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIG9mZnNldCA9IGNvbnRhaW5lci5vZmZzZXQoKS50b3Atd2luZG93LnNjcm9sbFk7CiAgICAgICAgICAgIHRhcmdldC5jc3MoInRvcCIsIG9mZnNldDwwPyA1MDpvZmZzZXQpOwo=</text>
+        <text encoding="base64">ICAgICJmaXMzIjogIl4zLjMuMCIsCg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">PG1ldGE6a2V5d29yZHM+PC9tZXRhOmtleXdvcmRzPgo=</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ci5oZWFkbGluZS10eXBlIC5zaGFyZSB7CiAgbWFyZ2luLWxlZnQ6IC0xMzBweDsKfQo=</text>
-      </register>
-      <register name="4" type="4">
-        <text>headline-type</text>
+      <register name="4" type="2">
+        <text encoding="base64">bWV0YTprdwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>p</text>
+        <text>body</text>
       </register>
       <register name="8" type="4">
-        <text>article</text>
+        <text># cms-frontend
+CMS前端构建</text>
       </register>
       <register name="/" type="4">
         <text>article-title</text>
       </register>
       <register name="-" type="4">
-        <text>body</text>
+        <text>name=&quot;keywords&quot;</text>
       </register>
     </registers>
     <search>
