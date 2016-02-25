@@ -591,9 +591,6 @@
         <mark key="." line="9" column="115" />
         <mark key="[" line="9" column="114" />
       </file>
-      <file name="/a.dummy" timestamp="1456305260596">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/resources/views/cms/post/topDaily.blade.php" timestamp="1449742618187">
         <mark key="]" line="27" column="7" />
         <mark key="^" line="27" column="7" />
@@ -1681,46 +1678,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>label-white</text>
       </register>
       <register name="3" type="4">
-        <text>window.global.login()</text>
-      </register>
-      <register name="2" type="4">
         <text encoding="base64">IGxvZ2luKCk=</text>
       </register>
-      <register name="1" type="4">
+      <register name="2" type="4">
         <text encoding="base64">IA==</text>
+      </register>
+      <register name="1" type="4">
+        <text>label-white</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsZWZ0RGVsaW1pdGVyOiAiJHsiLAogICAgICAgIHJpZ2h0RGVsaW1pdGVyOiAifSIK</text>
       </register>
-      <register name="7" type="4">
-        <text>top</text>
-      </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">QHNlY3Rpb24gKCJhcnRpY2xlLWJvZHkiKQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">QHNob3cK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text>window.global.login()</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIG9wdGltaXplcjogZmlzLnBsdWdpbigiaHRtbC1jb21wcmVzcyIsIHsKICAgICAgICBsZWZ0RGVsaW1pdGVyOiAie3siLAogICAgICAgIHJpZ2h0RGVsaW1pdGVyOiAifX0iCiAgICB9KSwK</text>
+      <register name="9" type="4">
+        <text>stop</text>
       </register>
       <register name="8" type="4">
-        <text>stop</text>
+        <text>top</text>
       </register>
       <register name="/" type="4">
         <text>article-title</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>label-white</text>
       </register>
     </registers>
     <search>
