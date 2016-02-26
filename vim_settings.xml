@@ -45,11 +45,11 @@
         <mark key="." line="1" column="37" />
         <mark key="[" line="1" column="36" />
       </file>
-      <file name="$USER_HOME$/project/heix/home_demo/static/css/base.scss" timestamp="1456460416236">
-        <mark key="]" line="19" column="16" />
-        <mark key="^" line="19" column="16" />
-        <mark key="." line="19" column="16" />
-        <mark key="[" line="19" column="15" />
+      <file name="$USER_HOME$/project/heix/home_demo/static/css/base.scss" timestamp="1456475942901">
+        <mark key="]" line="129" column="18" />
+        <mark key="^" line="129" column="18" />
+        <mark key="." line="129" column="18" />
+        <mark key="[" line="128" column="16" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/tag/base.scss" timestamp="1455760886320">
         <mark key="]" line="28" column="2" />
@@ -1142,6 +1142,12 @@
         <mark key="." line="4" column="5" />
         <mark key="[" line="6" column="23" />
       </file>
+      <file name="$USER_HOME$/project/heix/home_demo/static/css/utils.scss" timestamp="1456472248852">
+        <mark key="]" line="54" column="38" />
+        <mark key="^" line="54" column="38" />
+        <mark key="." line="54" column="38" />
+        <mark key="[" line="54" column="39" />
+      </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/navbar.scss" timestamp="1455767241103">
         <mark key="]" line="764" column="43" />
         <mark key="^" line="764" column="43" />
@@ -1184,11 +1190,10 @@
         <mark key="." line="9" column="35" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/project/heix/home_demo/static/css/index.scss" timestamp="1456456263199">
-        <mark key="]" line="0" column="12" />
-        <mark key="^" line="0" column="12" />
-        <mark key="." line="0" column="12" />
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/project/heix/home_demo/static/css/index.scss" timestamp="1456470557143">
+        <mark key="]" line="5" column="18" />
+        <mark key="." line="5" column="18" />
+        <mark key="[" line="5" column="17" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/components/menu/menu.tpl" timestamp="1456220547685">
         <mark key="]" line="1" column="18" />
@@ -1375,10 +1380,8 @@
         <mark key="." line="13" column="10" />
         <mark key="[" line="13" column="4" />
       </file>
-      <file name="$USER_HOME$/project/heix/home_demo/static/css/index.css" timestamp="1456454750541">
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="/JavaScript Console" timestamp="1456470859602">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/column_list/base.blade.php" timestamp="1455763779228">
         <mark key="]" line="36" column="4" />
@@ -1525,11 +1528,11 @@
         <mark key="." line="1" column="27" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/project/heix/home_demo/index.html" timestamp="1456460460180">
-        <mark key="]" line="60" column="8" />
-        <mark key="^" line="60" column="8" />
-        <mark key="." line="60" column="8" />
-        <mark key="[" line="57" column="10" />
+      <file name="$USER_HOME$/project/heix/home_demo/index.html" timestamp="1456475873894">
+        <mark key="]" line="163" column="32" />
+        <mark key="^" line="163" column="32" />
+        <mark key="." line="163" column="32" />
+        <mark key="[" line="163" column="28" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote-zh-CN.js" timestamp="1453277176577">
         <mark key="]" line="2" column="9" />
@@ -1599,7 +1602,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="253" column="7" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/navbar.scss" />
       <jump line="328" column="20" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/navbar.scss" />
       <jump line="333" column="41" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/navbar.scss" />
       <jump line="461" column="41" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/navbar.scss" />
@@ -1699,49 +1701,50 @@
       <jump line="171" column="31" filename="$USER_HOME$/project/heix/cms-frontend/resources/layout.blade.php" />
       <jump line="22" column="33" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/panels.scss" />
       <jump line="105" column="0" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article.blade.php" />
+      <jump line="118" column="79" filename="$USER_HOME$/project/heix/home_demo/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IDEwcHg=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNtYWxsPjwvc21hbGw+Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHAgY2xhc3M9InRleHQtbXV0ZSI+MTI45qy+PC9wPgo=</text>
-      </register>
-      <register name="1" type="4">
-        <text encoding="base64">IDEwcHg=</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHAgY2xhc3M9InRleHQtbXV0ZSIgc3R5bGU9ImZvbnQtc2l6ZTogMTJweCI+MTI45qy+PC9wPgo=</text>
-      </register>
-      <register name="7" type="2">
+      <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8cCBjbGFzcz0iIj48aSBjbGFzcz0iZmEgZmEtYW5nbGUtZG91YmxlLXJpZ2h0Ij48L2k+PC9wPgo=</text>
+      <register name="3" type="4">
+        <text>p</text>
       </register>
-      <register name="5" type="4">
-        <text>font</text>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">ICZuYnNwOyZuYnNwOyA=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICA+IC50aHVtYi1jb3Zlci0tZmFkZSB7CiAgICAKICB9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICA+IC50aHVtYi1jb3Zlci0tZmFkZSB7CiAgICAKICB9Cg==</text>
       </register>
       <register name="4" type="4">
-        <text>欢迎来到黑匣，探索VR世界必备装备，点这里！</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>http://imgstore.cdn.sogou.com/app/a/100540002/442663.jpg</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIG1heC1yZXNvbHV0aW9uOiA7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICDmrKLov47mnaXliLDpu5HljKPvvIzmjqLntKJWUuS4lueVjOW/heWkh+ijheWkh++8jOeCuei/memHjO+8gQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="/" type="4">
         <text>article-title</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IDEwcHg=</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
@@ -1777,8 +1780,6 @@
         <entry>article-title</entry>
       </history-search>
       <history-cmd>
-        <entry>15,17 s/month/minute/g</entry>
-        <entry>15,17 s/minute/date/g</entry>
         <entry>18,20 s/date/hour/g</entry>
         <entry>21,23 s/date/hour/g</entry>
         <entry>21,23 s/hour/minute/g</entry>
@@ -1796,6 +1797,8 @@
         <entry>w\</entry>
         <entry>:w</entry>
         <entry>18,49 s/bb/util/g</entry>
+        <entry>86</entry>
+        <entry>158</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
