@@ -45,6 +45,11 @@
         <mark key="." line="1" column="37" />
         <mark key="[" line="1" column="36" />
       </file>
+      <file name="$USER_HOME$/project/heix/home_demo/static/css/base.scss" timestamp="1456458071433">
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
+        <mark key="[" line="78" column="1" />
+      </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/tag/base.scss" timestamp="1455760886320">
         <mark key="]" line="28" column="2" />
         <mark key="^" line="26" column="18" />
@@ -811,9 +816,6 @@
         <mark key="." line="46" column="50" />
         <mark key="[" line="46" column="25" />
       </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/panels.scss" timestamp="1456286045799">
-        <mark key="'" line="22" column="33" />
-      </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/article_normal.blade.php" timestamp="1454039837650">
         <mark key="]" line="1" column="30" />
         <mark key="^" line="1" column="30" />
@@ -1181,6 +1183,12 @@
         <mark key="." line="9" column="35" />
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/project/heix/home_demo/static/css/index.scss" timestamp="1456456263199">
+        <mark key="]" line="0" column="12" />
+        <mark key="^" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/components/menu/menu.tpl" timestamp="1456220547685">
         <mark key="]" line="1" column="18" />
         <mark key="^" line="1" column="18" />
@@ -1339,6 +1347,9 @@
         <mark key="." line="22" column="117" />
         <mark key="[" line="19" column="55" />
       </file>
+      <file name="$USER_HOME$/project/heix/home_demo/static/css/base.css" timestamp="1456456001919">
+        <mark key="[" line="0" column="63" />
+      </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/README.md" timestamp="1456305253256">
         <mark key="]" line="54" column="9" />
         <mark key="^" line="54" column="9" />
@@ -1362,6 +1373,11 @@
         <mark key="^" line="13" column="10" />
         <mark key="." line="13" column="10" />
         <mark key="[" line="13" column="4" />
+      </file>
+      <file name="$USER_HOME$/project/heix/home_demo/static/css/index.css" timestamp="1456454750541">
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/column_list/base.blade.php" timestamp="1455763779228">
         <mark key="]" line="36" column="4" />
@@ -1507,6 +1523,12 @@
         <mark key="^" line="1" column="27" />
         <mark key="." line="1" column="27" />
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/heix/home_demo/index.html" timestamp="1456458053145">
+        <mark key="]" line="26" column="38" />
+        <mark key="^" line="26" column="38" />
+        <mark key="." line="26" column="38" />
+        <mark key="[" line="25" column="36" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote-zh-CN.js" timestamp="1453277176577">
         <mark key="]" line="2" column="9" />
@@ -1678,47 +1700,47 @@
       <jump line="105" column="0" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>label-white</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">IGxvZ2luKCk=</text>
-      </register>
-      <register name="2" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="1" type="4">
-        <text>label-white</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsZWZ0RGVsaW1pdGVyOiAiJHsiLAogICAgICAgIHJpZ2h0RGVsaW1pdGVyOiAifSIK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">QHNlY3Rpb24gKCJhcnRpY2xlLWJvZHkiKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">QHNob3cK</text>
-      </register>
-      <register name="5" type="2">
+      <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbG9yOiAjZmZkNzBmOwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBib3JkZXItYm90dG9tOiAycHggc29saWQgIzI0ZjFmZjsK</text>
+      </register>
+      <register name="7" type="4">
+        <text>mute</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">IGNsYXNzPSJhY3RpdmUiIA==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgZGlzcGxheTogaW5saW5lLWJsb2NrOwo=</text>
+      </register>
       <register name="4" type="4">
-        <text>window.global.login()</text>
+        <text>8px</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>stop</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBib3JkZXItYm90dG9tOiAycHggc29saWQgIzI0ZjFmZjsK</text>
       </register>
       <register name="8" type="4">
-        <text>top</text>
+        <text>title</text>
       </register>
       <register name="/" type="4">
         <text>article-title</text>
       </register>
       <register name="-" type="4">
-        <text>label-white</text>
+        <text>8px</text>
       </register>
     </registers>
     <search>
