@@ -75,13 +75,6 @@
         <mark key="." line="3" column="72" />
         <mark key="[" line="3" column="59" />
       </file>
-      <file name="$USER_HOME$/project/heix/passport-frontend/resources/login/index.js" timestamp="1456194540540">
-        <mark key="'" line="68" column="20" />
-        <mark key="]" line="50" column="0" />
-        <mark key="^" line="54" column="160" />
-        <mark key="." line="50" column="0" />
-        <mark key="[" line="50" column="0" />
-      </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/related-article/related-article.tpl" timestamp="1452481812410">
         <mark key="]" line="1" column="25" />
         <mark key="^" line="1" column="25" />
@@ -99,13 +92,6 @@
         <mark key="^" line="6" column="77" />
         <mark key="." line="6" column="77" />
         <mark key="[" line="6" column="54" />
-      </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/resources/layout.blade.php" timestamp="1456284145850">
-        <mark key="'" line="171" column="31" />
-        <mark key="]" line="196" column="8" />
-        <mark key="^" line="196" column="8" />
-        <mark key="." line="196" column="8" />
-        <mark key="[" line="196" column="5" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/article.scss" timestamp="1449221982648">
         <mark key="]" line="6" column="16" />
@@ -155,6 +141,12 @@
         <mark key="." line="12" column="19" />
         <mark key="[" line="12" column="18" />
       </file>
+      <file name="$USER_HOME$/project/heix/cms-frontend/resources/about/about.scss" timestamp="1456481865045">
+        <mark key="]" line="3" column="22" />
+        <mark key="^" line="3" column="22" />
+        <mark key="." line="3" column="22" />
+        <mark key="[" line="1" column="10" />
+      </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/thumbnails.scss" timestamp="1455612436420">
         <mark key="]" line="111" column="1" />
         <mark key="^" line="111" column="19" />
@@ -196,6 +188,9 @@
         <mark key="^" line="29" column="82" />
         <mark key="." line="29" column="82" />
         <mark key="[" line="29" column="68" />
+      </file>
+      <file name="$USER_HOME$/project/heix/cms-frontend/resources/about/about.sass" timestamp="1456481747475">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/related-article/related-article.tpl" timestamp="1450434276832">
         <mark key="]" line="25" column="58" />
@@ -442,11 +437,6 @@
         <mark key="." line="4" column="31" />
         <mark key="[" line="4" column="32" />
       </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/fis-conf.js" timestamp="1456371487362">
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="[" line="30" column="0" />
-      </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/user/user.tag.tpl" timestamp="1450248411601">
         <mark key="]" line="44" column="93" />
         <mark key="^" line="44" column="93" />
@@ -636,13 +626,6 @@
         <mark key="." line="93" column="35" />
         <mark key="[" line="93" column="31" />
       </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/labels.scss" timestamp="1455682055938">
-        <mark key="'" line="44" column="24" />
-        <mark key="]" line="69" column="28" />
-        <mark key="^" line="69" column="28" />
-        <mark key="." line="69" column="28" />
-        <mark key="[" line="69" column="26" />
-      </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/headline/headline.blade.php" timestamp="1456281807752">
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
@@ -689,6 +672,12 @@
         <mark key="^" line="24" column="22" />
         <mark key="." line="24" column="22" />
         <mark key="[" line="24" column="21" />
+      </file>
+      <file name="$USER_HOME$/project/heix/cms-frontend/resources/about/about.blade.php" timestamp="1456481771540">
+        <mark key="]" line="6" column="37" />
+        <mark key="^" line="6" column="40" />
+        <mark key="." line="6" column="37" />
+        <mark key="[" line="6" column="36" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/product/product.js" timestamp="1450425665736">
         <mark key="]" line="39" column="62" />
@@ -907,11 +896,11 @@
         <mark key="." line="2" column="16" />
         <mark key="[" line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/resources/user/base.blade.php" timestamp="1455766954574">
-        <mark key="]" line="8" column="4" />
+      <file name="$USER_HOME$/project/heix/cms-frontend/resources/user/base.blade.php" timestamp="1456481044002">
+        <mark key="]" line="3" column="39" />
         <mark key="^" line="8" column="4" />
         <mark key="." line="8" column="4" />
-        <mark key="[" line="5" column="22" />
+        <mark key="[" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/home/base.js" timestamp="1455695623488">
         <mark key="]" line="9" column="17" />
@@ -972,13 +961,6 @@
         <mark key="^" line="21" column="44" />
         <mark key="." line="21" column="44" />
         <mark key="[" line="21" column="28" />
-      </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/resources/search/base.js" timestamp="1455678843263">
-        <mark key="'" line="35" column="38" />
-        <mark key="]" line="35" column="46" />
-        <mark key="^" line="35" column="46" />
-        <mark key="." line="35" column="46" />
-        <mark key="[" line="35" column="43" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/author-select/author-select.js" timestamp="1450680935424">
         <mark key="]" line="23" column="0" />
@@ -1237,13 +1219,6 @@
         <mark key="." line="18" column="4" />
         <mark key="[" line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/resources/user/profile/index.js" timestamp="1455603756658">
-        <mark key="'" line="303" column="44" />
-        <mark key="]" line="123" column="0" />
-        <mark key="^" line="120" column="37" />
-        <mark key="." line="123" column="0" />
-        <mark key="[" line="123" column="0" />
-      </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/publish-timer.tpl" timestamp="1453713861549">
         <mark key="]" line="30" column="11" />
         <mark key="^" line="30" column="11" />
@@ -1255,13 +1230,6 @@
         <mark key="^" line="13" column="31" />
         <mark key="." line="13" column="31" />
         <mark key="[" line="7" column="18" />
-      </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/resources/home/base.blade.php" timestamp="1456366517526">
-        <mark key="'" line="74" column="26" />
-        <mark key="]" line="8" column="33" />
-        <mark key="^" line="8" column="33" />
-        <mark key="." line="8" column="33" />
-        <mark key="[" line="8" column="6" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" timestamp="1454052141121">
         <mark key="]" line="122" column="0" />
@@ -1705,47 +1673,47 @@
       <jump line="33" column="18" filename="$USER_HOME$/project/heix/home_demo/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHUtcGwtMTUgdS1wci0xNQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAtd2Via2l0LWJhY2tncm91bmQtc2l6ZTo7Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>http://imgstore.cdn.sogou.com/app/a/100540002/442663.jpg</text>
+        <text encoding="base64">dXRpbC1hIA==</text>
       </register>
       <register name="2" type="4">
-        <text>http://www.raqwe.com/wp-content/uploads/2014/07/gear-vr-virtual-reality-glasses-samsung-raqwe.com-01.jpg</text>
+        <text>.blade</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IHN0eWxlPSJmb250LXNpemU6IDEycHgi</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAtd2Via2l0LWJhY2tncm91bmQtc2l6ZTo7Cg==</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IHUtcGwtMTUgdS1wci0xNQ==</text>
+      <register name="0" type="2">
+        <text encoding="base64">QHNlY3Rpb24oIm1ldGEtdGl0bGUiLCAkdXNlci0+bmlja25hbWUpCg==</text>
       </register>
       <register name="7" type="4">
-        <text>gree</text>
+        <text encoding="base64">JHVzZXItPm5pY2tuYW1l</text>
       </register>
       <register name="6" type="4">
-        <text>5</text>
+        <text>bb-container</text>
       </register>
-      <register name="5" type="4">
-        <text>green</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICA8aDEgY2xhc3M9ImJiLXRleHRfd2hpdGUgYmItdGV4dF8xNiBiYi10ZXh0X2NlbnRlciBiYi1tYi0yMCI+wrcg6buR5Yyj5piv5LuA5LmIIMK3PC9oMT4KICAgICAgICA8cCBjbGFzcz0iYmItdGV4dF93aGl0ZSBiYi10ZXh0XzE2IGJiLXRleHRfY2VudGVyICI+6buR5Yyj5piv5LiA576k5Lq65bel5pm66IO95ZKM6Jma5ouf546w5a6e54ix5aW96ICF5Y+R6LW35oiQ56uL55qE5Z6C55u05L+h5oGv5YiG5Lqr5bmz5Y+w44CCPC9wPgogICAgICAgIDxwIGNsYXNzPSJiYi10ZXh0X3doaXRlIGJiLXRleHRfMTYgYmItdGV4dF9jZW50ZXIgYmItbWItNjAiPum7keWMo+iHtOWKm+aIkOS4uuS4reWbveS6uuW3peaZuuiDveWSjOiZmuaLn+eOsOWunuS6p+S4mueahOKAnOm7keWMo+WtkOKAneOAguS4reWbveS6uuW3peaZuuiDveWSjOiZmuaLn+eOsOWunumihuWfn+WIneWIm+WFrOWPuOeahOaIkOmVv++8jOaguOW/g+aKgOacr+eahOi/m+atpeOAgeihjOS4mumihuiilueahOingeino+OAgei1hOacrOW4guWcuueahOi1t+iQve+8jOm7keWMo+ato+WcqOS4gOS4gOiusOW9leOAgjwvcD4KICAgICAgICA8aDEgY2xhc3M9ImJiLXRleHRfd2hpdGUgYmItdGV4dF8xNiBiYi10ZXh0X2NlbnRlciBiYi1tYi0yMCI+wrcg6buR5Yyj55qE55CG5oOzIMK3PC9oMT4KICAgICAgICA8cCBjbGFzcz0iYmItdGV4dF93aGl0ZSBiYi10ZXh0XzE2IGJiLXRleHRfY2VudGVyICI+6buR5Yyj55qE5Zui6Zif6Ieq56ew4oCc5Yyj5a6i4oCd77yM5LyX5aSa5ZCM6YGT5Lmf5Lul5q2k6Ieq5bGF44CCPC9wPgogICAgICAgIDxwIGNsYXNzPSJiYi10ZXh0X3doaXRlIGJiLXRleHRfMTYgYmItdGV4dF9jZW50ZXIgIj7ljKPlrqLmnI3ohrrigJzlpYfngrnigJ3lrabor7TvvIzorqTlkIzmnLrlmajlvKDmiaznmoTlubTku6PljbPlsIbmnaXliLDvvIzmnLrlmajlsIbph43loZHlnLDnkIPnmoTnlJ/mgIHmlofmmI7lkozllYbkuJrmlofmmI7jgII8L3A+CiAgICAgICAgPHAgY2xhc3M9ImJiLXRleHRfd2hpdGUgYmItdGV4dF8xNiBiYi10ZXh0X2NlbnRlciAiPuWMo+WuouePjeinhuS/oeaBr+eahOi0qOmHj++8jOaLkue7neiiq+Weg+WcvuS/oeaBr+i/h+i9ve+8jOacn+acm+eUn+S6p+WPiuWIhuS6q+S8mOi0qOWGheWuue+8jOaOqOWKqOS6uuW3peaZuuiDveWSjOiZmuaLn+eOsOWunuS6p+S4mueahOi/m+atpeOAgjwvcD4KICAgICAgICA8cCBjbGFzcz0iYmItdGV4dF93aGl0ZSBiYi10ZXh0XzE2IGJiLXRleHRfY2VudGVyICI+5Yyj5a6i5oul5pyJ5peg56m355qE5aW95aWH5b+D77yM5ouF5b+n5oiQ5Li65Lq65bel5pm66IO95pe25Luj55qE55+l6K+G5peg5Lqn6ICF77yM5Li65YWN5LqO6KKr5py65Zmo5aW05b2555qE5ZG96L+Q77yM5Yaz5a6a5oyB57ut5a2m5Lmg77yM5pyA57uI5oiQ5Li66am+6amt5Lq65bel5pm66IO955qE576k5L2T44CCPC9wPgogICAgICAgIDxwIGNsYXNzPSJiYi10ZXh0X3doaXRlIGJiLXRleHRfMTYgYmItdGV4dF9jZW50ZXIgYmItbWItNjAiPuWMo+WuouWdmuS/oeS4reWbveS6uuW3peaZuuiDveWSjOiZmuaLn+eOsOWunuS6p+S4mueahOW0m+i1t+S4jeWPr+mYu+aMoe+8jOS5n+iHtOWKm+S6juaIkOS4uuWFtuS4reS4gOaUr+mHjeimgeeahOWKm+mHj+OAgjwvcD4KICAgICAgICA8aDEgY2xhc3M9ImJiLXRleHRfd2hpdGUgYmItdGV4dF8xNiBiYi10ZXh0X2NlbnRlciBiYi1tYi0yMCI+wrcg6buR5Yyj572RIMK3PC9oMT4KICAgICAgICA8cCBjbGFzcz0iYmItdGV4dF93aGl0ZSBiYi10ZXh0XzE2IGJiLXRleHRfY2VudGVyIj7pu5HljKPnvZHmmK/pu5HljKPnmoTlrpjmlrnnvZHnq5nvvIzkuZ/mmK/pu5HljKPkuLvopoHkvKDmkq3lubPlj7DjgII8L3A+CiAgICAgICAgPHAgY2xhc3M9ImJiLXRleHRfd2hpdGUgYmItdGV4dF8xNiBiYi10ZXh0X2NlbnRlciI+6buR5Yyj572R5o+Q5L6b5Y+K5pe244CB6YeN6KaB44CB6LS06L+R55qE5Lq65bel5pm66IO95ZKM6Jma5ouf546w5a6e6aKG5Z+f55qE5rex5bqm5YaF5a6544CC5Lit56uL6KeG6KeS44CB5rex5bqm5YiG5p6Q44CB5a6i6KeC5ZGI546w44CC5omO5qC55Lit5Zu95Lq65bel5pm66IO95ZKM6Jma5ouf546w5a6e5Lqn5Lia77yM57Sn6Lef5Zu96ZmF54Ot54K544CCPC9wPgogICAgICAgIDxwIGNsYXNzPSJiYi10ZXh0X3doaXRlIGJiLXRleHRfMTYgYmItdGV4dF9jZW50ZXIgYmItbWItNjAiPum7keWMo+e9keS4i+iuvum7keWMo+aXpeaKpeOAgeacuuWZqOa0vuOAgeWKoeiZmuS8muOAgem7keadv+aKpeOAgeW9leWDj+W4puetieS6lOS4quaooeWdl++8jOWFtuS4rem7keWMo+aXpeaKpemHjeeCueWFs+azqOWFqOeQgzI05bCP5pe25LmL5YaF55qE6KGM5Lia54Ot54K577yM5py65Zmo5rS+5YWz5rOo5Lq65bel5pm66IO96aKG5Z+f77yM5Yqh6Jma5Lya5YWz5rOo6Jma5ouf546w5a6e6aKG5Z+f77yM6buR5p2/5oql5piv5LiT6aKY5YaF5a655qih5Z2X77yM5b2V5YOP5bim5Li66KeG6aKR5qih5Z2X44CCPC9wPgogICAgICAgIDxoMSBjbGFzcz0iYmItdGV4dF93aGl0ZSBiYi10ZXh0XzE2IGJiLXRleHRfY2VudGVyIGJiLW1iLTIwIj7CtyDogZTns7vmlrnlvI8gwrc8L2gxPgogICAgICAgIDxwIGNsYXNzPSJiYi10ZXh0X3doaXRlIGJiLXRleHRfMTYgYmItdGV4dF9jZW50ZXIiPjxhIGNsYXNzPSJiYi1hIGJiLXRleHRfd2hpdGUiIGhyZWY9Im1haWx0bzpoZWl4aWF0ZWNoQDE2My5jb20iPmhlaXhpYXRlY2hAMTYzLmNvbTwvYT48L3A+Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>Oculus趴</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>green</text>
+        <text>http://www.raqwe.com/wp-content/uploads/2014/07/gear-vr-virtual-reality-glasses-samsung-raqwe.com-01.jpg</text>
       </register>
       <register name="8" type="4">
-        <text>n</text>
+        <text encoding="base64">IHN0eWxlPSJmb250LXNpemU6IDEycHgi</text>
       </register>
       <register name="/" type="4">
         <text>直达</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHN0eWxlPSJmb250LXNpemU6IDEycHgi</text>
+        <text>.blade</text>
       </register>
     </registers>
     <search>
