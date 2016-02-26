@@ -45,11 +45,11 @@
         <mark key="." line="1" column="37" />
         <mark key="[" line="1" column="36" />
       </file>
-      <file name="$USER_HOME$/project/heix/home_demo/static/css/base.scss" timestamp="1456475942901">
-        <mark key="]" line="129" column="18" />
-        <mark key="^" line="129" column="18" />
-        <mark key="." line="129" column="18" />
-        <mark key="[" line="128" column="16" />
+      <file name="$USER_HOME$/project/heix/home_demo/static/css/base.scss" timestamp="1456479723009">
+        <mark key="]" line="78" column="19" />
+        <mark key="^" line="78" column="19" />
+        <mark key="." line="78" column="19" />
+        <mark key="[" line="78" column="19" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/tag/base.scss" timestamp="1455760886320">
         <mark key="]" line="28" column="2" />
@@ -1528,11 +1528,12 @@
         <mark key="." line="1" column="27" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/project/heix/home_demo/index.html" timestamp="1456475873894">
-        <mark key="]" line="163" column="32" />
-        <mark key="^" line="163" column="32" />
-        <mark key="." line="163" column="32" />
-        <mark key="[" line="163" column="28" />
+      <file name="$USER_HOME$/project/heix/home_demo/index.html" timestamp="1456479829962">
+        <mark key="'" line="33" column="18" />
+        <mark key="]" line="141" column="45" />
+        <mark key="^" line="115" column="45" />
+        <mark key="." line="141" column="29" />
+        <mark key="[" line="141" column="29" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/summernote-zh-CN.js" timestamp="1453277176577">
         <mark key="]" line="2" column="9" />
@@ -1602,7 +1603,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="328" column="20" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/navbar.scss" />
       <jump line="333" column="41" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/navbar.scss" />
       <jump line="461" column="41" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/navbar.scss" />
       <jump line="473" column="13" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/navbar.scss" />
@@ -1702,55 +1702,56 @@
       <jump line="22" column="33" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/panels.scss" />
       <jump line="105" column="0" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article.blade.php" />
       <jump line="118" column="79" filename="$USER_HOME$/project/heix/home_demo/index.html" />
+      <jump line="33" column="18" filename="$USER_HOME$/project/heix/home_demo/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHUtcGwtMTUgdS1wci0xNQ==</text>
       </register>
       <register name="3" type="4">
-        <text>p</text>
+        <text>http://imgstore.cdn.sogou.com/app/a/100540002/442663.jpg</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>http://www.raqwe.com/wp-content/uploads/2014/07/gear-vr-virtual-reality-glasses-samsung-raqwe.com-01.jpg</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IHN0eWxlPSJmb250LXNpemU6IDEycHgi</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">ICZuYnNwOyZuYnNwOyA=</text>
+        <text encoding="base64">IHUtcGwtMTUgdS1wci0xNQ==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICA+IC50aHVtYi1jb3Zlci0tZmFkZSB7CiAgICAKICB9Cg==</text>
+      <register name="7" type="4">
+        <text>gree</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>5</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICA+IC50aHVtYi1jb3Zlci0tZmFkZSB7CiAgICAKICB9Cg==</text>
+      <register name="5" type="4">
+        <text>green</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Oculus趴</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIG1heC1yZXNvbHV0aW9uOiA7Cg==</text>
+      <register name="9" type="4">
+        <text>green</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>article-title</text>
+        <text>直达</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IHN0eWxlPSJmb250LXNpemU6IDEycHgi</text>
       </register>
     </registers>
     <search>
-      <last-search>article-title</last-search>
+      <last-search>直达</last-search>
       <last-offset />
-      <last-pattern>article-title</last-pattern>
+      <last-pattern>直达</last-pattern>
       <last-replace>util</last-replace>
       <last-substitute>bb</last-substitute>
       <last-dir>1</last-dir>
@@ -1758,7 +1759,6 @@
     </search>
     <history>
       <history-search>
-        <entry>id</entry>
         <entry>z-index</entry>
         <entry>index</entry>
         <entry>password</entry>
@@ -1778,6 +1778,7 @@
         <entry>postcss</entry>
         <entry>box-shadow</entry>
         <entry>article-title</entry>
+        <entry>直达</entry>
       </history-search>
       <history-cmd>
         <entry>18,20 s/date/hour/g</entry>
