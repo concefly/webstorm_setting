@@ -45,11 +45,11 @@
         <mark key="." line="1" column="37" />
         <mark key="[" line="1" column="36" />
       </file>
-      <file name="$USER_HOME$/project/heix/home_demo/static/css/base.scss" timestamp="1456479723009">
-        <mark key="]" line="78" column="19" />
+      <file name="$USER_HOME$/project/heix/home_demo/static/css/base.scss" timestamp="1456709545159">
+        <mark key="]" line="11" column="20" />
         <mark key="^" line="78" column="19" />
         <mark key="." line="78" column="19" />
-        <mark key="[" line="78" column="19" />
+        <mark key="[" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/tag/base.scss" timestamp="1455760886320">
         <mark key="]" line="28" column="2" />
@@ -159,6 +159,12 @@
         <mark key="." line="24" column="0" />
         <mark key="[" line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/partials/common/variable.scss" timestamp="1456709549398">
+        <mark key="'" line="0" column="0" />
+        <mark key="]" line="6" column="21" />
+        <mark key="." line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/project/pet/wechat/views/disease/detail.html" timestamp="1449570429016">
         <mark key="]" line="8" column="40" />
         <mark key="^" line="8" column="40" />
@@ -228,6 +234,7 @@
         <mark key="." line="1" column="49" />
         <mark key="[" line="1" column="49" />
       </file>
+      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/partials/fonts/ux_1451281262_9713175/demo.html" timestamp="1456709930154" />
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/component/label.scss" timestamp="1449474126764">
         <mark key="]" line="63" column="48" />
         <mark key="^" line="51" column="48" />
@@ -352,6 +359,11 @@
         <mark key="^" line="13" column="20" />
         <mark key="." line="13" column="0" />
         <mark key="[" line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/app.scss" timestamp="1456711576473">
+        <mark key="]" line="18" column="22" />
+        <mark key="^" line="18" column="22" />
+        <mark key="." line="18" column="22" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/home/base.tpl" timestamp="1455696872098">
         <mark key="]" line="46" column="32" />
@@ -587,9 +599,6 @@
         <mark key="." line="9" column="115" />
         <mark key="[" line="9" column="114" />
       </file>
-      <file name="/a.dummy" timestamp="1456383653348">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/resources/views/cms/post/topDaily.blade.php" timestamp="1449742618187">
         <mark key="]" line="27" column="7" />
         <mark key="^" line="27" column="7" />
@@ -824,12 +833,6 @@
         <mark key="." line="1" column="24" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/article.blade.php" timestamp="1456372448852">
-        <mark key="'" line="98" column="0" />
-        <mark key="]" line="146" column="0" />
-        <mark key="." line="146" column="0" />
-        <mark key="[" line="146" column="0" />
-      </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/selector/wrapper.tpl" timestamp="1453111192578">
         <mark key="]" line="5" column="51" />
         <mark key="^" line="5" column="51" />
@@ -980,11 +983,11 @@
         <mark key="." line="167" column="56" />
         <mark key="[" line="165" column="13" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/components/menu/menu.scss" timestamp="1456221242268">
-        <mark key="]" line="16" column="18" />
-        <mark key="^" line="16" column="18" />
-        <mark key="." line="16" column="18" />
-        <mark key="[" line="6" column="14" />
+      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/components/menu/menu.scss" timestamp="1456711334232">
+        <mark key="]" line="33" column="14" />
+        <mark key="^" line="33" column="14" />
+        <mark key="." line="33" column="14" />
+        <mark key="[" line="31" column="13" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/module/module.detail.js" timestamp="1450685264005">
         <mark key="]" line="11" column="0" />
@@ -1177,11 +1180,11 @@
         <mark key="." line="5" column="18" />
         <mark key="[" line="5" column="17" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/components/menu/menu.tpl" timestamp="1456220547685">
-        <mark key="]" line="1" column="18" />
-        <mark key="^" line="1" column="18" />
-        <mark key="." line="1" column="18" />
-        <mark key="[" line="1" column="7" />
+      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/components/menu/menu.tpl" timestamp="1456711419561">
+        <mark key="]" line="14" column="59" />
+        <mark key="^" line="14" column="59" />
+        <mark key="." line="14" column="59" />
+        <mark key="[" line="5" column="46" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/user/home/home.blade.php" timestamp="1453804725774">
         <mark key="]" line="16" column="4" />
@@ -1273,6 +1276,12 @@
         <mark key="." line="66" column="38" />
         <mark key="[" line="66" column="24" />
       </file>
+      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/index/index.blade.php" timestamp="1456712215817">
+        <mark key="]" line="18" column="62" />
+        <mark key="^" line="18" column="62" />
+        <mark key="." line="18" column="62" />
+        <mark key="[" line="18" column="15" />
+      </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/headline/headline.blade.php" timestamp="1456287465805">
         <mark key="]" line="9" column="39" />
         <mark key="^" line="9" column="39" />
@@ -1356,6 +1365,12 @@
         <mark key="^" line="24" column="84" />
         <mark key="." line="36" column="4" />
         <mark key="[" line="36" column="4" />
+      </file>
+      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/partials/common/util.scss" timestamp="1456710930784">
+        <mark key="]" line="71" column="0" />
+        <mark key="^" line="71" column="0" />
+        <mark key="." line="71" column="0" />
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/article-style/article-style.scss" timestamp="1453534335938">
         <mark key="]" line="41" column="15" />
@@ -1571,7 +1586,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="333" column="41" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/navbar.scss" />
       <jump line="461" column="41" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/navbar.scss" />
       <jump line="473" column="13" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/navbar.scss" />
       <jump line="607" column="13" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/navbar.scss" />
@@ -1671,55 +1685,56 @@
       <jump line="105" column="0" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article.blade.php" />
       <jump line="118" column="79" filename="$USER_HOME$/project/heix/home_demo/index.html" />
       <jump line="33" column="18" filename="$USER_HOME$/project/heix/home_demo/index.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/project/heix/blackbox-mobile-frontend/partials/common/variable.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAtd2Via2l0LWJhY2tncm91bmQtc2l6ZTo7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>stylesheet</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">dXRpbC1hIA==</text>
+        <text encoding="base64">dCBzcmM9Imh0dHA6Ly9nLnRiY2RuLmNuL210Yi9saWItZmxleGlibGUvMC4zLjQvPz9mbGV4aWJsZS5qcyI+PC9zY3JpcHQ+</text>
       </register>
       <register name="2" type="4">
-        <text>.blade</text>
+        <text encoding="base64">ICAgIDx1bCBjbGFzcz0ibWVudSI+CiAgICAgICAgPGxpIGNsYXNzPSJsZWZ0Ij48YSBocmVmPSIjIj5CPC9hPjwvbGk+CiAgICAgICAgPGxpIGNsYXNzPSJhY3RpdmUiID48YSBocmVmPSIjIj7mjqjojZA8aSBjbGFzcz0iZmEgZmEtYW5nbGUtZG93biI+PC9pPjwvYT48L2xpPgogICAgICAgIDxsaT48YSBocmVmPSIjIj5WUuinhumikTwvYT48L2xpPgogICAgICAgIDxsaT48YSBocmVmPSIjIj7muLjmiI88L2E+PC9saT4KICAgICAgICA8bGk+PGEgaHJlZj0iIyI+5ZyI5a2QPC9hPjwvbGk+CiAgICAgICAgPGxpIGNsYXNzPSJyaWdodCBiYXJzIj48YSBocmVmPSIjIj48aSBjbGFzcz0iZmEgZmEtYmFycyI+PC9pPjwvYT48L2xpPgogICAgPC91bD4=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAtd2Via2l0LWJhY2tncm91bmQtc2l6ZTo7Cg==</text>
+      <register name="1" type="4">
+        <text>stylesheet</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QHNlY3Rpb24oIm1ldGEtdGl0bGUiLCAkdXNlci0+bmlja25hbWUpCg==</text>
+        <text encoding="base64">JGJyYW5kX3ByaW1hcnk6ICMzMzM7CiRicmFuZF9wcmltYXJ5X2Rhcms6ICMyOTI5Mjk7CiRicmFuZF9wcmltYXJ5X2RhcmtlcjogIzFhMWExYTsKJGJyYW5kX211dGU6ICM5OTk7CgokYnJhbmRfdGl0bGU6ICNmZmY7CiRicmFuZF9hcnRpY2xlOiAjYWFhOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">JHVzZXItPm5pY2tuYW1l</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgZmxvYXQ6IHJpZ2h0Owo=</text>
       </register>
       <register name="6" type="4">
-        <text>bb-container</text>
+        <text>推荐</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8aDEgY2xhc3M9ImJiLXRleHRfd2hpdGUgYmItdGV4dF8xNiBiYi10ZXh0X2NlbnRlciBiYi1tYi0yMCI+wrcg6buR5Yyj5piv5LuA5LmIIMK3PC9oMT4KICAgICAgICA8cCBjbGFzcz0iYmItdGV4dF93aGl0ZSBiYi10ZXh0XzE2IGJiLXRleHRfY2VudGVyICI+6buR5Yyj5piv5LiA576k5Lq65bel5pm66IO95ZKM6Jma5ouf546w5a6e54ix5aW96ICF5Y+R6LW35oiQ56uL55qE5Z6C55u05L+h5oGv5YiG5Lqr5bmz5Y+w44CCPC9wPgogICAgICAgIDxwIGNsYXNzPSJiYi10ZXh0X3doaXRlIGJiLXRleHRfMTYgYmItdGV4dF9jZW50ZXIgYmItbWItNjAiPum7keWMo+iHtOWKm+aIkOS4uuS4reWbveS6uuW3peaZuuiDveWSjOiZmuaLn+eOsOWunuS6p+S4mueahOKAnOm7keWMo+WtkOKAneOAguS4reWbveS6uuW3peaZuuiDveWSjOiZmuaLn+eOsOWunumihuWfn+WIneWIm+WFrOWPuOeahOaIkOmVv++8jOaguOW/g+aKgOacr+eahOi/m+atpeOAgeihjOS4mumihuiilueahOingeino+OAgei1hOacrOW4guWcuueahOi1t+iQve+8jOm7keWMo+ato+WcqOS4gOS4gOiusOW9leOAgjwvcD4KICAgICAgICA8aDEgY2xhc3M9ImJiLXRleHRfd2hpdGUgYmItdGV4dF8xNiBiYi10ZXh0X2NlbnRlciBiYi1tYi0yMCI+wrcg6buR5Yyj55qE55CG5oOzIMK3PC9oMT4KICAgICAgICA8cCBjbGFzcz0iYmItdGV4dF93aGl0ZSBiYi10ZXh0XzE2IGJiLXRleHRfY2VudGVyICI+6buR5Yyj55qE5Zui6Zif6Ieq56ew4oCc5Yyj5a6i4oCd77yM5LyX5aSa5ZCM6YGT5Lmf5Lul5q2k6Ieq5bGF44CCPC9wPgogICAgICAgIDxwIGNsYXNzPSJiYi10ZXh0X3doaXRlIGJiLXRleHRfMTYgYmItdGV4dF9jZW50ZXIgIj7ljKPlrqLmnI3ohrrigJzlpYfngrnigJ3lrabor7TvvIzorqTlkIzmnLrlmajlvKDmiaznmoTlubTku6PljbPlsIbmnaXliLDvvIzmnLrlmajlsIbph43loZHlnLDnkIPnmoTnlJ/mgIHmlofmmI7lkozllYbkuJrmlofmmI7jgII8L3A+CiAgICAgICAgPHAgY2xhc3M9ImJiLXRleHRfd2hpdGUgYmItdGV4dF8xNiBiYi10ZXh0X2NlbnRlciAiPuWMo+WuouePjeinhuS/oeaBr+eahOi0qOmHj++8jOaLkue7neiiq+Weg+WcvuS/oeaBr+i/h+i9ve+8jOacn+acm+eUn+S6p+WPiuWIhuS6q+S8mOi0qOWGheWuue+8jOaOqOWKqOS6uuW3peaZuuiDveWSjOiZmuaLn+eOsOWunuS6p+S4mueahOi/m+atpeOAgjwvcD4KICAgICAgICA8cCBjbGFzcz0iYmItdGV4dF93aGl0ZSBiYi10ZXh0XzE2IGJiLXRleHRfY2VudGVyICI+5Yyj5a6i5oul5pyJ5peg56m355qE5aW95aWH5b+D77yM5ouF5b+n5oiQ5Li65Lq65bel5pm66IO95pe25Luj55qE55+l6K+G5peg5Lqn6ICF77yM5Li65YWN5LqO6KKr5py65Zmo5aW05b2555qE5ZG96L+Q77yM5Yaz5a6a5oyB57ut5a2m5Lmg77yM5pyA57uI5oiQ5Li66am+6amt5Lq65bel5pm66IO955qE576k5L2T44CCPC9wPgogICAgICAgIDxwIGNsYXNzPSJiYi10ZXh0X3doaXRlIGJiLXRleHRfMTYgYmItdGV4dF9jZW50ZXIgYmItbWItNjAiPuWMo+WuouWdmuS/oeS4reWbveS6uuW3peaZuuiDveWSjOiZmuaLn+eOsOWunuS6p+S4mueahOW0m+i1t+S4jeWPr+mYu+aMoe+8jOS5n+iHtOWKm+S6juaIkOS4uuWFtuS4reS4gOaUr+mHjeimgeeahOWKm+mHj+OAgjwvcD4KICAgICAgICA8aDEgY2xhc3M9ImJiLXRleHRfd2hpdGUgYmItdGV4dF8xNiBiYi10ZXh0X2NlbnRlciBiYi1tYi0yMCI+wrcg6buR5Yyj572RIMK3PC9oMT4KICAgICAgICA8cCBjbGFzcz0iYmItdGV4dF93aGl0ZSBiYi10ZXh0XzE2IGJiLXRleHRfY2VudGVyIj7pu5HljKPnvZHmmK/pu5HljKPnmoTlrpjmlrnnvZHnq5nvvIzkuZ/mmK/pu5HljKPkuLvopoHkvKDmkq3lubPlj7DjgII8L3A+CiAgICAgICAgPHAgY2xhc3M9ImJiLXRleHRfd2hpdGUgYmItdGV4dF8xNiBiYi10ZXh0X2NlbnRlciI+6buR5Yyj572R5o+Q5L6b5Y+K5pe244CB6YeN6KaB44CB6LS06L+R55qE5Lq65bel5pm66IO95ZKM6Jma5ouf546w5a6e6aKG5Z+f55qE5rex5bqm5YaF5a6544CC5Lit56uL6KeG6KeS44CB5rex5bqm5YiG5p6Q44CB5a6i6KeC5ZGI546w44CC5omO5qC55Lit5Zu95Lq65bel5pm66IO95ZKM6Jma5ouf546w5a6e5Lqn5Lia77yM57Sn6Lef5Zu96ZmF54Ot54K544CCPC9wPgogICAgICAgIDxwIGNsYXNzPSJiYi10ZXh0X3doaXRlIGJiLXRleHRfMTYgYmItdGV4dF9jZW50ZXIgYmItbWItNjAiPum7keWMo+e9keS4i+iuvum7keWMo+aXpeaKpeOAgeacuuWZqOa0vuOAgeWKoeiZmuS8muOAgem7keadv+aKpeOAgeW9leWDj+W4puetieS6lOS4quaooeWdl++8jOWFtuS4rem7keWMo+aXpeaKpemHjeeCueWFs+azqOWFqOeQgzI05bCP5pe25LmL5YaF55qE6KGM5Lia54Ot54K577yM5py65Zmo5rS+5YWz5rOo5Lq65bel5pm66IO96aKG5Z+f77yM5Yqh6Jma5Lya5YWz5rOo6Jma5ouf546w5a6e6aKG5Z+f77yM6buR5p2/5oql5piv5LiT6aKY5YaF5a655qih5Z2X77yM5b2V5YOP5bim5Li66KeG6aKR5qih5Z2X44CCPC9wPgogICAgICAgIDxoMSBjbGFzcz0iYmItdGV4dF93aGl0ZSBiYi10ZXh0XzE2IGJiLXRleHRfY2VudGVyIGJiLW1iLTIwIj7CtyDogZTns7vmlrnlvI8gwrc8L2gxPgogICAgICAgIDxwIGNsYXNzPSJiYi10ZXh0X3doaXRlIGJiLXRleHRfMTYgYmItdGV4dF9jZW50ZXIiPjxhIGNsYXNzPSJiYi1hIGJiLXRleHRfd2hpdGUiIGhyZWY9Im1haWx0bzpoZWl4aWF0ZWNoQDE2My5jb20iPmhlaXhpYXRlY2hAMTYzLmNvbTwvYT48L3A+Cg==</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9IiI+CiAgICAgICAgPCEtLTxsaW5rIHJlbD0iaW1wb3J0IiBocmVmPSJjb21wb25lbnRzL25hdmlnYXRpb24vbmF2aWdhdGlvbi50cGw/X19pbmxpbmUiPi0tPgogICAgICAgIDwhLS08bGluayByZWw9ImltcG9ydCIgaHJlZj0iY29tcG9uZW50cy9zZWFyY2hCYXIvc2VhcmNoQmFyLnRwbD9fX2lubGluZSI+LS0+CiAgICAgICAgPGxpbmsgcmVsPSJpbXBvcnQiIGhyZWY9ImNvbXBvbmVudHMvbWVudS9tZW51LnRwbD9fX2lubGluZSI+CiAgICAgICAgPGRpdiBjbGFzcz0ic3dpcGVyLWNvbnRhaW5lciI+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbnRhaW5lci1pbm5lciBzd2lwZXItd3JhcHBlciI+CiAgICAgICAgICAgICAgICBAZm9yZWFjaCAoJGhlYWRsaW5lcyBhcyAkYXJ0aWNsZSkKICAgICAgICAgICAgICAgIDxzZWN0aW9uIGNsYXNzPSJwYWdlIHN3aXBlci1zbGlkZSIgcm9sZT0ibGluayIgdi1ybGluaz0iJy9tb2JpbGUvYXJ0aWNsZS97eyRhcnRpY2xlLT5hcnRpY2xlPyRhcnRpY2xlLT5hcnRpY2xlLT5pZDonJ319JyI+CiAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iL21vYmlsZS9hcnRpY2xlL3t7JGFydGljbGUtPmFydGljbGU/JGFydGljbGUtPmFydGljbGUtPmlkOicnfX0iIGNsYXNzPSJjb3ZlciIgc3R5bGU9ImJhY2tncm91bmQtaW1hZ2U6dXJsKCd7e2VudignUU5fQ0ROJyl9fXt7JGFydGljbGUtPmJhbm5lcl9pZH19P2ltYWdlVmlldzIvNS9oLzQwMC93Lzc1MC83NS9mb3JtYXQvcG5nJykiPgogICAgICAgICAgICAgICAgICAgICAgICA8aW1nIHNyYz0ie3tlbnYoJ1FOX0NETicpfX17eyRhcnRpY2xlLT5iYW5uZXJfaWR9fT9pbWFnZVZpZXcyLzUvaC80MDAvdy83NTAvNzUvZm9ybWF0L3BuZyIgYWx0PSIiPgogICAgICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgICAgICAgICA8cCBjbGFzcz0idGl0bGUiPjxhIGhyZWY9Ii9tb2JpbGUvYXJ0aWNsZS97eyRhcnRpY2xlLT5hcnRpY2xlPyRhcnRpY2xlLT5hcnRpY2xlLT5pZDonJ319Ij57eyRhcnRpY2xlLT50aXRsZX19PC9hPjwvcD4KICAgICAgICAgICAgICAgICAgICA8cCBjbGFzcz0ibWV0YSI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuPnt7JGFydGljbGUtPnB1Ymxpc2hfdGltZX19PC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICA8c3Bhbj57eyRhcnRpY2xlLT5hdXRob3I/JGFydGljbGUtPmF1dGhvci0+bmlja25hbWU6IiJ9fTwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICA8L3A+CiAgICAgICAgICAgICAgICAgICAgPHAgY2xhc3M9ImRlc2NyaXB0aW9uIj57eyRhcnRpY2xlLT5hcnRpY2xlPyRhcnRpY2xlLT5hcnRpY2xlLT5hYnN0cmFjdDoiIn19PC9wPgogICAgICAgICAgICAgICAgPC9zZWN0aW9uPgogICAgICAgICAgICAgICAgQGVuZGZvcmVhY2gKICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDxuYXYgY2xhc3M9InN3aXBlci1wYWdpbmF0aW9uIj48L25hdj4KICAgICAgICA8L2Rpdj4KICAgICAgICA8c2VjdGlvbiBjbGFzcz0iY29udGVudCI+CiAgICAgICAgICAgIEBpZiAoY291bnQoJGFydGljbGVfbGlzdCk+MCkKICAgICAgICAgICAgPHVsIGNsYXNzPSJsaXN0IHVpLWJsYWNrIj4KICAgICAgICAgICAgICAgIEBmb3JlYWNoICgkYXJ0aWNsZV9saXN0IGFzICRhcnRpY2xlKQogICAgICAgICAgICAgICAgPGxpIHJvbGU9ImxpbmsiIHYtcmxpbms9IicvbW9iaWxlL2FydGljbGUve3skYXJ0aWNsZS0+aWR9fSciPgogICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9Ii9tb2JpbGUvYXJ0aWNsZS97eyRhcnRpY2xlLT5pZH19IiBjbGFzcz0iY292ZXIiIHN0eWxlPSJiYWNrZ3JvdW5kLWltYWdlOnVybCgne3tlbnYoJ1FOX0NETicpfX17eyRhcnRpY2xlLT5jb3Zlcl9pZH19P2ltYWdlVmlldzIvNS9oLzIwMC93Lzc1MC83NS9mb3JtYXQvcG5nJykiPgogICAgICAgICAgICAgICAgICAgICAgICA8aW1nIHNyYz0ie3tlbnYoJ1FOX0NETicpfX17eyRhcnRpY2xlLT5jb3Zlcl9pZH19P2ltYWdlVmlldzIvNS9oLzIwMC93Lzc1MC83NS9mb3JtYXQvcG5nIiBhbHQ9IiIgY2xhc3M9ImNvdmVyIj4KICAgICAgICAgICAgICAgICAgICA8L2E+CiAgICAgICAgICAgICAgICAgICAgPHAgY2xhc3M9InRpdGxlIj48YSBocmVmPSIvbW9iaWxlL2FydGljbGUve3skYXJ0aWNsZS0+aWR9fSI+e3skYXJ0aWNsZS0+dGl0bGV9fTwvYT48L3A+CiAgICAgICAgICAgICAgICAgICAgPHAgY2xhc3M9Im1ldGEgY2xlYXJmaXgiPgogICAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0iZGF0ZSBwdWxsLWxlZnQiPnt7ZGF0ZSgnWS5tLmQnLCAkYXJ0aWNsZS0+cHVibGlzaF90aW1lKX19PC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0iYXV0aG9yIHB1bGwtbGVmdCI+e3skYXJ0aWNsZS0+YXV0aG9yPT1udWxsPyIiOiRhcnRpY2xlLT5hdXRob3ItPm5pY2tuYW1lfX08L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJwdWxsLXJpZ2h0IGhpZGUiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4+PGkgY2xhc3M9Imljb25mb250IGljb24tY29tbWVudCI+PC9pPiB7eyRhcnRpY2xlLT5saW5rPT1udWxsPyIiOiRhcnRpY2xlLT5saW5rLT5jb21tZW50X2NvdW50fX08L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3Bhbj48aSBjbGFzcz0iaWNvbmZvbnQgaWNvbi1sb3ZlIj48L2k+IHt7JGFydGljbGUtPmxpbms9PW51bGw/IiI6JGFydGljbGUtPmxpbmstPmNvbGxlY3Rpb25fY291bnR9fTwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgICAgICBAZW5kZm9yZWFjaAogICAgICAgICAgICA8L3VsPgogICAgICAgICAgICA8dWwgdi1pZj0iaW5Nb3JlIiBjbGFzcz0ibGlzdCB1aS1ibGFjayBoaWRlIiA6Y2xhc3M9IntoaWRlOiAhaW5Nb3JlfSI+CiAgICAgICAgICAgICAgICA8bGkgdi1mb3I9ImFydGljbGUgaW4gbGlzdCIgcm9sZT0ibGluayJ2LXJsaW5rPSInL21vYmlsZS9hcnRpY2xlLycrYXJ0aWNsZS5pZCI+CiAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iL21vYmlsZS9hcnRpY2xlL3slYXJ0aWNsZS5pZCV9IiBjbGFzcz0iY292ZXIiIDpzdHlsZT0ieydiYWNrZ3JvdW5kSW1hZ2UnOid1cmwoJytxaW5pdUFwaSArIGFydGljbGUuY292ZXJfaWQgKyAnP2ltYWdlVmlldzIvNS9oLzIwMC93Lzc1MC83NS9mb3JtYXQvcG5nJysnKSd9Ij4KICAgICAgICAgICAgICAgICAgICAgICAgPGltZyBrZXk9InslYXJ0aWNsZS5jb3Zlcl9pZCV9IiA6c3JjPSJxaW5pdUFwaSArIGFydGljbGUuY292ZXJfaWQgKyAnP2ltYWdlVmlldzIvNS9oLzIwMC93Lzc1MC83NS9mb3JtYXQvcG5nJyIgYWx0PSIiIGNsYXNzPSJjb3ZlciI+CiAgICAgICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICAgICAgICAgIDxwIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iL21vYmlsZS9hcnRpY2xlL3slYXJ0aWNsZS5pZCV9Ij57JWFydGljbGUudGl0bGUlfTwvYT48L3A+CiAgICAgICAgICAgICAgICAgICAgPHAgY2xhc3M9Im1ldGEgY2xlYXJmaXgiPgogICAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0iZGF0ZSBwdWxsLWxlZnQiPnslYXJ0aWNsZS5wdWJsaXNoX3RpbWUgfCB0aW1lc2lmeSAlfTwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9ImF1dGhvciBwdWxsLWxlZnQiPnslYXJ0aWNsZS5hdXRob3I/YXJ0aWNsZS5hdXRob3Iubmlja25hbWU6IiIlfTwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9InB1bGwtcmlnaHQgaGlkZSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3Bhbj48aSBjbGFzcz0iaWNvbmZvbnQgaWNvbi1jb21tZW50Ij48L2k+IHslYXJ0aWNsZS5saW5rLmNvbW1lbnRfY291bnQlfTwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuPjxpIGNsYXNzPSJpY29uZm9udCBpY29uLWxvdmUiPjwvaT4geyVhcnRpY2xlLmxpbmsuY29sbGVjdGlvbl9jb3VudCV9PC9zcGFuPgogICAgICAgICAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICAgICAgPC9saT4KICAgICAgICAgICAgPC91bD4KICAgICAgICAgICAgPGZvb3RlciBjbGFzcz0ibW9yZSI+CiAgICAgICAgICAgICAgICA8bmF2IGNsYXNzPSJsaXN0LW1vcmUiIDpjbGFzcz0ie2hpZGU6bm9Nb3JlfHxsb2FkaW5nfSI+CiAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iamF2YXNjcmlwdDo7IiBjbGFzcz0iYnRuIHVpLWdob3N0IiBAY2xpY2s9Im1vcmUoKSI+5pu05aSaPC9hPgogICAgICAgICAgICAgICAgPC9uYXY+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJsb2FkaW5nIGhpZGUiIDpjbGFzcz0ie2hpZGU6IWxvYWRpbmd9Ij5sb2FkaW5nLi4uPC9kaXY+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJub01vcmUgaGlkZSIgOmNsYXNzPSJ7aGlkZTohbm9Nb3JlfSI+5bm25rKh5pyJ5pu05aSa55qE5YaF5a65PC9kaXY+CiAgICAgICAgICAgIDwvZm9vdGVyPgogICAgICAgICAgICBAZWxzZQogICAgICAgICAgICA8Zm9vdGVyIGNsYXNzPSJtb3JlIj4KICAgICAgICAgICAgICAgIDxwIGNsYXNzPSJub01vcmUgdGV4dC1jZW50ZXIiPgogICAgICAgICAgICAgICAgICAgIOayoeacieWGheWuue+8jOivleivleWFtuS7luagj+ebruWQpwogICAgICAgICAgICAgICAgPC9wPgogICAgICAgICAgICA8L2Zvb3Rlcj4KICAgICAgICAgICAgQGVuZGlmCiAgICAgICAgICAgIDxjb25zb2xlIHYtaWY9ImNvbmZpZy5kZWJ1ZyI+PC9jb25zb2xlPgogICAgICAgIDwvc2VjdGlvbj4KICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">5o6o6I2QCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>http://www.raqwe.com/wp-content/uploads/2014/07/gear-vr-virtual-reality-glasses-samsung-raqwe.com-01.jpg</text>
+        <text>19</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IHN0eWxlPSJmb250LXNpemU6IDEycHgi</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgZmxvYXQ6IGxlZnQ7Cg==</text>
       </register>
       <register name="/" type="4">
-        <text>直达</text>
+        <text>family</text>
       </register>
       <register name="-" type="4">
-        <text>.blade</text>
+        <text>stylesheet</text>
       </register>
     </registers>
     <search>
-      <last-search>直达</last-search>
+      <last-search>family</last-search>
       <last-offset />
-      <last-pattern>直达</last-pattern>
+      <last-pattern>family</last-pattern>
       <last-replace>util</last-replace>
       <last-substitute>bb</last-substitute>
       <last-dir>1</last-dir>
@@ -1727,8 +1742,6 @@
     </search>
     <history>
       <history-search>
-        <entry>z-index</entry>
-        <entry>index</entry>
         <entry>password</entry>
         <entry>dropdown</entry>
         <entry>item</entry>
@@ -1747,12 +1760,13 @@
         <entry>box-shadow</entry>
         <entry>article-title</entry>
         <entry>直达</entry>
+        <entry>font-family</entry>
+        <entry>family</entry>
       </history-search>
       <history-cmd>
         <entry>18,20 s/date/hour/g</entry>
         <entry>21,23 s/date/hour/g</entry>
         <entry>21,23 s/hour/minute/g</entry>
-        <entry>q</entry>
         <entry>s/id/nickname/g</entry>
         <entry>s/id/sex/g</entry>
         <entry>s/id/phone/g</entry>
@@ -1768,6 +1782,7 @@
         <entry>18,49 s/bb/util/g</entry>
         <entry>86</entry>
         <entry>158</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />

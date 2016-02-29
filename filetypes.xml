@@ -5,6 +5,7 @@
       <mapping ext="tpl" type="HTML" />
       <mapping ext="vue" type="HTML" />
       <mapping ext="php" type="PHP" />
+      <mapping pattern="thumb.scss" type="PLAIN_TEXT" />
       <mapping pattern="__index__" type="PLAIN_TEXT" />
       <mapping pattern="selector-single.tpl" type="PLAIN_TEXT" />
     </extensionMap>
