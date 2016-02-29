@@ -412,11 +412,11 @@
         <mark key="." line="2" column="26" />
         <mark key="[" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/partials/common/scene.scss" timestamp="1456716148006">
-        <mark key="]" line="14" column="40" />
-        <mark key="^" line="14" column="40" />
-        <mark key="." line="14" column="40" />
-        <mark key="[" line="15" column="1" />
+      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/partials/common/scene.scss" timestamp="1456716960583">
+        <mark key="]" line="30" column="34" />
+        <mark key="^" line="30" column="34" />
+        <mark key="." line="30" column="34" />
+        <mark key="[" line="25" column="1" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/paragraph/title-info.html" timestamp="1449555759494">
         <mark key="]" line="2" column="27" />
@@ -1704,31 +1704,31 @@
     </jumps>
     <registers>
       <register name="3" type="2">
-        <text encoding="base64">ICBAaW1wb3J0IGM7Cg==</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kOiAkYnJhbmRfcHJpbWFyeV9kYXJrZXI7Cg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICBiYWNrZ3JvdW5kOiAkYnJhbmRfcHJpbWFyeV9kYXJrOwo=</text>
       </register>
-      <register name="1" type="2">
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAmOmhvdmVyLAogICY6YWN0aXZlLAo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICBiYWNrZ3JvdW5kOiAkYnJhbmRfcHJpbWFyeV9kYXJrZXI7Cg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAmOmhvdmVyLAogICY6YWN0aXZlLAo=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBAaW5jbHVkZSBiZy1jb2xvcigkYnJhbmRfcHJpbWFyeV9kYXJrKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gPT09PT09PT09PT09PT09PT0gZm9udCA9PT09PT09PT09PT09PT09PT09PQo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Ly8gPT09PT09PT09PT09PT09PT09PSBjdXJzb3IgPT09PT09PT09PT09PT09PQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Ly8gPT09PT09PT09PT09PT09PT09PSBjbGVhcmZpeCA9PT09PT09PT09PT09PQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICBiYWNrZ3JvdW5kOiAkYnJhbmRfcHJpbWFyeTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBAaW1wb3J0IGM7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1736,8 +1736,8 @@
       <register name="9" type="4">
         <text>-</text>
       </register>
-      <register name="8" type="4">
-        <text>-</text>
+      <register name="8" type="2">
+        <text encoding="base64">Ly8gPT09PT09PT09PT09PT09PT0gZm9udCA9PT09PT09PT09PT09PT09PT09PQo=</text>
       </register>
       <register name="/" type="4">
         <text>family</text>
