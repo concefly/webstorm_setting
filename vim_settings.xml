@@ -723,11 +723,11 @@
         <mark key="." line="21" column="30" />
         <mark key="[" line="19" column="43" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/index/index.scss" timestamp="1456715339357">
-        <mark key="]" line="5" column="34" />
-        <mark key="^" line="5" column="34" />
-        <mark key="." line="5" column="34" />
-        <mark key="[" line="5" column="31" />
+      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/index/index.scss" timestamp="1456719238329">
+        <mark key="]" line="108" column="2" />
+        <mark key="^" line="108" column="2" />
+        <mark key="." line="108" column="2" />
+        <mark key="[" line="100" column="1" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/module/module.detail.html" timestamp="1450168412776">
         <mark key="]" line="1" column="0" />
@@ -819,11 +819,11 @@
         <mark key="." line="46" column="50" />
         <mark key="[" line="46" column="25" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/partials/common/thumbnail.scss" timestamp="1456715451174">
-        <mark key="]" line="1" column="16" />
-        <mark key="^" line="1" column="16" />
-        <mark key="." line="1" column="16" />
-        <mark key="[" line="0" column="17" />
+      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/partials/common/thumbnail.scss" timestamp="1456718247250">
+        <mark key="]" line="25" column="25" />
+        <mark key="^" line="25" column="25" />
+        <mark key="." line="25" column="25" />
+        <mark key="[" line="24" column="95" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/article_normal.blade.php" timestamp="1454039837650">
         <mark key="]" line="1" column="30" />
@@ -1196,11 +1196,11 @@
         <mark key="." line="5" column="18" />
         <mark key="[" line="5" column="17" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/components/menu/menu.tpl" timestamp="1456711419561">
-        <mark key="]" line="14" column="59" />
-        <mark key="^" line="14" column="59" />
-        <mark key="." line="14" column="59" />
-        <mark key="[" line="5" column="46" />
+      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/components/menu/menu.tpl" timestamp="1456718958602">
+        <mark key="]" line="8" column="53" />
+        <mark key="^" line="8" column="53" />
+        <mark key="." line="8" column="53" />
+        <mark key="[" line="8" column="54" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/user/home/home.blade.php" timestamp="1453804725774">
         <mark key="]" line="16" column="4" />
@@ -1298,11 +1298,11 @@
         <mark key="." line="9" column="39" />
         <mark key="[" line="2" column="11" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/index/index.blade.php" timestamp="1456714774396">
-        <mark key="]" line="18" column="62" />
-        <mark key="^" line="18" column="62" />
-        <mark key="." line="18" column="62" />
-        <mark key="[" line="18" column="15" />
+      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/index/index.blade.php" timestamp="1456719349995">
+        <mark key="]" line="97" column="43" />
+        <mark key="^" line="97" column="43" />
+        <mark key="." line="97" column="43" />
+        <mark key="[" line="97" column="34" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/user/profile/base.blade.php" timestamp="1453977227582">
         <mark key="]" line="21" column="5" />
@@ -1601,11 +1601,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="461" column="41" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/navbar.scss" />
-      <jump line="473" column="13" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/navbar.scss" />
-      <jump line="607" column="13" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/navbar.scss" />
-      <jump line="608" column="11" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/navbar.scss" />
-      <jump line="296" column="46" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/navs.scss" />
       <jump line="12" column="0" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/javascripts/bootstrap/tab.js" />
       <jump line="0" column="0" filename="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/javascripts/bootstrap/tab.js" />
       <jump line="63" column="0" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/comment.tpl" />
@@ -1701,55 +1696,60 @@
       <jump line="118" column="79" filename="$USER_HOME$/project/heix/home_demo/index.html" />
       <jump line="33" column="18" filename="$USER_HOME$/project/heix/home_demo/index.html" />
       <jump line="0" column="0" filename="$USER_HOME$/project/heix/blackbox-mobile-frontend/partials/common/variable.scss" />
+      <jump line="14" column="0" filename="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/index/index.blade.php" />
+      <jump line="47" column="8" filename="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/index/index.blade.php" />
+      <jump line="159" column="16" filename="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/index/index.blade.php" />
+      <jump line="46" column="16" filename="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/index/index.blade.php" />
+      <jump line="65" column="16" filename="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/index/index.blade.php" />
     </jumps>
     <registers>
-      <register name="3" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kOiAkYnJhbmRfcHJpbWFyeV9kYXJrOwo=</text>
+      <register name="3" type="4">
+        <text>1</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAmOmhvdmVyLAogICY6YWN0aXZlLAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHUtbXQtMCB1LW1iLTU=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kOiAkYnJhbmRfcHJpbWFyeV9kYXJrZXI7Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">IHN0eWxlPSJwYWRkaW5nOiAxNXB4Ig==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAmOmhvdmVyLAogICY6YWN0aXZlLAo=</text>
+      <register name="1" type="4">
+        <text>看</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBAaW5jbHVkZSBiZy1jb2xvcigkYnJhbmRfcHJpbWFyeV9kYXJrKTsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">IHUtbXQtMCB1LW1iLTU=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Ly8gPT09PT09PT09PT09PT09PT09PSBjdXJzb3IgPT09PT09PT09PT09PT09PQo=</text>
+      <register name="7" type="4">
+        <text />
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gPT09PT09PT09PT09PT09PT09PSBjbGVhcmZpeCA9PT09PT09PT09PT09PQo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">IHN0eWxlPSJmb250LXNpemU6IDEycHgi</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kOiAkYnJhbmRfcHJpbWFyeTsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">IHN0eWxlPSJwYWRkaW5nOiAxNXB4Ig==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBAaW1wb3J0IGM7Cg==</text>
+      <register name="4" type="4">
+        <text>t</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>-</text>
+      <register name="9" type="2">
+        <text encoding="base64">PCEtLS0tPgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8gPT09PT09PT09PT09PT09PT0gZm9udCA9PT09PT09PT09PT09PT09PT09PQo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">IHN0eWxlPSJmb250LXNpemU6IDEycHgi</text>
       </register>
       <register name="/" type="4">
-        <text>family</text>
+        <text>clearfix</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>看</text>
       </register>
     </registers>
     <search>
-      <last-search>family</last-search>
+      <last-search>clearfix</last-search>
       <last-offset />
-      <last-pattern>family</last-pattern>
+      <last-pattern>clearfix</last-pattern>
       <last-replace>util</last-replace>
       <last-substitute>bb</last-substitute>
       <last-dir>1</last-dir>
@@ -1757,7 +1757,6 @@
     </search>
     <history>
       <history-search>
-        <entry>password</entry>
         <entry>dropdown</entry>
         <entry>item</entry>
         <entry>mark</entry>
@@ -1777,6 +1776,7 @@
         <entry>直达</entry>
         <entry>font-family</entry>
         <entry>family</entry>
+        <entry>clearfix</entry>
       </history-search>
       <history-cmd>
         <entry>18,20 s/date/hour/g</entry>
