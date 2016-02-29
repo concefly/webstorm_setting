@@ -159,11 +159,12 @@
         <mark key="." line="24" column="0" />
         <mark key="[" line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/partials/common/variable.scss" timestamp="1456709549398">
+      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/partials/common/variable.scss" timestamp="1456735530092">
         <mark key="'" line="0" column="0" />
-        <mark key="]" line="6" column="21" />
-        <mark key="." line="0" column="0" />
-        <mark key="[" line="0" column="0" />
+        <mark key="]" line="13" column="17" />
+        <mark key="^" line="14" column="21" />
+        <mark key="." line="13" column="17" />
+        <mark key="[" line="13" column="16" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/views/disease/detail.html" timestamp="1449570429016">
         <mark key="]" line="8" column="40" />
@@ -999,11 +1000,11 @@
         <mark key="." line="167" column="56" />
         <mark key="[" line="165" column="13" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/components/menu/menu.scss" timestamp="1456733860619">
-        <mark key="]" line="71" column="0" />
-        <mark key="^" line="70" column="22" />
-        <mark key="." line="71" column="0" />
-        <mark key="[" line="71" column="0" />
+      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/components/menu/menu.scss" timestamp="1456736581893">
+        <mark key="]" line="102" column="23" />
+        <mark key="^" line="102" column="23" />
+        <mark key="." line="102" column="23" />
+        <mark key="[" line="100" column="23" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/module/module.detail.js" timestamp="1450685264005">
         <mark key="]" line="11" column="0" />
@@ -1197,11 +1198,11 @@
         <mark key="." line="9" column="35" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/components/menu/menu.tpl" timestamp="1456733617297">
-        <mark key="]" line="14" column="29" />
-        <mark key="^" line="14" column="29" />
-        <mark key="." line="14" column="29" />
-        <mark key="[" line="8" column="28" />
+      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/components/menu/menu.tpl" timestamp="1456735800948">
+        <mark key="]" line="7" column="28" />
+        <mark key="^" line="7" column="28" />
+        <mark key="." line="7" column="28" />
+        <mark key="[" line="7" column="16" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/user/home/home.blade.php" timestamp="1453804725774">
         <mark key="]" line="16" column="4" />
@@ -1708,47 +1709,47 @@
       <jump line="208" column="56" filename="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/index/index.blade.php" />
     </jumps>
     <registers>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgJi5hY3RpdmUgewogICAgICAgIAogICAgICB9Cg==</text>
+      <register name="3" type="4">
+        <text>block</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBib3JkZXItYm90dG9tLWNvbG9yOiAjMjRmMWZmOwo=</text>
+        <text encoding="base64">ICAgICAgICAmOjoKICAgICAgICBib3R0b206Owo=</text>
       </register>
-      <register name="2" type="4">
-        <text>brand_title</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAmOjpiZWZvcmUgewogICAgICAgIH0KICAgICAgICAmOjphZnRlciB7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBib3JkZXItYm90dG9tLWNvbG9yOiAjMjRmMWZmOwo=</text>
+        <text encoding="base64">ICAgICAgICAmOjoKICAgICAgICBib3R0b206Owo=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICYuYWN0aXZlIHsKICAgICAgPiBhLAogICAgICA+IHNwYW4gewogICAgICAgIGNvbG9yOiAkYnJhbmRfdGl0bGU7CiAgICAgICAgYm9yZGVyLWJvdHRvbS1jb2xvcjogIzI0ZjFmZjsKICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBib3JkZXItbGVmdDogMnB4IHNvbGlkICMyNGYxZmY7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PCEtLXN1YiBtZW51LS0+CnVsCg==</text>
+        <text encoding="base64">ICAgICAgICBib3JkZXI6IG5vbmUK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGxpPkE8L2xpPgo=</text>
+      <register name="6" type="4">
+        <text>left</text>
       </register>
-      <register name="5" type="4">
-        <text>头条</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBib3JkZXItY29sb3I6ICMyNGYxZmY7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBsaXN0LXN0eWxlLXR5cGU6bm9uZTsK</text>
+        <text encoding="base64">ICAgICAgICBib3JkZXIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDwhLS1zdWIgbWVudS0tPgo=</text>
+        <text encoding="base64">ICAgICAgICBib3JkZXItY29sb3I6ICMyNGYxZmY7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="8" type="4">
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>label</text>
       </register>
       <register name="-" type="4">
-        <text>brand_title</text>
+        <text>block</text>
       </register>
     </registers>
     <search>
