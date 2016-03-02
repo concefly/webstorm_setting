@@ -196,6 +196,9 @@
         <mark key="." line="29" column="82" />
         <mark key="[" line="29" column="68" />
       </file>
+      <file name="$USER_HOME$/project/heix/cms-frontend/resources/about/about.sass" timestamp="1456481747475">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/related-article/related-article.tpl" timestamp="1450434276832">
         <mark key="]" line="25" column="58" />
         <mark key="^" line="25" column="58" />
@@ -297,11 +300,11 @@
         <mark key="." line="32" column="4" />
         <mark key="[" line="32" column="4" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/catalog_news/catalog_news.scss" timestamp="1456819701672">
-        <mark key="]" line="18" column="19" />
-        <mark key="^" line="18" column="19" />
-        <mark key="." line="18" column="19" />
-        <mark key="[" line="17" column="19" />
+      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/catalog_news/catalog_news.scss" timestamp="1456910821590">
+        <mark key="]" line="19" column="23" />
+        <mark key="^" line="19" column="23" />
+        <mark key="." line="19" column="23" />
+        <mark key="[" line="19" column="13" />
       </file>
       <file name="$USER_HOME$/project/heix/passport-frontend/resources/signup/signup.entrance.tpl" timestamp="1452745515304">
         <mark key="]" line="44" column="86" />
@@ -332,7 +335,6 @@
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/components/offcanvas/offcanvas.scss" timestamp="1456826613614" />
       <file name="$USER_HOME$/project/heix/passport-frontend/resources/bootstrap-custom.less" timestamp="1452825374568">
         <mark key="]" line="1" column="23" />
         <mark key="^" line="1" column="23" />
@@ -357,9 +359,10 @@
         <mark key="." line="61" column="28" />
         <mark key="[" line="61" column="28" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/catalog_exclusive/catalog_exclusive.scss" timestamp="1456818461558">
-        <mark key="]" line="0" column="17" />
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/catalog_exclusive/catalog_exclusive.scss" timestamp="1456910676736">
+        <mark key="]" line="1" column="61" />
+        <mark key="." line="1" column="0" />
+        <mark key="[" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/libs/summernote/lang/summernote-zh-CN.js" timestamp="1453113661534">
         <mark key="]" line="114" column="10" />
@@ -433,11 +436,11 @@
         <mark key="." line="2" column="26" />
         <mark key="[" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/partials/common/scene.scss" timestamp="1456889857663">
-        <mark key="]" line="33" column="33" />
-        <mark key="^" line="33" column="33" />
-        <mark key="." line="33" column="33" />
-        <mark key="[" line="33" column="33" />
+      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/partials/common/scene.scss" timestamp="1456911164901">
+        <mark key="]" line="30" column="27" />
+        <mark key="^" line="30" column="27" />
+        <mark key="." line="30" column="27" />
+        <mark key="[" line="28" column="1" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/paragraph/title-info.html" timestamp="1449555759494">
         <mark key="]" line="2" column="27" />
@@ -601,10 +604,10 @@
         <mark key="." line="144" column="38" />
         <mark key="[" line="167" column="34" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/catalog_exclusive/catalog_exclusive.blade.php" timestamp="1456902612229">
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="[" line="15" column="0" />
+      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/catalog_exclusive/catalog_exclusive.blade.php" timestamp="1456910655479">
+        <mark key="]" line="50" column="79" />
+        <mark key="." line="50" column="92" />
+        <mark key="[" line="50" column="79" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/user/profile/index.blade.php" timestamp="1455592651836">
         <mark key="]" line="36" column="41" />
@@ -634,6 +637,9 @@
         <mark key="^" line="9" column="115" />
         <mark key="." line="9" column="115" />
         <mark key="[" line="9" column="114" />
+      </file>
+      <file name="/a.dummy" timestamp="1456910222080">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/resources/views/cms/post/topDaily.blade.php" timestamp="1449742618187">
         <mark key="]" line="27" column="7" />
@@ -665,15 +671,18 @@
         <mark key="." line="36" column="22" />
         <mark key="[" line="35" column="22" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/catalog_eva/catalog_eva.blade.php" timestamp="1456902711596">
-        <mark key="]" line="12" column="32" />
-        <mark key="." line="12" column="32" />
-        <mark key="[" line="12" column="32" />
+      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/catalog_eva/catalog_eva.blade.php" timestamp="1456910625460">
+        <mark key="]" line="65" column="79" />
+        <mark key="^" line="52" column="99" />
+        <mark key="." line="65" column="92" />
+        <mark key="[" line="65" column="79" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/catalog_news/catalog_news.blade.php" timestamp="1456902598035">
-        <mark key="]" line="16" column="75" />
-        <mark key="." line="15" column="0" />
-        <mark key="[" line="16" column="0" />
+      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/catalog_news/catalog_news.blade.php" timestamp="1456911146247">
+        <mark key="'" line="73" column="29" />
+        <mark key="]" line="73" column="29" />
+        <mark key="^" line="73" column="29" />
+        <mark key="." line="73" column="29" />
+        <mark key="[" line="73" column="25" />
       </file>
       <file name="$USER_HOME$/project/heix/passport-frontend/resources/forgot/index.js" timestamp="1453105784526">
         <mark key="]" line="93" column="35" />
@@ -773,11 +782,11 @@
         <mark key="." line="21" column="30" />
         <mark key="[" line="19" column="43" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/index/index.scss" timestamp="1456891743048">
-        <mark key="]" line="128" column="17" />
-        <mark key="^" line="128" column="17" />
-        <mark key="." line="128" column="17" />
-        <mark key="[" line="127" column="16" />
+      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/index/index.scss" timestamp="1456910523072">
+        <mark key="]" line="4" column="61" />
+        <mark key="^" line="93" column="13" />
+        <mark key="." line="93" column="13" />
+        <mark key="[" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/module/module.detail.html" timestamp="1450168412776">
         <mark key="]" line="1" column="0" />
@@ -1225,10 +1234,10 @@
         <mark key="." line="4" column="5" />
         <mark key="[" line="6" column="23" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/catalog_eva/catalog_eva.scss" timestamp="1456817850184">
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="[" line="7" column="0" />
+      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/catalog_eva/catalog_eva.scss" timestamp="1456910673684">
+        <mark key="]" line="1" column="61" />
+        <mark key="." line="1" column="0" />
+        <mark key="[" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/project/heix/home_demo/static/css/utils.scss" timestamp="1456472248852">
         <mark key="]" line="54" column="38" />
@@ -1344,7 +1353,6 @@
         <mark key="." line="1" column="37" />
         <mark key="[" line="0" column="125" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/package.json" timestamp="1456820727010" />
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/whitespace.scss" timestamp="1449469632633">
         <mark key="]" line="34" column="19" />
         <mark key="^" line="34" column="19" />
@@ -1375,11 +1383,12 @@
         <mark key="." line="66" column="38" />
         <mark key="[" line="66" column="24" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/index/index.blade.php" timestamp="1456907959817">
-        <mark key="]" line="161" column="47" />
-        <mark key="^" line="161" column="47" />
-        <mark key="." line="161" column="47" />
-        <mark key="[" line="161" column="47" />
+      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/index/index.blade.php" timestamp="1456910439776">
+        <mark key="'" line="140" column="41" />
+        <mark key="]" line="231" column="12" />
+        <mark key="^" line="142" column="63" />
+        <mark key="." line="231" column="12" />
+        <mark key="[" line="231" column="0" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/headline/headline.blade.php" timestamp="1456287465805">
         <mark key="]" line="9" column="39" />
@@ -1429,6 +1438,9 @@
         <mark key="." line="22" column="117" />
         <mark key="[" line="19" column="55" />
       </file>
+      <file name="$USER_HOME$/project/heix/home_demo/static/css/base.css" timestamp="1456456001919">
+        <mark key="[" line="0" column="63" />
+      </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/README.md" timestamp="1456305253256">
         <mark key="]" line="54" column="9" />
         <mark key="^" line="54" column="9" />
@@ -1447,11 +1459,19 @@
         <mark key="." line="6" column="17" />
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/partials/fonts/ux_1456909034_9435198/iconfont.css" timestamp="1456910054645">
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="[" line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/libs/pagination/pagination.js" timestamp="1455608652429">
         <mark key="]" line="13" column="10" />
         <mark key="^" line="13" column="10" />
         <mark key="." line="13" column="10" />
         <mark key="[" line="13" column="4" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1456470859602">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/column_list/base.blade.php" timestamp="1455763779228">
         <mark key="]" line="36" column="4" />
@@ -1602,6 +1622,9 @@
         <mark key="." line="19" column="31" />
         <mark key="[" line="18" column="55" />
       </file>
+      <file name="/Dummy.txt" timestamp="1456728599634">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/project/pet/wechat/views/disease/index.js" timestamp="1449744477301">
         <mark key="]" line="21" column="74" />
         <mark key="^" line="21" column="74" />
@@ -1643,7 +1666,6 @@
         <mark key="." line="41" column="41" />
         <mark key="[" line="40" column="41" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/components/commentBar/commentBar.scss" timestamp="1456900809219" />
       <file name="$USER_HOME$/project/heix/cms-frontend/libs/style-utils/utils.scss" timestamp="1455612551010">
         <mark key="]" line="57" column="30" />
         <mark key="^" line="57" column="30" />
@@ -1694,10 +1716,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="661" column="6" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
-      <jump line="679" column="6" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
-      <jump line="682" column="6" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
-      <jump line="686" column="4" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
       <jump line="700" column="4" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
       <jump line="722" column="4" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
       <jump line="725" column="4" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
@@ -1794,55 +1812,59 @@
       <jump line="56" column="48" filename="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/catalog_eva/catalog_eva.blade.php" />
       <jump line="140" column="0" filename="$USER_HOME$/project/heix/blackbox-mobile-frontend/partials/common/thumbnail.scss" />
       <jump line="129" column="28" filename="$USER_HOME$/project/heix/blackbox-mobile-frontend/partials/common/thumbnail.scss" />
+      <jump line="26" column="37" filename="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/index/index.blade.php" />
+      <jump line="124" column="10" filename="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/index/index.blade.php" />
+      <jump line="140" column="41" filename="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/index/index.blade.php" />
+      <jump line="73" column="29" filename="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/catalog_news/catalog_news.blade.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>10</text>
+        <text>primary</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QGZ1bmN0aW9uIHB4MnJlbSgkcHgsICRiYXNlLWZvbnQtc2l6ZTogMTguOHB4KSB7CiAgQHJldHVybiAoJHB4IC8gJGJhc2UtZm9udC1zaXplKSAqIDFyZW07Cn0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>5</text>
+        <text>40px</text>
       </register>
       <register name="1" type="4">
-        <text>10</text>
+        <text>primary</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8bGluayByZWw9ImltcG9ydCIgaHJlZj0iY29tcG9uZW50cy9vZmZjYW52YXMvb2ZmY2FudmFzLnRwbD9fX2lubGluZSI+Cg==</text>
+        <text encoding="base64">QGltcG9ydCAiL3BhcnRpYWxzL2ZvbnRzL3V4XzE0NTY5MDkwMzRfOTQzNTE5OC9pY29uZm9udC5jc3MiOwo=</text>
       </register>
       <register name="7" type="4">
-        <text>24px</text>
+        <text>fa fa-comment-o</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="6" type="4">
+        <text>fa fa-comment-o</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIDxtZXRhIG5hbWU9InZpZXdwb3J0IiBjb250ZW50PSJ3aWR0aD1kZXZpY2Utd2lkdGgsIHVzZXItc2NhbGFibGU9bm8sIGluaXRpYWwtc2NhbGU9MS4wLCBtYXhpbXVtLXNjYWxlPTEuMCwgbWluaW11bS1zY2FsZT0xLjAiPgo=</text>
+      <register name="5" type="4">
+        <text>fa fa-comment-o</text>
       </register>
       <register name="4" type="4">
-        <text>6px</text>
+        <text>fa fa-comment-o</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>fa fa-angle-double-right</text>
       </register>
       <register name="8" type="4">
-        <text>-</text>
+        <text>fa fa-comment-o</text>
       </register>
       <register name="/" type="4">
-        <text>element</text>
+        <text>强</text>
       </register>
       <register name="-" type="4">
-        <text>10</text>
+        <text>primary</text>
       </register>
     </registers>
     <search>
-      <last-search>element</last-search>
+      <last-search>强</last-search>
       <last-offset />
-      <last-pattern>element</last-pattern>
+      <last-pattern>强</last-pattern>
       <last-replace>util</last-replace>
       <last-substitute>bb</last-substitute>
       <last-dir>1</last-dir>
@@ -1850,7 +1872,6 @@
     </search>
     <history>
       <history-search>
-        <entry>item</entry>
         <entry>mark</entry>
         <entry>width</entry>
         <entry>vjs-tech</entry>
@@ -1864,12 +1885,13 @@
         <entry>postcss</entry>
         <entry>box-shadow</entry>
         <entry>article-title</entry>
-        <entry>直达</entry>
         <entry>font-family</entry>
         <entry>family</entry>
         <entry>clearfix</entry>
         <entry>label</entry>
         <entry>element</entry>
+        <entry>直达</entry>
+        <entry>强</entry>
       </history-search>
       <history-cmd>
         <entry>21,23 s/hour/minute/g</entry>
