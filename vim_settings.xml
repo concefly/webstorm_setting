@@ -991,12 +991,12 @@
         <mark key="." line="8" column="4" />
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/fis-conf.js" timestamp="1457426131990">
+      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/fis-conf.js" timestamp="1457427144982">
         <mark key="'" line="216" column="38" />
-        <mark key="]" line="218" column="36" />
-        <mark key="^" line="218" column="36" />
-        <mark key="." line="218" column="36" />
-        <mark key="[" line="218" column="36" />
+        <mark key="]" line="34" column="32" />
+        <mark key="^" line="34" column="32" />
+        <mark key="." line="34" column="32" />
+        <mark key="[" line="34" column="20" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/home/base.js" timestamp="1455695623488">
         <mark key="]" line="9" column="17" />
@@ -1349,7 +1349,7 @@
         <mark key="." line="1" column="37" />
         <mark key="[" line="0" column="125" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/package.json" timestamp="1457424399435">
+      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/package.json" timestamp="1457426711965">
         <mark key="]" line="9" column="55" />
         <mark key="." line="9" column="55" />
         <mark key="[" line="9" column="55" />
@@ -1813,47 +1813,47 @@
       <jump line="216" column="38" filename="$USER_HOME$/project/heix/blackbox-mobile-frontend/fis-conf.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZmlzLm1lZGlhKCJiYWNrZW5kIikubWF0Y2goJyoqJyx7CiAgICByZWxlYXNlOiBhc3NldF9yZWxlYXNlX3BhdGhfYmFja2VuZCArICIvJDEiCn0pOwo=</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vdXJsOiBhc3NldF9wYXRoICsgJyQwJyAvL+aUueWPmOW8leeUqOWcsOWdgAo=</text>
+      <register name="3" type="4">
+        <text>)</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlbGVhc2U6ICIvcHVibGljIiArIGFzc2V0X3BhdGggKyAnLyQwJwo=</text>
+      <register name="2" type="4">
+        <text>(</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ZmlzLm1lZGlhKCJiYWNrZW5kIikubWF0Y2goJyoqJyx7CiAgICByZWxlYXNlOiBhc3NldF9yZWxlYXNlX3BhdGhfYmFja2VuZCArICIvJDEiCn0pOwo=</text>
+      <register name="1" type="4">
+        <text>(</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZmlzLm1hdGNoKCcqKicsewogICAgcmVsZWFzZTogIi9wdWJsaWMiICsgYXNzZXRfcGF0aCArICcvJDAnCiAgICAvL3VybDogYXNzZXRfcGF0aCArICckMCcgLy/mlLnlj5jlvJXnlKjlnLDlnYAKfSkK</text>
       </register>
-      <register name="7" type="4">
-        <text>*</text>
+      <register name="7" type="2">
+        <text encoding="base64">ZmlzLm1lZGlhKCJiYWNrZW5kIikubWF0Y2goJyoqJyx7CiAgICByZWxlYXNlOiBhc3NldF9yZWxlYXNlX3BhdGhfYmFja2VuZCArICIvJDEiCn0pOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>*</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHJlbGVhc2U6IHJlc291cmNlc19wYXRoCg==</text>
       </register>
       <register name="5" type="4">
-        <text>/</text>
+        <text>html</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>)</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>s</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIC8vdXJsOiBhc3NldF9wYXRoICsgJyQwJyAvL+aUueWPmOW8leeUqOWcsOWdgAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZmlzLm1lZGlhKCJiYWNrZW5kIikubWF0Y2goInZpZXdzLygqKi5qcykiICx7CiAgICByZWxlYXNlOiBhc3NldF9yZWxlYXNlX3BhdGhfYmFja2VuZCArICIvJDEiLAogICAgdXJsOiBhc3NldF91cmxfcGF0aF9iYWNrZW5kICsgIi8kMSIKfSk7Cg==</text>
+        <text encoding="base64">ICAgIHJlbGVhc2U6ICIvcHVibGljIiArIGFzc2V0X3BhdGggKyAnLyQwJwo=</text>
       </register>
       <register name="/" type="4">
         <text>png</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>(</text>
       </register>
     </registers>
     <search>
