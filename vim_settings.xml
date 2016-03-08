@@ -1081,11 +1081,11 @@
         <mark key="." line="167" column="56" />
         <mark key="[" line="165" column="13" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/components/menu/menu.scss" timestamp="1456890430800">
-        <mark key="]" line="21" column="22" />
-        <mark key="^" line="21" column="13" />
-        <mark key="." line="21" column="22" />
-        <mark key="[" line="21" column="21" />
+      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/components/menu/menu.scss" timestamp="1457399871776">
+        <mark key="]" line="135" column="0" />
+        <mark key="^" line="135" column="0" />
+        <mark key="." line="135" column="0" />
+        <mark key="[" line="134" column="1" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/module/module.detail.js" timestamp="1450685264005">
         <mark key="]" line="11" column="0" />
@@ -1815,41 +1815,41 @@
       <jump line="73" column="29" filename="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/catalog_news/catalog_news.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>R</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBmb250LXNpemU6MTZweDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>V</text>
+      <register name="2" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBhYTUxNGFhMjQ3YjcyZjdhMWJmNjMyMjFhN2YwZjA3Zjg5MDliYzQzCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>R</text>
+      <register name="1" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InRleHQtbXV0ZXIgdS1tbC01IHUtbXItNSB1LWZvbnRfMTIiPgo=</text>
       </register>
       <register name="7" type="4">
-        <text>-</text>
+        <text>V</text>
       </register>
       <register name="6" type="4">
-        <text>5</text>
+        <text>R</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">CiAgQGtleWZyYW1lcyBhbmltewogIGZyb20ge3RyYW5zZm9ybTpyb3RhdGUoMGRlZyk7fQogIHRvIHt0cmFuc2Zvcm06cm90YXRlKDE4MGRlZyk7fQogIH0KCiAgQC1tb3ota2V5ZnJhbWVzIGFuaW0gCiAgewogIGZyb20ge3RyYW5zZm9ybTpyb3RhdGUoMGRlZyk7fQogIHRvIHt0cmFuc2Zvcm06cm90YXRlKDE4MGRlZyk7fQogIH0KCiAgQC13ZWJraXQta2V5ZnJhbWVzIGFuaW0KICB7CiAgZnJvbSB7dHJhbnNmb3JtOnJvdGF0ZSgwZGVnKTt9CiAgdG8ge3RyYW5zZm9ybTpyb3RhdGUoMTgwZGVnKTt9CiAgfQoKICBALW8ta2V5ZnJhbWVzIGFuaW0KICB7CiAgZnJvbSB7dHJhbnNmb3JtOnJvdGF0ZSgwZGVnKTt9CiAgdG8ge3RyYW5zZm9ybTpyb3RhdGUoMTgwZGVnKTt9CiAgfQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InRleHQtbXV0ZXIiIHN0eWxlPSJmb250LXNpemU6IDEycHgiPgo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>m</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InRleHQtbXV0ZXIiIHN0eWxlPSJmb250LXNpemU6IDEycHgiPgo=</text>
       </register>
-      <register name="8" type="4">
-        <text>b</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBmb250LXNpemU6MTZweDsK</text>
       </register>
       <register name="/" type="4">
         <text>强</text>
