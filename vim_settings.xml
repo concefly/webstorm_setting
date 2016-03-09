@@ -1394,9 +1394,10 @@
         <mark key="." line="66" column="38" />
         <mark key="[" line="66" column="24" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/index/index.blade.php" timestamp="1457489649124">
-        <mark key="]" line="88" column="30" />
-        <mark key="." line="88" column="30" />
+      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/index/index.blade.php" timestamp="1457492094966">
+        <mark key="]" line="88" column="34" />
+        <mark key="^" line="88" column="34" />
+        <mark key="." line="88" column="34" />
         <mark key="[" line="88" column="30" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/headline/headline.blade.php" timestamp="1456287465805">
