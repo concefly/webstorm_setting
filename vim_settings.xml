@@ -184,6 +184,12 @@
         <mark key="." line="1" column="0" />
         <mark key="[" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/topic-rank/topic-rank.blade.php" timestamp="1457496506996">
+        <mark key="]" line="23" column="44" />
+        <mark key="^" line="23" column="27" />
+        <mark key="." line="23" column="28" />
+        <mark key="[" line="23" column="28" />
+      </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/modal/modal.js" timestamp="1453711623890">
         <mark key="]" line="21" column="26" />
         <mark key="^" line="21" column="26" />
@@ -917,6 +923,12 @@
         <mark key="." line="1" column="24" />
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/game-new/game-new.blade.php" timestamp="1457496436379">
+        <mark key="]" line="31" column="16" />
+        <mark key="^" line="30" column="38" />
+        <mark key="." line="30" column="38" />
+        <mark key="[" line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/selector/wrapper.tpl" timestamp="1453111192578">
         <mark key="]" line="5" column="51" />
         <mark key="^" line="5" column="51" />
@@ -1526,6 +1538,12 @@
         <mark key="." line="8" column="9" />
         <mark key="[" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/game-hot/game-hot.blade.php" timestamp="1457496566108">
+        <mark key="]" line="29" column="28" />
+        <mark key="^" line="29" column="28" />
+        <mark key="." line="29" column="28" />
+        <mark key="[" line="29" column="28" />
+      </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/article_type_list/video.scss" timestamp="1455763567675">
         <mark key="]" line="16" column="0" />
         <mark key="^" line="15" column="24" />
@@ -1825,47 +1843,47 @@
       <jump line="27" column="38" filename="$USER_HOME$/project/heix/blackbox-mobile-frontend/components/menu/menu.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vaWYod2luZG93LmxvY2F0aW9uLnBhdGhuYW1lPT0iLyIgJiYgX2hyZWY9PSIvIikgewogICAgICAgICAgICAgICAgLy8gICAgX2l0ZW0ucGFyZW50KCJsaSIpLmFkZENsYXNzKCJhY3RpdmUiKTsKICAgICAgICAgICAgICAgIC8vfQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Y2xhc3M9ImFjdGl2ZSIg</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBfcmVnID0gbmV3IFJlZ0V4cCgiXiIgKyBfaHJlZik7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">IGNsYXNzPSJhY3RpdmUiIA==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="2" type="4">
+        <text />
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vaWYod2luZG93LmxvY2F0aW9uLnBhdGhuYW1lPT0iLyIgJiYgX2hyZWY9PSIvIikgewogICAgICAgICAgICAgICAgLy8gICAgX2l0ZW0ucGFyZW50KCJsaSIpLmFkZENsYXNzKCJhY3RpdmUiKTsKICAgICAgICAgICAgICAgIC8vfQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">Y2xhc3M9ImFjdGl2ZSIg</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfaXRlbS5wYXJlbnQoImxpIikucmVtb3ZlQ2xhc3MoImFjdGl2ZSIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGxpIGRhdGEtY2lkPSIxIiB2LWVsOm1lbnUxPgogICAgICAgICAgICAgICAgPGEgaHJlZj0iL2dhbWUvcmFuayI+5o6o6I2QPC9hPgogICAgICAgICAgICA8L2xpPgogICAgICAgICAgICA8bGkgZGF0YS1jaWQ9IjEiIGNsYXNzPSJhY3RpdmUiID4KICAgICAgICAgICAgICAgIDxhIGhyZWY9Ii9nYW1lL3JhbmsvbmV3Ij7mnIDmlrA8L2E+CiAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgIDxsaSBkYXRhLWNpZD0iMSI+CiAgICAgICAgICAgICAgICA8YSBocmVmPSIvZ2FtZS9yYW5rL2hvdCI+5pyA54OtPC9hPgogICAgICAgICAgICA8L2xpPgo=</text>
       </register>
-      <register name="7" type="4">
-        <text>f</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vaWYod2luZG93LmxvY2F0aW9uLnBhdGhuYW1lPT0iLyIgJiYgX2hyZWY9PSIvIikgewogICAgICAgICAgICAgICAgLy8gICAgX2l0ZW0ucGFyZW50KCJsaSIpLmFkZENsYXNzKCJhY3RpdmUiKTsKICAgICAgICAgICAgICAgIC8vfQo=</text>
       </register>
       <register name="6" type="4">
-        <text>_</text>
+        <text>topic</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKF9pdGVtLmF0dHIoImhpZ2hsaWdodC1ocmVmIikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGxpIGRhdGEtY2lkPSIxIiB2LWVsOm1lbnUxPgogICAgICAgICAgICAgICAgPGEgaHJlZj0iL3RvcGljLXJhbmsiPuaOqOiNkDwvYT4KICAgICAgICAgICAgPC9saT4KICAgICAgICAgICAgPGxpIGRhdGEtY2lkPSIxIiA+CiAgICAgICAgICAgICAgICA8YSBocmVmPSIvZ2FtZS1uZXciPuacgOaWsDwvYT4KICAgICAgICAgICAgPC9saT4KICAgICAgICAgICAgPGxpIGRhdGEtY2lkPSIxIiBjbGFzcz0iYWN0aXZlIj4KICAgICAgICAgICAgICAgIDxhIGhyZWY9Ii9nYW1lLWhvdCI+5pyA54OtPC9hPgogICAgICAgICAgICA8L2xpPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIDxsaSBkYXRhLWNpZD0iMSIgdi1lbDptZW51MSBjbGFzcz0iYWN0aXZlIj4KICAgICAgICAgICAgICAgIDxhIGhyZWY9Ii90b3BpYy1yYW5rIj7mjqjojZA8L2E+CiAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgIDxsaSBkYXRhLWNpZD0iMSIgPgogICAgICAgICAgICAgICAgPGEgaHJlZj0iL2dhbWUtbmV3Ij7mnIDmlrA8L2E+CiAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgIDxsaSBkYXRhLWNpZD0iMSI+CiAgICAgICAgICAgICAgICA8YSBocmVmPSIvZ2FtZS1ob3QiPuacgOeDrTwvYT4KICAgICAgICAgICAgPC9saT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>r</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBfcmVnID0gbmV3IFJlZ0V4cCgiXiIgKyBfaHJlZik7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>e</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="/" type="4">
         <text>png</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text encoding="base64">Y2xhc3M9ImFjdGl2ZSIg</text>
       </register>
     </registers>
     <search>
