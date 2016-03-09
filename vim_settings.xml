@@ -1018,12 +1018,12 @@
         <mark key="." line="8" column="4" />
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/fis-conf.js" timestamp="1457427144982">
-        <mark key="'" line="216" column="38" />
-        <mark key="]" line="34" column="32" />
-        <mark key="^" line="34" column="32" />
-        <mark key="." line="34" column="32" />
-        <mark key="[" line="34" column="20" />
+      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/fis-conf.js" timestamp="1457506420991">
+        <mark key="'" line="215" column="38" />
+        <mark key="]" line="5" column="45" />
+        <mark key="^" line="5" column="45" />
+        <mark key="." line="5" column="45" />
+        <mark key="[" line="5" column="41" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/home/base.js" timestamp="1455695623488">
         <mark key="]" line="9" column="17" />
@@ -1078,6 +1078,12 @@
         <mark key="^" line="10" column="5" />
         <mark key="." line="10" column="5" />
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/components/offcanvas/offcanvas.tpl" timestamp="1457506849896">
+        <mark key="]" line="21" column="106" />
+        <mark key="^" line="21" column="106" />
+        <mark key="." line="21" column="106" />
+        <mark key="[" line="21" column="97" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/views/check/detail.js" timestamp="1449569791124">
         <mark key="]" line="21" column="44" />
@@ -1300,11 +1306,11 @@
         <mark key="." line="9" column="35" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/components/menu/menu.tpl" timestamp="1457493681160">
-        <mark key="]" line="5" column="35" />
+      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/components/menu/menu.tpl" timestamp="1457507353575">
+        <mark key="]" line="20" column="33" />
         <mark key="^" line="5" column="48" />
-        <mark key="." line="5" column="35" />
-        <mark key="[" line="5" column="35" />
+        <mark key="." line="20" column="33" />
+        <mark key="[" line="20" column="32" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/user/home/home.blade.php" timestamp="1453804725774">
         <mark key="]" line="16" column="4" />
@@ -1401,11 +1407,12 @@
         <mark key="." line="66" column="38" />
         <mark key="[" line="66" column="24" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/index/index.blade.php" timestamp="1457492094966">
-        <mark key="]" line="88" column="34" />
+      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/index/index.blade.php" timestamp="1457506079141">
+        <mark key="'" line="118" column="40" />
+        <mark key="]" line="135" column="35" />
         <mark key="^" line="88" column="34" />
-        <mark key="." line="88" column="34" />
-        <mark key="[" line="88" column="30" />
+        <mark key="." line="135" column="35" />
+        <mark key="[" line="135" column="35" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/headline/headline.blade.php" timestamp="1456287465805">
         <mark key="]" line="9" column="39" />
@@ -1735,11 +1742,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="798" column="4" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
-      <jump line="820" column="4" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
-      <jump line="883" column="6" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
-      <jump line="893" column="6" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
-      <jump line="902" column="8" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
       <jump line="964" column="4" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
       <jump line="969" column="4" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
       <jump line="1041" column="4" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
@@ -1835,55 +1837,60 @@
       <jump line="216" column="38" filename="$USER_HOME$/project/heix/blackbox-mobile-frontend/fis-conf.js" />
       <jump line="23" column="33" filename="$USER_HOME$/project/heix/blackbox-mobile-frontend/components/menu/menu.js" />
       <jump line="27" column="38" filename="$USER_HOME$/project/heix/blackbox-mobile-frontend/components/menu/menu.js" />
+      <jump line="191" column="79" filename="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/index/index.blade.php" />
+      <jump line="121" column="48" filename="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/index/index.blade.php" />
+      <jump line="136" column="40" filename="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/index/index.blade.php" />
+      <jump line="139" column="48" filename="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/index/index.blade.php" />
+      <jump line="118" column="40" filename="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/index/index.blade.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Y2xhc3M9ImFjdGl2ZSIg</text>
+        <text>#</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IGNsYXNzPSJhY3RpdmUiIA==</text>
+        <text>)</text>
       </register>
       <register name="2" type="4">
-        <text />
+        <text>(</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">Y2xhc3M9ImFjdGl2ZSIg</text>
+        <text>#</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGxpIGRhdGEtY2lkPSIxIiB2LWVsOm1lbnUxPgogICAgICAgICAgICAgICAgPGEgaHJlZj0iL2dhbWUvcmFuayI+5o6o6I2QPC9hPgogICAgICAgICAgICA8L2xpPgogICAgICAgICAgICA8bGkgZGF0YS1jaWQ9IjEiIGNsYXNzPSJhY3RpdmUiID4KICAgICAgICAgICAgICAgIDxhIGhyZWY9Ii9nYW1lL3JhbmsvbmV3Ij7mnIDmlrA8L2E+CiAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgIDxsaSBkYXRhLWNpZD0iMSI+CiAgICAgICAgICAgICAgICA8YSBocmVmPSIvZ2FtZS9yYW5rL2hvdCI+5pyA54OtPC9hPgogICAgICAgICAgICA8L2xpPgo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vaWYod2luZG93LmxvY2F0aW9uLnBhdGhuYW1lPT0iLyIgJiYgX2hyZWY9PSIvIikgewogICAgICAgICAgICAgICAgLy8gICAgX2l0ZW0ucGFyZW50KCJsaSIpLmFkZENsYXNzKCJhY3RpdmUiKTsKICAgICAgICAgICAgICAgIC8vfQo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">Y2xhc3M9ImFjdGl2ZSIg</text>
       </register>
       <register name="6" type="4">
-        <text>topic</text>
+        <text>-video</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGxpIGRhdGEtY2lkPSIxIiB2LWVsOm1lbnUxPgogICAgICAgICAgICAgICAgPGEgaHJlZj0iL3RvcGljLXJhbmsiPuaOqOiNkDwvYT4KICAgICAgICAgICAgPC9saT4KICAgICAgICAgICAgPGxpIGRhdGEtY2lkPSIxIiA+CiAgICAgICAgICAgICAgICA8YSBocmVmPSIvZ2FtZS1uZXciPuacgOaWsDwvYT4KICAgICAgICAgICAgPC9saT4KICAgICAgICAgICAgPGxpIGRhdGEtY2lkPSIxIiBjbGFzcz0iYWN0aXZlIj4KICAgICAgICAgICAgICAgIDxhIGhyZWY9Ii9nYW1lLWhvdCI+5pyA54OtPC9hPgogICAgICAgICAgICA8L2xpPgo=</text>
+      <register name="5" type="4">
+        <text>-video</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIDxsaSBkYXRhLWNpZD0iMSIgdi1lbDptZW51MSBjbGFzcz0iYWN0aXZlIj4KICAgICAgICAgICAgICAgIDxhIGhyZWY9Ii90b3BpYy1yYW5rIj7mjqjojZA8L2E+CiAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgIDxsaSBkYXRhLWNpZD0iMSIgPgogICAgICAgICAgICAgICAgPGEgaHJlZj0iL2dhbWUtbmV3Ij7mnIDmlrA8L2E+CiAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgIDxsaSBkYXRhLWNpZD0iMSI+CiAgICAgICAgICAgICAgICA8YSBocmVmPSIvZ2FtZS1ob3QiPuacgOeDrTwvYT4KICAgICAgICAgICAgPC9saT4K</text>
+        <text encoding="base64">ICAgIHJFeHQ6ICJodG1sIiwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBfcmVnID0gbmV3IFJlZ0V4cCgiXiIgKyBfaHJlZik7Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">IGNsYXNzPSJhY3RpdmUiIA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="8" type="4">
+        <text />
       </register>
       <register name="/" type="4">
-        <text>png</text>
+        <text>-video</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y2xhc3M9ImFjdGl2ZSIg</text>
+        <text>#</text>
       </register>
     </registers>
     <search>
-      <last-search>png</last-search>
+      <last-search>-video</last-search>
       <last-offset />
-      <last-pattern>png</last-pattern>
+      <last-pattern>-video</last-pattern>
       <last-replace>util</last-replace>
       <last-substitute>bb</last-substitute>
       <last-dir>1</last-dir>
@@ -1891,7 +1898,6 @@
     </search>
     <history>
       <history-search>
-        <entry>width</entry>
         <entry>vjs-tech</entry>
         <entry>play-control</entry>
         <entry>vjs-control</entry>
@@ -1911,6 +1917,7 @@
         <entry>直达</entry>
         <entry>强</entry>
         <entry>png</entry>
+        <entry>-video</entry>
       </history-search>
       <history-cmd>
         <entry>21,23 s/hour/minute/g</entry>
