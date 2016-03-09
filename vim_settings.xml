@@ -715,11 +715,12 @@
         <mark key="." line="7" column="53" />
         <mark key="[" line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/components/menu/menu.js" timestamp="1456888553428">
-        <mark key="]" line="19" column="42" />
-        <mark key="^" line="19" column="42" />
-        <mark key="." line="19" column="42" />
-        <mark key="[" line="19" column="25" />
+      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/components/menu/menu.js" timestamp="1457494339160">
+        <mark key="'" line="34" column="38" />
+        <mark key="]" line="18" column="24" />
+        <mark key="^" line="18" column="24" />
+        <mark key="." line="18" column="24" />
+        <mark key="[" line="18" column="9" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/libs/api/api.js" timestamp="1453872424189">
         <mark key="]" line="64" column="16" />
@@ -1090,11 +1091,11 @@
         <mark key="." line="167" column="56" />
         <mark key="[" line="165" column="13" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/components/menu/menu.scss" timestamp="1457399871776">
-        <mark key="]" line="135" column="0" />
-        <mark key="^" line="135" column="0" />
-        <mark key="." line="135" column="0" />
-        <mark key="[" line="134" column="1" />
+      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/components/menu/menu.scss" timestamp="1457493546890">
+        <mark key="]" line="204" column="0" />
+        <mark key="^" line="205" column="7" />
+        <mark key="." line="204" column="0" />
+        <mark key="[" line="204" column="0" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/module/module.detail.js" timestamp="1450685264005">
         <mark key="]" line="11" column="0" />
@@ -1293,11 +1294,11 @@
         <mark key="." line="9" column="35" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/components/menu/menu.tpl" timestamp="1457487797706">
-        <mark key="]" line="25" column="29" />
-        <mark key="^" line="25" column="31" />
-        <mark key="." line="25" column="29" />
-        <mark key="[" line="25" column="29" />
+      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/components/menu/menu.tpl" timestamp="1457493681160">
+        <mark key="]" line="5" column="35" />
+        <mark key="^" line="5" column="48" />
+        <mark key="." line="5" column="35" />
+        <mark key="[" line="5" column="35" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/user/home/home.blade.php" timestamp="1453804725774">
         <mark key="]" line="16" column="4" />
@@ -1722,8 +1723,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="725" column="4" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
-      <jump line="730" column="2" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
       <jump line="798" column="4" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
       <jump line="820" column="4" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
       <jump line="883" column="6" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
@@ -1822,49 +1821,51 @@
       <jump line="73" column="29" filename="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/catalog_news/catalog_news.blade.php" />
       <jump line="217" column="47" filename="$USER_HOME$/project/heix/blackbox-mobile-frontend/fis-conf.js" />
       <jump line="216" column="38" filename="$USER_HOME$/project/heix/blackbox-mobile-frontend/fis-conf.js" />
+      <jump line="23" column="33" filename="$USER_HOME$/project/heix/blackbox-mobile-frontend/components/menu/menu.js" />
+      <jump line="27" column="38" filename="$USER_HOME$/project/heix/blackbox-mobile-frontend/components/menu/menu.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>-</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vaWYod2luZG93LmxvY2F0aW9uLnBhdGhuYW1lPT0iLyIgJiYgX2hyZWY9PSIvIikgewogICAgICAgICAgICAgICAgLy8gICAgX2l0ZW0ucGFyZW50KCJsaSIpLmFkZENsYXNzKCJhY3RpdmUiKTsKICAgICAgICAgICAgICAgIC8vfQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>i</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBfcmVnID0gbmV3IFJlZ0V4cCgiXiIgKyBfaHJlZik7Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>c</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="1" type="4">
-        <text>-</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vaWYod2luZG93LmxvY2F0aW9uLnBhdGhuYW1lPT0iLyIgJiYgX2hyZWY9PSIvIikgewogICAgICAgICAgICAgICAgLy8gICAgX2l0ZW0ucGFyZW50KCJsaSIpLmFkZENsYXNzKCJhY3RpdmUiKTsKICAgICAgICAgICAgICAgIC8vfQo=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxsaW5rIHJlbD0iaW1wb3J0IiBocmVmPSIvY29tcG9uZW50cy9tZW51L21lbnUudHBsP19faW5saW5lIj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBfaXRlbS5wYXJlbnQoImxpIikucmVtb3ZlQ2xhc3MoImFjdGl2ZSIpOwo=</text>
       </register>
       <register name="7" type="4">
-        <text>catalog_</text>
+        <text>f</text>
       </register>
       <register name="6" type="4">
-        <text>t</text>
+        <text>_</text>
       </register>
-      <register name="5" type="4">
-        <text>o</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKF9pdGVtLmF0dHIoImhpZ2hsaWdodC1ocmVmIikpOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text>p</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>/catalog_exclusive.html</text>
+        <text>r</text>
       </register>
       <register name="8" type="4">
-        <text>/([\w-_]+).html</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>png</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>_</text>
       </register>
     </registers>
     <search>
