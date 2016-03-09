@@ -435,6 +435,12 @@
         <mark key="." line="3" column="26" />
         <mark key="[" line="3" column="26" />
       </file>
+      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/article/article.blade.php" timestamp="1457512484414">
+        <mark key="]" line="35" column="115" />
+        <mark key="^" line="35" column="115" />
+        <mark key="." line="35" column="115" />
+        <mark key="[" line="35" column="85" />
+      </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/selector/wrapper.js" timestamp="1453087186669">
         <mark key="]" line="56" column="31" />
         <mark key="^" line="56" column="31" />
@@ -1846,16 +1852,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>text</text>
+        <text>38</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ID4gc3Bhbg==</text>
+        <text>2016</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">LmZpbmQoIj4gYSIp</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0iY29tbWVudC1jb3VudCB0ZXh0LW11dGVyIj48YSBocmVmPSIjY29tbWVudCI+PGk+PC9pPjM4PC9hPjwvc3Bhbj4K</text>
       </register>
       <register name="1" type="4">
-        <text>text</text>
+        <text>38</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkKHNlbGYuJGVscy5tZW51MSkuZmluZCgiPiBhID4gc3BhbiIpLnRleHQoYWN0aXZlTmFtZSk7Cg==</text>
@@ -1864,28 +1870,28 @@
         <text encoding="base64">ID4gc3Bhbg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">KyI8aT48L2k+Ig==</text>
+        <text encoding="base64">LmZpbmQoIj4gYSIp</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZAo=</text>
+      <register name="5" type="4">
+        <text>text</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coImQiKTsK</text>
+      <register name="4" type="4">
+        <text>土星</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>n</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNwYW4+5aS05p2hPC9zcGEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coImQiKTsK</text>
       </register>
       <register name="/" type="4">
         <text>-video</text>
       </register>
       <register name="-" type="4">
-        <text>text</text>
+        <text>38</text>
       </register>
     </registers>
     <search>
