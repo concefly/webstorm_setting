@@ -827,12 +827,6 @@
         <mark key="." line="8" column="39" />
         <mark key="[" line="8" column="35" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/topic-video/topic-video.blade.php" timestamp="1457508325954">
-        <mark key="]" line="113" column="0" />
-        <mark key="^" line="105" column="53" />
-        <mark key="." line="113" column="0" />
-        <mark key="[" line="113" column="0" />
-      </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/pagination.scss" timestamp="1455610864241">
         <mark key="]" line="66" column="0" />
         <mark key="^" line="52" column="24" />
@@ -1267,10 +1261,10 @@
         <mark key="[" line="54" column="39" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/article-video/article-video.blade.php" timestamp="1457515797969">
-        <mark key="]" line="44" column="90" />
-        <mark key="^" line="44" column="87" />
-        <mark key="." line="44" column="57" />
-        <mark key="[" line="44" column="57" />
+        <mark key="]" line="31" column="90" />
+        <mark key="^" line="31" column="87" />
+        <mark key="." line="31" column="57" />
+        <mark key="[" line="31" column="57" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/navbar.scss" timestamp="1455767241103">
         <mark key="]" line="764" column="43" />
@@ -1543,10 +1537,10 @@
         <mark key="[" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/components/vrVideo/vrVideo.js" timestamp="1457515479272">
-        <mark key="]" line="36" column="43" />
-        <mark key="^" line="36" column="43" />
-        <mark key="." line="36" column="43" />
-        <mark key="[" line="36" column="44" />
+        <mark key="]" line="8" column="43" />
+        <mark key="^" line="8" column="43" />
+        <mark key="." line="8" column="43" />
+        <mark key="[" line="8" column="44" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/game-hot/game-hot.blade.php" timestamp="1457496566108">
         <mark key="]" line="29" column="28" />
