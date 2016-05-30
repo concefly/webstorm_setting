@@ -1172,6 +1172,11 @@
         <mark key="^" line="32" column="27" />
         <mark key="." line="74" column="0" />
       </file>
+      <file name="$USER_HOME$/project/alipay_demo/src/entries/index.js" timestamp="1464575452908">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+      </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/resources/assets/js/cms/plugin/utils.js" timestamp="1449742439060">
         <mark key="[" line="12" column="50" />
         <mark key="]" line="12" column="51" />
@@ -1842,8 +1847,8 @@
       <jump line="118" column="40" filename="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/index/index.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>IMAGE</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8Um93PgogICAgPC9Sb3c+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>IMAGE</text>
@@ -1854,32 +1859,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkKHNlbGYuJGVscy5tZW51MSkuZmluZCgiPiBhID4gc3BhbiIpLnRleHQoYWN0aXZlTmFtZSk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>IMAGE</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICA8Um93PgogICAgPC9Sb3c+Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>'http://7xofen.com2.z0.glb.qiniucdn.com/manager-o_1ac6gbo2u13jg82sdln1mvn79f7'</text>
+        <text>IMAGE</text>
       </register>
       <register name="3" type="4">
-        <text>“初音未来”废除屏幕开个唱，秒杀一众真人歌手</text>
+        <text>'http://7xofen.com2.z0.glb.qiniucdn.com/manager-o_1ac6gbo2u13jg82sdln1mvn79f7'</text>
       </register>
       <register name="4" type="4">
-        <text>二次元女神</text>
+        <text>“初音未来”废除屏幕开个唱，秒杀一众真人歌手</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">e3skYXJ0aWNsZS0+cHVibGlzaF90aW1lIG9yICIifX0g</text>
+        <text>二次元女神</text>
       </register>
       <register name="6" type="4">
+        <text encoding="base64">e3skYXJ0aWNsZS0+cHVibGlzaF90aW1lIG9yICIifX0g</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">Jm5ic3A7Jm5ic3A7Jm5ic3A7</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNwYW4K</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>2016</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICDmmKjlpKnlub/lt57nmoTpm6rorqnljZfmlrnkurrlhbTlpYvkuI3lt7LnmoTlkIzml7bvvIzkuZ/luKbmnaXkuobmnoHluqbnmoTlr5LlhrfvvIzmnInkurrnlJroh7Por7Tlhrvlvpfpg73kuI3nn6XpgZPor6Xnqb/ku4DkuYjooaPmnI3lh7rpl6jkuobjgILlnKjpgaXov5znmoTkuJzkuqzmlrDlrr/ljLrvvIzkvZPpqozogIXku6zkuZ/kvZPpqozkuobkuIDlnLrlr5Lmva7vvIzkvYbkuI3lkIznmoTmmK/vvIzku5bku6zmmK/lnKjomZrmi5/njrDlrp7kuK3nu4/ljobpo47pm6rjgILku5bku6znqb/otorpo47pm6rkuK3lhrDlsIHnnYDnmoTntKLpgZPvvIzlj6rkuLrmi7/liLDlr7npnaLnmoTkuIDmna/ng63ppa7jgIIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
