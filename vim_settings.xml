@@ -237,7 +237,7 @@
         <mark key="^" line="64" column="16" />
         <mark key="." line="64" column="16" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/entry/App.jsx" timestamp="1464761433686">
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/entry/App.jsx" timestamp="1464762272448">
         <mark key="[" line="16" column="15" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/modal/modal.tpl" timestamp="1453254299359">
@@ -921,6 +921,11 @@
         <mark key="]" line="358" column="51" />
         <mark key="^" line="358" column="51" />
         <mark key="." line="358" column="51" />
+      </file>
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/components/DeskBoard/Chat.jsx" timestamp="1464762549109">
+        <mark key="[" line="24" column="24" />
+        <mark key="]" line="24" column="24" />
+        <mark key="." line="24" column="24" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/font.scss" timestamp="1449712262284">
         <mark key="[" line="13" column="7" />
@@ -1610,6 +1615,9 @@
         <mark key="^" line="2" column="33" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/styles/lark.less" timestamp="1464762377086">
+        <mark key="[" line="1160" column="27" />
+      </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/component/loading.scss" timestamp="1449569238770">
         <mark key="[" line="16" column="23" />
         <mark key="]" line="25" column="31" />
@@ -1856,11 +1864,11 @@
       <jump line="118" column="40" filename="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/index/index.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIEFBCg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>A</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>-video</text>
@@ -1868,32 +1876,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkKHNlbGYuJGVscy5tZW51MSkuZmluZCgiPiBhID4gc3BhbiIpLnRleHQoYWN0aXZlTmFtZSk7Cg==</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>,</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgIEFBCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>A</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>div</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICA8Um93PgogICAgPC9Sb3c+Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>IMAGE</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>'http://7xofen.com2.z0.glb.qiniucdn.com/manager-o_1ac6gbo2u13jg82sdln1mvn79f7'</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>“初音未来”废除屏幕开个唱，秒杀一众真人歌手</text>
       </register>
-      <register name="8" type="4">
-        <text>二次元女神</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">e3skYXJ0aWNsZS0+cHVibGlzaF90aW1lIG9yICIifX0g</text>
+        <text>二次元女神</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
