@@ -868,10 +868,11 @@
         <mark key="^" line="6" column="16" />
         <mark key="." line="6" column="16" />
       </file>
-      <file name="$USER_HOME$/project/iLight/web-client/src/components/Manual.jsx" timestamp="1464869299046">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/project/iLight/web-client/src/components/Manual.jsx" timestamp="1464884021027">
+        <mark key="[" line="24" column="7" />
+        <mark key="]" line="13" column="27" />
+        <mark key="." line="13" column="27" />
+        <mark key="^" line="13" column="27" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/home/home.blade.php" timestamp="1455680100079">
         <mark key="[" line="0" column="0" />
@@ -979,11 +980,11 @@
         <mark key="^" line="27" column="14" />
         <mark key="." line="27" column="14" />
       </file>
-      <file name="$USER_HOME$/project/iLight/web-client/src/routes/index.js" timestamp="1464869792585">
+      <file name="$USER_HOME$/project/iLight/web-client/src/routes/index.js" timestamp="1464883735829">
         <mark key="[" line="10" column="31" />
-        <mark key="]" line="10" column="31" />
-        <mark key="." line="10" column="31" />
-        <mark key="^" line="10" column="31" />
+        <mark key="]" line="13" column="32" />
+        <mark key="." line="13" column="32" />
+        <mark key="^" line="13" column="32" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/components/vrVideo/vrVideo.js" timestamp="1457515479272">
         <mark key="[" line="8" column="44" />
@@ -1140,11 +1141,11 @@
         <mark key="^" line="121" column="34" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/project/iLight/web-client/src/components/Container.jsx" timestamp="1464870199406">
-        <mark key="[" line="1" column="8" />
-        <mark key="]" line="1" column="23" />
-        <mark key="." line="1" column="23" />
-        <mark key="^" line="1" column="23" />
+      <file name="$USER_HOME$/project/iLight/web-client/src/components/Container.jsx" timestamp="1464876148191">
+        <mark key="[" line="16" column="1" />
+        <mark key="]" line="1" column="35" />
+        <mark key="." line="1" column="35" />
+        <mark key="^" line="1" column="35" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/lineheight.scss" timestamp="1449453803046">
         <mark key="[" line="9" column="15" />
@@ -1211,8 +1212,8 @@
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
-      <file name="$USER_HOME$/project/iLight/web-client/src/components/Home.jsx" timestamp="1464869512961">
-        <mark key="[" line="6" column="16" />
+      <file name="$USER_HOME$/project/iLight/web-client/src/components/Home.jsx" timestamp="1464883769624">
+        <mark key="[" line="6" column="15" />
         <mark key="]" line="7" column="9" />
         <mark key="^" line="7" column="9" />
         <mark key="." line="7" column="9" />
@@ -1725,10 +1726,11 @@
         <mark key="^" line="101" column="35" />
         <mark key="." line="101" column="35" />
       </file>
-      <file name="$USER_HOME$/project/iLight/web-client/src/layouts/MainLayout/MainLayout.jsx" timestamp="1464870508132">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/project/iLight/web-client/src/layouts/MainLayout/MainLayout.jsx" timestamp="1464883961429">
+        <mark key="[" line="14" column="24" />
+        <mark key="]" line="19" column="17" />
+        <mark key="." line="19" column="17" />
+        <mark key="^" line="19" column="17" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/tag/tag.blade.php" timestamp="1455697258050">
         <mark key="[" line="0" column="0" />
@@ -1924,44 +1926,44 @@
       <jump line="127" column="67" filename="$USER_HOME$/project/flaming-cloud/contactor/src/components/DeskBoard/Book.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>[self.props.routes[1].path]</text>
       </register>
       <register name="-" type="4">
-        <text>App</text>
+        <text>[self.props.routes[1].path]</text>
       </register>
       <register name="/" type="4">
         <text>onClick</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IE1hbnVhbCBmcm9tICcuLi9jb21wb25lbnRzL01hbnVhbCc7Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gKAogICAgPGRpdj4KICAgICAgPE1lbnUKICAgICAgICB0aGVtZT0iZGFyayIKICAgICAgICBtb2RlPSJob3Jpem9udGFsIgogICAgICAgIHNlbGVjdGVkS2V5cz17fT4KICAgICAgICA8TWVudS5JdGVtIGtleT0iLyI+CiAgICAgICAgICA8TGluayB0bz0iLyI+6aaW6aG1PC9MaW5rPgogICAgICAgIDwvTWVudS5JdGVtPgogICAgICAgIDxNZW51Lkl0ZW0ga2V5PSIvbWFudWFsIj4KICAgICAgICAgIDxMaW5rIHRvPSIvbWFudWFsIj7mjqfliLbpnaLmnb88L0xpbms+CiAgICAgICAgPC9NZW51Lkl0ZW0+CiAgICAgIDwvTWVudT4KICAgICAgPGRpdj4KICAgICAgICB7Y2hpbGRyZW59CiAgICAgIDwvZGl2PgogICAgPC9kaXY+CiAgKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>[self.props.routes[1].path]</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBjaGlsZHJlbjogUHJvcFR5cGVzLm9uZU9mVHlwZShbCiAgICBQcm9wVHlwZXMuZWxlbWVudCwKICAgIFByb3BUeXBlcy5hcnJheU9mKFByb3BUeXBlcy5lbGVtZW50KQogIF0pCg==</text>
+      <register name="2" type="4">
+        <text>name</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBjaGlsZHJlbjogUHJvcFR5cGVzLmVsZW1lbnQuaXNSZXF1aXJlZAo=</text>
+      <register name="3" type="4">
+        <text>location</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="4" type="4">
+        <text>context</text>
       </register>
-      <register name="5" type="4">
-        <text>App</text>
+      <register name="5" type="2">
+        <text encoding="base64">TWFpbkxheW91dC5jb250ZXh0VHlwZXMgPSB7CiAgbG9jYXRpb246IFByb3BUeXBlcy5vYmplY3QKfTsKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IEFwcCBmcm9tICcuLi9jb21wb25lbnRzL0FwcCc7Cg==</text>
+        <text encoding="base64">Y29uc3QgTWFpbkxheW91dCA9ICh7IGNoaWxkcmVuIH0pID0+IHsKICByZXR1cm4gKAogICAgPGRpdj4KICAgICAgPE1lbnUKICAgICAgICB0aGVtZT0iZGFyayIKICAgICAgICBtb2RlPSJob3Jpem9udGFsIgogICAgICAgIHNlbGVjdGVkS2V5cz17fT4KICAgICAgICA8TWVudS5JdGVtIGtleT0iLyI+CiAgICAgICAgICA8TGluayB0bz0iLyI+6aaW6aG1PC9MaW5rPgogICAgICAgIDwvTWVudS5JdGVtPgogICAgICAgIDxNZW51Lkl0ZW0ga2V5PSIvbWFudWFsIj4KICAgICAgICAgIDxMaW5rIHRvPSIvbWFudWFsIj7mjqfliLbpnaLmnb88L0xpbms+CiAgICAgICAgPC9NZW51Lkl0ZW0+CiAgICAgIDwvTWVudT4KICAgICAgPGRpdj4KICAgICAgICB7Y2hpbGRyZW59CiAgICAgIDwvZGl2PgogICAgPC9kaXY+CiAgKTsKfTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">QXBwLnByb3BUeXBlcyA9IHsKfTsK</text>
+      <register name="8" type="4">
+        <text>propTypebs</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IFRvZG9zIGZyb20gJy4vVG9kb3MvVG9kb3MnOwppbXBvcnQgTWFpbkxheW91dCBmcm9tICcuLi9sYXlvdXRzL01haW5MYXlvdXQvTWFpbkxheW91dCc7Cg==</text>
+      <register name="9" type="4">
+        <text>childContextTypes</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
