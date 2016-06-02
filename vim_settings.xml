@@ -1465,6 +1465,11 @@
         <mark key="^" line="2" column="34" />
         <mark key="." line="2" column="34" />
       </file>
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/dist/index.html" timestamp="1464832645692">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/modal/modal.js" timestamp="1453711623890">
         <mark key="[" line="20" column="26" />
         <mark key="]" line="21" column="26" />
@@ -1875,11 +1880,11 @@
       <jump line="118" column="40" filename="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/index/index.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cHgg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICA8c2NyaXB0IHNyYz0iLi9hcHAuanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHgg</text>
+        <text>common</text>
       </register>
       <register name="/" type="4">
         <text>send</text>
@@ -1887,23 +1892,23 @@
       <register name="0" type="4">
         <text>https://t.alipayobjects.com/images/rmsweb/T1CEdkXjhXXXXXXXXX.png</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">cHgg</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICA8c2NyaXB0IHNyYz0iLi9hcHAuanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="2" type="4">
-        <text>px</text>
+        <text>common</text>
       </register>
       <register name="3" type="4">
-        <text>px</text>
+        <text>index</text>
       </register>
       <register name="4" type="4">
-        <text>,</text>
+        <text encoding="base64">cHgg</text>
       </register>
       <register name="5" type="4">
-        <text>,</text>
+        <text>px</text>
       </register>
       <register name="6" type="4">
-        <text>,</text>
+        <text>px</text>
       </register>
       <register name="7" type="4">
         <text>,</text>
