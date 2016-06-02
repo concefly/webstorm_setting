@@ -3,13 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/fis-conf.js" timestamp="1457506420991">
-        <mark key="'" line="215" column="38" />
-        <mark key="[" line="5" column="41" />
-        <mark key="]" line="5" column="45" />
-        <mark key="^" line="5" column="45" />
-        <mark key="." line="5" column="45" />
-      </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/libs/pagination/pagination.js" timestamp="1455608652429">
         <mark key="[" line="13" column="4" />
         <mark key="]" line="13" column="10" />
@@ -75,13 +68,6 @@
         <mark key="^" line="7" column="15" />
         <mark key="." line="7" column="15" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/partials/common/thumbnail.scss" timestamp="1457421786034">
-        <mark key="'" line="129" column="28" />
-        <mark key="[" line="201" column="20" />
-        <mark key="]" line="202" column="20" />
-        <mark key="^" line="202" column="20" />
-        <mark key="." line="202" column="20" />
-      </file>
       <file name="$USER_HOME$/project/flaming-cloud/contactor/src/components/Contactor/Dot.jsx" timestamp="1464773994265">
         <mark key="[" line="40" column="29" />
         <mark key="]" line="40" column="29" />
@@ -134,13 +120,6 @@
         <mark key="]" line="18" column="11" />
         <mark key="^" line="7" column="21" />
         <mark key="." line="18" column="11" />
-      </file>
-      <file name="$USER_HOME$/project/heix/home_demo/index.html" timestamp="1456708797675">
-        <mark key="'" line="33" column="18" />
-        <mark key="[" line="141" column="29" />
-        <mark key="]" line="141" column="45" />
-        <mark key="^" line="115" column="45" />
-        <mark key="." line="141" column="29" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/partials/layout/layout.tpl" timestamp="1450250987109">
         <mark key="[" line="12" column="60" />
@@ -356,13 +335,6 @@
         <mark key="]" line="196" column="44" />
         <mark key="^" line="196" column="45" />
         <mark key="." line="196" column="44" />
-      </file>
-      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/components/menu/menu.js" timestamp="1457511339507">
-        <mark key="'" line="34" column="38" />
-        <mark key="[" line="41" column="39" />
-        <mark key="]" line="41" column="54" />
-        <mark key="^" line="41" column="54" />
-        <mark key="." line="41" column="54" />
       </file>
       <file name="$USER_HOME$/project/heix/passport-frontend/resources/login/template.tpl" timestamp="1452848942391">
         <mark key="[" line="21" column="83" />
@@ -752,13 +724,6 @@
         <mark key="]" line="28" column="48" />
         <mark key="^" line="28" column="48" />
         <mark key="." line="28" column="48" />
-      </file>
-      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/catalog_news/catalog_news.blade.php" timestamp="1457488625890">
-        <mark key="'" line="81" column="29" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="65" />
-        <mark key="^" line="81" column="29" />
-        <mark key="." line="81" column="29" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/user/base.blade.php" timestamp="1456481044002">
         <mark key="[" line="3" column="0" />
@@ -1281,13 +1246,6 @@
         <mark key="^" line="19" column="42" />
         <mark key="." line="19" column="42" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/partials/common/variable.scss" timestamp="1456889847679">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="4" column="11" />
-        <mark key="]" line="4" column="17" />
-        <mark key="^" line="4" column="17" />
-        <mark key="." line="4" column="17" />
-      </file>
       <file name="$USER_HOME$/project/flaming-cloud/contactor/src/components/DeskBoard/Footer.jsx" timestamp="1464773974884">
         <mark key="[" line="127" column="32" />
         <mark key="]" line="127" column="32" />
@@ -1370,6 +1328,11 @@
         <mark key="]" line="5" column="25" />
         <mark key="^" line="55" column="32" />
         <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/iLight/web-client/src/entries/index.js" timestamp="1464847577829">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/list/list-default.html" timestamp="1449558086217">
         <mark key="[" line="1" column="49" />
@@ -1652,13 +1615,6 @@
         <mark key="^" line="25" column="31" />
         <mark key="." line="25" column="31" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/index/index.blade.php" timestamp="1457508317664">
-        <mark key="'" line="118" column="40" />
-        <mark key="[" line="136" column="0" />
-        <mark key="]" line="149" column="25" />
-        <mark key="^" line="88" column="34" />
-        <mark key="." line="135" column="35" />
-      </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/libs/utils/util.js" timestamp="1455612713858">
         <mark key="[" line="32" column="39" />
         <mark key="]" line="52" column="38" />
@@ -1701,11 +1657,11 @@
         <mark key="^" line="101" column="35" />
         <mark key="." line="101" column="35" />
       </file>
-      <file name="$USER_HOME$/project/iLight/web-client/src/layouts/MainLayout/MainLayout.jsx" timestamp="1464841637494">
-        <mark key="[" line="8" column="11" />
-        <mark key="]" line="11" column="29" />
-        <mark key="." line="11" column="29" />
-        <mark key="^" line="11" column="29" />
+      <file name="$USER_HOME$/project/iLight/web-client/src/layouts/MainLayout/MainLayout.jsx" timestamp="1464847400544">
+        <mark key="[" line="13" column="11" />
+        <mark key="]" line="14" column="16" />
+        <mark key="." line="14" column="16" />
+        <mark key="^" line="14" column="16" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/tag/tag.blade.php" timestamp="1455697258050">
         <mark key="[" line="0" column="0" />
@@ -1896,10 +1852,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8TWVudS5JdGVtPummlumhtTwvTWVudS5JdGVtPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>首页</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>onClick</text>
@@ -1908,31 +1864,31 @@
         <text encoding="base64">ICAgICAgICA8TWVudS5JdGVtPummlumhtTwvTWVudS5JdGVtPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8TWVudS5JdGVtPummlumhtTwvTWVudS5JdGVtPgo=</text>
-      </register>
-      <register name="2" type="4">
-        <text>首页</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIDxNZW51PgogICAgICAKICAgIDwvTWVudT4K</text>
+      <register name="2" type="2">
+        <text encoding="base64">cmVxdWlyZSgiYW50ZCIpCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAsCg==</text>
+      </register>
+      <register name="4" type="4">
+        <text>,</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3NOYW1lPXtzdHlsZXMubm9ybWFsfT4KICAgICAgPGRpdiBjbGFzc05hbWU9e3N0eWxlcy5oZWFkfT4KICAgICAgICA8aDE+VG9kbyBBcHA8L2gxPgogICAgICA8L2Rpdj4KICAgICAgPGRpdiBjbGFzc05hbWU9e3N0eWxlcy5jb250ZW50fT4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT17c3R5bGVzLnNpZGV9PgogICAgICAgICAgPGgyPkZpbHRlcnM6PC9oMj4KICAgICAgICAgIDxMaW5rIHRvPSIvIj5BbGw8L0xpbms+PGJyIC8+CiAgICAgICAgICA8TGluayB0bz0iL2FjdGl2ZWQiPkFjdGl2ZWQ8L0xpbms+PGJyIC8+CiAgICAgICAgICA8TGluayB0bz0iL2NvbXBsZXRlZCI+Q29tcGxldGVkPC9MaW5rPjxiciAvPgogICAgICAgICAgPExpbmsgdG89Ii80MDQiPjQwNDwvTGluaz48YnIgLz4KICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT17c3R5bGVzLm1haW59PgogICAgICAgICAge2NoaWxkcmVufQogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KICAgICAgPGRpdiBjbGFzc05hbWU9e3N0eWxlcy5mb290fT4KICAgICAgICBCdWlsdCB3aXRoIHJlYWN0LCByZWFjdC1yb3V0ZXIsIHJlZHV4LCByZWR1eC1zYWdhLCBhbnQtdG9vbCwgY3NzLW1vZHVsZXMsIGFudGQuLi4KICAgICAgPC9kaXY+CiAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICA8TWVudS5JdGVtPummlumhtTwvTWVudS5JdGVtPgo=</text>
       </register>
       <register name="6" type="4">
-        <text>,</text>
+        <text>首页</text>
       </register>
-      <register name="7" type="4">
-        <text>,</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>,</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIDxNZW51PgogICAgICAKICAgIDwvTWVudT4K</text>
       </register>
-      <register name="9" type="4">
-        <text>{{SCRIPT_URL}}</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3NOYW1lPXtzdHlsZXMubm9ybWFsfT4KICAgICAgPGRpdiBjbGFzc05hbWU9e3N0eWxlcy5oZWFkfT4KICAgICAgICA8aDE+VG9kbyBBcHA8L2gxPgogICAgICA8L2Rpdj4KICAgICAgPGRpdiBjbGFzc05hbWU9e3N0eWxlcy5jb250ZW50fT4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT17c3R5bGVzLnNpZGV9PgogICAgICAgICAgPGgyPkZpbHRlcnM6PC9oMj4KICAgICAgICAgIDxMaW5rIHRvPSIvIj5BbGw8L0xpbms+PGJyIC8+CiAgICAgICAgICA8TGluayB0bz0iL2FjdGl2ZWQiPkFjdGl2ZWQ8L0xpbms+PGJyIC8+CiAgICAgICAgICA8TGluayB0bz0iL2NvbXBsZXRlZCI+Q29tcGxldGVkPC9MaW5rPjxiciAvPgogICAgICAgICAgPExpbmsgdG89Ii80MDQiPjQwNDwvTGluaz48YnIgLz4KICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT17c3R5bGVzLm1haW59PgogICAgICAgICAge2NoaWxkcmVufQogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KICAgICAgPGRpdiBjbGFzc05hbWU9e3N0eWxlcy5mb290fT4KICAgICAgICBCdWlsdCB3aXRoIHJlYWN0LCByZWFjdC1yb3V0ZXIsIHJlZHV4LCByZWR1eC1zYWdhLCBhbnQtdG9vbCwgY3NzLW1vZHVsZXMsIGFudGQuLi4KICAgICAgPC9kaXY+CiAgICA8L2Rpdj4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
