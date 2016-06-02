@@ -718,6 +718,12 @@
         <mark key="^" line="34" column="26" />
         <mark key="." line="34" column="26" />
       </file>
+      <file name="$USER_HOME$/project/iLight/web-client/src/reducer/index.js" timestamp="1464857146344">
+        <mark key="[" line="0" column="9" />
+        <mark key="]" line="0" column="9" />
+        <mark key="^" line="0" column="9" />
+        <mark key="." line="0" column="9" />
+      </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/article_topic.blade.php" timestamp="1455761198747">
         <mark key="[" line="28" column="33" />
         <mark key="]" line="28" column="48" />
@@ -927,6 +933,11 @@
         <mark key="^" line="66" column="1" />
         <mark key="." line="66" column="1" />
       </file>
+      <file name="$USER_HOME$/project/iLight/web-client/src/components/store/index.js" timestamp="1464856523763">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/label/label-primary.html" timestamp="1449541357036">
         <mark key="[" line="0" column="63" />
         <mark key="]" line="1" column="16" />
@@ -945,11 +956,11 @@
         <mark key="^" line="27" column="14" />
         <mark key="." line="27" column="14" />
       </file>
-      <file name="$USER_HOME$/project/iLight/web-client/src/routes/index.js" timestamp="1464854394104">
-        <mark key="[" line="7" column="37" />
-        <mark key="]" line="7" column="37" />
-        <mark key="." line="7" column="37" />
-        <mark key="^" line="2" column="39" />
+      <file name="$USER_HOME$/project/iLight/web-client/src/routes/index.js" timestamp="1464856283734">
+        <mark key="[" line="9" column="37" />
+        <mark key="]" line="9" column="37" />
+        <mark key="." line="9" column="37" />
+        <mark key="^" line="3" column="39" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/components/vrVideo/vrVideo.js" timestamp="1457515479272">
         <mark key="[" line="8" column="44" />
@@ -1338,11 +1349,11 @@
         <mark key="^" line="55" column="32" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/project/iLight/web-client/src/entries/index.js" timestamp="1464854840723">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="79" />
-        <mark key="." line="41" column="47" />
-        <mark key="^" line="41" column="47" />
+      <file name="$USER_HOME$/project/iLight/web-client/src/entries/index.js" timestamp="1464858170854">
+        <mark key="[" line="21" column="21" />
+        <mark key="]" line="21" column="27" />
+        <mark key="." line="21" column="27" />
+        <mark key="^" line="21" column="27" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/list/list-default.html" timestamp="1449558086217">
         <mark key="[" line="1" column="49" />
@@ -1667,10 +1678,10 @@
         <mark key="^" line="101" column="35" />
         <mark key="." line="101" column="35" />
       </file>
-      <file name="$USER_HOME$/project/iLight/web-client/src/layouts/MainLayout/MainLayout.jsx" timestamp="1464855902790">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/project/iLight/web-client/src/layouts/MainLayout/MainLayout.jsx" timestamp="1464856142906">
+        <mark key="[" line="17" column="11" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/tag/tag.blade.php" timestamp="1455697258050">
         <mark key="[" line="0" column="0" />
@@ -1683,6 +1694,11 @@
         <mark key="]" line="66" column="38" />
         <mark key="^" line="66" column="38" />
         <mark key="." line="66" column="38" />
+      </file>
+      <file name="$USER_HOME$/project/iLight/web-client/src/components/manual.jsx" timestamp="1464856251048">
+        <mark key="[" line="6" column="16" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/label/label-list.html" timestamp="1449563775349">
         <mark key="[" line="1" column="36" />
@@ -1860,44 +1876,44 @@
       <jump line="127" column="67" filename="$USER_HOME$/project/flaming-cloud/contactor/src/components/DeskBoard/Book.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDwK</text>
+      <register name="&quot;" type="4">
+        <text>hashHistory</text>
       </register>
       <register name="-" type="4">
-        <text>Manual</text>
+        <text>hashHistory</text>
       </register>
       <register name="/" type="4">
         <text>onClick</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY3JlYXRlU3RvcmUsIGFwcGx5TWlkZGxld2FyZSwgY29tcG9zZSwgY29tYmluZVJlZHVjZXJzIH0gZnJvbSAncmVkdXgnOwo=</text>
+        <text encoding="base64">aW1wb3J0IEFwcCBmcm9tICcuLi9jb21wb25lbnRzL0FwcCc7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIDwK</text>
+      <register name="1" type="4">
+        <text>hashHistory</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+      <register name="2" type="4">
+        <text>reducer</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3NOYW1lPXtzdHlsZXMubm9ybWFsfT4KICAgICAgPGRpdiBjbGFzc05hbWU9e3N0eWxlcy5oZWFkfT4KICAgICAgICA8aDE+VG9kbyBBcHA8L2gxPgogICAgICA8L2Rpdj4KICAgICAgPGRpdiBjbGFzc05hbWU9e3N0eWxlcy5jb250ZW50fT4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT17c3R5bGVzLnNpZGV9PgogICAgICAgICAgPGgyPkZpbHRlcnM6PC9oMj4KICAgICAgICAgIDxMaW5rIHRvPSIvIj5BbGw8L0xpbms+PGJyIC8+CiAgICAgICAgICA8TGluayB0bz0iL2FjdGl2ZWQiPkFjdGl2ZWQ8L0xpbms+PGJyIC8+CiAgICAgICAgICA8TGluayB0bz0iL2NvbXBsZXRlZCI+Q29tcGxldGVkPC9MaW5rPjxiciAvPgogICAgICAgICAgPExpbmsgdG89Ii80MDQiPjQwNDwvTGluaz48YnIgLz4KICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT17c3R5bGVzLm1haW59PgogICAgICAgICAge2NoaWxkcmVufQogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KICAgICAgPGRpdiBjbGFzc05hbWU9e3N0eWxlcy5mb290fT4KICAgICAgICBCdWlsdCB3aXRoIHJlYWN0LCByZWFjdC1yb3V0ZXIsIGFudC10b29sLCBjc3MtbW9kdWxlcywgYW50ZC4uLgogICAgICA8L2Rpdj4KICAgIDwvZGl2Pgo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">IHJvdXRlck1pZGRsZXdhcmUsIHB1c2gsIA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgY3JlYXRlU3RvcmUsIGFwcGx5TWlkZGxld2FyZSwgY29tcG9zZSwgY29tYmluZVJlZHVjZXJzIH0gZnJvbSAncmVkdXgnOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IFRvZG9zIGZyb20gJy4vVG9kb3MvVG9kb3MnOwo=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICA8Um91dGVzIGhpc3Rvcnk9e2hhc2hIaXN0b3J5fSAvPiwK</text>
+      </register>
+      <register name="6" type="4">
+        <text>R</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhsb2NhdGlvbikK</text>
+        <text encoding="base64">aW1wb3J0IHtjcmVhdGVTdG9yZX0gZnJvbSAncmVhY3Qtcm91dGVyJzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGxvY2F0aW9uKQo=</text>
+        <text encoding="base64">aW1wb3J0IHt9Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPFRvZG9zIGxvY2F0aW9uPXtsb2NhdGlvbn0gLz4K</text>
+      <register name="9" type="4">
+        <text>App</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
