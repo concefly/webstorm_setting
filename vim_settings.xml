@@ -186,6 +186,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/project/iLight/web-client/src/actions/devices.js" timestamp="1464925887745">
+        <mark key="[" line="1" column="19" />
+        <mark key="]" line="3" column="18" />
+        <mark key="." line="3" column="18" />
+        <mark key="^" line="3" column="18" />
+      </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/app/Http/Controllers/Admin/AdminController.php" timestamp="1450066153291">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -587,9 +593,9 @@
         <mark key="^" line="2" column="16" />
         <mark key="." line="2" column="16" />
       </file>
-      <file name="$USER_HOME$/project/iLight/web-client/src/reducer/devices.js" timestamp="1464868754901">
-        <mark key="[" line="3" column="48" />
-        <mark key="]" line="4" column="0" />
+      <file name="$USER_HOME$/project/iLight/web-client/src/reducer/devices.js" timestamp="1464924694830">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="7" column="25" />
         <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/resources/assets/js/admin/components/media/picture.vue" timestamp="1449825452970">
@@ -798,9 +804,6 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1464774577443">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.list.js" timestamp="1450423705050">
         <mark key="[" line="52" column="31" />
         <mark key="]" line="53" column="40" />
@@ -911,6 +914,12 @@
         <mark key="[" line="17" column="14" />
         <mark key="]" line="17" column="14" />
         <mark key="." line="17" column="14" />
+      </file>
+      <file name="$USER_HOME$/project/iLight/web-client/src/reducer/db.js" timestamp="1464925091233">
+        <mark key="[" line="1" column="45" />
+        <mark key="]" line="1" column="45" />
+        <mark key="." line="1" column="45" />
+        <mark key="^" line="7" column="16" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/publish-timer.tpl" timestamp="1453713861549">
         <mark key="[" line="29" column="15" />
@@ -1393,7 +1402,7 @@
         <mark key="^" line="55" column="32" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/project/iLight/web-client/src/entries/index.js" timestamp="1464868310983">
+      <file name="$USER_HOME$/project/iLight/web-client/src/entries/index.js" timestamp="1464925129064">
         <mark key="[" line="13" column="19" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
@@ -1929,43 +1938,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">OmxvY2FsKC5kZXZpY2VJdGVtKSB7Cgp9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>devices</text>
       </register>
       <register name="/" type="4">
         <text>onClick</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHtzZWxmLnByb3BzLmRldmljZS5uYW1lfQo=</text>
+        <text encoding="base64">CmNvbnN0IGluaXRpYWxEYXRhID0gcmVxdWlyZSgiLi4vTW9jay9pbmRleCIpLmRldmljZXM7CgpmdW5jdGlvbiBkZXZpY2VzQXBwKHN0YXRlPWluaXRpYWxEYXRhLCBhY3Rpb24pIHsKICByZXR1cm4gc3RhdGU7Cn0KCmV4cG9ydCBkZWZhdWx0IGRldmljZXNBcHA7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">OmxvY2FsKC5kZXZpY2VJdGVtKSB7Cgp9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cjpsb2NhbCB7CiAgCn0K</text>
+        <text encoding="base64">ICAgIHR5cGU6ICJkZXZpY2VzL3NlbGVjdCIK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>devices</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">LmRldmljZUl0ZW0gewoKfQo=</text>
+      <register name="4" type="4">
+        <text>devicesApp</text>
       </register>
       <register name="5" type="4">
-        <text>}</text>
+        <text>devicesApp</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB7Lyo8TGluayB0bz17YC9tYW51YWwvZGV2aWNlcy8ke3NlbGYucHJvcHMuZGV2aWNlLmlkfWB9ID4KICAgICAgICAgIHtzZWxmLnByb3BzLmRldmljYGBlLm5hbWV9CiAgICAgICAgPC9MaW5rPiAqL30K</text>
+        <text encoding="base64">OmxvY2FsKC5kZXZpY2VJdGVtKSB7Cgp9Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>/</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cjpsb2NhbCB7CiAgCn0K</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">b25TZWxlY3Q9e3NlbGYub25TZWxlY3REZXZpY2UuYmluZChzZWxmKX0g</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBvblNlbGVjdERldmljZShkZXZpY2UpIHsKICAgIGNvbnNvbGUubG9nKGRldmljZSk7CiAgfQo=</text>
+        <text encoding="base64">LmRldmljZUl0ZW0gewoKfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
