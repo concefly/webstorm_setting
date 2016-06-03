@@ -946,11 +946,11 @@
         <mark key="^" line="358" column="51" />
         <mark key="." line="358" column="51" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/components/DeskBoard/Chat.jsx" timestamp="1464773989474">
-        <mark key="[" line="61" column="26" />
-        <mark key="]" line="61" column="26" />
-        <mark key="." line="61" column="26" />
-        <mark key="^" line="31" column="74" />
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/components/DeskBoard/Chat.jsx" timestamp="1464940096533">
+        <mark key="[" line="56" column="17" />
+        <mark key="]" line="54" column="13" />
+        <mark key="." line="54" column="13" />
+        <mark key="^" line="54" column="13" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/font.scss" timestamp="1449712262284">
         <mark key="[" line="13" column="7" />
@@ -1671,24 +1671,17 @@
         <mark key="^" line="56" column="31" />
         <mark key="." line="56" column="31" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/components/DeskBoard/Book.jsx" timestamp="1464838953153">
-        <mark key="'" line="127" column="67" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="64" column="7" />
-        <mark key="." line="62" column="0" />
-        <mark key="^" line="47" column="15" />
-      </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/paragraph/paragraph-titled.html" timestamp="1449556151712">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="^" line="2" column="33" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/styles/lark.less" timestamp="1464774084975">
-        <mark key="[" line="278" column="19" />
-        <mark key="]" line="985" column="24" />
-        <mark key="." line="985" column="24" />
-        <mark key="^" line="985" column="24" />
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/styles/lark.less" timestamp="1464940012263">
+        <mark key="[" line="1063" column="26" />
+        <mark key="]" line="1060" column="16" />
+        <mark key="." line="1060" column="16" />
+        <mark key="^" line="1060" column="16" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/component/loading.scss" timestamp="1449569238770">
         <mark key="[" line="16" column="23" />
@@ -1945,43 +1938,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB7c2VsZi5wcm9wcy5kZXZpY2VzLm1hcChkZXZpY2UgPT4gKAogICAgICAgICkpfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxidXR0b24+QTwvYnV0dG9uPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>array</text>
+        <text>between</text>
       </register>
       <register name="/" type="4">
         <text>onClick</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBkZXZpY2VzOiBQcm9wVHlwZXMuYXJyYXkuaXNSZXF1aXJlZCwKICBvblNlbGVjdERldmljZTogUHJvcFR5cGVzLmZ1bmMK</text>
+        <text encoding="base64">ICAgICAgICAgIDxidXR0b24+QTwvYnV0dG9uPgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB7c2VsZi5wcm9wcy5kZXZpY2VzLm1hcChkZXZpY2UgPT4gKAogICAgICAgICkpfQo=</text>
+      <register name="1" type="4">
+        <text>between</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>space</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxEZXZpY2UKICAgICAgICAgICAga2V5PXtkZXZpY2UuaWR9CiAgICAgICAgICAgIGRldmljZT17ZGV2aWNlfQogICAgICAgICAgICBvbkNsaWNrPXtzZWxmLm9uU2VsZWN0RGV2aWNlLmJpbmQoc2VsZil9IC8+Cg==</text>
+        <text encoding="base64">ICAgICAgZGlzcGxheTogZmxleDsK</text>
       </register>
       <register name="4" type="4">
-        <text>array</text>
+        <text>buttons</text>
       </register>
-      <register name="5" type="4">
-        <text>array</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB7c2VsZi5wcm9wcy5kZXZpY2VzLm1hcChkZXZpY2UgPT4gKAogICAgICAgICkpfQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>array</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaWQ6IDIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxEZXZpY2UKICAgICAgICAgICAga2V5PXtkZXZpY2UuaWR9CiAgICAgICAgICAgIGRldmljZT17ZGV2aWNlfQogICAgICAgICAgICBvbkNsaWNrPXtzZWxmLm9uU2VsZWN0RGV2aWNlLmJpbmQoc2VsZil9IC8+Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaWQ6IDEsCg==</text>
+      <register name="8" type="4">
+        <text>array</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeyIwIn0K</text>
+      <register name="9" type="4">
+        <text>array</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
