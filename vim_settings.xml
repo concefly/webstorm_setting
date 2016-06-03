@@ -181,7 +181,7 @@
         <mark key="^" line="19" column="23" />
         <mark key="." line="19" column="23" />
       </file>
-      <file name="$USER_HOME$/project/iLight/web-client/src/components/Devices/style.less" timestamp="1464919846319">
+      <file name="$USER_HOME$/project/iLight/web-client/src/components/Devices/style.less" timestamp="1464922479939">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1929,7 +1929,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cjpsb2NhbCB7CiAgCn0K</text>
+        <text encoding="base64">OmxvY2FsKC5kZXZpY2VJdGVtKSB7Cgp9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>}</text>
@@ -1941,31 +1941,31 @@
         <text encoding="base64">ICAgICAgICAgIHtzZWxmLnByb3BzLmRldmljZS5uYW1lfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cjpsb2NhbCB7CiAgCn0K</text>
+        <text encoding="base64">OmxvY2FsKC5kZXZpY2VJdGVtKSB7Cgp9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cjpsb2NhbCB7CiAgCn0K</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">LmRldmljZUl0ZW0gewoKfQo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>}</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB7Lyo8TGluayB0bz17YC9tYW51YWwvZGV2aWNlcy8ke3NlbGYucHJvcHMuZGV2aWNlLmlkfWB9ID4KICAgICAgICAgIHtzZWxmLnByb3BzLmRldmljYGBlLm5hbWV9CiAgICAgICAgPC9MaW5rPiAqL30K</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>/</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">b25TZWxlY3Q9e3NlbGYub25TZWxlY3REZXZpY2UuYmluZChzZWxmKX0g</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBvblNlbGVjdERldmljZShkZXZpY2UpIHsKICAgIGNvbnNvbGUubG9nKGRldmljZSk7CiAgfQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB7c2VsZi5wcm9wcy5kZXZpY2UubmFtZX0K</text>
+        <text encoding="base64">ICBvblNlbGVjdERldmljZShkZXZpY2UpIHsKICAgIGNvbnNvbGUubG9nKGRldmljZSk7CiAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
