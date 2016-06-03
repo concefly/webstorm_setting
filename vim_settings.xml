@@ -442,10 +442,11 @@
         <mark key="^" line="21" column="30" />
         <mark key="." line="21" column="30" />
       </file>
-      <file name="$USER_HOME$/project/iLight/web-client/src/components/Devices/DeviceList.jsx" timestamp="1464929040841">
+      <file name="$USER_HOME$/project/iLight/web-client/src/components/Devices/DeviceList.jsx" timestamp="1464931885596">
         <mark key="[" line="50" column="11" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
+        <mark key="]" line="44" column="14" />
+        <mark key="." line="44" column="14" />
+        <mark key="^" line="44" column="14" />
       </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/resources/views/cms/post/post_normal.blade.php" timestamp="1449742598779">
         <mark key="[" line="119" column="0" />
