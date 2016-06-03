@@ -181,6 +181,11 @@
         <mark key="^" line="19" column="23" />
         <mark key="." line="19" column="23" />
       </file>
+      <file name="$USER_HOME$/project/iLight/web-client/src/components/Devices/style.less" timestamp="1464919846319">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/app/Http/Controllers/Admin/AdminController.php" timestamp="1450066153291">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -426,11 +431,11 @@
         <mark key="^" line="21" column="30" />
         <mark key="." line="21" column="30" />
       </file>
-      <file name="$USER_HOME$/project/iLight/web-client/src/components/Devices/DeviceList.jsx" timestamp="1464863426848">
-        <mark key="[" line="1" column="7" />
-        <mark key="]" line="1" column="7" />
-        <mark key="^" line="11" column="24" />
-        <mark key="." line="1" column="7" />
+      <file name="$USER_HOME$/project/iLight/web-client/src/components/Devices/DeviceList.jsx" timestamp="1464919523065">
+        <mark key="[" line="16" column="13" />
+        <mark key="]" line="16" column="14" />
+        <mark key="." line="16" column="14" />
+        <mark key="^" line="16" column="21" />
       </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/resources/views/cms/post/post_normal.blade.php" timestamp="1449742598779">
         <mark key="[" line="119" column="0" />
@@ -902,11 +907,10 @@
         <mark key="]" line="43" column="20" />
         <mark key="." line="43" column="20" />
       </file>
-      <file name="$USER_HOME$/project/iLight/web-client/src/components/Devices/Container.jsx" timestamp="1464886267238">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="29" column="25" />
-        <mark key="." line="29" column="25" />
-        <mark key="^" line="29" column="25" />
+      <file name="$USER_HOME$/project/iLight/web-client/src/components/Devices/Container.jsx" timestamp="1464918455245">
+        <mark key="[" line="17" column="14" />
+        <mark key="]" line="17" column="14" />
+        <mark key="." line="17" column="14" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/publish-timer.tpl" timestamp="1453713861549">
         <mark key="[" line="29" column="15" />
@@ -979,11 +983,11 @@
         <mark key="^" line="27" column="14" />
         <mark key="." line="27" column="14" />
       </file>
-      <file name="$USER_HOME$/project/iLight/web-client/src/routes/index.js" timestamp="1464883735829">
-        <mark key="[" line="10" column="31" />
-        <mark key="]" line="13" column="32" />
-        <mark key="." line="13" column="32" />
-        <mark key="^" line="13" column="32" />
+      <file name="$USER_HOME$/project/iLight/web-client/src/routes/index.js" timestamp="1464918600452">
+        <mark key="[" line="14" column="59" />
+        <mark key="]" line="14" column="32" />
+        <mark key="." line="14" column="32" />
+        <mark key="^" line="14" column="32" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/components/vrVideo/vrVideo.js" timestamp="1457515479272">
         <mark key="[" line="8" column="44" />
@@ -1247,11 +1251,10 @@
         <mark key="^" line="2" column="26" />
         <mark key="." line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/project/iLight/web-client/src/components/Devices/Device.jsx" timestamp="1464861237135">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="52" />
-        <mark key="." line="6" column="13" />
-        <mark key="^" line="6" column="13" />
+      <file name="$USER_HOME$/project/iLight/web-client/src/components/Devices/Device.jsx" timestamp="1464917649937">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/resources/assets/js/cms/post/post_normal.js" timestamp="1449742339269">
         <mark key="[" line="6" column="40" />
@@ -1707,8 +1710,8 @@
         <mark key="^" line="11" column="188" />
         <mark key="." line="11" column="188" />
       </file>
-      <file name="$USER_HOME$/project/iLight/web-client/src/Mock/index.js" timestamp="1464863742570">
-        <mark key="[" line="5" column="6" />
+      <file name="$USER_HOME$/project/iLight/web-client/src/Mock/index.js" timestamp="1464917618978">
+        <mark key="[" line="4" column="13" />
         <mark key="]" line="7" column="11" />
         <mark key="." line="7" column="11" />
         <mark key="^" line="7" column="11" />
@@ -1925,44 +1928,44 @@
       <jump line="127" column="67" filename="$USER_HOME$/project/flaming-cloud/contactor/src/components/DeskBoard/Book.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICBmdW5jdGlvbiAoc3RhdGUpIHsKICAgIHJldHVybiB7fQogIH0=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cjpsb2NhbCB7CiAgCn0K</text>
       </register>
       <register name="-" type="4">
-        <text>Container</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>onClick</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHtjb25uZWN0fSBmcm9tICdyZWFjdC1yZWR1eCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHtzZWxmLnByb3BzLmRldmljZS5uYW1lfQo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICBmdW5jdGlvbiAoc3RhdGUpIHsKICAgIHJldHVybiB7fQogIH0=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cjpsb2NhbCB7CiAgCn0K</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAoc3RhdGUpID0+ICgKICAgIAogICk=</text>
+      <register name="3" type="2">
+        <text encoding="base64">LmRldmljZUl0ZW0gewoKfQo=</text>
       </register>
       <register name="4" type="4">
-        <text>Container</text>
+        <text>}</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB7Lyo8TGluayB0bz17YC9tYW51YWwvZGV2aWNlcy8ke3NlbGYucHJvcHMuZGV2aWNlLmlkfWB9ID4KICAgICAgICAgIHtzZWxmLnByb3BzLmRldmljYGBlLm5hbWV9CiAgICAgICAgPC9MaW5rPiAqL30K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">TWFudWFsLnByb3BUeXBlcyA9IHsKICBzdGF0ZTogUHJvcFR5cGVzLm9iamVjdAp9Owo=</text>
+      <register name="6" type="4">
+        <text>/</text>
       </register>
       <register name="7" type="4">
-        <text>...self.props</text>
+        <text encoding="base64">b25TZWxlY3Q9e3NlbGYub25TZWxlY3REZXZpY2UuYmluZChzZWxmKX0g</text>
       </register>
-      <register name="8" type="4">
-        <text>storeDate</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBvblNlbGVjdERldmljZShkZXZpY2UpIHsKICAgIGNvbnNvbGUubG9nKGRldmljZSk7CiAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC4uLnN0YXRlLAo=</text>
+        <text encoding="base64">ICAgICAgICB7c2VsZi5wcm9wcy5kZXZpY2UubmFtZX0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
