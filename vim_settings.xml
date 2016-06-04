@@ -757,6 +757,7 @@
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
+      <file name="$USER_HOME$/project/iLight/iLight-client/build/web/src/App.vue" timestamp="1465013976194" />
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/article_topic.blade.php" timestamp="1455761198747">
         <mark key="[" line="28" column="33" />
         <mark key="]" line="28" column="48" />
@@ -1940,11 +1941,11 @@
       <jump line="127" column="67" filename="$USER_HOME$/project/flaming-cloud/contactor/src/components/DeskBoard/Book.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxidXR0b24+QTwvYnV0dG9uPgo=</text>
+      <register name="&quot;" type="4">
+        <text>ISC</text>
       </register>
       <register name="-" type="4">
-        <text>between</text>
+        <text>ISC</text>
       </register>
       <register name="/" type="4">
         <text>onClick</text>
@@ -1953,28 +1954,28 @@
         <text encoding="base64">ICAgICAgICAgIDxidXR0b24+QTwvYnV0dG9uPgo=</text>
       </register>
       <register name="1" type="4">
-        <text>between</text>
+        <text>ISC</text>
       </register>
       <register name="2" type="4">
+        <text>between</text>
+      </register>
+      <register name="3" type="4">
         <text>space</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgZGlzcGxheTogZmxleDsK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>buttons</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB7c2VsZi5wcm9wcy5kZXZpY2VzLm1hcChkZXZpY2UgPT4gKAogICAgICAgICkpfQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgIDxEZXZpY2UKICAgICAgICAgICAga2V5PXtkZXZpY2UuaWR9CiAgICAgICAgICAgIGRldmljZT17ZGV2aWNlfQogICAgICAgICAgICBvbkNsaWNrPXtzZWxmLm9uU2VsZWN0RGV2aWNlLmJpbmQoc2VsZil9IC8+Cg==</text>
-      </register>
-      <register name="8" type="4">
-        <text>array</text>
       </register>
       <register name="9" type="4">
         <text>array</text>
