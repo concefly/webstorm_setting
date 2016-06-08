@@ -1745,6 +1745,11 @@
         <mark key="^" line="25" column="31" />
         <mark key="." line="25" column="31" />
       </file>
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/index.html" timestamp="1465373025474">
+        <mark key="[" line="30" column="16" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/libs/utils/util.js" timestamp="1455612713858">
         <mark key="[" line="32" column="39" />
         <mark key="]" line="52" column="38" />
@@ -1997,7 +2002,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmKFN5cy5pZSkgZG9jdW1lbnQud3JpdGUoJ0lFOiAnK1N5cy5pZSk7CiAgICBpZihTeXMuZmlyZWZveCkgZG9jdW1lbnQud3JpdGUoJ0ZpcmVmb3g6ICcrU3lzLmZpcmVmb3gpOwogICAgaWYoU3lzLmNocm9tZSkgZG9jdW1lbnQud3JpdGUoJ0Nocm9tZTogJytTeXMuY2hyb21lKTsKICAgIGlmKFN5cy5vcGVyYSkgZG9jdW1lbnQud3JpdGUoJ09wZXJhOiAnK1N5cy5vcGVyYSk7CiAgICBpZihTeXMuc2FmYXJpKSBkb2N1bWVudC53cml0ZSgnU2FmYXJpOiAnK1N5cy5zYWZhcmkpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>hash.match(pattern)</text>
@@ -2009,31 +2014,31 @@
         <text>/^\/([\w_]+)\/([\w_])/</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmKFN5cy5pZSkgZG9jdW1lbnQud3JpdGUoJ0lFOiAnK1N5cy5pZSk7CiAgICBpZihTeXMuZmlyZWZveCkgZG9jdW1lbnQud3JpdGUoJ0ZpcmVmb3g6ICcrU3lzLmZpcmVmb3gpOwogICAgaWYoU3lzLmNocm9tZSkgZG9jdW1lbnQud3JpdGUoJ0Nocm9tZTogJytTeXMuY2hyb21lKTsKICAgIGlmKFN5cy5vcGVyYSkgZG9jdW1lbnQud3JpdGUoJ09wZXJhOiAnK1N5cy5vcGVyYSk7CiAgICBpZihTeXMuc2FmYXJpKSBkb2N1bWVudC53cml0ZSgnU2FmYXJpOiAnK1N5cy5zYWZhcmkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbGV0IHRhcmdldFVybCA9IGBodHRwczovL3VzZXIuY2xvdWQuYWxpcGF5LmNvbS8jLyR7dGlkfS8ke3dpZH0vdGlja2V0cy9zdWJtaXRgOwogICAgICB3aW5kb3cub3Blbih0YXJnZXRVcmwsICJfYmxhbmsiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>hash.match(pattern)</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>hash.match(pattern)</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGhhc2gubWF0Y2gocGF0dGVybikpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>yhtest2</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>orderTest</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxldCBbdGlkLCB3aWRdID0gaGFzaC5tYXRjaCgvXlwvKFtcd19dKylcLyhbXHdfXSkvKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxldCB7dGlkLCB3aWR9ID0gaGFzaC5tYXRjaCgvXC8oPzx0aWQ+MikvKTsK</text>
+        <text encoding="base64">CiAgICAvL+S7peS4i+i/m+ihjOa1i+ivlQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
