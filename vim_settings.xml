@@ -293,6 +293,11 @@
         <mark key="^" line="1" column="18" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/update-browser.html" timestamp="1465374046122">
+        <mark key="[" line="10" column="5" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/pagination.scss" timestamp="1455610864241">
         <mark key="[" line="66" column="0" />
         <mark key="]" line="66" column="0" />
@@ -1382,6 +1387,11 @@
         <mark key="^" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/webpack.config.js" timestamp="1465373719487">
+        <mark key="[" line="3" column="42" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/project/iLight/iLight-client/build/web/src/main.js" timestamp="1465036627086">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="6" />
@@ -1745,10 +1755,11 @@
         <mark key="^" line="25" column="31" />
         <mark key="." line="25" column="31" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/index.html" timestamp="1465373025474">
-        <mark key="[" line="30" column="16" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/index.html" timestamp="1465374830570">
+        <mark key="[" line="30" column="21" />
+        <mark key="]" line="30" column="21" />
+        <mark key="." line="30" column="21" />
+        <mark key="^" line="27" column="25" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/libs/utils/util.js" timestamp="1455612713858">
         <mark key="[" line="32" column="39" />
@@ -2001,11 +2012,11 @@
       <jump line="127" column="67" filename="$USER_HOME$/project/flaming-cloud/contactor/src/components/DeskBoard/Book.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmKFN5cy5pZSkgZG9jdW1lbnQud3JpdGUoJ0lFOiAnK1N5cy5pZSk7CiAgICBpZihTeXMuZmlyZWZveCkgZG9jdW1lbnQud3JpdGUoJ0ZpcmVmb3g6ICcrU3lzLmZpcmVmb3gpOwogICAgaWYoU3lzLmNocm9tZSkgZG9jdW1lbnQud3JpdGUoJ0Nocm9tZTogJytTeXMuY2hyb21lKTsKICAgIGlmKFN5cy5vcGVyYSkgZG9jdW1lbnQud3JpdGUoJ09wZXJhOiAnK1N5cy5vcGVyYSk7CiAgICBpZihTeXMuc2FmYXJpKSBkb2N1bWVudC53cml0ZSgnU2FmYXJpOiAnK1N5cy5zYWZhcmkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>)==&quot;undefined&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>hash.match(pattern)</text>
+        <text>)==&quot;undefined&quot;</text>
       </register>
       <register name="/" type="4">
         <text>onClick</text>
@@ -2013,32 +2024,32 @@
       <register name="0" type="4">
         <text>/^\/([\w_]+)\/([\w_])/</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmKFN5cy5pZSkgZG9jdW1lbnQud3JpdGUoJ0lFOiAnK1N5cy5pZSk7CiAgICBpZihTeXMuZmlyZWZveCkgZG9jdW1lbnQud3JpdGUoJ0ZpcmVmb3g6ICcrU3lzLmZpcmVmb3gpOwogICAgaWYoU3lzLmNocm9tZSkgZG9jdW1lbnQud3JpdGUoJ0Nocm9tZTogJytTeXMuY2hyb21lKTsKICAgIGlmKFN5cy5vcGVyYSkgZG9jdW1lbnQud3JpdGUoJ09wZXJhOiAnK1N5cy5vcGVyYSk7CiAgICBpZihTeXMuc2FmYXJpKSBkb2N1bWVudC53cml0ZSgnU2FmYXJpOiAnK1N5cy5zYWZhcmkpOwo=</text>
+      <register name="1" type="4">
+        <text>)==&quot;undefined&quot;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coU3lzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVhLCBTeXMpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>Document</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PGh0bWwgbGFuZz0iemgiPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PGh0PC9odG1sPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXBkYXRlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAvL+S7peS4i+i/m+ihjOa1i+ivlQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh3ZWJwYWNrQ29uZmlnLmVudHJpZXMpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
