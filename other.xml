@@ -48,6 +48,6 @@
     <option name="SHOW_PATH" value="true" />
   </component>
   <component name="NodeLocalInterpreterManager">
-    <node-interpreter path="/usr/bin/node" version="0.10.25" last-modified="1395908252000" />
+    <node-interpreter path="/usr/bin/node" version="(Does not exist)" last-modified="1466562970791" />
   </component>
 </application>
