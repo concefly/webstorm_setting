@@ -829,6 +829,12 @@
         <mark key="^" line="3" column="86" />
         <mark key="." line="3" column="79" />
       </file>
+      <file name="$USER_HOME$/project/my/recorder-server/model/recorder.js" timestamp="1466566691823">
+        <mark key="[" line="50" column="53" />
+        <mark key="]" line="50" column="53" />
+        <mark key="." line="50" column="53" />
+        <mark key="^" line="50" column="58" />
+      </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/user/home/style.scss" timestamp="1453796008151">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -1061,7 +1067,7 @@
         <mark key="^" line="10" column="5" />
         <mark key="." line="10" column="5" />
       </file>
-      <file name="$USER_HOME$/project/my/recorder-server/app.js" timestamp="1466563845044">
+      <file name="$USER_HOME$/project/my/recorder-server/app.js" timestamp="1466566069951">
         <mark key="[" line="25" column="25" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/libs/utils/query.js" timestamp="1455678836717">
@@ -1347,10 +1353,11 @@
         <mark key="^" line="7" column="40" />
         <mark key="." line="7" column="40" />
       </file>
-      <file name="$USER_HOME$/project/my/recorder-server/routes/recorder.js" timestamp="1466564084983">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/project/my/recorder-server/routes/recorder.js" timestamp="1466567235932">
+        <mark key="[" line="21" column="28" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="0" />
       </file>
       <file name="$USER_HOME$/project/iLight/iLight-client/build/web/src/Home.vue" timestamp="1465035211245">
         <mark key="[" line="0" column="0" />
@@ -2025,43 +2032,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cm91dGVyKCIvc3RvcmUvOnNuYW1lIikKICAucG9zdChmdW5jdGlvbiAocmVxLCByZXMpIHsKICAgIAogIH0pCg==</text>
+        <text encoding="base64">dmFyIGNvcnMgPSByZXF1aXJlKCdjb3JzJyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)==&quot;undefined&quot;</text>
+        <text>, req.params.step</text>
       </register>
       <register name="/" type="4">
         <text>onClick</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dmFyIGV4cHJlc3MgPSByZXF1aXJlKCdleHByZXNzJyk7CnZhciByb3V0ZXIgPSBleHByZXNzLlJvdXRlcigpOwoKLyogR0VUIGhvbWUgcGFnZS4gKi8Kcm91dGVyLmdldCgnLycsIGZ1bmN0aW9uKHJlcSwgcmVzLCBuZXh0KSB7CiAgcmVzLnJlbmRlcignaW5kZXgnLCB7IHRpdGxlOiAnRXhwcmVzcycgfSk7Cn0pOwoKbW9kdWxlLmV4cG9ydHMgPSByb3V0ZXI7Cg==</text>
+        <text encoding="base64">cm91dGVyLmdldCgnL3N0b3JlLzpzbmFtZS86c3RlcCcsIGZ1bmN0aW9uIChyZXEsIHJlcykgewogIHJlcy5qc29uKHJlY29yZGVyU3RvcmUuZ2V0U3RvcmVCeVN0ZXAocmVxLnBhcmFtcy5zbmFtZSwgcmVxLnBhcmFtcy5zdGVwKSk7Cn0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cm91dGVyKCIvc3RvcmUvOnNuYW1lIikKICAucG9zdChmdW5jdGlvbiAocmVxLCByZXMpIHsKICAgIAogIH0pCg==</text>
+        <text encoding="base64">dmFyIGNvcnMgPSByZXF1aXJlKCdjb3JzJyk7Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">LyogR0VUIGhvbWUgcGFnZS4gKi8K</text>
+      <register name="2" type="4">
+        <text>, req.params.step</text>
       </register>
       <register name="3" type="4">
-        <text>)==&quot;undefined&quot;</text>
+        <text>Step</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coU3lzKTsK</text>
+      <register name="4" type="4">
+        <text>/:step</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVhLCBTeXMpOwo=</text>
+      <register name="5" type="4">
+        <text>.</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="6" type="4">
+        <text>step</text>
       </register>
       <register name="7" type="4">
-        <text>Document</text>
+        <text>step</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">PGh0bWwgbGFuZz0iemgiPgo=</text>
+      <register name="8" type="4">
+        <text>[step-1]</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PGh0PC9odG1sPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
