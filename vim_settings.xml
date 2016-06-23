@@ -125,12 +125,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="8" column="23" />
       </file>
-      <file name="$USER_HOME$/project/iLight/iLight-client/build/web/mock/index.js" timestamp="1465045038962">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/containers/DeskBoard.jsx" timestamp="1465178142246">
-        <mark key="[" line="104" column="33" />
-      </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/partials/layout/layout.tpl" timestamp="1450250987109">
         <mark key="[" line="12" column="60" />
         <mark key="]" line="12" column="60" />
@@ -853,9 +847,6 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/project/iLight/iLight-client/build/web/package.json" timestamp="1465045237603">
-        <mark key="[" line="7" column="36" />
-      </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.list.js" timestamp="1450423705050">
         <mark key="[" line="52" column="31" />
         <mark key="]" line="53" column="40" />
@@ -921,9 +912,6 @@
         <mark key="]" line="10" column="37" />
         <mark key="^" line="10" column="37" />
         <mark key="." line="10" column="37" />
-      </file>
-      <file name="$USER_HOME$/project/iLight/iLight-client/build/web/src/site/manual/device.vue" timestamp="1465036370640">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/article.scss" timestamp="1449221982648">
         <mark key="[" line="5" column="17" />
@@ -1001,12 +989,6 @@
         <mark key="]" line="358" column="51" />
         <mark key="^" line="358" column="51" />
         <mark key="." line="358" column="51" />
-      </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/components/DeskBoard/Chat.jsx" timestamp="1465180080380">
-        <mark key="[" line="56" column="54" />
-        <mark key="]" line="56" column="9" />
-        <mark key="." line="56" column="9" />
-        <mark key="^" line="56" column="9" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/font.scss" timestamp="1449712262284">
         <mark key="[" line="13" column="7" />
@@ -1148,9 +1130,6 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/project/iLight/iLight-client/build/web/src/manual/index.vue" timestamp="1465035634210">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/author/author.list.tpl" timestamp="1450234718840">
         <mark key="[" line="28" column="48" />
         <mark key="]" line="29" column="75" />
@@ -1217,12 +1196,9 @@
         <mark key="." line="1" column="37" />
       </file>
       <file name="$USER_HOME$/project/flaming-cloud/contactor/src/entry/Lark.jsx" timestamp="1465180228865">
-        <mark key="[" line="430" column="0" />
-        <mark key="]" line="430" column="0" />
-        <mark key="." line="430" column="0" />
-      </file>
-      <file name="$USER_HOME$/project/iLight/iLight-client/app/build/template/base.html" timestamp="1465012417976">
-        <mark key="[" line="50" column="13" />
+        <mark key="[" line="434" column="0" />
+        <mark key="]" line="434" column="0" />
+        <mark key="." line="434" column="0" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/home/base.tpl" timestamp="1455696872098">
         <mark key="[" line="46" column="32" />
@@ -1792,12 +1768,6 @@
         <mark key="^" line="2" column="33" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/styles/lark.less" timestamp="1464940012263">
-        <mark key="[" line="1063" column="26" />
-        <mark key="]" line="1060" column="16" />
-        <mark key="." line="1060" column="16" />
-        <mark key="^" line="1060" column="16" />
-      </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/component/loading.scss" timestamp="1449569238770">
         <mark key="[" line="16" column="23" />
         <mark key="]" line="25" column="31" />
@@ -1827,9 +1797,6 @@
         <mark key="]" line="4" column="5" />
         <mark key="^" line="4" column="5" />
         <mark key="." line="4" column="5" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1465046173777">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/user/profile/add_avatar_dialog.tpl" timestamp="1455596653596">
         <mark key="[" line="11" column="183" />
