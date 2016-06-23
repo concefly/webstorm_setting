@@ -261,7 +261,7 @@
         <mark key="^" line="24" column="22" />
         <mark key="." line="24" column="22" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/lib/api.js" timestamp="1466654309980">
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/lib/api.js" timestamp="1466663401766">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
@@ -1756,11 +1756,10 @@
         <mark key="^" line="6" column="2" />
         <mark key="." line="6" column="2" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/lib/component.jsx" timestamp="1466654455849">
-        <mark key="[" line="41" column="12" />
-        <mark key="]" line="41" column="27" />
-        <mark key="." line="41" column="27" />
-        <mark key="^" line="41" column="27" />
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/lib/component.jsx" timestamp="1466663727712">
+        <mark key="[" line="207" column="0" />
+        <mark key="]" line="207" column="0" />
+        <mark key="." line="207" column="0" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/home/base.js" timestamp="1455695623488">
         <mark key="[" line="9" column="16" />
@@ -2056,7 +2055,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text encoding="base64">ICAgICAgICAgIDxidXR0b24gb25DbGljaz17c2VsZi5oYW5kbGVDaGFuZ2UyUmVjb3JkZXIuYmluZCh0aGlzKX0+5b2V5Yi2PC9idXR0b24+CiAgICAgICAgICA8YnV0dG9uIG9uQ2xpY2s9e3NlbGYuaGFuZGxlQ2hhbmdlMlBsYXllci5iaW5kKHRoaXMpfT7lm57mlL48L2J1dHRvbj4=</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -2068,13 +2067,13 @@
         <text encoding="base64">ICAnL3JlY29yZGVyL3N0b3JlLyonOiAnaHR0cDovL2xvY2FsaG9zdDozMDAwLycsCg==</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICAgIDxidXR0b24gb25DbGljaz17c2VsZi5oYW5kbGVDaGFuZ2UyUmVjb3JkZXIuYmluZCh0aGlzKX0+5b2V5Yi2PC9idXR0b24+CiAgICAgICAgICA8YnV0dG9uIG9uQ2xpY2s9e3NlbGYuaGFuZGxlQ2hhbmdlMlBsYXllci5iaW5kKHRoaXMpfT7lm57mlL48L2J1dHRvbj4=</text>
+      </register>
+      <register name="2" type="4">
         <text>,</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgbmV4dFN0YXRlCg==</text>
-      </register>
-      <register name="3" type="4">
-        <text>action, nextState</text>
       </register>
       <register name="4" type="4">
         <text>action, nextState</text>
@@ -2083,13 +2082,13 @@
         <text>action, nextState</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICAgICAgYWN0aW9uOiBhY3Rpb24sCiAgICAgIG5leHRTdGF0ZTogbmV3U3RhdGU=</text>
+        <text>action, nextState</text>
       </register>
       <register name="7" type="4">
-        <text>, newState</text>
+        <text encoding="base64">ICAgICAgYWN0aW9uOiBhY3Rpb24sCiAgICAgIG5leHRTdGF0ZTogbmV3U3RhdGU=</text>
       </register>
       <register name="8" type="4">
-        <text>action</text>
+        <text>, newState</text>
       </register>
       <register name="9" type="4">
         <text>action</text>
