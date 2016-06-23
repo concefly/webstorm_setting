@@ -261,11 +261,11 @@
         <mark key="^" line="24" column="22" />
         <mark key="." line="24" column="22" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/lib/api.js" timestamp="1466663401766">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
-        <mark key="^" line="51" column="31" />
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/lib/api.js" timestamp="1466667961830">
+        <mark key="[" line="55" column="16" />
+        <mark key="]" line="56" column="20" />
+        <mark key="." line="56" column="20" />
+        <mark key="^" line="56" column="20" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/component/label.scss" timestamp="1449474126764">
         <mark key="[" line="63" column="47" />
@@ -1400,6 +1400,7 @@
         <mark key="^" line="1" column="67" />
         <mark key="." line="1" column="67" />
       </file>
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/lib/style.less" timestamp="1466665070430" />
       <file name="$USER_HOME$/project/heix/passport-frontend/resources/signup/signup.phone.tpl" timestamp="1452680759212">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
@@ -1756,10 +1757,11 @@
         <mark key="^" line="6" column="2" />
         <mark key="." line="6" column="2" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/lib/component.jsx" timestamp="1466663727712">
-        <mark key="[" line="207" column="0" />
-        <mark key="]" line="207" column="0" />
-        <mark key="." line="207" column="0" />
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/lib/component.jsx" timestamp="1466669643448">
+        <mark key="[" line="168" column="0" />
+        <mark key="]" line="168" column="0" />
+        <mark key="." line="168" column="0" />
+        <mark key="^" line="206" column="47" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/home/base.js" timestamp="1455695623488">
         <mark key="[" line="9" column="16" />
@@ -2054,44 +2056,44 @@
       <jump line="127" column="67" filename="$USER_HOME$/project/flaming-cloud/contactor/src/components/DeskBoard/Book.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgIDxidXR0b24gb25DbGljaz17c2VsZi5oYW5kbGVDaGFuZ2UyUmVjb3JkZXIuYmluZCh0aGlzKX0+5b2V5Yi2PC9idXR0b24+CiAgICAgICAgICA8YnV0dG9uIG9uQ2xpY2s9e3NlbGYuaGFuZGxlQ2hhbmdlMlBsYXllci5iaW5kKHRoaXMpfT7lm57mlL48L2J1dHRvbj4=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgc3RhdGU6ICdzdG9wJywKICAgICAgY3VycmVudFN0ZXA6IDEsCiAgICAgIGN1cnJlbnRSZWR1eFN0YXRlOiB7fQo=</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>onClick</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAnL3JlY29yZGVyL3N0b3JlLyonOiAnaHR0cDovL2xvY2FsaG9zdDozMDAwLycsCg==</text>
+        <text encoding="base64">ICAgICAgc3RhdGU6ICdzdG9wJywKICAgICAgbmFtZTogJycsCiAgICAgIHN1bW1hcnk6ICcnLAogICAgICBzdG9yZTogW10sCiAgICAgIGlzU3RvcmVMb2FkaW5nOiBmYWxzZSwKICAgICAgY3VycmVudEFjdGlvbjoge30K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICAgIDxidXR0b24gb25DbGljaz17c2VsZi5oYW5kbGVDaGFuZ2UyUmVjb3JkZXIuYmluZCh0aGlzKX0+5b2V5Yi2PC9idXR0b24+CiAgICAgICAgICA8YnV0dG9uIG9uQ2xpY2s9e3NlbGYuaGFuZGxlQ2hhbmdlMlBsYXllci5iaW5kKHRoaXMpfT7lm57mlL48L2J1dHRvbj4=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgc3RhdGU6ICdzdG9wJywKICAgICAgY3VycmVudFN0ZXA6IDEsCiAgICAgIGN1cnJlbnRSZWR1eFN0YXRlOiB7fQo=</text>
       </register>
       <register name="2" type="4">
-        <text>,</text>
+        <text>null</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbmV4dFN0YXRlCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gewogICAgICAgICAgLi4uKGl0ZW0uYWN0aW9uKSwKICAgICAgICAgIGl0ZW0uCiAgICAgICAgfQ==</text>
       </register>
       <register name="4" type="4">
-        <text>action, nextState</text>
+        <text encoding="base64">ICAgICAgbGV0IGFjdGlvbnMgPSBkYXRhLm1hcChpdGVtID0+ICgKICAgICAgICB7CiAgICAgICAgICAuLi5pdGVtLmFjdGlvbiwgCiAgICAgICAgICBpdGVtLnRpbWVzdGFtcH0pCiAgICAgICk7</text>
       </register>
       <register name="5" type="4">
-        <text>action, nextState</text>
+        <text>item.action</text>
       </register>
-      <register name="6" type="4">
-        <text>action, nextState</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBhY3Rpb25zLm1hcCgoaXRlbSwgaW5kZXgpID0+IHt9KQo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgYWN0aW9uOiBhY3Rpb24sCiAgICAgIG5leHRTdGF0ZTogbmV3U3RhdGU=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICBwdXNoUmVkdXhBY3Rpb24oYWN0aW9uKSB7CiAgfQo=</text>
       </register>
-      <register name="8" type="4">
-        <text>, newState</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>action</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUuaW5mbygicHVzaCByZWR1eCBhY3Rpb24iLCBhY3Rpb24pOwogICAgaWYgKHdpbmRvdy5yZWNvcmRlclB1c2hBY3Rpb24pIHsKICAgICAgd2luZG93LnJlY29yZGVyUHVzaEFjdGlvbihhY3Rpb24pOwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
