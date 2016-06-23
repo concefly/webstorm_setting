@@ -261,6 +261,12 @@
         <mark key="^" line="24" column="22" />
         <mark key="." line="24" column="22" />
       </file>
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/lib/api.js" timestamp="1466654309980">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+        <mark key="^" line="51" column="31" />
+      </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/component/label.scss" timestamp="1449474126764">
         <mark key="[" line="63" column="47" />
         <mark key="]" line="63" column="48" />
@@ -931,6 +937,12 @@
         <mark key="." line="33" column="26" />
         <mark key="^" line="33" column="26" />
       </file>
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/proxy.js" timestamp="1466653847876">
+        <mark key="[" line="10" column="18" />
+        <mark key="]" line="10" column="18" />
+        <mark key="^" line="10" column="47" />
+        <mark key="." line="10" column="18" />
+      </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/home/home.blade.php" timestamp="1455680100079">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="25" />
@@ -1186,11 +1198,11 @@
         <mark key="^" line="6" column="31" />
         <mark key="." line="6" column="31" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/lib/index.js" timestamp="1466652329189">
-        <mark key="[" line="25" column="1" />
-        <mark key="]" line="25" column="1" />
-        <mark key="^" line="25" column="1" />
-        <mark key="." line="25" column="1" />
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/lib/index.js" timestamp="1466654411935">
+        <mark key="[" line="13" column="51" />
+        <mark key="]" line="13" column="57" />
+        <mark key="^" line="13" column="57" />
+        <mark key="." line="13" column="57" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/components/offcanvas/offcanvas.tpl" timestamp="1457506849896">
         <mark key="[" line="21" column="97" />
@@ -1744,6 +1756,12 @@
         <mark key="^" line="6" column="2" />
         <mark key="." line="6" column="2" />
       </file>
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/lib/component.jsx" timestamp="1466654455849">
+        <mark key="[" line="41" column="12" />
+        <mark key="]" line="41" column="27" />
+        <mark key="." line="41" column="27" />
+        <mark key="^" line="41" column="27" />
+      </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/home/base.js" timestamp="1455695623488">
         <mark key="[" line="9" column="16" />
         <mark key="]" line="9" column="17" />
@@ -2037,44 +2055,44 @@
       <jump line="127" column="67" filename="$USER_HOME$/project/flaming-cloud/contactor/src/components/DeskBoard/Book.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>createRecorder</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>onClick</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cm91dGVyLmdldCgnL3N0b3JlLzpzbmFtZS86c3RlcCcsIGZ1bmN0aW9uIChyZXEsIHJlcykgewogIHJlcy5qc29uKHJlY29yZGVyU3RvcmUuZ2V0U3RvcmVCeVN0ZXAocmVxLnBhcmFtcy5zbmFtZSwgcmVxLnBhcmFtcy5zdGVwKSk7Cn0pOwo=</text>
+        <text encoding="base64">ICAnL3JlY29yZGVyL3N0b3JlLyonOiAnaHR0cDovL2xvY2FsaG9zdDozMDAwLycsCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>,</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxJbnRsUHJvdmlkZXIKICAgICAgbG9jYWxlPXthcHBMb2NhbGUubG9jYWxlfQogICAgICBtZXNzYWdlcz17YXBwTG9jYWxlLm1lc3NhZ2VzfQogICAgICBmb3JtYXRzPXthcHBMb2NhbGUuZm9ybWF0c30KICAgID4KICAgICAgPFByb3ZpZGVyIHN0b3JlPXtzdG9yZX0+CiAgICAgICAgPFJvdXRlcyBoaXN0b3J5PXt3aW5kb3cuYXBwSGlzdG9yeX0gLz4KICAgICAgPC9Qcm92aWRlcj4KICAgIDwvSW50bFByb3ZpZGVyPiwK</text>
+        <text encoding="base64">ICAgICAgbmV4dFN0YXRlCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPFJlY29yZGVyIC8+Cg==</text>
+      <register name="3" type="4">
+        <text>action, nextState</text>
       </register>
       <register name="4" type="4">
-        <text>createRecorder</text>
+        <text>action, nextState</text>
       </register>
       <register name="5" type="4">
-        <text>data</text>
+        <text>action, nextState</text>
       </register>
       <register name="6" type="4">
-        <text>, {step: store[sname].length+1}</text>
+        <text encoding="base64">ICAgICAgYWN0aW9uOiBhY3Rpb24sCiAgICAgIG5leHRTdGF0ZTogbmV3U3RhdGU=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB7Cg==</text>
+      <register name="7" type="4">
+        <text>, newState</text>
       </register>
       <register name="8" type="4">
-        <text>}</text>
+        <text>action</text>
       </register>
       <register name="9" type="4">
-        <text>;</text>
+        <text>action</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
