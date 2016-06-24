@@ -789,10 +789,11 @@
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/components/logs/LogList.jsx" timestamp="1466742084525">
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/components/logs/LogList.jsx" timestamp="1466743323230">
         <mark key="[" line="6" column="0" />
-        <mark key="]" line="8" column="2" />
-        <mark key="." line="6" column="0" />
+        <mark key="]" line="79" column="16" />
+        <mark key="." line="79" column="16" />
+        <mark key="^" line="79" column="16" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/article_topic.blade.php" timestamp="1455761198747">
         <mark key="[" line="28" column="33" />
