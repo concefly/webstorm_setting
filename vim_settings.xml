@@ -121,6 +121,9 @@
         <mark key="^" line="7" column="21" />
         <mark key="." line="18" column="11" />
       </file>
+      <file name="$USER_HOME$/project/iLight/iLight-client/build/web/mock/index.js" timestamp="1465045038962">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/project/flaming-cloud/contactor/src/containers/DeskBoard.jsx" timestamp="1466846387352">
         <mark key="[" line="107" column="0" />
         <mark key="]" line="107" column="71" />
@@ -861,6 +864,9 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/project/iLight/iLight-client/build/web/package.json" timestamp="1465045237603">
+        <mark key="[" line="7" column="36" />
+      </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.list.js" timestamp="1450423705050">
         <mark key="[" line="52" column="31" />
         <mark key="]" line="53" column="40" />
@@ -927,6 +933,9 @@
         <mark key="^" line="10" column="37" />
         <mark key="." line="10" column="37" />
       </file>
+      <file name="$USER_HOME$/project/iLight/iLight-client/build/web/src/site/manual/device.vue" timestamp="1465036370640">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/article.scss" timestamp="1449221982648">
         <mark key="[" line="5" column="17" />
         <mark key="]" line="6" column="16" />
@@ -973,6 +982,9 @@
         <mark key="]" line="29" column="26" />
         <mark key="." line="29" column="26" />
         <mark key="^" line="29" column="26" />
+      </file>
+      <file name="$USER_HOME$/project/my/iLighting/web-client/mock/light.js" timestamp="1466872477664">
+        <mark key="[" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/project/iLight/web-client/src/reducer/db.js" timestamp="1464925091233">
         <mark key="[" line="1" column="45" />
@@ -1081,6 +1093,11 @@
         <mark key="^" line="10" column="5" />
         <mark key="." line="10" column="5" />
       </file>
+      <file name="$USER_HOME$/project/my/iLighting/web-client/proxy.config.js" timestamp="1466873407142">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/libs/utils/query.js" timestamp="1455678836717">
         <mark key="[" line="255" column="69" />
         <mark key="]" line="257" column="23" />
@@ -1142,6 +1159,9 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/iLight/iLight-client/build/web/src/manual/index.vue" timestamp="1465035634210">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/author/author.list.tpl" timestamp="1450234718840">
         <mark key="[" line="28" column="48" />
@@ -1213,6 +1233,9 @@
         <mark key="]" line="373" column="17" />
         <mark key="." line="373" column="17" />
         <mark key="^" line="373" column="17" />
+      </file>
+      <file name="$USER_HOME$/project/iLight/iLight-client/app/build/template/base.html" timestamp="1465012417976">
+        <mark key="[" line="50" column="13" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/home/base.tpl" timestamp="1455696872098">
         <mark key="[" line="46" column="32" />
@@ -1812,6 +1835,9 @@
         <mark key="^" line="4" column="5" />
         <mark key="." line="4" column="5" />
       </file>
+      <file name="/JavaScript Console" timestamp="1465046173777">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/user/profile/add_avatar_dialog.tpl" timestamp="1455596653596">
         <mark key="[" line="11" column="183" />
         <mark key="]" line="11" column="188" />
@@ -2037,7 +2063,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb25TdWJtaXRDaGF0PXtzZWxmLnByb3BzLm9uU3VibWl0Q2hhdH0K</text>
+        <text encoding="base64">Y29uc3QgZ2V0TGlnaHQgPSBbCiAgCl0K</text>
       </register>
       <register name="-" type="4">
         <text>message</text>
@@ -2049,31 +2075,31 @@
         <text encoding="base64">ICAgICAgICAgICAgb25TdWJtaXRDaGF0PXtzZWxmLnByb3BzLm9uU3VibWl0Q2hhdH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBvbkNsaWNrPXtzZWxmLnByb3BzLm9uU3VibWl0Q2hhdC5iaW5kKG51bGwsIGl0ZW0udGl0bGUpfQo=</text>
+        <text encoding="base64">Y29uc3QgZ2V0TGlnaHQgPSBbCiAgCl0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHN1Ym1pdENoYXQgPSBzZWxmLnByb3BzLm9uU3VibWl0Q2hhdC5iCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBvbkNsaWNrPXtzZWxmLnByb3BzLm9uU3VibWl0Q2hhdC5iaW5kKG51bGwsIGl0ZW0udGl0bGUpfQo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHN1Ym1pdENoYXQgPSBzZWxmLnByb3BzLm9uU3VibWl0Q2hhdC5iCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBvbkNsaWNrPXtzZWxmLnByb3BzLm9uU3VibWl0Q2hhdC5iaW5kKG51bGwsIGl0ZW0udGl0bGUpfQo=</text>
+      </register>
+      <register name="5" type="4">
         <text>message</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGNvbnN0IG1lc3NhZ2UgPSB7CiAgICAgICJ0eXBlIjogIlVTRVIiLAogICAgICAidHlwZUNvbnZlcnNhdGlvbklkIjogKG5ldyBEYXRlKCkpLnZhbHVlT2YoKSwKICAgICAgInNlbmRlcklkIjogMCwKICAgICAgInNlbmRlck5hbWUiOiAiUGl6biIsCiAgICAgICJyZWNlaXZlcklkIjogImxhcmswMDAwMDAiLAogICAgICAicmVjZWl2ZXJOYW1lIjogIiIsCiAgICAgICJsb2NhdGlvbiI6IG51bGwsCiAgICAgICJjb250ZW50IjogdGhpcy5zdGF0ZS50ZXh0LAogICAgICAiY3JlYXRlZFRpbWUiOiAobmV3IERhdGUoKSkudmFsdWVPZigpCiAgICB9Owo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>this.state.text</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>message</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>msg</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGxldCBtZXNzYWdlID0gewogICAgICAidHlwZSI6ICJVU0VSIiwKICAgICAgInR5cGVDb252ZXJzYXRpb25JZCI6IChuZXcgRGF0ZSgpKS52YWx1ZU9mKCksCiAgICAgICJzZW5kZXJJZCI6IDAsCiAgICAgICJzZW5kZXJOYW1lIjogIlBpem4iLAogICAgICAicmVjZWl2ZXJJZCI6ICJsYXJrMDAwMDAwIiwKICAgICAgInJlY2VpdmVyTmFtZSI6ICIiLAogICAgICAibG9jYXRpb24iOiBudWxsLAogICAgICAiY29udGVudCI6IHRoaXMuc3RhdGUudGV4dCwKICAgICAgImNyZWF0ZWRUaW1lIjogKG5ldyBEYXRlKCkpLnZhbHVlT2YoKQogICAgfTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
