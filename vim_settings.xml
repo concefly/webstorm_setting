@@ -173,11 +173,11 @@
         <mark key="^" line="93" column="27" />
         <mark key="." line="93" column="27" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/containers/Logs.jsx" timestamp="1466838480710">
-        <mark key="[" line="5" column="62" />
-        <mark key="]" line="5" column="62" />
-        <mark key="." line="5" column="62" />
-        <mark key="^" line="282" column="35" />
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/containers/Logs.jsx" timestamp="1466839821704">
+        <mark key="[" line="241" column="18" />
+        <mark key="]" line="247" column="0" />
+        <mark key="." line="247" column="0" />
+        <mark key="^" line="246" column="22" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/libs/pagination/pagination.tpl" timestamp="1455610948586">
         <mark key="[" line="12" column="64" />
@@ -2030,8 +2030,8 @@
       <jump line="105" column="6" filename="$USER_HOME$/project/antcloud/usercenter/client/src/components/logs/LogList.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, Select</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNpemUpCg==</text>
       </register>
       <register name="-" type="4">
         <text>, Select</text>
@@ -2042,32 +2042,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8U2VsZWN0Lk9wdGlvbiB2YWx1ZT0iNSI+NeadoS/pobU8L1NlbGVjdC5PcHRpb24+Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>, Select</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNpemUpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8U2VsZWN0Lk9wdGlvbiB2YWx1ZT0iNSI+NeadoS/pobU8L1NlbGVjdC5PcHRpb24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzaXplPSJzbWFsbCIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb21wb25lbnRXaWxsTW91bnQoKSB7CiAgICB0aGlzLnN0YXJ0Q29udmVydExvZ0RhdGEoKTsKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPFNlbGVjdCB2YWx1ZT17MTB9ID4KICAgICAgICAgICAgICAgICAgICA8U2VsZWN0Lk9wdGlvbiB2YWx1ZT0iMTAiPjEw5p2hL+mhtTwvU2VsZWN0Lk9wdGlvbj4KICAgICAgICAgICAgICAgICAgICA8U2VsZWN0Lk9wdGlvbiB2YWx1ZT0iMjAiPjIw5p2hL+mhtTwvU2VsZWN0Lk9wdGlvbj4KICAgICAgICAgICAgICAgICAgICA8U2VsZWN0Lk9wdGlvbiB2YWx1ZT0iNTAiPjUw5p2hL+mhtTwvU2VsZWN0Lk9wdGlvbj4KICAgICAgICAgICAgICAgICAgPC9TZWxlY3Q+Cg==</text>
       </register>
       <register name="4" type="4">
+        <text>, Select</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8U2VsZWN0Lk9wdGlvbiB2YWx1ZT0iNSI+NeadoS/pobU8L1NlbGVjdC5PcHRpb24+Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBjb21wb25lbnRXaWxsTW91bnQoKSB7CiAgICB0aGlzLnN0YXJ0Q29udmVydExvZ0RhdGEoKTsKICB9Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text>expanding</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>-circle-o</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>-circle-o</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IFNwaW4gZnJvbSAnYW50ZC9saWIvc3Bpbic7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IExvZ0xpc3RJdGVtIGZyb20gJy4vTG9nTGlzdEl0ZW0nOwo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IFBhZ2luYXRpb24gZnJvbSAnYW50ZC9saWIvcGFnaW5hdGlvbic7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
