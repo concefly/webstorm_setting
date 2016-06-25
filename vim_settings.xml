@@ -121,9 +121,10 @@
         <mark key="^" line="7" column="21" />
         <mark key="." line="18" column="11" />
       </file>
-      <file name="$USER_HOME$/project/my/recorder-server/routes/index.js" timestamp="1466563871888">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="8" column="23" />
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/containers/DeskBoard.jsx" timestamp="1466846387352">
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="71" />
+        <mark key="." line="107" column="0" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/partials/layout/layout.tpl" timestamp="1450250987109">
         <mark key="[" line="12" column="60" />
@@ -997,6 +998,12 @@
         <mark key="^" line="358" column="51" />
         <mark key="." line="358" column="51" />
       </file>
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/components/DeskBoard/Chat.jsx" timestamp="1466847409344">
+        <mark key="[" line="116" column="30" />
+        <mark key="]" line="135" column="52" />
+        <mark key="." line="134" column="0" />
+        <mark key="^" line="147" column="34" />
+      </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/font.scss" timestamp="1449712262284">
         <mark key="[" line="13" column="7" />
         <mark key="]" line="13" column="13" />
@@ -1073,9 +1080,6 @@
         <mark key="]" line="10" column="5" />
         <mark key="^" line="10" column="5" />
         <mark key="." line="10" column="5" />
-      </file>
-      <file name="$USER_HOME$/project/my/recorder-server/app.js" timestamp="1466566069951">
-        <mark key="[" line="25" column="25" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/libs/utils/query.js" timestamp="1455678836717">
         <mark key="[" line="255" column="69" />
@@ -1204,10 +1208,11 @@
         <mark key="^" line="1" column="37" />
         <mark key="." line="1" column="37" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/entry/Lark.jsx" timestamp="1465180228865">
-        <mark key="[" line="434" column="0" />
-        <mark key="]" line="434" column="0" />
-        <mark key="." line="434" column="0" />
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/entry/Lark.jsx" timestamp="1466846295345">
+        <mark key="[" line="378" column="17" />
+        <mark key="]" line="373" column="17" />
+        <mark key="." line="373" column="17" />
+        <mark key="^" line="373" column="17" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/home/base.tpl" timestamp="1455696872098">
         <mark key="[" line="46" column="32" />
@@ -1404,11 +1409,11 @@
         <mark key="^" line="19" column="42" />
         <mark key="." line="19" column="42" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/components/DeskBoard/Footer.jsx" timestamp="1464773974884">
-        <mark key="[" line="127" column="32" />
-        <mark key="]" line="127" column="32" />
-        <mark key="." line="127" column="32" />
-        <mark key="^" line="49" column="20" />
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/components/DeskBoard/Footer.jsx" timestamp="1466846320635">
+        <mark key="[" line="39" column="36" />
+        <mark key="]" line="40" column="29" />
+        <mark key="." line="40" column="29" />
+        <mark key="^" line="40" column="29" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/user/user_home.blade.php" timestamp="1453793670852">
         <mark key="[" line="34" column="0" />
@@ -2032,43 +2037,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNpemUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb25TdWJtaXRDaGF0PXtzZWxmLnByb3BzLm9uU3VibWl0Q2hhdH0K</text>
       </register>
       <register name="-" type="4">
-        <text>, Select</text>
+        <text>message</text>
       </register>
       <register name="/" type="4">
         <text>time</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8U2VsZWN0Lk9wdGlvbiB2YWx1ZT0iNSI+NeadoS/pobU8L1NlbGVjdC5PcHRpb24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb25TdWJtaXRDaGF0PXtzZWxmLnByb3BzLm9uU3VibWl0Q2hhdH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNpemUpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBvbkNsaWNrPXtzZWxmLnByb3BzLm9uU3VibWl0Q2hhdC5iaW5kKG51bGwsIGl0ZW0udGl0bGUpfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzaXplPSJzbWFsbCIK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHN1Ym1pdENoYXQgPSBzZWxmLnByb3BzLm9uU3VibWl0Q2hhdC5iCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPFNlbGVjdCB2YWx1ZT17MTB9ID4KICAgICAgICAgICAgICAgICAgICA8U2VsZWN0Lk9wdGlvbiB2YWx1ZT0iMTAiPjEw5p2hL+mhtTwvU2VsZWN0Lk9wdGlvbj4KICAgICAgICAgICAgICAgICAgICA8U2VsZWN0Lk9wdGlvbiB2YWx1ZT0iMjAiPjIw5p2hL+mhtTwvU2VsZWN0Lk9wdGlvbj4KICAgICAgICAgICAgICAgICAgICA8U2VsZWN0Lk9wdGlvbiB2YWx1ZT0iNTAiPjUw5p2hL+mhtTwvU2VsZWN0Lk9wdGlvbj4KICAgICAgICAgICAgICAgICAgPC9TZWxlY3Q+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBvbkNsaWNrPXtzZWxmLnByb3BzLm9uU3VibWl0Q2hhdC5iaW5kKG51bGwsIGl0ZW0udGl0bGUpfQo=</text>
       </register>
       <register name="4" type="4">
-        <text>, Select</text>
+        <text>message</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8U2VsZWN0Lk9wdGlvbiB2YWx1ZT0iNSI+NeadoS/pobU8L1NlbGVjdC5PcHRpb24+Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IG1lc3NhZ2UgPSB7CiAgICAgICJ0eXBlIjogIlVTRVIiLAogICAgICAidHlwZUNvbnZlcnNhdGlvbklkIjogKG5ldyBEYXRlKCkpLnZhbHVlT2YoKSwKICAgICAgInNlbmRlcklkIjogMCwKICAgICAgInNlbmRlck5hbWUiOiAiUGl6biIsCiAgICAgICJyZWNlaXZlcklkIjogImxhcmswMDAwMDAiLAogICAgICAicmVjZWl2ZXJOYW1lIjogIiIsCiAgICAgICJsb2NhdGlvbiI6IG51bGwsCiAgICAgICJjb250ZW50IjogdGhpcy5zdGF0ZS50ZXh0LAogICAgICAiY3JlYXRlZFRpbWUiOiAobmV3IERhdGUoKSkudmFsdWVPZigpCiAgICB9Owo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBjb21wb25lbnRXaWxsTW91bnQoKSB7CiAgICB0aGlzLnN0YXJ0Q29udmVydExvZ0RhdGEoKTsKICB9Cg==</text>
+      <register name="6" type="4">
+        <text>this.state.text</text>
       </register>
       <register name="7" type="4">
-        <text>expanding</text>
+        <text>message</text>
       </register>
       <register name="8" type="4">
-        <text>-circle-o</text>
+        <text>msg</text>
       </register>
-      <register name="9" type="4">
-        <text>-circle-o</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGxldCBtZXNzYWdlID0gewogICAgICAidHlwZSI6ICJVU0VSIiwKICAgICAgInR5cGVDb252ZXJzYXRpb25JZCI6IChuZXcgRGF0ZSgpKS52YWx1ZU9mKCksCiAgICAgICJzZW5kZXJJZCI6IDAsCiAgICAgICJzZW5kZXJOYW1lIjogIlBpem4iLAogICAgICAicmVjZWl2ZXJJZCI6ICJsYXJrMDAwMDAwIiwKICAgICAgInJlY2VpdmVyTmFtZSI6ICIiLAogICAgICAibG9jYXRpb24iOiBudWxsLAogICAgICAiY29udGVudCI6IHRoaXMuc3RhdGUudGV4dCwKICAgICAgImNyZWF0ZWRUaW1lIjogKG5ldyBEYXRlKCkpLnZhbHVlT2YoKQogICAgfTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
