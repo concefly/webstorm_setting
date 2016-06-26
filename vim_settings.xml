@@ -147,6 +147,12 @@
         <mark key="^" line="136" column="61" />
         <mark key="." line="136" column="61" />
       </file>
+      <file name="$USER_HOME$/project/my/iLighting/web-client/src/actions/lamps.js" timestamp="1466913731087">
+        <mark key="[" line="16" column="4" />
+        <mark key="]" line="19" column="14" />
+        <mark key="^" line="19" column="14" />
+        <mark key="." line="19" column="14" />
+      </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/user/user.notification.tpl" timestamp="1450250073493">
         <mark key="[" line="9" column="114" />
         <mark key="]" line="9" column="115" />
@@ -1105,7 +1111,6 @@
         <mark key="^" line="257" column="23" />
         <mark key="." line="257" column="23" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/api/operators.js" timestamp="1466748683858" />
       <file name="$USER_HOME$/project/heix/passport-frontend/libs/api/api.js" timestamp="1452840825175">
         <mark key="[" line="5" column="23" />
         <mark key="]" line="5" column="23" />
@@ -1130,7 +1135,6 @@
         <mark key="^" line="37" column="29" />
         <mark key="." line="37" column="29" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/routes/index.jsx" timestamp="1466738983631" />
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/whitespace.scss" timestamp="1449469632633">
         <mark key="[" line="34" column="14" />
         <mark key="]" line="34" column="19" />
@@ -1414,7 +1418,6 @@
         <mark key="^" line="1" column="67" />
         <mark key="." line="1" column="67" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/lib/style.less" timestamp="1466665070430" />
       <file name="$USER_HOME$/project/heix/passport-frontend/resources/signup/signup.phone.tpl" timestamp="1452680759212">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="0" />
@@ -1800,11 +1803,11 @@
         <mark key="^" line="56" column="31" />
         <mark key="." line="56" column="31" />
       </file>
-      <file name="$USER_HOME$/project/my/iLighting/web-client/src/reducers/lamps.js" timestamp="1466913228962">
-        <mark key="[" line="21" column="12" />
-        <mark key="]" line="22" column="8" />
-        <mark key="^" line="22" column="8" />
-        <mark key="." line="22" column="8" />
+      <file name="$USER_HOME$/project/my/iLighting/web-client/src/reducers/lamps.js" timestamp="1466913606074">
+        <mark key="[" line="19" column="4" />
+        <mark key="]" line="21" column="48" />
+        <mark key="^" line="21" column="48" />
+        <mark key="." line="21" column="48" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/paragraph/paragraph-titled.html" timestamp="1449556151712">
         <mark key="[" line="4" column="0" />
