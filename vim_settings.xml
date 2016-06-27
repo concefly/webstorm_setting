@@ -126,9 +126,6 @@
       </file>
       <file name="$USER_HOME$/project/flaming-cloud/contactor/src/containers/DeskBoard.jsx" timestamp="1466998108102">
         <mark key="[" line="107" column="0" />
-        <mark key="]" line="108" column="55" />
-        <mark key="." line="147" column="5" />
-        <mark key="^" line="146" column="24" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/partials/layout/layout.tpl" timestamp="1450250987109">
         <mark key="[" line="12" column="60" />
@@ -240,11 +237,10 @@
         <mark key="^" line="64" column="16" />
         <mark key="." line="64" column="16" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/entry/App.jsx" timestamp="1466999768332">
-        <mark key="[" line="64" column="18" />
-        <mark key="]" line="64" column="18" />
-        <mark key="." line="64" column="18" />
-        <mark key="^" line="64" column="29" />
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/entry/App.jsx" timestamp="1467012759069">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/modal/modal.tpl" timestamp="1453254299359">
         <mark key="[" line="2" column="38" />
@@ -371,11 +367,10 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/mock/chat.js" timestamp="1466997672401">
-        <mark key="[" line="22" column="21" />
-        <mark key="]" line="22" column="84" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="7" column="22" />
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/mock/chat.js" timestamp="1467012499812">
+        <mark key="[" line="49" column="3" />
+        <mark key="]" line="49" column="3" />
+        <mark key="." line="49" column="3" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/libs/bootstrap-validator/bootstrap-validator.js" timestamp="1453270402363">
         <mark key="[" line="196" column="44" />
@@ -919,11 +914,10 @@
         <mark key="^" line="3" column="25" />
         <mark key="." line="3" column="25" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/actions/larkActions.js" timestamp="1467000115736">
-        <mark key="[" line="208" column="1" />
-        <mark key="]" line="208" column="0" />
-        <mark key="^" line="208" column="0" />
-        <mark key="." line="208" column="0" />
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/actions/larkActions.js" timestamp="1467012807714">
+        <mark key="[" line="203" column="0" />
+        <mark key="]" line="203" column="0" />
+        <mark key="." line="203" column="0" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.normal.tpl" timestamp="1450148638114">
         <mark key="[" line="59" column="34" />
@@ -1020,11 +1014,10 @@
         <mark key="^" line="358" column="51" />
         <mark key="." line="358" column="51" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/components/DeskBoard/Chat.jsx" timestamp="1467004663311">
-        <mark key="[" line="273" column="9" />
-        <mark key="]" line="273" column="3" />
-        <mark key="." line="273" column="3" />
-        <mark key="^" line="273" column="3" />
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/components/DeskBoard/Chat.jsx" timestamp="1467011681994">
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/font.scss" timestamp="1449712262284">
         <mark key="[" line="13" column="7" />
@@ -1237,11 +1230,11 @@
         <mark key="^" line="1" column="37" />
         <mark key="." line="1" column="37" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/entry/Lark.jsx" timestamp="1467001778321">
-        <mark key="[" line="369" column="28" />
-        <mark key="]" line="369" column="27" />
-        <mark key="." line="369" column="27" />
-        <mark key="^" line="369" column="27" />
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/entry/Lark.jsx" timestamp="1467014128723">
+        <mark key="[" line="376" column="45" />
+        <mark key="]" line="377" column="33" />
+        <mark key="." line="377" column="33" />
+        <mark key="^" line="377" column="33" />
       </file>
       <file name="$USER_HOME$/project/iLight/iLight-client/app/build/template/base.html" timestamp="1465012417976">
         <mark key="[" line="50" column="13" />
@@ -2073,41 +2066,41 @@
       <jump line="105" column="6" filename="$USER_HOME$/project/antcloud/usercenter/client/src/components/logs/LogList.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>props</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>props</text>
+        <text>this</text>
       </register>
       <register name="/" type="4">
         <text>time</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSAic2F0aXNmaWVkIjoKICAgICAgICBhdHRpdHVkZSA9ICLmu6HmhI8iOyBicmVhazsK</text>
+        <text encoding="base64">ICAgICAgInR5cGVDb252ZXJzYXRpb25JZCI6IGAke01hdGgucmFuZG9tKCl9LSR7KG5ldyBEYXRlKCkpLnZhbHVlT2YoKX1gLAo=</text>
       </register>
-      <register name="1" type="4">
-        <text>props</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="4">
-        <text>.</text>
+        <text>this</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGF0dGl0dWRlKTsK</text>
+      <register name="3" type="4">
+        <text>this</text>
       </register>
       <register name="4" type="4">
-        <text>dissatisfied</text>
+        <text>this</text>
       </register>
       <register name="5" type="4">
-        <text>satisfied</text>
+        <text>this</text>
       </register>
-      <register name="6" type="4">
-        <text>requesting</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="4">
-        <text>none</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>d</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHRoaXMudXBkYXRlQ29udGFjdChPYmplY3QuYXNzaWduKHt9LCBmaW5hbE1zZywgewogICAgICB0eXBlOiAiQURNSU4iLAogICAgICB0eXBlQ29udmVyc2F0aW9uSWQ6IE1hdGgucmFuZG9tKCkKICAgIH0pKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
