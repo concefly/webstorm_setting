@@ -15,6 +15,11 @@
         <mark key="^" line="12" column="19" />
         <mark key="." line="12" column="19" />
       </file>
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/containers/Contactor.jsx" timestamp="1467268701209">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/partials/common/_fun.scss" timestamp="1456914855417">
         <mark key="[" line="11" column="34" />
         <mark key="]" line="18" column="0" />
@@ -68,11 +73,11 @@
         <mark key="^" line="7" column="15" />
         <mark key="." line="7" column="15" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/components/Contactor/Dot.jsx" timestamp="1467266286717">
-        <mark key="[" line="17" column="12" />
-        <mark key="]" line="17" column="15" />
-        <mark key="." line="17" column="15" />
-        <mark key="^" line="17" column="15" />
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/components/Contactor/Dot.jsx" timestamp="1467268706241">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="25" column="80" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/tag/tag.tpl" timestamp="1452480360280">
         <mark key="[" line="12" column="60" />
@@ -904,11 +909,10 @@
         <mark key="^" line="3" column="25" />
         <mark key="." line="3" column="25" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/actions/larkActions.js" timestamp="1467267070973">
-        <mark key="[" line="135" column="5" />
-        <mark key="]" line="136" column="6" />
-        <mark key="." line="136" column="6" />
-        <mark key="^" line="136" column="6" />
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/actions/larkActions.js" timestamp="1467267984379">
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="136" column="0" />
+        <mark key="." line="136" column="0" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.normal.tpl" timestamp="1450148638114">
         <mark key="[" line="59" column="34" />
@@ -2068,43 +2072,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlc2tCb2FyZFR5cGU6IG1lc3NhZ2UucmVhZGVkPyAiQ2hhdCIgOiAiIgo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUud2FybigiRG90IixkZXNrQm9hcmRUeXBlKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>customType</text>
       </register>
       <register name="/" type="4">
         <text>time</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgInR5cGVDb252ZXJzYXRpb25JZCI6IGAke01hdGgucmFuZG9tKCl9LSR7KG5ldyBEYXRlKCkpLnZhbHVlT2YoKX1gLAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUud2FybigiY3VzdG9tVHlwZSIsIGN1c3RvbVR5cGUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlc2tCb2FyZFR5cGU6IG1lc3NhZ2UucmVhZGVkPyAiQ2hhdCIgOiAiIgo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUud2FybigiRG90IixkZXNrQm9hcmRUeXBlKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpZiAoIW1lc3NhZ2UucmVhZGVkKSB7CiAgICBjaGFuZ2VTdGF0dXMoKQogIH0K</text>
+        <text encoding="base64">ICAgIC8vIGNvbnN0IHR5cGUgPSBkZXNrQm9hcmRUeXBlID09PSAnJyA/IGRlZmF1bHRUeXBlIDogZGVza0JvYXJkVHlwZTsK</text>
       </register>
-      <register name="3" type="4">
-        <text>,</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUud2FybigiY3VzdG9tVHlwZSIsIGN1c3RvbVR5cGUpOwogICAgY29uc29sZS53YXJuKCJkZXNrQm9hcmRUeXBlIiwgZGVza0JvYXJkVHlwZSk7CiAgICBjb25zb2xlLndhcm4oImRlZmF1bHRUeXBlIiwgZGVmYXVsdFR5cGUpOwo=</text>
       </register>
       <register name="4" type="4">
-        <text>,</text>
+        <text>customType</text>
       </register>
       <register name="5" type="4">
-        <text>log</text>
+        <text>customType</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>customType</text>
       </register>
       <register name="7" type="4">
-        <text>List(def), Detail, Chat</text>
+        <text>customType</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAvLyBpZiAoIW1lc3NhZ2UucmVhZGVkKSB7CiAgLy8gICBzZXRTdGF0ZSh7CiAgLy8gICAgIGRlc2tCb2FyZFR5cGU6ICJDaGF0IgogIC8vICAgfSkKICAvLyB9Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>this</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
