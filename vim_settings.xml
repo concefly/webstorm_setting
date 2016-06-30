@@ -989,6 +989,7 @@
       <file name="$USER_HOME$/project/my/iLighting/web-client/mock/light.js" timestamp="1466872477664">
         <mark key="[" line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/reducers/authority.js" timestamp="1467283313672" />
       <file name="$USER_HOME$/project/iLight/web-client/src/reducer/db.js" timestamp="1464925091233">
         <mark key="[" line="1" column="45" />
         <mark key="]" line="1" column="45" />
@@ -1456,6 +1457,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/api/authority.js" timestamp="1467283247188" />
       <file name="$USER_HOME$/project/iLight/iLight-client/build/web/src/main.js" timestamp="1465036627086">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="6" />
