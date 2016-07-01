@@ -439,11 +439,10 @@
         <mark key="^" line="167" column="56" />
         <mark key="." line="167" column="56" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/containers/AuthorityRoleCreate.jsx" timestamp="1467351732335">
-        <mark key="[" line="11" column="1" />
-        <mark key="]" line="13" column="36" />
-        <mark key="." line="13" column="36" />
-        <mark key="^" line="13" column="36" />
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/containers/AuthorityRoleCreate.jsx" timestamp="1467360954700">
+        <mark key="[" line="14" column="11" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/api.js" timestamp="1449626049102">
         <mark key="[" line="4" column="32" />
@@ -949,11 +948,11 @@
       <file name="$USER_HOME$/project/iLight/iLight-client/build/web/src/site/manual/device.vue" timestamp="1465036370640">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/containers/AuthorityRole.jsx" timestamp="1467351105713">
-        <mark key="[" line="21" column="9" />
-        <mark key="]" line="21" column="14" />
-        <mark key="^" line="21" column="14" />
-        <mark key="." line="21" column="14" />
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/containers/AuthorityRole.jsx" timestamp="1467358881647">
+        <mark key="[" line="20" column="17" />
+        <mark key="]" line="20" column="22" />
+        <mark key="." line="20" column="22" />
+        <mark key="^" line="20" column="22" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/article.scss" timestamp="1449221982648">
         <mark key="[" line="5" column="17" />
@@ -1798,11 +1797,11 @@
         <mark key="^" line="69" column="61" />
         <mark key="." line="37" column="23" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/components/authority/RoleTable.jsx" timestamp="1467351020649">
-        <mark key="[" line="52" column="18" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-        <mark key="^" line="14" column="5" />
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/components/authority/RoleTable.jsx" timestamp="1467358645548">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="40" />
+        <mark key="." line="12" column="13" />
+        <mark key="^" line="12" column="13" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/app.js" timestamp="1456887931357">
         <mark key="[" line="0" column="0" />
@@ -2135,44 +2134,44 @@
       <jump line="455" column="11" filename="$USER_HOME$/project/flaming-cloud/contactor/src/entry/Lark.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>let</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGl2PjwvZGl2Pgo=</text>
       </register>
       <register name="-" type="4">
-        <text>let</text>
+        <text encoding="base64">IG9mZnNldD17Mn0=</text>
       </register>
       <register name="/" type="4">
         <text>connector</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0LCB7IFByb3BUeXBlcyB9IGZyb20gJ3JlYWN0JzsKaW1wb3J0IHsgYmluZEFjdGlvbkNyZWF0b3JzIH0gZnJvbSAncmVkdXgnOwppbXBvcnQgeyBjb25uZWN0IH0gZnJvbSAncmVhY3QtcmVkdXgnOwppbXBvcnQgeyBhY3Rpb25zIGFzIGF1dGhvcml0eUFjdGlvbnMgfSBmcm9tICcuLi9hY3Rpb25zL2F1dGhvcml0eSc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPElucHV0CiAgICAgICAgICAgICAgdHlwZT0idGV4dCIKICAgICAgICAgICAgICB2YWx1ZT17c2VsZi5zdGF0ZS5uYW1lfQogICAgICAgICAgICAgIG9uQ2hhbmdlPXtzZWxmLmhhbmRsZU5hbWUuYmluZChzZWxmKX0KICAgICAgICAgICAgLz4K</text>
       </register>
-      <register name="1" type="4">
-        <text>let</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGl2PjwvZGl2Pgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmKHR5cGVvZiAocGF5bG9hZC5yb2xlSWQpIT0idW5kZWZpbmVkIikgewogICAgICB1cmwgKz0gYD9yb2xlSWQ9JHtwYXlsb2FkLnJvbGVJZH1gOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgc3R5bGU9e3t3aWR0aDogNDAwfX0K</text>
       </register>
       <register name="3" type="4">
-        <text>RoleDetail</text>
+        <text encoding="base64">IG9mZnNldD17Mn0=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8Um91dGUgcGF0aD0icm9sZS9jcmVhdGUiIGNvbXBvbmVudD17eyBtYWluOiBBdXRob3JpdHlSb2xlRGV0YWlsIH19IC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8Um93IGd1dHRlcj17MTV9PgogICAgICAgICAgPENvbCBzcGFuPXsyfSBvZmZzZXQ9ezJ9PuWQjeensDo8L0NvbD4KICAgICAgICAgIDxDb2wgc3Bhbj17MTV9PgogICAgICAgICAgICA8SW5wdXQKICAgICAgICAgICAgICB0eXBlPSJ0ZXh0IgogICAgICAgICAgICAgIHZhbHVlPXtzZWxmLnN0YXRlLm5hbWV9CiAgICAgICAgICAgICAgb25DaGFuZ2U9e3NlbGYuaGFuZGxlTmFtZS5iaW5kKHNlbGYpfQogICAgICAgICAgICAgIHN0eWxlPXt7d2lkdGg6IDQwMH19CiAgICAgICAgICAgIC8+CiAgICAgICAgICA8L0NvbD4KICAgICAgICA8L1Jvdz4KICAgICAgICA8Um93IGd1dHRlcj17MTV9PgogICAgICAgICAgPENvbCBzcGFuPXsyfT7mj4/ov7A6PC9Db2w+CiAgICAgICAgICA8Q29sIHNwYW49ezE1fT4KICAgICAgICAgICAgPElucHV0CiAgICAgICAgICAgICAgdHlwZT0idGV4dCIKICAgICAgICAgICAgICB2YWx1ZT17c2VsZi5zdGF0ZS5kZXNjcmlwdGlvbn0KICAgICAgICAgICAgICBvbkNoYW5nZT17c2VsZi5oYW5kbGVEZXNjcmlwdGlvbi5iaW5kKHNlbGYpfQogICAgICAgICAgICAvPgogICAgICAgICAgPC9Db2w+CiAgICAgICAgPC9Sb3c+Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>:roleId</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdj4KICAgICAgICAgICAgICDlkI3np7A6CiAgICAgICAgICAgICAgPElucHV0CiAgICAgICAgICAgICAgICB0eXBlPSJ0ZXh0IgogICAgICAgICAgICAgICAgdmFsdWU9e3NlbGYuc3RhdGUubmFtZX0KICAgICAgICAgICAgICAgIG9uQ2hhbmdlPXtzZWxmLmhhbmRsZU5hbWUuYmluZChzZWxmKX0KICAgICAgICAgICAgICAvPgogICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUud2FybigiZGVsUm9sZXMiLCByZXMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="7" type="4">
+        <text>20</text>
       </register>
       <register name="8" type="4">
-        <text>Rows</text>
+        <text>value</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="9" type="4">
+        <text>value</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
