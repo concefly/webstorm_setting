@@ -433,11 +433,11 @@
         <mark key="^" line="167" column="56" />
         <mark key="." line="167" column="56" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/containers/AuthorityRoleCreate.jsx" timestamp="1467368307897">
-        <mark key="[" line="160" column="33" />
-        <mark key="]" line="162" column="54" />
-        <mark key="." line="162" column="54" />
-        <mark key="^" line="162" column="54" />
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/containers/AuthorityRoleCreate.jsx" timestamp="1467373298242">
+        <mark key="[" line="172" column="37" />
+        <mark key="]" line="131" column="62" />
+        <mark key="." line="131" column="62" />
+        <mark key="^" line="131" column="62" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/api.js" timestamp="1449626049102">
         <mark key="[" line="4" column="32" />
@@ -997,10 +997,11 @@
       <file name="$USER_HOME$/project/my/iLighting/web-client/mock/light.js" timestamp="1466872477664">
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/reducers/authority.js" timestamp="1467345166422">
-        <mark key="[" line="139" column="0" />
-        <mark key="]" line="139" column="0" />
-        <mark key="." line="139" column="0" />
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/reducers/authority.js" timestamp="1467372883096">
+        <mark key="[" line="142" column="22" />
+        <mark key="]" line="142" column="22" />
+        <mark key="." line="142" column="22" />
+        <mark key="^" line="156" column="10" />
       </file>
       <file name="$USER_HOME$/project/iLight/web-client/src/reducer/db.js" timestamp="1464925091233">
         <mark key="[" line="1" column="45" />
@@ -1481,8 +1482,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/api/authority.js" timestamp="1467368530267">
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/api/authority.js" timestamp="1467372401714">
         <mark key="[" line="31" column="4" />
+        <mark key="]" line="35" column="20" />
+        <mark key="^" line="35" column="20" />
+        <mark key="." line="35" column="20" />
       </file>
       <file name="$USER_HOME$/project/iLight/iLight-client/build/web/src/main.js" timestamp="1465036627086">
         <mark key="[" line="17" column="0" />
@@ -2113,43 +2117,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getRoles</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>getRoles</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>ActionList</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZvcmsoZnVuY3Rpb24qIGYoKSB7IHlpZWxkIHRha2VFdmVyeShhY3Rpb25zLkFVVEhPUklUWV9HRVRfUk9MRVMuUkVRVUVTVCwgZ2V0Um9sZXMpOyB9KSwK</text>
+        <text encoding="base64">ICBbQUNUSU9OLkFVVEhPUklUWV9DUkVBVEVfUk9MRS5TVUNDRVNTXShzdGF0ZSwgYWN0aW9uKSB7CiAgICByZXR1cm4gewogICAgICAuLi5zdGF0ZSwKICAgICAgc3RhdGU6ICJzdWNjZXNzIiwKICAgICAgbmV3Um9sZTogYWN0aW9uLnBheWxvYWQKICAgIH0KICB9Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>getRoles</text>
+        <text>,</text>
       </register>
-      <register name="2" type="4">
-        <text>GET_ROLES</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgZGF0YTogYWN0aW9uLnBheWxvYWQK</text>
       </register>
-      <register name="3" type="4">
-        <text>Every</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBkYXRhOiB7CiAgICBuYW1lOiAiIiwKICAgIGRlc2NyaXB0aW9uOiAiIiwKICAgIGFjdGlvbnM6IFtdCiAgfSwK</text>
       </register>
       <register name="4" type="4">
-        <text>GET_ROLES</text>
+        <text>newRole</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>success</text>
       </register>
       <register name="6" type="4">
-        <text>selected</text>
+        <text>SUCCESS</text>
       </register>
       <register name="7" type="4">
-        <text>state</text>
+        <text>data</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoewogICAgICBzZWxlY3RlZDoga2V5cwogICAgfSk=</text>
+        <text>request</text>
       </register>
-      <register name="9" type="4">
-        <text>,</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
