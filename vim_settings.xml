@@ -9,7 +9,7 @@
         <mark key="^" line="13" column="10" />
         <mark key="." line="13" column="10" />
       </file>
-      <file name="/a.dummy" timestamp="1467269252270">
+      <file name="/a.dummy" timestamp="1467365604793">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/views/check/index.blade.php" timestamp="1449714775358">
@@ -240,12 +240,6 @@
         <mark key="^" line="64" column="16" />
         <mark key="." line="64" column="16" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/entry/App.jsx" timestamp="1467266161148">
-        <mark key="[" line="19" column="14" />
-        <mark key="]" line="19" column="31" />
-        <mark key="." line="19" column="31" />
-        <mark key="^" line="19" column="31" />
-      </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/modal/modal.tpl" timestamp="1453254299359">
         <mark key="[" line="2" column="38" />
         <mark key="]" line="2" column="48" />
@@ -439,10 +433,11 @@
         <mark key="^" line="167" column="56" />
         <mark key="." line="167" column="56" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/containers/AuthorityRoleCreate.jsx" timestamp="1467360954700">
-        <mark key="[" line="14" column="11" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/containers/AuthorityRoleCreate.jsx" timestamp="1467368307897">
+        <mark key="[" line="160" column="33" />
+        <mark key="]" line="162" column="54" />
+        <mark key="." line="162" column="54" />
+        <mark key="^" line="162" column="54" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/api.js" timestamp="1449626049102">
         <mark key="[" line="4" column="32" />
@@ -948,11 +943,9 @@
       <file name="$USER_HOME$/project/iLight/iLight-client/build/web/src/site/manual/device.vue" timestamp="1465036370640">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/containers/AuthorityRole.jsx" timestamp="1467358881647">
-        <mark key="[" line="20" column="17" />
-        <mark key="]" line="20" column="22" />
-        <mark key="." line="20" column="22" />
-        <mark key="^" line="20" column="22" />
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/containers/AuthorityRole.jsx" timestamp="1467361483144">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="58" column="0" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/article.scss" timestamp="1449221982648">
         <mark key="[" line="5" column="17" />
@@ -1153,16 +1146,16 @@
         <mark key="." line="37" column="29" />
       </file>
       <file name="$USER_HOME$/project/antcloud/usercenter/client/src/routes/index.jsx" timestamp="1467351815830">
-        <mark key="[" line="96" column="62" />
-        <mark key="]" line="96" column="71" />
-        <mark key="." line="96" column="71" />
-        <mark key="^" line="96" column="71" />
+        <mark key="[" line="36" column="62" />
+        <mark key="]" line="36" column="71" />
+        <mark key="." line="36" column="71" />
+        <mark key="^" line="36" column="71" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/sagas/authority.js" timestamp="1467351477728">
-        <mark key="[" line="63" column="7" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
-        <mark key="^" line="106" column="85" />
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/sagas/authority.js" timestamp="1467368999046">
+        <mark key="[" line="115" column="81" />
+        <mark key="]" line="115" column="90" />
+        <mark key="^" line="115" column="90" />
+        <mark key="." line="115" column="90" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/whitespace.scss" timestamp="1449469632633">
         <mark key="[" line="34" column="14" />
@@ -1488,11 +1481,8 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/api/authority.js" timestamp="1467352985263">
-        <mark key="[" line="50" column="31" />
-        <mark key="]" line="46" column="21" />
-        <mark key="." line="46" column="21" />
-        <mark key="^" line="46" column="21" />
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/api/authority.js" timestamp="1467368530267">
+        <mark key="[" line="31" column="4" />
       </file>
       <file name="$USER_HOME$/project/iLight/iLight-client/build/web/src/main.js" timestamp="1465036627086">
         <mark key="[" line="17" column="0" />
@@ -1707,12 +1697,6 @@
         <mark key="^" line="25" column="58" />
         <mark key="." line="25" column="58" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/actions/authority.js" timestamp="1467353200644">
-        <mark key="[" line="16" column="83" />
-        <mark key="]" line="17" column="80" />
-        <mark key="." line="17" column="80" />
-        <mark key="^" line="17" column="80" />
-      </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/column_list/ai.blade.php" timestamp="1455674833238">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="28" />
@@ -1796,12 +1780,6 @@
         <mark key="]" line="90" column="63" />
         <mark key="^" line="69" column="61" />
         <mark key="." line="37" column="23" />
-      </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/components/authority/RoleTable.jsx" timestamp="1467358645548">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="40" />
-        <mark key="." line="12" column="13" />
-        <mark key="^" line="12" column="13" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/app.js" timestamp="1456887931357">
         <mark key="[" line="0" column="0" />
@@ -2032,8 +2010,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1235" column="15" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
-      <jump line="50" column="29" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
       <jump line="62" column="36" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
       <jump line="76" column="32" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
       <jump line="82" column="39" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
@@ -2132,55 +2108,57 @@
       <jump line="395" column="9" filename="$USER_HOME$/project/flaming-cloud/contactor/src/entry/Lark.jsx" />
       <jump line="454" column="13" filename="$USER_HOME$/project/flaming-cloud/contactor/src/entry/Lark.jsx" />
       <jump line="455" column="11" filename="$USER_HOME$/project/flaming-cloud/contactor/src/entry/Lark.jsx" />
+      <jump line="11" column="9" filename="$USER_HOME$/project/antcloud/usercenter/client/src/containers/AuthorityRoleCreate.jsx" />
+      <jump line="107" column="3" filename="$USER_HOME$/project/antcloud/usercenter/client/src/containers/AuthorityRoleCreate.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2PjwvZGl2Pgo=</text>
+      <register name="&quot;" type="4">
+        <text>getRoles</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG9mZnNldD17Mn0=</text>
+        <text>getRoles</text>
       </register>
       <register name="/" type="4">
-        <text>connector</text>
+        <text>ActionList</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPElucHV0CiAgICAgICAgICAgICAgdHlwZT0idGV4dCIKICAgICAgICAgICAgICB2YWx1ZT17c2VsZi5zdGF0ZS5uYW1lfQogICAgICAgICAgICAgIG9uQ2hhbmdlPXtzZWxmLmhhbmRsZU5hbWUuYmluZChzZWxmKX0KICAgICAgICAgICAgLz4K</text>
+        <text encoding="base64">ICAgIGZvcmsoZnVuY3Rpb24qIGYoKSB7IHlpZWxkIHRha2VFdmVyeShhY3Rpb25zLkFVVEhPUklUWV9HRVRfUk9MRVMuUkVRVUVTVCwgZ2V0Um9sZXMpOyB9KSwK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2PjwvZGl2Pgo=</text>
+      <register name="1" type="4">
+        <text>getRoles</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgc3R5bGU9e3t3aWR0aDogNDAwfX0K</text>
+      <register name="2" type="4">
+        <text>GET_ROLES</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IG9mZnNldD17Mn0=</text>
+        <text>Every</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8Um93IGd1dHRlcj17MTV9PgogICAgICAgICAgPENvbCBzcGFuPXsyfSBvZmZzZXQ9ezJ9PuWQjeensDo8L0NvbD4KICAgICAgICAgIDxDb2wgc3Bhbj17MTV9PgogICAgICAgICAgICA8SW5wdXQKICAgICAgICAgICAgICB0eXBlPSJ0ZXh0IgogICAgICAgICAgICAgIHZhbHVlPXtzZWxmLnN0YXRlLm5hbWV9CiAgICAgICAgICAgICAgb25DaGFuZ2U9e3NlbGYuaGFuZGxlTmFtZS5iaW5kKHNlbGYpfQogICAgICAgICAgICAgIHN0eWxlPXt7d2lkdGg6IDQwMH19CiAgICAgICAgICAgIC8+CiAgICAgICAgICA8L0NvbD4KICAgICAgICA8L1Jvdz4KICAgICAgICA8Um93IGd1dHRlcj17MTV9PgogICAgICAgICAgPENvbCBzcGFuPXsyfT7mj4/ov7A6PC9Db2w+CiAgICAgICAgICA8Q29sIHNwYW49ezE1fT4KICAgICAgICAgICAgPElucHV0CiAgICAgICAgICAgICAgdHlwZT0idGV4dCIKICAgICAgICAgICAgICB2YWx1ZT17c2VsZi5zdGF0ZS5kZXNjcmlwdGlvbn0KICAgICAgICAgICAgICBvbkNoYW5nZT17c2VsZi5oYW5kbGVEZXNjcmlwdGlvbi5iaW5kKHNlbGYpfQogICAgICAgICAgICAvPgogICAgICAgICAgPC9Db2w+CiAgICAgICAgPC9Sb3c+Cg==</text>
+      <register name="4" type="4">
+        <text>GET_ROLES</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdj4KICAgICAgICAgICAgICDlkI3np7A6CiAgICAgICAgICAgICAgPElucHV0CiAgICAgICAgICAgICAgICB0eXBlPSJ0ZXh0IgogICAgICAgICAgICAgICAgdmFsdWU9e3NlbGYuc3RhdGUubmFtZX0KICAgICAgICAgICAgICAgIG9uQ2hhbmdlPXtzZWxmLmhhbmRsZU5hbWUuYmluZChzZWxmKX0KICAgICAgICAgICAgICAvPgogICAgICAgICAgICA8L2Rpdj4K</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="4">
+        <text>selected</text>
+      </register>
       <register name="7" type="4">
-        <text>20</text>
+        <text>state</text>
       </register>
       <register name="8" type="4">
-        <text>value</text>
+        <text encoding="base64">ICAgIHRoaXMuc2V0U3RhdGUoewogICAgICBzZWxlY3RlZDoga2V5cwogICAgfSk=</text>
       </register>
       <register name="9" type="4">
-        <text>value</text>
+        <text>,</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>connector</last-search>
+      <last-search>ActionList</last-search>
       <last-offset />
-      <last-pattern>connector</last-pattern>
+      <last-pattern>ActionList</last-pattern>
       <last-replace>space</last-replace>
       <last-substitute>time</last-substitute>
       <last-dir>1</last-dir>
@@ -2188,7 +2166,6 @@
     </search>
     <history>
       <history-search>
-        <entry>topicThumb</entry>
         <entry>postcss</entry>
         <entry>box-shadow</entry>
         <entry>article-title</entry>
@@ -2208,6 +2185,7 @@
         <entry>by-admin</entry>
         <entry>-by-user</entry>
         <entry>connector</entry>
+        <entry>ActionList</entry>
       </history-search>
       <history-cmd>
         <entry>s/id/email/g</entry>
