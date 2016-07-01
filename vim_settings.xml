@@ -1489,11 +1489,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/api/authority.js" timestamp="1467351281387">
-        <mark key="[" line="34" column="3" />
-        <mark key="]" line="34" column="3" />
-        <mark key="^" line="34" column="3" />
-        <mark key="." line="34" column="3" />
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/api/authority.js" timestamp="1467352985263">
+        <mark key="[" line="50" column="31" />
+        <mark key="]" line="46" column="21" />
+        <mark key="." line="46" column="21" />
+        <mark key="^" line="46" column="21" />
       </file>
       <file name="$USER_HOME$/project/iLight/iLight-client/build/web/src/main.js" timestamp="1465036627086">
         <mark key="[" line="17" column="0" />
@@ -1708,11 +1708,11 @@
         <mark key="^" line="25" column="58" />
         <mark key="." line="25" column="58" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/actions/authority.js" timestamp="1467345370527">
-        <mark key="[" line="37" column="35" />
-        <mark key="]" line="37" column="43" />
-        <mark key="." line="37" column="43" />
-        <mark key="^" line="37" column="43" />
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/actions/authority.js" timestamp="1467353200644">
+        <mark key="[" line="16" column="83" />
+        <mark key="]" line="17" column="80" />
+        <mark key="." line="17" column="80" />
+        <mark key="^" line="17" column="80" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/column_list/ai.blade.php" timestamp="1455674833238">
         <mark key="[" line="0" column="0" />
@@ -2136,10 +2136,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>RoleDetail</text>
+        <text>let</text>
       </register>
       <register name="-" type="4">
-        <text>RoleDetail</text>
+        <text>let</text>
       </register>
       <register name="/" type="4">
         <text>connector</text>
@@ -2148,31 +2148,31 @@
         <text encoding="base64">aW1wb3J0IFJlYWN0LCB7IFByb3BUeXBlcyB9IGZyb20gJ3JlYWN0JzsKaW1wb3J0IHsgYmluZEFjdGlvbkNyZWF0b3JzIH0gZnJvbSAncmVkdXgnOwppbXBvcnQgeyBjb25uZWN0IH0gZnJvbSAncmVhY3QtcmVkdXgnOwppbXBvcnQgeyBhY3Rpb25zIGFzIGF1dGhvcml0eUFjdGlvbnMgfSBmcm9tICcuLi9hY3Rpb25zL2F1dGhvcml0eSc7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>RoleDetail</text>
+        <text>let</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8Um91dGUgcGF0aD0icm9sZS9jcmVhdGUiIGNvbXBvbmVudD17eyBtYWluOiBBdXRob3JpdHlSb2xlRGV0YWlsIH19IC8+Cg==</text>
+        <text encoding="base64">ICAgIGlmKHR5cGVvZiAocGF5bG9hZC5yb2xlSWQpIT0idW5kZWZpbmVkIikgewogICAgICB1cmwgKz0gYD9yb2xlSWQ9JHtwYXlsb2FkLnJvbGVJZH1gOwogICAgfQo=</text>
       </register>
       <register name="3" type="4">
-        <text>:roleId</text>
+        <text>RoleDetail</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICA8Um91dGUgcGF0aD0icm9sZS9jcmVhdGUiIGNvbXBvbmVudD17eyBtYWluOiBBdXRob3JpdHlSb2xlRGV0YWlsIH19IC8+Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text>:roleId</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUud2FybigiZGVsUm9sZXMiLCByZXMpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="4">
-        <text>Rows</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="4">
-        <text>;</text>
+        <text>Rows</text>
       </register>
-      <register name="9" type="4">
-        <text>&quot;0000000002&quot;</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
