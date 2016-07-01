@@ -1756,6 +1756,12 @@
         <mark key="^" line="69" column="61" />
         <mark key="." line="37" column="23" />
       </file>
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/components/authority/RoleTable.jsx" timestamp="1467342801791">
+        <mark key="[" line="68" column="25" />
+        <mark key="]" line="68" column="25" />
+        <mark key="^" line="68" column="11" />
+        <mark key="." line="68" column="25" />
+      </file>
       <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/app.js" timestamp="1456887931357">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -2088,10 +2094,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>connect</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>connect</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>connector</text>
@@ -2100,31 +2106,31 @@
         <text encoding="base64">ICAgIGlmICh2YWx1ZS5tYXRjaCgvXiguKilbXlxuXSQvKSkgewogICAgICBzZWxmLnNldFN0YXRlKHsKICAgICAgICB0ZXh0OiB2YWx1ZQogICAgICB9KQogICAgfQo=</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="2" type="4">
         <text>connect</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgbGV0IF9zZW5kID0gLnNlbmQ7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>(</text>
-      </register>
       <register name="4" type="4">
-        <text>)</text>
+        <text>(</text>
       </register>
       <register name="5" type="4">
         <text>)</text>
       </register>
       <register name="6" type="4">
+        <text>)</text>
+      </register>
+      <register name="7" type="4">
         <text>(</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGlmICh2YWx1ZS5tYXRjaCgvXiguKilbXlxuXSQvKSkgewogICAgICBzZWxmLnNldFN0YXRlKHsKICAgICAgICB0ZXh0OiB2YWx1ZQogICAgICB9KQogICAgfQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUud2FybihKU09OLnN0cmluZ2lmeShmaW5hbE1zZykpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUud2FybihKU09OLnN0cmluZ2lmeShmaW5hbE1zZykpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
