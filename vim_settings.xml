@@ -15,21 +15,11 @@
         <mark key="^" line="12" column="19" />
         <mark key="." line="12" column="19" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/containers/Contactor.jsx" timestamp="1467268701209">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
       <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/partials/common/_fun.scss" timestamp="1456914855417">
         <mark key="[" line="11" column="34" />
         <mark key="]" line="18" column="0" />
         <mark key="^" line="0" column="20" />
         <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/topic-game/topic-game.blade.php" timestamp="1457488437819">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/config.js" timestamp="1449711795748">
         <mark key="[" line="5" column="32" />
@@ -187,11 +177,6 @@
         <mark key="^" line="19" column="23" />
         <mark key="." line="19" column="23" />
       </file>
-      <file name="$USER_HOME$/project/iLight/web-client/src/components/Devices/style.less" timestamp="1464922479939">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/project/iLight/web-client/src/actions/devices.js" timestamp="1464925887745">
         <mark key="[" line="1" column="19" />
         <mark key="]" line="3" column="18" />
@@ -300,11 +285,6 @@
         <mark key="^" line="1" column="18" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/update-browser.html" timestamp="1465374046122">
-        <mark key="[" line="10" column="5" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/pagination.scss" timestamp="1455610864241">
         <mark key="[" line="66" column="0" />
         <mark key="]" line="66" column="0" />
@@ -383,11 +363,6 @@
         <mark key="^" line="19" column="40" />
         <mark key="." line="19" column="40" />
       </file>
-      <file name="$USER_HOME$/project/iLight/web-client/src/actions/device.js" timestamp="1464927089318">
-        <mark key="[" line="2" column="17" />
-        <mark key="]" line="2" column="17" />
-        <mark key="." line="2" column="17" />
-      </file>
       <file name="$USER_HOME$/project/antcloud/usercenter/client/src/containers/AuthorityRoleDetail.jsx" timestamp="1467612481042">
         <mark key="[" line="108" column="39" />
         <mark key="]" line="45" column="45" />
@@ -411,11 +386,6 @@
         <mark key="]" line="9" column="39" />
         <mark key="^" line="9" column="39" />
         <mark key="." line="9" column="39" />
-      </file>
-      <file name="$USER_HOME$/project/iLight/iLight-client/build/web/src/site/manual/index.vue" timestamp="1465037726137">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/article.js" timestamp="1456373153083">
         <mark key="[" line="165" column="13" />
@@ -639,11 +609,6 @@
         <mark key="^" line="2" column="16" />
         <mark key="." line="2" column="16" />
       </file>
-      <file name="$USER_HOME$/project/iLight/web-client/src/reducer/devices.js" timestamp="1464924694830">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="7" column="25" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/resources/assets/js/admin/components/media/picture.vue" timestamp="1449825452970">
         <mark key="[" line="70" column="29" />
         <mark key="]" line="70" column="54" />
@@ -661,11 +626,6 @@
         <mark key="]" line="93" column="27" />
         <mark key="^" line="93" column="27" />
         <mark key="." line="93" column="27" />
-      </file>
-      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/catalog_exclusive/catalog_exclusive.scss" timestamp="1456910676736">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="61" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/author-select/author-add.tpl" timestamp="1453341792064">
         <mark key="[" line="19" column="38" />
@@ -714,11 +674,6 @@
         <mark key="]" line="60" column="45" />
         <mark key="^" line="60" column="45" />
         <mark key="." line="60" column="45" />
-      </file>
-      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/partials/fonts/ux_1456909034_9435198/iconfont.css" timestamp="1456914224633">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/editor/editor.tpl" timestamp="1453286241514">
         <mark key="[" line="1" column="9" />
@@ -810,19 +765,9 @@
         <mark key="^" line="8" column="4" />
         <mark key="." line="8" column="4" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/partials/common/list.scss" timestamp="1456823633831">
-        <mark key="[" line="182" column="0" />
-        <mark key="]" line="182" column="0" />
-        <mark key="." line="182" column="0" />
-      </file>
       <file name="$USER_HOME$/project/antcloud/usercenter/client/src/components/authority/RoleMemberTable.jsx" timestamp="1467597779820">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="14" />
-      </file>
-      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/catalog_exclusive/catalog_exclusive.js" timestamp="1456902633247">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="31" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.normal.js" timestamp="1450149524762">
         <mark key="[" line="29" column="25" />
@@ -908,11 +853,6 @@
         <mark key="^" line="3" column="25" />
         <mark key="." line="3" column="25" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/actions/larkActions.js" timestamp="1467267984379">
-        <mark key="[" line="136" column="0" />
-        <mark key="]" line="136" column="0" />
-        <mark key="." line="136" column="0" />
-      </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.normal.tpl" timestamp="1450148638114">
         <mark key="[" line="59" column="34" />
         <mark key="]" line="59" column="38" />
@@ -931,9 +871,11 @@
         <mark key="^" line="10" column="37" />
         <mark key="." line="10" column="37" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/containers/AuthorityRole.jsx" timestamp="1467361483144">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="58" column="0" />
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/containers/AuthorityRole.jsx" timestamp="1467615695572">
+        <mark key="[" line="47" column="22" />
+        <mark key="]" line="50" column="11" />
+        <mark key="." line="50" column="11" />
+        <mark key="^" line="50" column="11" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/article.scss" timestamp="1449221982648">
         <mark key="[" line="5" column="17" />
@@ -971,22 +913,17 @@
         <mark key="^" line="2" column="26" />
         <mark key="." line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/app/views/basic.html" timestamp="1464774007570">
-        <mark key="[" line="43" column="20" />
-        <mark key="]" line="43" column="20" />
-        <mark key="." line="43" column="20" />
-      </file>
       <file name="$USER_HOME$/project/iLight/web-client/src/components/Devices/Container.jsx" timestamp="1464928866909">
         <mark key="[" line="29" column="21" />
         <mark key="]" line="29" column="26" />
         <mark key="." line="29" column="26" />
         <mark key="^" line="29" column="26" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/reducers/authority.js" timestamp="1467599810393">
-        <mark key="[" line="139" column="14" />
-        <mark key="]" line="139" column="19" />
-        <mark key="." line="139" column="19" />
-        <mark key="^" line="139" column="19" />
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/reducers/authority.js" timestamp="1467613663857">
+        <mark key="[" line="247" column="2" />
+        <mark key="]" line="247" column="7" />
+        <mark key="." line="247" column="7" />
+        <mark key="^" line="247" column="7" />
       </file>
       <file name="$USER_HOME$/project/iLight/web-client/src/reducer/db.js" timestamp="1464925091233">
         <mark key="[" line="1" column="45" />
@@ -1047,11 +984,6 @@
         <mark key="]" line="66" column="1" />
         <mark key="^" line="66" column="1" />
         <mark key="." line="66" column="1" />
-      </file>
-      <file name="$USER_HOME$/project/iLight/web-client/src/components/store/index.js" timestamp="1464856523763">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/label/label-primary.html" timestamp="1449541357036">
         <mark key="[" line="0" column="63" />
@@ -1143,11 +1075,10 @@
         <mark key="." line="36" column="71" />
         <mark key="^" line="36" column="71" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/sagas/authority.js" timestamp="1467600129168">
-        <mark key="[" line="172" column="68" />
-        <mark key="]" line="172" column="40" />
-        <mark key="^" line="172" column="40" />
-        <mark key="." line="172" column="40" />
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/sagas/authority.js" timestamp="1467615197976">
+        <mark key="[" line="116" column="0" />
+        <mark key="]" line="116" column="40" />
+        <mark key="." line="116" column="0" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/whitespace.scss" timestamp="1449469632633">
         <mark key="[" line="34" column="14" />
@@ -1184,11 +1115,6 @@
         <mark key="]" line="29" column="75" />
         <mark key="^" line="29" column="75" />
         <mark key="." line="29" column="75" />
-      </file>
-      <file name="$USER_HOME$/project/iLight/iLight-client/build/web/config/index.js" timestamp="1465046789645">
-        <mark key="[" line="17" column="17" />
-        <mark key="]" line="20" column="9" />
-        <mark key="." line="20" column="9" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/group/group.blade.php" timestamp="1457489024578">
         <mark key="[" line="39" column="30" />
@@ -1329,21 +1255,11 @@
         <mark key="^" line="32" column="27" />
         <mark key="." line="74" column="0" />
       </file>
-      <file name="$USER_HOME$/project/alipay_demo/src/entries/index.js" timestamp="1464575452908">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-      </file>
       <file name="$USER_HOME$/project/iLight/web-client/src/components/Home.jsx" timestamp="1464883769624">
         <mark key="[" line="6" column="15" />
         <mark key="]" line="7" column="9" />
         <mark key="^" line="7" column="9" />
         <mark key="." line="7" column="9" />
-      </file>
-      <file name="$USER_HOME$/project/iLight/iLight-client/build/web/src/Container.vue" timestamp="1465035436708">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/resources/assets/js/cms/plugin/utils.js" timestamp="1449742439060">
         <mark key="[" line="12" column="50" />
@@ -1375,11 +1291,6 @@
         <mark key="^" line="2" column="26" />
         <mark key="." line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/project/iLight/web-client/src/components/Devices/Device.jsx" timestamp="1464917649937">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/resources/assets/js/cms/post/post_normal.js" timestamp="1449742339269">
         <mark key="[" line="6" column="40" />
         <mark key="]" line="40" column="97" />
@@ -1410,21 +1321,11 @@
         <mark key="." line="23" column="29" />
         <mark key="^" line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/project/iLight/iLight-client/build/web/src/Home.vue" timestamp="1465035211245">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.blade.php" timestamp="1455759458422">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="7" column="4" />
         <mark key="^" line="12" column="61" />
         <mark key="." line="12" column="61" />
-      </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/components/Contactor/Badge.jsx" timestamp="1467266770430">
-        <mark key="[" line="16" column="54" />
-        <mark key="]" line="16" column="54" />
-        <mark key="." line="16" column="54" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/partials/common/content-tabs.tpl" timestamp="1450085937894">
         <mark key="[" line="1" column="64" />
@@ -1461,11 +1362,6 @@
         <mark key="]" line="34" column="0" />
         <mark key="^" line="34" column="0" />
         <mark key="." line="34" column="0" />
-      </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/webpack.config.js" timestamp="1465373719487">
-        <mark key="[" line="3" column="42" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/project/antcloud/usercenter/client/src/api/authority.js" timestamp="1467613197649">
         <mark key="[" line="61" column="11" />
@@ -1532,11 +1428,6 @@
         <mark key="]" line="2" column="98" />
         <mark key="^" line="2" column="98" />
         <mark key="." line="2" column="98" />
-      </file>
-      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/catalog_eva/catalog_eva.js" timestamp="1456902660855">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="31" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/tag/base.tpl" timestamp="1455760475720">
         <mark key="[" line="2" column="0" />
@@ -1640,21 +1531,11 @@
         <mark key="^" line="22" column="63" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/package.json" timestamp="1467022723899">
-        <mark key="[" line="8" column="36" />
-        <mark key="]" line="8" column="37" />
-        <mark key="." line="8" column="37" />
-      </file>
-      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/catalog_exclusive/catalog_exclusive.blade.php" timestamp="1456910655479">
-        <mark key="[" line="50" column="79" />
-        <mark key="]" line="50" column="79" />
-        <mark key="." line="50" column="92" />
-      </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/mock/authority.js" timestamp="1467604093517">
-        <mark key="[" line="101" column="45" />
-        <mark key="]" line="119" column="55" />
-        <mark key="^" line="119" column="55" />
-        <mark key="." line="119" column="55" />
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/mock/authority.js" timestamp="1467614802373">
+        <mark key="[" line="192" column="30" />
+        <mark key="]" line="192" column="31" />
+        <mark key="^" line="190" column="13" />
+        <mark key="." line="192" column="31" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/validator2/validator.tpl" timestamp="1453258858017">
         <mark key="[" line="2" column="20" />
@@ -1776,10 +1657,10 @@
         <mark key="^" line="69" column="61" />
         <mark key="." line="37" column="23" />
       </file>
-      <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/app.js" timestamp="1456887931357">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/components/authority/RoleTable.jsx" timestamp="1467615642936">
+        <mark key="[" line="1" column="22" />
+        <mark key="]" line="1" column="22" />
+        <mark key="." line="1" column="22" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/user/user.tag.js" timestamp="1450248525969">
         <mark key="[" line="50" column="14" />
@@ -1804,11 +1685,6 @@
         <mark key="]" line="6" column="2" />
         <mark key="^" line="6" column="2" />
         <mark key="." line="6" column="2" />
-      </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/lib/component.jsx" timestamp="1466671361056">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/home/base.js" timestamp="1455695623488">
         <mark key="[" line="9" column="16" />
@@ -2109,43 +1985,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>, message</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>, message</text>
       </register>
       <register name="/" type="4">
         <text>ActionList</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmICghdGhpcy5zdGF0ZS5kZXNjcmlwdGlvbikgewogICAgICBtZXNzYWdlLndhcm5pbmcoIuivt+Whq+WGmeaPj+i/sCIpOwogICAgICByZXR1cm4KICAgIH0K</text>
+        <text encoding="base64">ICAgIHlpZWxkIHB1dCh7IHR5cGU6IGFjdGlvbnMuQVVUSE9SSVRZX0RFTF9ST0xFUy5TVUNDRVNTfSk7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>t</text>
+        <text>, message</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLnN0YXRlLnNlbGVjdGVkLmxlbmd0aD09MCkgewogICAgICBtZXMKICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUud2FybigiVE9ETzogZGVsUm9sZXMgYXBpIiwgcGF5bG9hZCkK</text>
+        <text encoding="base64">ICAgIGlmIChzZWxmKQo=</text>
       </register>
-      <register name="4" type="4">
-        <text>description</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHlpZWxkIHB1dChhY3Rpb25zLmFjdGlvbnMuZ2V0Um9sZXMoKSk7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>写名称</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHlpZWxkIHB1dCh7IHR5cGU6IGFjdGlvbnMuQVVUSE9SSVRZX0dFVF9ST0xFX09ORS5TVUNDRVNTLCByZXM6IHJlcy5qc29uUmVzdWx0IH0pOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>name</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUud2FybihhY3Rpb25zKTsK</text>
       </register>
-      <register name="7" type="4">
-        <text>s</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHlpZWxkIGNhbGwoKQo=</text>
       </register>
-      <register name="8" type="4">
-        <text>s</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHlpZWxkIHB1dCh7IHR5cGU6IGFjdGlvbnMuQVVUSE9SSVRZX0dFVF9ST0xFUy5SRVFVRVNUfSk7Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgd2lkdGg6IDIwMCwK</text>
+      <register name="9" type="4">
+        <text>SUCCESS</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
