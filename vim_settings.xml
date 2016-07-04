@@ -433,12 +433,6 @@
         <mark key="^" line="167" column="56" />
         <mark key="." line="167" column="56" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/containers/AuthorityRoleCreate.jsx" timestamp="1467373298242">
-        <mark key="[" line="172" column="37" />
-        <mark key="]" line="131" column="62" />
-        <mark key="." line="131" column="62" />
-        <mark key="^" line="131" column="62" />
-      </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/api.js" timestamp="1449626049102">
         <mark key="[" line="4" column="32" />
         <mark key="]" line="4" column="31" />
@@ -998,10 +992,10 @@
         <mark key="[" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/project/antcloud/usercenter/client/src/reducers/authority.js" timestamp="1467372883096">
-        <mark key="[" line="142" column="22" />
-        <mark key="]" line="142" column="22" />
-        <mark key="." line="142" column="22" />
-        <mark key="^" line="156" column="10" />
+        <mark key="[" line="186" column="22" />
+        <mark key="]" line="186" column="22" />
+        <mark key="." line="186" column="22" />
+        <mark key="^" line="200" column="10" />
       </file>
       <file name="$USER_HOME$/project/iLight/web-client/src/reducer/db.js" timestamp="1464925091233">
         <mark key="[" line="1" column="45" />
@@ -1153,10 +1147,10 @@
         <mark key="^" line="36" column="71" />
       </file>
       <file name="$USER_HOME$/project/antcloud/usercenter/client/src/sagas/authority.js" timestamp="1467368999046">
-        <mark key="[" line="115" column="81" />
-        <mark key="]" line="115" column="90" />
-        <mark key="^" line="115" column="90" />
-        <mark key="." line="115" column="90" />
+        <mark key="[" line="65" column="81" />
+        <mark key="]" line="65" column="90" />
+        <mark key="^" line="65" column="90" />
+        <mark key="." line="65" column="90" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/whitespace.scss" timestamp="1449469632633">
         <mark key="[" line="34" column="14" />
