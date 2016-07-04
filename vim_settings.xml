@@ -913,6 +913,12 @@
         <mark key="^" line="2" column="26" />
         <mark key="." line="2" column="26" />
       </file>
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/app/views/basic.html" timestamp="1467620588578">
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="0" />
+        <mark key="." line="109" column="0" />
+        <mark key="^" line="108" column="32" />
+      </file>
       <file name="$USER_HOME$/project/iLight/web-client/src/components/Devices/Container.jsx" timestamp="1464928866909">
         <mark key="[" line="29" column="21" />
         <mark key="]" line="29" column="26" />
@@ -1014,6 +1020,11 @@
         <mark key="]" line="8" column="43" />
         <mark key="^" line="8" column="43" />
         <mark key="." line="8" column="43" />
+      </file>
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/app/views/index.html" timestamp="1467620090749">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/app/Http/Kernel.php" timestamp="1449804920421">
         <mark key="[" line="19" column="0" />
@@ -1984,11 +1995,11 @@
       <jump line="55" column="12" filename="$USER_HOME$/project/antcloud/usercenter/client/src/components/authority/RoleGroupTable.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>, message</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzLnNyYyA9ICJodHRwOi8vYXMudGVzdC5hbGlwYXkubmV0L2cvZmxhbWluZy1jbG91ZC9jb250YWN0b3IvMS4wLjAtcHJlMi9hcHAuanMiOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>, message</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>ActionList</text>
@@ -1996,32 +2007,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHlpZWxkIHB1dCh7IHR5cGU6IGFjdGlvbnMuQVVUSE9SSVRZX0RFTF9ST0xFUy5TVUNDRVNTfSk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>, message</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBzLnNyYyA9ICJodHRwOi8vYXMudGVzdC5hbGlwYXkubmV0L2cvZmxhbWluZy1jbG91ZC9jb250YWN0b3IvMS4wLjAtcHJlMi9hcHAuanMiOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLnN0YXRlLnNlbGVjdGVkLmxlbmd0aD09MCkgewogICAgICBtZXMKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB4LmhyZWYgPSAiaHR0cDovL2FzLnRlc3QuYWxpcGF5Lm5ldC9nL2ZsYW1pbmctY2xvdWQvY29udGFjdG9yLzEuMC4wLXByZTIvYXBwLmNzcyI7Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmIChzZWxmKQo=</text>
+      <register name="3" type="4">
+        <text>s</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHlpZWxkIHB1dChhY3Rpb25zLmFjdGlvbnMuZ2V0Um9sZXMoKSk7Cg==</text>
+      <register name="4" type="4">
+        <text>s</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHlpZWxkIHB1dCh7IHR5cGU6IGFjdGlvbnMuQVVUSE9SSVRZX0dFVF9ST0xFX09ORS5TVUNDRVNTLCByZXM6IHJlcy5qc29uUmVzdWx0IH0pOwo=</text>
+        <text encoding="base64">ICAgIGFmYXNmc2FmYQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUud2FybihhY3Rpb25zKTsK</text>
+        <text encoding="base64">ICBhZmFzZnNhZmEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHlpZWxkIGNhbGwoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHlpZWxkIHB1dCh7IHR5cGU6IGFjdGlvbnMuQVVUSE9SSVRZX0dFVF9ST0xFUy5SRVFVRVNUfSk7Cg==</text>
+        <text encoding="base64">YWZhc2ZzYWZhCg==</text>
       </register>
       <register name="9" type="4">
-        <text>SUCCESS</text>
+        <text>, message</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
