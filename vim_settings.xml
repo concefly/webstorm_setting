@@ -1638,6 +1638,12 @@
         <mark key="]" line="50" column="79" />
         <mark key="." line="50" column="92" />
       </file>
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/mock/authority.js" timestamp="1467604093517">
+        <mark key="[" line="101" column="45" />
+        <mark key="]" line="119" column="55" />
+        <mark key="^" line="119" column="55" />
+        <mark key="." line="119" column="55" />
+      </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/validator2/validator.tpl" timestamp="1453258858017">
         <mark key="[" line="2" column="20" />
         <mark key="]" line="2" column="34" />
@@ -1871,12 +1877,12 @@
         <mark key="." line="6" column="6" />
         <mark key="^" line="6" column="6" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/components/authority/RoleGroupTable.jsx" timestamp="1467600046467">
-        <mark key="'" line="55" column="12" />
-        <mark key="[" line="55" column="12" />
-        <mark key="]" line="55" column="17" />
-        <mark key="." line="55" column="17" />
-        <mark key="^" line="55" column="17" />
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/components/authority/RoleGroupTable.jsx" timestamp="1467603944073">
+        <mark key="'" line="56" column="12" />
+        <mark key="[" line="42" column="15" />
+        <mark key="]" line="42" column="52" />
+        <mark key="^" line="42" column="52" />
+        <mark key="." line="42" column="52" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/package.json" timestamp="1456370741634">
         <mark key="[" line="18" column="36" />
@@ -2090,8 +2096,8 @@
       <jump line="55" column="12" filename="$USER_HOME$/project/antcloud/usercenter/client/src/components/authority/RoleGroupTable.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>MEMBERS</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgd2lkdGg6IDIwMCwK</text>
       </register>
       <register name="-" type="4">
         <text>MEMBERS</text>
@@ -2102,29 +2108,29 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGZvcmsoZnVuY3Rpb24qIGYoKSB7IHlpZWxkIHRha2VFdmVyeShhY3Rpb25zLkFVVEhPUklUWV9HRVRfUk9MRV9NRU1CRVJTLlJFUVVFU1QsIGdldFJvbGVNZW1iZXJzKTsgfSksCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>MEMBERS</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgd2lkdGg6IDIwMCwK</text>
       </register>
-      <register name="2" type="4">
-        <text>Members</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgd2lkdGg6IDIwMCwK</text>
       </register>
       <register name="3" type="4">
-        <text>members</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICA8VGFibGUKICAgICAgICAgIGNvbHVtbnM9e2NvbHVtbnN9CiAgICAgICAgICBkYXRhU291cmNlPXttZW1iZXJzLmxpc3R9CiAgICAgICAgICBwYWdpbmF0aW9uPXt7CiAgICAgICAgICAgIHNpemU6ICdzbWFsbCcsCiAgICAgICAgICAgIHRvdGFsOiBtZW1iZXJzLnRvdGFsU2l6ZSwKICAgICAgICAgICAgY3VycmVudDogbWVtYmVycy5jdXJyZW50UGFnZSwKICAgICAgICAgICAgcGFnZVNpemU6IG1lbWJlcnMucGFnZVNpemUgfHwgMTAsCiAgICAgICAgICAgIG9uQ2hhbmdlOiB0aGlzLm9uUGFnZUNoYW5nZWQKICAgICAgICAgIH19CiAgICAgICAgICBzaXplPSJtaWRkbGUiCiAgICAgICAgICBib3JkZXJlZAogICAgICAgICAgcm93S2V5PXtmdW5jdGlvbiBnZXRLZXkocmVjb3JkKSB7IHJldHVybiByZWNvcmQuaWQ7IH19CiAgICAgICAgICBsb2FkaW5nPXttZW1iZXJzLmxvYWRpbmdNZW1iZXJzfQogICAgICAgIC8+</text>
-      </register>
-      <register name="5" type="4">
-        <text>Members</text>
-      </register>
-      <register name="6" type="4">
-        <text>Members</text>
-      </register>
-      <register name="7" type="4">
         <text>MEMBERS</text>
       </register>
+      <register name="4" type="4">
+        <text>Members</text>
+      </register>
+      <register name="5" type="4">
+        <text>members</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICA8VGFibGUKICAgICAgICAgIGNvbHVtbnM9e2NvbHVtbnN9CiAgICAgICAgICBkYXRhU291cmNlPXttZW1iZXJzLmxpc3R9CiAgICAgICAgICBwYWdpbmF0aW9uPXt7CiAgICAgICAgICAgIHNpemU6ICdzbWFsbCcsCiAgICAgICAgICAgIHRvdGFsOiBtZW1iZXJzLnRvdGFsU2l6ZSwKICAgICAgICAgICAgY3VycmVudDogbWVtYmVycy5jdXJyZW50UGFnZSwKICAgICAgICAgICAgcGFnZVNpemU6IG1lbWJlcnMucGFnZVNpemUgfHwgMTAsCiAgICAgICAgICAgIG9uQ2hhbmdlOiB0aGlzLm9uUGFnZUNoYW5nZWQKICAgICAgICAgIH19CiAgICAgICAgICBzaXplPSJtaWRkbGUiCiAgICAgICAgICBib3JkZXJlZAogICAgICAgICAgcm93S2V5PXtmdW5jdGlvbiBnZXRLZXkocmVjb3JkKSB7IHJldHVybiByZWNvcmQuaWQ7IH19CiAgICAgICAgICBsb2FkaW5nPXttZW1iZXJzLmxvYWRpbmdNZW1iZXJzfQogICAgICAgIC8+</text>
+      </register>
+      <register name="7" type="4">
+        <text>Members</text>
+      </register>
       <register name="8" type="4">
-        <text>EMBERS</text>
+        <text>Members</text>
       </register>
       <register name="9" type="4">
         <text>MEMBERS</text>
