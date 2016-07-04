@@ -388,11 +388,11 @@
         <mark key="]" line="2" column="17" />
         <mark key="." line="2" column="17" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/containers/AuthorityRoleDetail.jsx" timestamp="1467598816354">
-        <mark key="[" line="40" column="25" />
-        <mark key="]" line="76" column="55" />
-        <mark key="^" line="76" column="55" />
-        <mark key="." line="76" column="55" />
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/containers/AuthorityRoleDetail.jsx" timestamp="1467612481042">
+        <mark key="[" line="108" column="39" />
+        <mark key="]" line="45" column="45" />
+        <mark key="^" line="45" column="45" />
+        <mark key="." line="45" column="45" />
       </file>
       <file name="$USER_HOME$/project/pet/backend/resources/views/wechat/check/demo.blade.php" timestamp="1449202896549">
         <mark key="[" line="17" column="0" />
@@ -422,6 +422,12 @@
         <mark key="]" line="167" column="56" />
         <mark key="^" line="167" column="56" />
         <mark key="." line="167" column="56" />
+      </file>
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/containers/AuthorityRoleCreate.jsx" timestamp="1467611927470">
+        <mark key="[" line="135" column="20" />
+        <mark key="]" line="139" column="13" />
+        <mark key="^" line="139" column="13" />
+        <mark key="." line="139" column="13" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/api.js" timestamp="1449626049102">
         <mark key="[" line="4" column="32" />
@@ -1012,6 +1018,12 @@
         <mark key="." line="73" column="41" />
         <mark key="^" line="73" column="41" />
       </file>
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/components/authority/RoleAuthTable.jsx" timestamp="1467612545659">
+        <mark key="[" line="62" column="15" />
+        <mark key="]" line="63" column="22" />
+        <mark key="^" line="63" column="22" />
+        <mark key="." line="63" column="22" />
+      </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/font.scss" timestamp="1449712262284">
         <mark key="[" line="13" column="7" />
         <mark key="]" line="13" column="13" />
@@ -1455,11 +1467,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/api/authority.js" timestamp="1467599574486">
-        <mark key="[" line="80" column="56" />
-        <mark key="]" line="80" column="60" />
-        <mark key="^" line="80" column="60" />
-        <mark key="." line="80" column="60" />
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/api/authority.js" timestamp="1467613197649">
+        <mark key="[" line="61" column="11" />
+        <mark key="]" line="61" column="11" />
+        <mark key="." line="61" column="11" />
+        <mark key="^" line="67" column="4" />
       </file>
       <file name="$USER_HOME$/project/iLight/iLight-client/build/web/src/main.js" timestamp="1465036627086">
         <mark key="[" line="17" column="0" />
@@ -2096,44 +2108,44 @@
       <jump line="55" column="12" filename="$USER_HOME$/project/antcloud/usercenter/client/src/components/authority/RoleGroupTable.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgd2lkdGg6IDIwMCwK</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>MEMBERS</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>ActionList</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZvcmsoZnVuY3Rpb24qIGYoKSB7IHlpZWxkIHRha2VFdmVyeShhY3Rpb25zLkFVVEhPUklUWV9HRVRfUk9MRV9NRU1CRVJTLlJFUVVFU1QsIGdldFJvbGVNZW1iZXJzKTsgfSksCg==</text>
+        <text encoding="base64">ICAgIGlmICghdGhpcy5zdGF0ZS5kZXNjcmlwdGlvbikgewogICAgICBtZXNzYWdlLndhcm5pbmcoIuivt+Whq+WGmeaPj+i/sCIpOwogICAgICByZXR1cm4KICAgIH0K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgd2lkdGg6IDIwMCwK</text>
+      <register name="1" type="4">
+        <text>t</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgd2lkdGg6IDIwMCwK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="4">
-        <text>MEMBERS</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUud2FybigiVE9ETzogZGVsUm9sZXMgYXBpIiwgcGF5bG9hZCkK</text>
       </register>
       <register name="4" type="4">
-        <text>Members</text>
+        <text>description</text>
       </register>
       <register name="5" type="4">
-        <text>members</text>
+        <text>写名称</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICA8VGFibGUKICAgICAgICAgIGNvbHVtbnM9e2NvbHVtbnN9CiAgICAgICAgICBkYXRhU291cmNlPXttZW1iZXJzLmxpc3R9CiAgICAgICAgICBwYWdpbmF0aW9uPXt7CiAgICAgICAgICAgIHNpemU6ICdzbWFsbCcsCiAgICAgICAgICAgIHRvdGFsOiBtZW1iZXJzLnRvdGFsU2l6ZSwKICAgICAgICAgICAgY3VycmVudDogbWVtYmVycy5jdXJyZW50UGFnZSwKICAgICAgICAgICAgcGFnZVNpemU6IG1lbWJlcnMucGFnZVNpemUgfHwgMTAsCiAgICAgICAgICAgIG9uQ2hhbmdlOiB0aGlzLm9uUGFnZUNoYW5nZWQKICAgICAgICAgIH19CiAgICAgICAgICBzaXplPSJtaWRkbGUiCiAgICAgICAgICBib3JkZXJlZAogICAgICAgICAgcm93S2V5PXtmdW5jdGlvbiBnZXRLZXkocmVjb3JkKSB7IHJldHVybiByZWNvcmQuaWQ7IH19CiAgICAgICAgICBsb2FkaW5nPXttZW1iZXJzLmxvYWRpbmdNZW1iZXJzfQogICAgICAgIC8+</text>
+        <text>name</text>
       </register>
       <register name="7" type="4">
-        <text>Members</text>
+        <text>s</text>
       </register>
       <register name="8" type="4">
-        <text>Members</text>
+        <text>s</text>
       </register>
-      <register name="9" type="4">
-        <text>MEMBERS</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgd2lkdGg6IDIwMCwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
