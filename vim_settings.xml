@@ -9,6 +9,9 @@
         <mark key="^" line="13" column="10" />
         <mark key="." line="13" column="10" />
       </file>
+      <file name="/a.dummy" timestamp="1467883562648">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/project/pet/wechat/views/check/index.blade.php" timestamp="1449714775358">
         <mark key="[" line="12" column="18" />
         <mark key="]" line="12" column="19" />
@@ -135,7 +138,6 @@
         <mark key="^" line="136" column="61" />
         <mark key="." line="136" column="61" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/README.md" timestamp="1467873387832" />
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/user/user.notification.tpl" timestamp="1450250073493">
         <mark key="[" line="9" column="114" />
         <mark key="]" line="9" column="115" />
@@ -219,6 +221,12 @@
         <mark key="]" line="2" column="48" />
         <mark key="^" line="2" column="48" />
         <mark key="." line="2" column="48" />
+      </file>
+      <file name="$USER_HOME$/project/my/news/src/sites/index/index.vue" timestamp="1467884079589">
+        <mark key="[" line="30" column="12" />
+        <mark key="]" line="71" column="4" />
+        <mark key="." line="71" column="4" />
+        <mark key="^" line="71" column="4" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/main.scss" timestamp="1455767533407">
         <mark key="[" line="6" column="0" />
@@ -757,7 +765,6 @@
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="9" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/node_modules/sockjs-client/lib/main.js" timestamp="1467871573926" />
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/article_topic.blade.php" timestamp="1455761198747">
         <mark key="[" line="28" column="33" />
         <mark key="]" line="28" column="48" />
@@ -1530,6 +1537,12 @@
         <mark key="^" line="54" column="38" />
         <mark key="." line="54" column="38" />
       </file>
+      <file name="$USER_HOME$/project/my/news/src/main.js" timestamp="1467883376480">
+        <mark key="[" line="17" column="2" />
+        <mark key="]" line="17" column="2" />
+        <mark key="^" line="18" column="0" />
+        <mark key="." line="17" column="2" />
+      </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/tag/base.blade.php" timestamp="1455759108006">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="15" column="5" />
@@ -1994,10 +2007,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gLy8gY29uc3Qgc29ja2V0ID0gbmV3IFdlYlNvY2tldChsYXJrU2V0dGluZ3Muc29ja2V0VXJsKTsKLy8gY29uc3Qgc29ja2V0ID0gbmV3IFdlYlNvY2tldCgnd3M6Ly9yaWZsZS5qci5hbGlwYXkubmV0OjgwODAvcmlmbGUvODMwL3ZqcnFxeHN3L3dlYnNvY2tldCcpOwo=</text>
+        <text encoding="base64">ICAgIDxyb3V0ZXItdmlldz48L3JvdXRlci12aWV3Pgo=</text>
       </register>
       <register name="-" type="4">
-        <text>http:</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>ActionList</text>
@@ -2006,31 +2019,31 @@
         <text encoding="base64">ICAgIHlpZWxkIHB1dCh7IHR5cGU6IGFjdGlvbnMuQVVUSE9SSVRZX0RFTF9ST0xFUy5TVUNDRVNTfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gLy8gY29uc3Qgc29ja2V0ID0gbmV3IFdlYlNvY2tldChsYXJrU2V0dGluZ3Muc29ja2V0VXJsKTsKLy8gY29uc3Qgc29ja2V0ID0gbmV3IFdlYlNvY2tldCgnd3M6Ly9yaWZsZS5qci5hbGlwYXkubmV0OjgwODAvcmlmbGUvODMwL3ZqcnFxeHN3L3dlYnNvY2tldCcpOwo=</text>
+        <text encoding="base64">ICAgIDxyb3V0ZXItdmlldz48L3JvdXRlci12aWV3Pgo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ly8gd2luZG93LmxvY2F0aW9uLnByb3RvY29sID0gb3JpZ2luUHJvdG9jb2w7Cgo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICAgY3VycmVudE1lZGlhOiAiIiwKICAgICAgY3VycmVudFJlcG9ydGVySWQ6ICIi</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bGV0IG9yaWdpblByb3RvY29sID0gd2luZG93LmxvY2F0aW9uLnByb3RvY29sOwovLyB3aW5kb3cubG9jYXRpb24ucHJvdG9jb2wgPSAiaHR0cCI7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLndhcm4oJ3dlYnNvY2tldCcsIHRoaXMudXJsKTsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICBkYXRhOiBmdW5jdGlvbiAoKSB7CiAgICByZXR1cm4gewogICAgICAKICAgIH0KICB9LA==</text>
       </register>
       <register name="5" type="4">
-        <text>http:</text>
+        <text>;</text>
       </register>
-      <register name="6" type="4">
-        <text>ws</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAnL21lZGlhLzppZCc6IHsKICAgIGNvbXBvbmVudDogcmVxdWlyZSgnLi9zaXRlcy9tZWRpYS9tZWRpYS52dWUnKQogIH0sCiAgJy9yZXBvcnRvci86aWQnOiB7CiAgICBjb21wb25lbnQ6IHJlcXVpcmUoJy4vc2l0ZXMvcmVwb3J0b3IvcmVwb3J0b3IudnVlJykKICB9LAo=</text>
       </register>
-      <register name="7" type="4">
-        <text>ws:</text>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8gLy8gY29uc3Qgc29ja2V0ID0gbmV3IFdlYlNvY2tldChsYXJrU2V0dGluZ3Muc29ja2V0VXJsKTsKLy8gY29uc3Qgc29ja2V0ID0gbmV3IFdlYlNvY2tldCgnd3M6Ly9yaWZsZS5qci5hbGlwYXkubmV0OjgwODAvcmlmbGUvODMwL3ZqcnFxeHN3L3dlYnNvY2tldCcpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzLnNyYyA9ICJodHRwOi8vYXMudGVzdC5hbGlwYXkubmV0L2cvZmxhbWluZy1jbG91ZC9jb250YWN0b3IvMS4wLjAtcHJlMi9hcHAuanMiOwo=</text>
+        <text encoding="base64">Ly8gd2luZG93LmxvY2F0aW9uLnByb3RvY29sID0gb3JpZ2luUHJvdG9jb2w7Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB4LmhyZWYgPSAiaHR0cDovL2FzLnRlc3QuYWxpcGF5Lm5ldC9nL2ZsYW1pbmctY2xvdWQvY29udGFjdG9yLzEuMC4wLXByZTIvYXBwLmNzcyI7Cg==</text>
+        <text encoding="base64">bGV0IG9yaWdpblByb3RvY29sID0gd2luZG93LmxvY2F0aW9uLnByb3RvY29sOwovLyB3aW5kb3cubG9jYXRpb24ucHJvdG9jb2wgPSAiaHR0cCI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
