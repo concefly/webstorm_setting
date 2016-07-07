@@ -628,6 +628,9 @@
         <mark key="^" line="93" column="27" />
         <mark key="." line="93" column="27" />
       </file>
+      <file name="$USER_HOME$/project/my/news/.eslintignore" timestamp="1467881997808">
+        <mark key="[" line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/author-select/author-add.tpl" timestamp="1453341792064">
         <mark key="[" line="19" column="38" />
         <mark key="]" line="19" column="46" />
@@ -1730,13 +1733,6 @@
         <mark key="^" line="2" column="33" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/styles/lark.less" timestamp="1467269963959">
-        <mark key="'" line="1232" column="38" />
-        <mark key="[" line="1272" column="19" />
-        <mark key="]" line="1272" column="25" />
-        <mark key="." line="1272" column="25" />
-        <mark key="^" line="1272" column="25" />
-      </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/component/loading.scss" timestamp="1449569238770">
         <mark key="[" line="16" column="23" />
         <mark key="]" line="25" column="31" />
@@ -1778,13 +1774,6 @@
         <mark key="]" line="6" column="6" />
         <mark key="." line="6" column="6" />
         <mark key="^" line="6" column="6" />
-      </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/components/authority/RoleGroupTable.jsx" timestamp="1467603944073">
-        <mark key="'" line="56" column="12" />
-        <mark key="[" line="42" column="15" />
-        <mark key="]" line="42" column="52" />
-        <mark key="^" line="42" column="52" />
-        <mark key="." line="42" column="52" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/package.json" timestamp="1456370741634">
         <mark key="[" line="18" column="36" />
