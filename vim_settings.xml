@@ -135,6 +135,7 @@
         <mark key="^" line="136" column="61" />
         <mark key="." line="136" column="61" />
       </file>
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/README.md" timestamp="1467873387832" />
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/user/user.notification.tpl" timestamp="1450250073493">
         <mark key="[" line="9" column="114" />
         <mark key="]" line="9" column="115" />
@@ -1182,12 +1183,11 @@
         <mark key="^" line="1" column="37" />
         <mark key="." line="1" column="37" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/entry/Lark.jsx" timestamp="1467871732190">
-        <mark key="'" line="455" column="11" />
-        <mark key="[" line="22" column="39" />
-        <mark key="]" line="22" column="40" />
-        <mark key="." line="22" column="40" />
-        <mark key="^" line="23" column="0" />
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/entry/Lark.jsx" timestamp="1467873258752">
+        <mark key="'" line="449" column="11" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/home/base.tpl" timestamp="1455696872098">
         <mark key="[" line="46" column="32" />
@@ -1440,6 +1440,12 @@
         <mark key="]" line="2" column="98" />
         <mark key="^" line="2" column="98" />
         <mark key="." line="2" column="98" />
+      </file>
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/node_modules/sockjs-client/lib/transport/websocket.js" timestamp="1467872864436">
+        <mark key="[" line="28" column="6" />
+        <mark key="]" line="29" column="27" />
+        <mark key="." line="29" column="27" />
+        <mark key="^" line="29" column="27" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/tag/base.tpl" timestamp="1455760475720">
         <mark key="[" line="2" column="0" />
@@ -1856,6 +1862,12 @@
         <mark key="^" line="12" column="18" />
         <mark key="." line="12" column="18" />
       </file>
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/.gitignore" timestamp="1467873346298">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="1" />
+        <mark key="^" line="7" column="1" />
+        <mark key="." line="7" column="1" />
+      </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/resources/views/cms/post/topDaily.blade.php" timestamp="1449742618187">
         <mark key="[" line="22" column="70" />
         <mark key="]" line="27" column="7" />
@@ -1996,8 +2008,8 @@
       <jump line="55" column="12" filename="$USER_HOME$/project/antcloud/usercenter/client/src/components/authority/RoleGroupTable.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>http:</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gLy8gY29uc3Qgc29ja2V0ID0gbmV3IFdlYlNvY2tldChsYXJrU2V0dGluZ3Muc29ja2V0VXJsKTsKLy8gY29uc3Qgc29ja2V0ID0gbmV3IFdlYlNvY2tldCgnd3M6Ly9yaWZsZS5qci5hbGlwYXkubmV0OjgwODAvcmlmbGUvODMwL3ZqcnFxeHN3L3dlYnNvY2tldCcpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>http:</text>
@@ -2008,32 +2020,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHlpZWxkIHB1dCh7IHR5cGU6IGFjdGlvbnMuQVVUSE9SSVRZX0RFTF9ST0xFUy5TVUNDRVNTfSk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>http:</text>
+      <register name="1" type="2">
+        <text encoding="base64">Ly8gLy8gY29uc3Qgc29ja2V0ID0gbmV3IFdlYlNvY2tldChsYXJrU2V0dGluZ3Muc29ja2V0VXJsKTsKLy8gY29uc3Qgc29ja2V0ID0gbmV3IFdlYlNvY2tldCgnd3M6Ly9yaWZsZS5qci5hbGlwYXkubmV0OjgwODAvcmlmbGUvODMwL3ZqcnFxeHN3L3dlYnNvY2tldCcpOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text>ws</text>
+      <register name="2" type="2">
+        <text encoding="base64">Ly8gd2luZG93LmxvY2F0aW9uLnByb3RvY29sID0gb3JpZ2luUHJvdG9jb2w7Cgo=</text>
       </register>
-      <register name="3" type="4">
-        <text>ws:</text>
+      <register name="3" type="2">
+        <text encoding="base64">bGV0IG9yaWdpblByb3RvY29sID0gd2luZG93LmxvY2F0aW9uLnByb3RvY29sOwovLyB3aW5kb3cubG9jYXRpb24ucHJvdG9jb2wgPSAiaHR0cCI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzLnNyYyA9ICJodHRwOi8vYXMudGVzdC5hbGlwYXkubmV0L2cvZmxhbWluZy1jbG91ZC9jb250YWN0b3IvMS4wLjAtcHJlMi9hcHAuanMiOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLndhcm4oJ3dlYnNvY2tldCcsIHRoaXMudXJsKTsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB4LmhyZWYgPSAiaHR0cDovL2FzLnRlc3QuYWxpcGF5Lm5ldC9nL2ZsYW1pbmctY2xvdWQvY29udGFjdG9yLzEuMC4wLXByZTIvYXBwLmNzcyI7Cg==</text>
+      <register name="5" type="4">
+        <text>http:</text>
       </register>
       <register name="6" type="4">
-        <text>s</text>
+        <text>ws</text>
       </register>
       <register name="7" type="4">
-        <text>s</text>
+        <text>ws:</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFmYXNmc2FmYQo=</text>
+        <text encoding="base64">ICAgICAgICBzLnNyYyA9ICJodHRwOi8vYXMudGVzdC5hbGlwYXkubmV0L2cvZmxhbWluZy1jbG91ZC9jb250YWN0b3IvMS4wLjAtcHJlMi9hcHAuanMiOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBhZmFzZnNhZmEK</text>
+        <text encoding="base64">ICAgICAgICB4LmhyZWYgPSAiaHR0cDovL2FzLnRlc3QuYWxpcGF5Lm5ldC9nL2ZsYW1pbmctY2xvdWQvY29udGFjdG9yLzEuMC4wLXByZTIvYXBwLmNzcyI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2088,10 +2100,10 @@
         <entry>s/time/operation</entry>
         <entry>s/time/state</entry>
         <entry>s/time/space</entry>
-        <entry>w</entry>
         <entry>s RoleMemberTable/RoleGroupTable/g</entry>
         <entry>%s RoleMemberTable/RoleGroupTable/g</entry>
         <entry encoding="base64">JzwsJz5zIE1FTUJFUlMvR1JPVVBT</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
