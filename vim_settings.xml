@@ -926,11 +926,10 @@
         <mark key="^" line="2" column="26" />
         <mark key="." line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/app/views/basic.html" timestamp="1467891153923">
-        <mark key="[" line="64" column="24" />
-        <mark key="]" line="64" column="25" />
-        <mark key="." line="64" column="25" />
-        <mark key="^" line="75" column="23" />
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/app/views/basic.html" timestamp="1467896365068">
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="." line="100" column="0" />
       </file>
       <file name="$USER_HOME$/project/iLight/web-client/src/components/Devices/Container.jsx" timestamp="1464928866909">
         <mark key="[" line="29" column="21" />
@@ -2023,7 +2022,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByZWY9ImNoYXRJbnB1dCIK</text>
+        <text encoding="base64">ICAgICAgICB4LmhyZWYgPSAnaHR0cDovL2dpdGxhYi5hbGlwYXktaW5jLmNvbS9odWl6ZS5od2ovY29udGFjdG9yLWRpc3QvcmF3L21hc3Rlci9hcHAuY3NzJzsK</text>
       </register>
       <register name="-" type="4">
         <text>10px</text>
@@ -2035,31 +2034,31 @@
         <text encoding="base64">ICAgICJkZXYtc2VydmVyIjogIk5PREVfRU5WPWRldmVsb3BtZW50IG5wbSBydW4gaG90LWRldi1zZXJ2ZXIiLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByZWY9ImNoYXRJbnB1dCIK</text>
+        <text encoding="base64">ICAgICAgICB4LmhyZWYgPSAnaHR0cDovL2dpdGxhYi5hbGlwYXktaW5jLmNvbS9odWl6ZS5od2ovY29udGFjdG9yLWRpc3QvcmF3L21hc3Rlci9hcHAuY3NzJzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbwo=</text>
+        <text encoding="base64">ICAgICAgICBzLnNyYyA9ICdodHRwOi8vZ2l0bGFiLmFsaXBheS1pbmMuY29tL2h1aXplLmh3ai9jb250YWN0b3ItZGlzdC9yYXcvbWFzdGVyL2FwcC5qcyc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8aSBjbGFzc05hbWU9ImFudGljb24gYW50aWNvbi1ib29rIj48L2k+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICByZWY9ImNoYXRJbnB1dCIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8aSBjbGFzc05hbWU9ImFudGljb24gYW50aWNvbi1ib29rIj48L2k+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICA8aSBjbGFzc05hbWU9ImFudGljb24gYW50aWNvbi1ib29rIj48L2k+Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>10px</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICA8aSBjbGFzc05hbWU9ImFudGljb24gYW50aWNvbi1ib29rIj48L2k+Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICA8aSBjbGFzc05hbWU9ImFudGljb24gYW50aWNvbi1ib29rIj48L2k+Cg==</text>
+      </register>
+      <register name="8" type="4">
+        <text>10px</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgIDwvc3Bhbj4K</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxzcGFuPgo=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">IGNsYXNzTmFtZT0idG9vbC1pY29uIg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
