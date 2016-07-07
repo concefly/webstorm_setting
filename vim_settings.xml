@@ -913,11 +913,11 @@
         <mark key="^" line="2" column="26" />
         <mark key="." line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/app/views/basic.html" timestamp="1467862587880">
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/app/views/basic.html" timestamp="1467870904293">
         <mark key="[" line="75" column="20" />
         <mark key="]" line="75" column="20" />
         <mark key="." line="75" column="20" />
-        <mark key="^" line="75" column="22" />
+        <mark key="^" line="75" column="23" />
       </file>
       <file name="$USER_HOME$/project/iLight/web-client/src/components/Devices/Container.jsx" timestamp="1464928866909">
         <mark key="[" line="29" column="21" />
@@ -1181,12 +1181,12 @@
         <mark key="^" line="1" column="37" />
         <mark key="." line="1" column="37" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/entry/Lark.jsx" timestamp="1467353869350">
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/entry/Lark.jsx" timestamp="1467870911356">
         <mark key="'" line="455" column="11" />
-        <mark key="[" line="479" column="11" />
-        <mark key="]" line="479" column="19" />
-        <mark key="." line="479" column="19" />
-        <mark key="^" line="479" column="19" />
+        <mark key="[" line="20" column="56" />
+        <mark key="]" line="21" column="32" />
+        <mark key="." line="21" column="32" />
+        <mark key="^" line="21" column="32" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/home/base.tpl" timestamp="1455696872098">
         <mark key="[" line="46" column="32" />
@@ -1996,10 +1996,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ws:</text>
+        <text>http:</text>
       </register>
       <register name="-" type="4">
-        <text>ws:</text>
+        <text>http:</text>
       </register>
       <register name="/" type="4">
         <text>ActionList</text>
@@ -2008,31 +2008,31 @@
         <text encoding="base64">ICAgIHlpZWxkIHB1dCh7IHR5cGU6IGFjdGlvbnMuQVVUSE9SSVRZX0RFTF9ST0xFUy5TVUNDRVNTfSk7Cg==</text>
       </register>
       <register name="1" type="4">
+        <text>http:</text>
+      </register>
+      <register name="2" type="4">
+        <text>ws</text>
+      </register>
+      <register name="3" type="4">
         <text>ws:</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBzLnNyYyA9ICJodHRwOi8vYXMudGVzdC5hbGlwYXkubmV0L2cvZmxhbWluZy1jbG91ZC9jb250YWN0b3IvMS4wLjAtcHJlMi9hcHAuanMiOwo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICB4LmhyZWYgPSAiaHR0cDovL2FzLnRlc3QuYWxpcGF5Lm5ldC9nL2ZsYW1pbmctY2xvdWQvY29udGFjdG9yLzEuMC4wLXByZTIvYXBwLmNzcyI7Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>s</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>s</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGFmYXNmc2FmYQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBhZmFzZnNhZmEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFmYXNmc2FmYQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YWZhc2ZzYWZhCg==</text>
+        <text encoding="base64">ICBhZmFzZnNhZmEK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
