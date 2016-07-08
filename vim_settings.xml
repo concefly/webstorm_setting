@@ -927,10 +927,10 @@
         <mark key="^" line="2" column="26" />
         <mark key="." line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/app/views/basic.html" timestamp="1467896365068">
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="0" />
-        <mark key="." line="100" column="0" />
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/app/views/basic.html" timestamp="1467968283340">
+        <mark key="[" line="64" column="24" />
+        <mark key="]" line="64" column="25" />
+        <mark key="." line="64" column="25" />
       </file>
       <file name="$USER_HOME$/project/iLight/web-client/src/components/Devices/Container.jsx" timestamp="1464928866909">
         <mark key="[" line="29" column="21" />
@@ -1194,11 +1194,12 @@
         <mark key="^" line="1" column="37" />
         <mark key="." line="1" column="37" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/entry/Lark.jsx" timestamp="1467888211221">
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/entry/Lark.jsx" timestamp="1467968182297">
         <mark key="'" line="450" column="11" />
-        <mark key="[" line="397" column="0" />
-        <mark key="]" line="397" column="0" />
-        <mark key="." line="397" column="0" />
+        <mark key="[" line="465" column="11" />
+        <mark key="]" line="465" column="13" />
+        <mark key="." line="465" column="13" />
+        <mark key="^" line="465" column="13" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/home/base.tpl" timestamp="1455696872098">
         <mark key="[" line="46" column="32" />
@@ -1762,11 +1763,11 @@
         <mark key="^" line="2" column="33" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/styles/lark.less" timestamp="1467943681907">
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/styles/lark.less" timestamp="1467967028719">
         <mark key="'" line="5" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="[" line="1294" column="0" />
+        <mark key="]" line="1294" column="32" />
+        <mark key="." line="1294" column="0" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/component/loading.scss" timestamp="1449569238770">
         <mark key="[" line="16" column="23" />
@@ -2028,44 +2029,44 @@
       <jump line="7" column="0" filename="$USER_HOME$/project/flaming-cloud/contactor/src/styles/lark.less" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUud2FybigiYWxsIHJlYWRlZD8iLCBzZWxmLmNoZWNrQWxsUmVhZGVkKCkpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>log</text>
       </register>
       <register name="-" type="4">
-        <text>Book</text>
+        <text>log</text>
       </register>
       <register name="/" type="4">
         <text>tool-icon</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJzdGFydC1kZXYiOiAiTk9ERV9FTlY9ZGV2ZWxvcG1lbnQgLi9ub2RlX21vZHVsZXMvLmJpbi9ub2RlbW9uIC0taGFybW9ueSBzZXJ2ZXIuanMiLAo=</text>
+        <text encoding="base64">ICAgICAgICBsZXQgdGFyZ2V0VXJsID0gYGh0dHBzOi8vdXNlci5jbG91ZC5hbGlwYXkuY29tLyMvJHt0aWR9LyR7d2lkfS90aWNrZXRzL3N1Ym1pdGA7CiAgICAgICAgd2luZG93Lm9wZW4odGFyZ2V0VXJsLCAiX2JsYW5rIik7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUud2FybigiYWxsIHJlYWRlZD8iLCBzZWxmLmNoZWNrQWxsUmVhZGVkKCkpOwo=</text>
+      <register name="1" type="4">
+        <text>log</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUud2FybigiRG90IGhhbmRsZSBjbGljazogIiwgdHlwZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUud2FybihgJHtjdXN0b21UeXBlfSwgJHtkZXNrQm9hcmRUeXBlfSwgJHtkZWZhdWx0VHlwZX0gY2hhbmdlIHRvICR7dHlwZX1gKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJvbkRlbGl2ZXJXb3JrT3JkZXIiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUud2FybihjdXN0b21UeXBlLCBkZXNrQm9hcmRUeXBlLCBkZWZhdWx0VHlwZSwgImNoYW5nZSB0byAiLCB0eXBlKTsK</text>
+        <text encoding="base64">ICAgICAgaWYgKHdpbmRvdy5sb2NhdGlvbi5ob3N0bmFtZSA9PSAnY29uc29sZS5jbG91ZC5hbGlwYXkuY29tJykgewogICAgICAgIGxldCB0YXJnZXRVcmwgPSBgaHR0cHM6Ly91c2VyLmNsb3VkLmFsaXBheS5jb20vIy8ke3RpZH0vJHt3aWR9L3RpY2tldHMvc3VibWl0YDsKICAgICAgICB3aW5kb3cub3Blbih0YXJnZXRVcmwsICJfYmxhbmsiKTsKICAgICAgfQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>Book</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUud2FybigiYWxsIHJlYWRlZD8iLCBzZWxmLmNoZWNrQWxsUmVhZGVkKCkpOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>Chat</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUud2FybigiRG90IGhhbmRsZSBjbGljazogIiwgdHlwZSk7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>undefined</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUud2FybihgJHtjdXN0b21UeXBlfSwgJHtkZXNrQm9hcmRUeXBlfSwgJHtkZWZhdWx0VHlwZX0gY2hhbmdlIHRvICR7dHlwZX1gKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBsYXN0TXNnLnByZXNldCB8fCBsYXN0TXNnLnJlYWRlZDsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUud2FybihjdXN0b21UeXBlLCBkZXNrQm9hcmRUeXBlLCBkZWZhdWx0VHlwZSwgImNoYW5nZSB0byAiLCB0eXBlKTsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICJzdGFydC1kZXYiOiAiTk9ERV9FTlY9ZGV2ZWxvcG1lbnQgLi9ub2RlX21vZHVsZXMvLmJpbi9ub2RlbW9uIC0taGFybW9ueSBzZXJ2ZXIuanMiLAo=</text>
+      <register name="9" type="4">
+        <text>Book</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
