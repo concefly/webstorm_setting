@@ -1763,11 +1763,12 @@
         <mark key="^" line="2" column="33" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/styles/lark.less" timestamp="1467967028719">
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/styles/lark.less" timestamp="1467969779422">
         <mark key="'" line="5" column="0" />
-        <mark key="[" line="1294" column="0" />
-        <mark key="]" line="1294" column="32" />
-        <mark key="." line="1294" column="0" />
+        <mark key="[" line="610" column="31" />
+        <mark key="]" line="611" column="33" />
+        <mark key="." line="611" column="33" />
+        <mark key="^" line="611" column="33" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/component/loading.scss" timestamp="1449569238770">
         <mark key="[" line="16" column="23" />
@@ -2036,7 +2037,7 @@
         <text>log</text>
       </register>
       <register name="/" type="4">
-        <text>tool-icon</text>
+        <text>book-note</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsZXQgdGFyZ2V0VXJsID0gYGh0dHBzOi8vdXNlci5jbG91ZC5hbGlwYXkuY29tLyMvJHt0aWR9LyR7d2lkfS90aWNrZXRzL3N1Ym1pdGA7CiAgICAgICAgd2luZG93Lm9wZW4odGFyZ2V0VXJsLCAiX2JsYW5rIik7Cg==</text>
@@ -2073,9 +2074,9 @@
       </register>
     </registers>
     <search>
-      <last-search>tool-icon</last-search>
+      <last-search>book-note</last-search>
       <last-offset />
-      <last-pattern>tool-icon</last-pattern>
+      <last-pattern>book-note</last-pattern>
       <last-replace>space</last-replace>
       <last-substitute>time</last-substitute>
       <last-dir>1</last-dir>
@@ -2083,8 +2084,6 @@
     </search>
     <history>
       <history-search>
-        <entry>article-title</entry>
-        <entry>font-family</entry>
         <entry>family</entry>
         <entry>clearfix</entry>
         <entry>label</entry>
@@ -2103,6 +2102,8 @@
         <entry>tool</entry>
         <entry>comment</entry>
         <entry>tool-icon</entry>
+        <entry>body-note</entry>
+        <entry>book-note</entry>
       </history-search>
       <history-cmd>
         <entry>33,38 s/password/password2/g</entry>
