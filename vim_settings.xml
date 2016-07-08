@@ -18,6 +18,12 @@
         <mark key="^" line="12" column="19" />
         <mark key="." line="12" column="19" />
       </file>
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/containers/Contactor.jsx" timestamp="1467946566089">
+        <mark key="[" line="13" column="19" />
+        <mark key="]" line="13" column="26" />
+        <mark key="." line="13" column="26" />
+        <mark key="^" line="13" column="26" />
+      </file>
       <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/partials/common/_fun.scss" timestamp="1456914855417">
         <mark key="[" line="11" column="34" />
         <mark key="]" line="18" column="0" />
@@ -66,11 +72,11 @@
         <mark key="^" line="7" column="15" />
         <mark key="." line="7" column="15" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/components/Contactor/Dot.jsx" timestamp="1467268706241">
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/components/Contactor/Dot.jsx" timestamp="1467947035151">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
-        <mark key="^" line="25" column="80" />
+        <mark key="^" line="25" column="87" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/tag/tag.tpl" timestamp="1452480360280">
         <mark key="[" line="12" column="60" />
@@ -2023,10 +2029,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJzdGFydC1kZXYiOiAiTk9ERV9FTlY9ZGV2ZWxvcG1lbnQgLi9ub2RlX21vZHVsZXMvLmJpbi9ub2RlbW9uIC0taGFybW9ueSBzZXJ2ZXIuanMiLAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUud2FybigiYWxsIHJlYWRlZD8iLCBzZWxmLmNoZWNrQWxsUmVhZGVkKCkpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHRpdGxlPSLmlofmoaPkuK3lv4Mi</text>
+        <text>Book</text>
       </register>
       <register name="/" type="4">
         <text>tool-icon</text>
@@ -2035,31 +2041,31 @@
         <text encoding="base64">ICAgICJzdGFydC1kZXYiOiAiTk9ERV9FTlY9ZGV2ZWxvcG1lbnQgLi9ub2RlX21vZHVsZXMvLmJpbi9ub2RlbW9uIC0taGFybW9ueSBzZXJ2ZXIuanMiLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJzdGFydC1kZXYiOiAiTk9ERV9FTlY9ZGV2ZWxvcG1lbnQgLi9ub2RlX21vZHVsZXMvLmJpbi9ub2RlbW9uIC0taGFybW9ueSBzZXJ2ZXIuanMiLAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUud2FybigiYWxsIHJlYWRlZD8iLCBzZWxmLmNoZWNrQWxsUmVhZGVkKCkpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8L1Rvb2x0aXA+Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUud2FybigiRG90IGhhbmRsZSBjbGljazogIiwgdHlwZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8VG9vbHRpcCB0aXRsZT0iIj4K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUud2FybihgJHtjdXN0b21UeXBlfSwgJHtkZXNrQm9hcmRUeXBlfSwgJHtkZWZhdWx0VHlwZX0gY2hhbmdlIHRvICR7dHlwZX1gKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUud2FybihjdXN0b21UeXBlLCBkZXNrQm9hcmRUeXBlLCBkZWZhdWx0VHlwZSwgImNoYW5nZSB0byAiLCB0eXBlKTsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">QGltcG9ydCAiLi4vLi4vbm9kZV9tb2R1bGVzL2FudGQvbGliL2luZGV4LmNzcyI7Cg==</text>
+      <register name="5" type="4">
+        <text>Book</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IHRpdGxlPSLmlofmoaPkuK3lv4Mi</text>
+        <text>Chat</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>undefined</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8SWNvbiB0eXBlPSJib29rIiAvPgo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBsYXN0TXNnLnByZXNldCB8fCBsYXN0TXNnLnJlYWRlZDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB4LmhyZWYgPSAnaHR0cDovL2dpdGxhYi5hbGlwYXktaW5jLmNvbS9odWl6ZS5od2ovY29udGFjdG9yLWRpc3QvcmF3L21hc3Rlci9hcHAuY3NzJzsK</text>
+        <text encoding="base64">ICAgICJzdGFydC1kZXYiOiAiTk9ERV9FTlY9ZGV2ZWxvcG1lbnQgLi9ub2RlX21vZHVsZXMvLmJpbi9ub2RlbW9uIC0taGFybW9ueSBzZXJ2ZXIuanMiLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
