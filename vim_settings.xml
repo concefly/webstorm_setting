@@ -174,6 +174,12 @@
         <mark key="^" line="93" column="27" />
         <mark key="." line="93" column="27" />
       </file>
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/containers/Logs.jsx" timestamp="1468222152912">
+        <mark key="[" line="25" column="3" />
+        <mark key="]" line="65" column="62" />
+        <mark key="." line="65" column="62" />
+        <mark key="^" line="65" column="62" />
+      </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/libs/pagination/pagination.tpl" timestamp="1455610948586">
         <mark key="[" line="12" column="64" />
         <mark key="]" line="12" column="67" />
@@ -1405,9 +1411,9 @@
         <mark key="^" line="67" column="4" />
       </file>
       <file name="$USER_HOME$/project/antcloud/usercenter/client/webpack.config.js" timestamp="1468219141552">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/project/iLight/iLight-client/build/web/src/main.js" timestamp="1465036627086">
         <mark key="[" line="17" column="0" />
@@ -1449,6 +1455,10 @@
         <mark key="]" line="3" column="0" />
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/components/members/MemberDetail.jsx" timestamp="1468221199498">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="77" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/user/home/base.blade.php" timestamp="1453796064620">
         <mark key="[" line="26" column="12" />
@@ -2040,47 +2050,47 @@
       <jump line="7" column="0" filename="$USER_HOME$/project/flaming-cloud/contactor/src/styles/lark.less" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB3ZWJwYWNrQ29uZmlnLnBsdWdpbnMucHVzaChuZXcgSGFwcHkoewogICAgaWQ6ICdsZXNzJywKICAgIHRocmVhZHM6IDIKICB9KSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>所有人</text>
       </register>
       <register name="-" type="4">
-        <text>jsx</text>
+        <text>所有人</text>
       </register>
       <register name="/" type="4">
         <text>book-note</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICB3ZWJwYWNrQ29uZmlnLnBsdWdpbnMucHVzaChuZXcgSGFwcHkoewogICAgaWQ6ICdqc3gnLAogICAgdGhyZWFkczogNAogIH0pKTsK</text>
+      <register name="0" type="4">
+        <text>FormattedMessage</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICB3ZWJwYWNrQ29uZmlnLnBsdWdpbnMucHVzaChuZXcgSGFwcHkoewogICAgaWQ6ICdsZXNzJywKICAgIHRocmVhZHM6IDIKICB9KSk7Cg==</text>
+      <register name="1" type="4">
+        <text>所有人</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICB3ZWJwYWNrQ29uZmlnLnBsdWdpbnMucHVzaChuZXcgSGFwcHkoewogICAgaWQ6ICdsZXNzJywKICAgIHRocmVhZHM6IDIKICB9KSk7Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>} else if (item.test.toString().match(/\.less\$/)) {
       return Object.assign({}, item, {
         happy: {id: 'less'}
       })</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICBjb25zb2xlLmxvZyh3ZWJwYWNrQ29uZmlnLm1vZHVsZS5sb2FkZXJzKTsK</text>
-      </register>
-      <register name="5" type="4">
-        <text>jsx</text>
       </register>
       <register name="6" type="4">
         <text>jsx</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>jsx</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB3ZWJwYWNrQ29uZmlnLnBsdWdpbnMucHVzaChuZXcgSGFwcHkoewogICAgaWQ6ICdqc3gnCiAgfSkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh3ZWJwYWNrQ29uZmlnLm1vZHVsZS5sb2FkZXJzKTsK</text>
+        <text encoding="base64">ICB3ZWJwYWNrQ29uZmlnLnBsdWdpbnMucHVzaChuZXcgSGFwcHkoewogICAgaWQ6ICdqc3gnCiAgfSkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
