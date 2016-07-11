@@ -903,10 +903,10 @@
         <mark key="." line="33" column="26" />
         <mark key="^" line="33" column="26" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/proxy.js" timestamp="1468211883755">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/proxy.js" timestamp="1468217438496">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/home/home.blade.php" timestamp="1455680100079">
         <mark key="[" line="0" column="0" />
@@ -1403,6 +1403,11 @@
         <mark key="]" line="61" column="11" />
         <mark key="." line="61" column="11" />
         <mark key="^" line="67" column="4" />
+      </file>
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/webpack.config.js" timestamp="1468219141552">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/project/iLight/iLight-client/build/web/src/main.js" timestamp="1465036627086">
         <mark key="[" line="17" column="0" />
@@ -2036,43 +2041,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ki8K</text>
+        <text encoding="base64">ICB3ZWJwYWNrQ29uZmlnLnBsdWdpbnMucHVzaChuZXcgSGFwcHkoewogICAgaWQ6ICdsZXNzJywKICAgIHRocmVhZHM6IDIKICB9KSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>log</text>
+        <text>jsx</text>
       </register>
       <register name="/" type="4">
         <text>book-note</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgdGFyZ2V0VXJsID0gYGh0dHBzOi8vdXNlci5jbG91ZC5hbGlwYXkuY29tLyMvJHt0aWR9LyR7d2lkfS90aWNrZXRzL3N1Ym1pdGA7CiAgICAgICAgd2luZG93Lm9wZW4odGFyZ2V0VXJsLCAiX2JsYW5rIik7Cg==</text>
+        <text encoding="base64">ICB3ZWJwYWNrQ29uZmlnLnBsdWdpbnMucHVzaChuZXcgSGFwcHkoewogICAgaWQ6ICdqc3gnLAogICAgdGhyZWFkczogNAogIH0pKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ki8K</text>
+        <text encoding="base64">ICB3ZWJwYWNrQ29uZmlnLnBsdWdpbnMucHVzaChuZXcgSGFwcHkoewogICAgaWQ6ICdsZXNzJywKICAgIHRocmVhZHM6IDIKICB9KSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="4">
-        <text>log</text>
+        <text>} else if (item.test.toString().match(/\.less\$/)) {
+      return Object.assign({}, item, {
+        happy: {id: 'less'}
+      })</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh3ZWJwYWNrQ29uZmlnLm1vZHVsZS5sb2FkZXJzKTsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCJvbkRlbGl2ZXJXb3JrT3JkZXIiKTsK</text>
+      <register name="5" type="4">
+        <text>jsx</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHdpbmRvdy5sb2NhdGlvbi5ob3N0bmFtZSA9PSAnY29uc29sZS5jbG91ZC5hbGlwYXkuY29tJykgewogICAgICAgIGxldCB0YXJnZXRVcmwgPSBgaHR0cHM6Ly91c2VyLmNsb3VkLmFsaXBheS5jb20vIy8ke3RpZH0vJHt3aWR9L3RpY2tldHMvc3VibWl0YDsKICAgICAgICB3aW5kb3cub3Blbih0YXJnZXRVcmwsICJfYmxhbmsiKTsKICAgICAgfQo=</text>
+      <register name="6" type="4">
+        <text>jsx</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUud2FybigiYWxsIHJlYWRlZD8iLCBzZWxmLmNoZWNrQWxsUmVhZGVkKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUud2FybigiRG90IGhhbmRsZSBjbGljazogIiwgdHlwZSk7Cg==</text>
+        <text encoding="base64">ICB3ZWJwYWNrQ29uZmlnLnBsdWdpbnMucHVzaChuZXcgSGFwcHkoewogICAgaWQ6ICdqc3gnCiAgfSkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUud2FybihgJHtjdXN0b21UeXBlfSwgJHtkZXNrQm9hcmRUeXBlfSwgJHtkZWZhdWx0VHlwZX0gY2hhbmdlIHRvICR7dHlwZX1gKTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh3ZWJwYWNrQ29uZmlnLm1vZHVsZS5sb2FkZXJzKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
