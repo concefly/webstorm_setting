@@ -174,9 +174,9 @@
         <mark key="^" line="93" column="27" />
         <mark key="." line="93" column="27" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/containers/Logs.jsx" timestamp="1468225587298">
-        <mark key="[" line="91" column="3" />
-        <mark key="]" line="509" column="40" />
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/containers/Logs.jsx" timestamp="1468226174969">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="77" />
         <mark key="." line="509" column="40" />
         <mark key="^" line="509" column="40" />
       </file>
@@ -776,6 +776,11 @@
         <mark key="]" line="0" column="9" />
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="9" />
+      </file>
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/components/logs/LogList.jsx" timestamp="1468226193569">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="3" column="77" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/article_topic.blade.php" timestamp="1455761198747">
         <mark key="[" line="28" column="33" />
@@ -2050,8 +2055,8 @@
       <jump line="7" column="0" filename="$USER_HOME$/project/flaming-cloud/contactor/src/styles/lark.less" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>成功</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHsgRm9ybWF0dGVkRGF0ZSwgRm9ybWF0dGVkTWVzc2FnZSwgZGVmaW5lTWVzc2FnZXMgfSBmcm9tICdyZWFjdC1pbnRsJzsK</text>
       </register>
       <register name="-" type="4">
         <text>成功</text>
@@ -2060,7 +2065,7 @@
         <text>book-note</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBvcGVyYXRpb25TdGF0dXNGYWlsdXJlOiB7CiAgICBpZDogJ2xvZ1NlYXJjaEZvcm0ub3BlcmF0aW9uU3RhdHVzRmFpbHVyZScsCiAgICBkZWZhdWx0TWVzc2FnZTogJ+Wksei0pScKICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgRm9ybWF0dGVkRGF0ZSwgRm9ybWF0dGVkTWVzc2FnZSwgZGVmaW5lTWVzc2FnZXMgfSBmcm9tICdyZWFjdC1pbnRsJzsK</text>
       </register>
       <register name="1" type="4">
         <text>成功</text>
