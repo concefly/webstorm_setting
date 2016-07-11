@@ -9,9 +9,6 @@
         <mark key="^" line="13" column="10" />
         <mark key="." line="13" column="10" />
       </file>
-      <file name="/a.dummy" timestamp="1467883562648">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/project/pet/wechat/views/check/index.blade.php" timestamp="1449714775358">
         <mark key="[" line="12" column="18" />
         <mark key="]" line="12" column="19" />
@@ -59,6 +56,12 @@
         <mark key="]" line="34" column="96" />
         <mark key="^" line="4" column="54" />
         <mark key="." line="4" column="54" />
+      </file>
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/entry/en-US.js" timestamp="1468228007176">
+        <mark key="[" line="10" column="3" />
+        <mark key="]" line="10" column="17" />
+        <mark key="^" line="10" column="17" />
+        <mark key="." line="10" column="17" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/partials/layout/layout.scss" timestamp="1450317123477">
         <mark key="[" line="39" column="19" />
@@ -174,11 +177,10 @@
         <mark key="^" line="93" column="27" />
         <mark key="." line="93" column="27" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/containers/Logs.jsx" timestamp="1468226174969">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="77" />
-        <mark key="." line="509" column="40" />
-        <mark key="^" line="509" column="40" />
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/containers/Logs.jsx" timestamp="1468228058104">
+        <mark key="[" line="110" column="0" />
+        <mark key="]" line="110" column="0" />
+        <mark key="." line="110" column="0" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/libs/pagination/pagination.tpl" timestamp="1455610948586">
         <mark key="[" line="12" column="64" />
@@ -648,9 +650,6 @@
         <mark key="^" line="93" column="27" />
         <mark key="." line="93" column="27" />
       </file>
-      <file name="$USER_HOME$/project/my/news/.eslintignore" timestamp="1467881997808">
-        <mark key="[" line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/author-select/author-add.tpl" timestamp="1453341792064">
         <mark key="[" line="19" column="38" />
         <mark key="]" line="19" column="46" />
@@ -776,11 +775,6 @@
         <mark key="]" line="0" column="9" />
         <mark key="^" line="0" column="9" />
         <mark key="." line="0" column="9" />
-      </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/components/logs/LogList.jsx" timestamp="1468226193569">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="3" column="77" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/article_topic.blade.php" timestamp="1455761198747">
         <mark key="[" line="28" column="33" />
@@ -1019,6 +1013,12 @@
         <mark key="]" line="66" column="1" />
         <mark key="^" line="66" column="1" />
         <mark key="." line="66" column="1" />
+      </file>
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/locales/en.json" timestamp="1468228485651">
+        <mark key="[" line="170" column="47" />
+        <mark key="]" line="170" column="47" />
+        <mark key="." line="170" column="47" />
+        <mark key="^" line="169" column="64" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/label/label-primary.html" timestamp="1449541357036">
         <mark key="[" line="0" column="63" />
@@ -2055,44 +2055,44 @@
       <jump line="7" column="0" filename="$USER_HOME$/project/flaming-cloud/contactor/src/styles/lark.less" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRm9ybWF0dGVkRGF0ZSwgRm9ybWF0dGVkTWVzc2FnZSwgZGVmaW5lTWVzc2FnZXMgfSBmcm9tICdyZWFjdC1pbnRsJzsK</text>
+      <register name="&quot;" type="4">
+        <text>action object</text>
       </register>
       <register name="-" type="4">
-        <text>成功</text>
+        <text>action object</text>
       </register>
       <register name="/" type="4">
         <text>book-note</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRm9ybWF0dGVkRGF0ZSwgRm9ybWF0dGVkTWVzc2FnZSwgZGVmaW5lTWVzc2FnZXMgfSBmcm9tICdyZWFjdC1pbnRsJzsK</text>
+        <text encoding="base64">ICBzdGF0dXNTdWNjZXNzOiB7CiAgICBpZDogJ2xvZ0xpc3Quc3RhdHVzU3VjY2VzcycsCiAgICBkZWZhdWx0TWVzc2FnZTogJ+aIkOWKnycKICB9LAo=</text>
       </register>
       <register name="1" type="4">
-        <text>成功</text>
+        <text>action object</text>
       </register>
       <register name="2" type="4">
-        <text>Failure</text>
+        <text>action</text>
       </register>
-      <register name="3" type="4">
-        <text>Failure</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAibG9nU2VhcmNoRm9ybS5zZWxlY3RPcGVyYXRpb25UYXJnZXQiOiAiU2VsZWN0IGFjdGlvbiBvYmplY3QiLAo=</text>
       </register>
       <register name="4" type="4">
-        <text>'</text>
+        <text>Action object</text>
       </register>
       <register name="5" type="4">
-        <text>Success</text>
+        <text>action</text>
       </register>
-      <register name="6" type="4">
-        <text>Success</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">bGV0IHJhbmdlbG9jYWxlID0gewogIHRpbWV6b25lT2Zmc2V0OiA4ICogNjAsCiAgZmlyc3REYXlPZldlZWs6IDEsCiAgbWluaW1hbERheXNJbkZpcnN0V2VlazogMSwKCiAgbGFuZzogewogICAgdG9kYXk6ICfku4rlpKknLAogICAgbm93OiAn5q2k5Yi7JywKICAgIG9rOiAn56Gu5a6aJywKICAgIGNsZWFyOiAn5riF6ZmkJywKICAgIHByZXZpb3VzTW9udGg6ICfkuIrkuKrmnIggKOe/u+mhteS4iumUriknLAogICAgbmV4dE1vbnRoOiAn5LiL5Liq5pyIICjnv7vpobXkuIvplK4pJywKICAgIHBsYWNlaG9sZGVyOiAn6K+36YCJ5oup5pel5pyfJywKICAgIHRpbWVQbGFjZWhvbGRlcjogJ+ivt+mAieaLqeaXtumXtCcsCiAgICBtb250aFNlbGVjdDogJ+mAieaLqeaciOS7vScsCiAgICB5ZWFyU2VsZWN0OiAn6YCJ5oup5bm05Lu9JywKICAgIGRlY2FkZVNlbGVjdDogJ+mAieaLqeW5tOS7oycsCiAgICBob3VySW5wdXQ6ICfkuIrkuIDlsI/ml7Yo5LiK5pa55ZCR6ZSuKSwg5LiL5LiA5bCP5pe2KOS4i+aWueWQkemUriknLAogICAgbWludXRlSW5wdXQ6ICfkuIrkuIDliIbpkp8o5LiK5pa55ZCR6ZSuKSwg5LiL5LiA5YiG6ZKfKOS4i+aWueWQkemUriknLAogICAgc2Vjb25kSW5wdXQ6ICfkuIrkuIDnp5Io5LiK5pa55ZCR6ZSuKSwg5LiL5LiA5bCP5pe2KOS4i+aWueWQkemUriknLAogICAgaG91clBhbmVsVGl0bGU6ICfpgInmi6nlsI/ml7YnLAogICAgbWludXRlUGFuZWxUaXRsZTogJ+mAieaLqeWIhumSnycsCiAgICBzZWNvbmRQYW5lbFRpdGxlOiAn6YCJ5oup56eSJywKICAgIHllYXJGb3JtYXQ6ICd5eXl5XCflubRcJycsCiAgICBtb250aEZvcm1hdDogJ01cJ+aciFwnJywKICAgIGRhdGVGb3JtYXQ6ICd5eXl5XCflubRcJ01cJ+aciFwnZFwn5pelXCcnLAogICAgcHJldmlvdXNZZWFyOiAn5LiK5LiA5bm0IChDb250cm9s6ZSu5Yqg5bem5pa55ZCR6ZSuKScsCiAgICBuZXh0WWVhcjogJ+S4i+S4gOW5tCAoQ29udHJvbOmUruWKoOWPs+aWueWQkemUriknLAogICAgcHJldmlvdXNEZWNhZGU6ICfkuIrkuIDlubTku6MnLAogICAgbmV4dERlY2FkZTogJ+S4i+S4gOW5tOS7oycsCiAgICBwcmV2aW91c0NlbnR1cnk6ICfkuIrkuIDkuJbnuqonLAogICAgbmV4dENlbnR1cnk6ICfkuIvkuIDkuJbnuqonLAoKICAgIGZvcm1hdDogewogICAgICBlcmFzOiBbJ+WFrOWFg+WJjScsICflhazlhYMnXSwKICAgICAgbW9udGhzOiBbJ+S4gOaciCcsICfkuozmnIgnLCAn5LiJ5pyIJywgJ+Wbm+aciCcsICfkupTmnIgnLCAn5YWt5pyIJywKICAgICAgICAn5LiD5pyIJywgJ+WFq+aciCcsICfkuZ3mnIgnLCAn5Y2B5pyIJywgJ+WNgeS4gOaciCcsICfljYHkuozmnIgnXSwKICAgICAgc2hvcnRNb250aHM6IFsn5LiA5pyIJywgJ+S6jOaciCcsICfkuInmnIgnLCAn5Zub5pyIJywgJ+S6lOaciCcsICflha3mnIgnLAogICAgICAgICfkuIPmnIgnLCAn5YWr5pyIJywgJ+S5neaciCcsICfljYHmnIgnLCAn5Y2B5LiA5pyIJywgJ+WNgeS6jOaciCddLAogICAgICB3ZWVrZGF5czogWyfmmJ/mnJ/lpKknLCAn5pif5pyf5LiAJywgJ+aYn+acn+S6jCcsICfmmJ/mnJ/kuIknLCAn5pif5pyf5ZubJywKICAgICAgICAn5pif5pyf5LqUJywgJ+aYn+acn+WFrSddLAogICAgICBzaG9ydFdlZWtkYXlzOiBbJ+WRqOaXpScsICflkajkuIAnLCAn5ZGo5LqMJywgJ+WRqOS4iScsICflkajlm5snLCAn5ZGo5LqUJywKICAgICAgICAn5ZGo5YWtJ10sCiAgICAgIHZlcnlTaG9ydFdlZWtkYXlzOiBbJ+aXpScsICfkuIAnLCAn5LqMJywgJ+S4iScsICflm5snLCAn5LqUJywgJ+WFrSddLAogICAgICBhbXBtczogWyfkuIrljYgnLCAn5LiL5Y2IJ10sCiAgICAgIGRhdGVQYXR0ZXJuczogWyJ5eXl5J+W5tCdNJ+aciCdkJ+aXpScgRUVFRSIsICJ5eXl5J+W5tCdNJ+aciCdkJ+aXpSciLCAieXl5eS1NLWQiLCAieXktTS1kIl0sCiAgICAgIHRpbWVQYXR0ZXJuczogWyJhaGgn5pe2J21tJ+WIhidzcyfnp5InICdHTVQnWiIsICJhaGgn5pe2J21tJ+WIhidzcyfnp5InIiwgIkg6bW06c3MiLCAiYWg6bW0iXSwKICAgICAgZGF0ZVRpbWVQYXR0ZXJuOiAne2RhdGV9IHt0aW1lfScKICAgIH0KICB9Cn07Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>所有人</text>
+        <text>locale</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgcmFuZ2VMb2NhbCA9IHt9ClN1Y2Nlc3NTdWNjZXNzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
