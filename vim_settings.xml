@@ -910,9 +910,9 @@
         <mark key="^" line="33" column="26" />
       </file>
       <file name="$USER_HOME$/project/antcloud/usercenter/client/proxy.js" timestamp="1468318574308">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/home/home.blade.php" timestamp="1455680100079">
         <mark key="[" line="0" column="0" />
@@ -1014,6 +1014,11 @@
         <mark key="]" line="66" column="1" />
         <mark key="^" line="66" column="1" />
         <mark key="." line="66" column="1" />
+      </file>
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/locales/en.json" timestamp="1468327557911">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/label/label-primary.html" timestamp="1449541357036">
         <mark key="[" line="0" column="63" />
@@ -1598,6 +1603,12 @@
         <mark key="^" line="22" column="63" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/locales/cn.json" timestamp="1468327520470">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
+      </file>
       <file name="$USER_HOME$/project/antcloud/usercenter/client/mock/authority.js" timestamp="1467614802373">
         <mark key="[" line="192" column="30" />
         <mark key="]" line="192" column="31" />
@@ -1948,7 +1959,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="777" column="58" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
       <jump line="783" column="34" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
       <jump line="788" column="30" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
       <jump line="1637" column="11" filename="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.scss" />
@@ -2048,55 +2058,56 @@
       <jump line="1294" column="17" filename="$USER_HOME$/project/flaming-cloud/contactor/src/styles/lark.less" />
       <jump line="1313" column="15" filename="$USER_HOME$/project/flaming-cloud/contactor/src/styles/lark.less" />
       <jump line="7" column="0" filename="$USER_HOME$/project/flaming-cloud/contactor/src/styles/lark.less" />
+      <jump line="16" column="0" filename="$USER_HOME$/project/antcloud/usercenter/client/locales/cn.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIFtkb21haW4sIHR5cGUsIHBheWxvYWRdOwo=</text>
+        <text encoding="base64">ICAiQXNpZGVNZW51LmRhc2hib2FyZCI6ICJEYXNoYm9hcmQiLAogICJBc2lkZU1lbnUuYWNjb3VudHNpbmZvIjogIkFjY291bnRzIiwKICAiQXNpZGVNZW51Lm1lbWJlcnMiOiAiTWVtYmVycyIsCiAgIkFzaWRlTWVudS5iaWxsIjogIkJpbGxzIiwKICAiQXNpZGVNZW51LnJlbmV3IjogIlJlbmV3IiwKICAiQXNpZGVNZW51LnRpY2tldHMiOiAiVGlja2V0cyIsCiAgIkFzaWRlTWVudS5hdXRob3JpemF0aW9uIjogIkF1dGhvcml6YXRpb24iLAogICJBc2lkZU1lbnUubG9ncyI6ICJMb2dzIiwKICAiQXNpZGVNZW51LndvcmtzcGFjZXMiOiAiV29ya3NwYWNlcyIsCg==</text>
       </register>
       <register name="-" type="4">
         <text>require</text>
       </register>
       <register name="/" type="4">
-        <text>book-note</text>
+        <text encoding="base64">ICAiYXV0aG9yaXR5Lkdyb3VwQWRkTW9kYWwubW9kYWxUaXRsZSI6ICLmt7vliqDmiJDlkZgiLA==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBzdGF0dXNTdWNjZXNzOiB7CiAgICBpZDogJ2xvZ0xpc3Quc3RhdHVzU3VjY2VzcycsCiAgICBkZWZhdWx0TWVzc2FnZTogJ+aIkOWKnycKICB9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIFtkb21haW4sIHR5cGUsIHBheWxvYWRdOwo=</text>
+        <text encoding="base64">ICAiQXNpZGVNZW51LmRhc2hib2FyZCI6ICJEYXNoYm9hcmQiLAogICJBc2lkZU1lbnUuYWNjb3VudHNpbmZvIjogIkFjY291bnRzIiwKICAiQXNpZGVNZW51Lm1lbWJlcnMiOiAiTWVtYmVycyIsCiAgIkFzaWRlTWVudS5iaWxsIjogIkJpbGxzIiwKICAiQXNpZGVNZW51LnJlbmV3IjogIlJlbmV3IiwKICAiQXNpZGVNZW51LnRpY2tldHMiOiAiVGlja2V0cyIsCiAgIkFzaWRlTWVudS5hdXRob3JpemF0aW9uIjogIkF1dGhvcml6YXRpb24iLAogICJBc2lkZU1lbnUubG9ncyI6ICJMb2dzIiwKICAiQXNpZGVNZW51LndvcmtzcGFjZXMiOiAiV29ya3NwYWNlcyIsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHdpbmRvdy5UcmFja2VyCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
-      <register name="4" type="4">
-        <text>require</text>
+      <register name="4" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vZmVhdHVyZS9pMThuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dHJhY2tlci5taWRkbGV3YXJlKFtvcGVyYXRpb25NaWRkbGV3YXJlXSk7Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vZmVhdHVyZS9pMThuCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vZmVhdHVyZS9pMThuCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHRyYWNrZXIgZnJvbSAnQGFsaXBheS9tdHJhY2tlci9saWIvbXRyYWNrZXItd2FwJzsKCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>book-note</last-search>
+      <last-search encoding="base64">ICAiYXV0aG9yaXR5Lkdyb3VwQWRkTW9kYWwubW9kYWxUaXRsZSI6ICLmt7vliqDmiJDlkZgiLA==</last-search>
       <last-offset />
-      <last-pattern>book-note</last-pattern>
+      <last-pattern encoding="base64">ICAiYXV0aG9yaXR5Lkdyb3VwQWRkTW9kYWwubW9kYWxUaXRsZSI6ICLmt7vliqDmiJDlkZgiLA==</last-pattern>
       <last-replace>space</last-replace>
       <last-substitute>time</last-substitute>
       <last-dir>1</last-dir>
@@ -2104,7 +2115,6 @@
     </search>
     <history>
       <history-search>
-        <entry>family</entry>
         <entry>clearfix</entry>
         <entry>label</entry>
         <entry>element</entry>
@@ -2124,6 +2134,7 @@
         <entry>tool-icon</entry>
         <entry>body-note</entry>
         <entry>book-note</entry>
+        <entry encoding="base64">ICAiYXV0aG9yaXR5Lkdyb3VwQWRkTW9kYWwubW9kYWxUaXRsZSI6ICLmt7vliqDmiJDlkZgiLA==</entry>
       </history-search>
       <history-cmd>
         <entry>33,38 s/password/password2/g</entry>
