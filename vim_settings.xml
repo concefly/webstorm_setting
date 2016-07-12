@@ -597,11 +597,6 @@
         <mark key="^" line="27" column="2" />
         <mark key="." line="27" column="2" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/entry/index.jsx" timestamp="1468315596119">
-        <mark key="[" line="26" column="20" />
-        <mark key="]" line="26" column="20" />
-        <mark key="." line="26" column="20" />
-      </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/media/image.select.js" timestamp="1453112235245">
         <mark key="[" line="96" column="17" />
         <mark key="]" line="96" column="17" />
@@ -908,7 +903,7 @@
         <mark key="." line="33" column="26" />
         <mark key="^" line="33" column="26" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/proxy.js" timestamp="1468289646658">
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/proxy.js" timestamp="1468316243595">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
