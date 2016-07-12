@@ -597,11 +597,10 @@
         <mark key="^" line="27" column="2" />
         <mark key="." line="27" column="2" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/entry/index.jsx" timestamp="1468314515897">
-        <mark key="[" line="19" column="33" />
-        <mark key="]" line="23" column="54" />
-        <mark key="^" line="23" column="54" />
-        <mark key="." line="23" column="54" />
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/entry/index.jsx" timestamp="1468315596119">
+        <mark key="[" line="26" column="20" />
+        <mark key="]" line="26" column="20" />
+        <mark key="." line="26" column="20" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/media/image.select.js" timestamp="1453112235245">
         <mark key="[" line="96" column="17" />
@@ -2056,11 +2055,11 @@
       <jump line="7" column="0" filename="$USER_HOME$/project/flaming-cloud/contactor/src/styles/lark.less" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>action object</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>book-note</text>
@@ -2068,32 +2067,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICBzdGF0dXNTdWNjZXNzOiB7CiAgICBpZDogJ2xvZ0xpc3Quc3RhdHVzU3VjY2VzcycsCiAgICBkZWZhdWx0TWVzc2FnZTogJ+aIkOWKnycKICB9LAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="1" type="4">
+        <text>,</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ki8K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ki8K</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">LyoK</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>action object</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>action</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAibG9nU2VhcmNoRm9ybS5zZWxlY3RPcGVyYXRpb25UYXJnZXQiOiAiU2VsZWN0IGFjdGlvbiBvYmplY3QiLAo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>Action object</text>
-      </register>
-      <register name="8" type="4">
-        <text>action</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
