@@ -63,6 +63,11 @@
         <mark key="^" line="10" column="17" />
         <mark key="." line="10" column="17" />
       </file>
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/tracker/index.js" timestamp="1468318080741">
+        <mark key="[" line="26" column="7" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/partials/layout/layout.scss" timestamp="1450317123477">
         <mark key="[" line="39" column="19" />
         <mark key="]" line="39" column="18" />
@@ -669,6 +674,7 @@
         <mark key="^" line="44" column="28" />
         <mark key="." line="44" column="28" />
       </file>
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/api/logs.js" timestamp="1468318712765" />
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/article-type-list/topic.blade.php" timestamp="1455604672986">
         <mark key="[" line="1" column="26" />
         <mark key="]" line="1" column="27" />
@@ -903,10 +909,10 @@
         <mark key="." line="33" column="26" />
         <mark key="^" line="33" column="26" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/proxy.js" timestamp="1468316243595">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/proxy.js" timestamp="1468318574308">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/home/home.blade.php" timestamp="1455680100079">
         <mark key="[" line="0" column="0" />
@@ -1097,12 +1103,6 @@
         <mark key="]" line="37" column="29" />
         <mark key="^" line="37" column="29" />
         <mark key="." line="37" column="29" />
-      </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/routes/index.jsx" timestamp="1467351815830">
-        <mark key="[" line="36" column="62" />
-        <mark key="]" line="36" column="71" />
-        <mark key="." line="36" column="71" />
-        <mark key="^" line="36" column="71" />
       </file>
       <file name="$USER_HOME$/project/antcloud/usercenter/client/src/sagas/authority.js" timestamp="1467615197976">
         <mark key="[" line="116" column="0" />
@@ -2050,11 +2050,11 @@
       <jump line="7" column="0" filename="$USER_HOME$/project/flaming-cloud/contactor/src/styles/lark.less" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuIFtkb21haW4sIHR5cGUsIHBheWxvYWRdOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>require</text>
       </register>
       <register name="/" type="4">
         <text>book-note</text>
@@ -2062,32 +2062,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICBzdGF0dXNTdWNjZXNzOiB7CiAgICBpZDogJ2xvZ0xpc3Quc3RhdHVzU3VjY2VzcycsCiAgICBkZWZhdWx0TWVzc2FnZTogJ+aIkOWKnycKICB9LAo=</text>
       </register>
-      <register name="1" type="4">
-        <text>,</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuIFtkb21haW4sIHR5cGUsIHBheWxvYWRdOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHdpbmRvdy5UcmFja2VyCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ki8K</text>
+      <register name="4" type="4">
+        <text>require</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>action object</text>
+      <register name="6" type="2">
+        <text encoding="base64">dHJhY2tlci5taWRkbGV3YXJlKFtvcGVyYXRpb25NaWRkbGV3YXJlXSk7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>action</text>
+        <text encoding="base64">bW9kdWxlLmV4cG9ydHMgPSA=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAibG9nU2VhcmNoRm9ybS5zZWxlY3RPcGVyYXRpb25UYXJnZXQiOiAiU2VsZWN0IGFjdGlvbiBvYmplY3QiLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>Action object</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IHRyYWNrZXIgZnJvbSAnQGFsaXBheS9tdHJhY2tlci9saWIvbXRyYWNrZXItd2FwJzsKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
