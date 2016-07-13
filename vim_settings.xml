@@ -134,6 +134,12 @@
         <mark key="^" line="7" column="21" />
         <mark key="." line="18" column="11" />
       </file>
+      <file name="$USER_HOME$/project/my/antd-tracker-core/lib/operation.js" timestamp="1468377931028">
+        <mark key="[" line="28" column="1" />
+        <mark key="]" line="28" column="1" />
+        <mark key="." line="28" column="1" />
+        <mark key="^" line="28" column="1" />
+      </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/partials/layout/layout.tpl" timestamp="1450250987109">
         <mark key="[" line="12" column="60" />
         <mark key="]" line="12" column="60" />
@@ -295,6 +301,12 @@
         <mark key="]" line="61" column="28" />
         <mark key="^" line="61" column="28" />
         <mark key="." line="61" column="28" />
+      </file>
+      <file name="$USER_HOME$/project/my/antd-tracker-core/test/core-test.js" timestamp="1468377979163">
+        <mark key="[" line="32" column="7" />
+        <mark key="]" line="32" column="7" />
+        <mark key="^" line="32" column="7" />
+        <mark key="." line="32" column="7" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/paragraph/paragraph.html" timestamp="1449555968239">
         <mark key="[" line="1" column="0" />
@@ -782,6 +794,10 @@
         <mark key="^" line="28" column="48" />
         <mark key="." line="28" column="48" />
       </file>
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/sagas/authorization.js" timestamp="1468376413702">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="43" />
+      </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/user/base.blade.php" timestamp="1456481044002">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="39" />
@@ -823,6 +839,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/sagas/tracker.js" timestamp="1468377538028">
+        <mark key="[" line="10" column="38" />
+        <mark key="]" line="10" column="38" />
+        <mark key="^" line="10" column="33" />
+        <mark key="." line="10" column="38" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.list.js" timestamp="1450423705050">
         <mark key="[" line="52" column="31" />
@@ -2050,43 +2072,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgSGFwcHkgPSByZXF1aXJlKCdoYXBweXBhY2snKTsK</text>
+        <text encoding="base64">ICAgICAgZWxzZSB7CiAgICAgICAgdGhyb3cgU3ludGF4RXJyb3IoZG9tYWluKTsKICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>require</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">ICAiYXV0aG9yaXR5Lkdyb3VwQWRkTW9kYWwubW9kYWxUaXRsZSI6ICLmt7vliqDmiJDlkZgiLA==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBzdGF0dXNTdWNjZXNzOiB7CiAgICBpZDogJ2xvZ0xpc3Quc3RhdHVzU3VjY2VzcycsCiAgICBkZWZhdWx0TWVzc2FnZTogJ+aIkOWKnycKICB9LAo=</text>
+      <register name="0" type="4">
+        <text>'expose', action.payload.pathname, action.payload</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgSGFwcHkgPSByZXF1aXJlKCdoYXBweXBhY2snKTsK</text>
+        <text encoding="base64">ICAgICAgZWxzZSB7CiAgICAgICAgdGhyb3cgU3ludGF4RXJyb3IoZG9tYWluKTsKICAgICAgfQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>s</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAvLyBoYXBweSBoYWNrCiAgLy8gLS0tLS0tLS0tLS0tLS0tLS0tCiAgd2VicGFja0NvbmZpZy5tb2R1bGUubG9hZGVycyA9IHdlYnBhY2tDb25maWcubW9kdWxlLmxvYWRlcnMubWFwKGZ1bmN0aW9uKGl0ZW0pIHsKICAgIGlmIChpdGVtLnRlc3QudG9TdHJpbmcoKS5tYXRjaCgvXC5qc1wkLykpIHsKICAgICAgcmV0dXJuIE9iamVjdC5hc3NpZ24oe30sIGl0ZW0sIHsKICAgICAgICBoYXBweToge2lkOiAnanMnfQogICAgICB9KQogICAgfSBlbHNlIGlmIChpdGVtLnRlc3QudG9TdHJpbmcoKS5tYXRjaCgvXC5qc3hcJC8pKSB7CiAgICAgIHJldHVybiBPYmplY3QuYXNzaWduKHt9LCBpdGVtLCB7CiAgICAgICAgaGFwcHk6IHtpZDogJ2pzeCd9CiAgICAgIH0pCiAgICB9IGVsc2UgewogICAgICByZXR1cm4gaXRlbQogICAgfQogIH0pOwogIHdlYnBhY2tDb25maWcucGx1Z2lucy5wdXNoKG5ldyBIYXBweSh7CiAgICBpZDogJ2pzJywKICAgIHRocmVhZHM6IDQKICB9KSk7CiAgd2VicGFja0NvbmZpZy5wbHVnaW5zLnB1c2gobmV3IEhhcHB5KHsKICAgIGlkOiAnanN4JywKICAgIHRocmVhZHM6IDQKICB9KSk7Cg==</text>
+      <register name="3" type="4">
+        <text>e</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAiQXNpZGVNZW51LmRhc2hib2FyZCI6ICJEYXNoYm9hcmQiLAogICJBc2lkZU1lbnUuYWNjb3VudHNpbmZvIjogIkFjY291bnRzIiwKICAiQXNpZGVNZW51Lm1lbWJlcnMiOiAiTWVtYmVycyIsCiAgIkFzaWRlTWVudS5iaWxsIjogIkJpbGxzIiwKICAiQXNpZGVNZW51LnJlbmV3IjogIlJlbmV3IiwKICAiQXNpZGVNZW51LnRpY2tldHMiOiAiVGlja2V0cyIsCiAgIkFzaWRlTWVudS5hdXRob3JpemF0aW9uIjogIkF1dGhvcml6YXRpb24iLAogICJBc2lkZU1lbnUubG9ncyI6ICJMb2dzIiwKICAiQXNpZGVNZW51LndvcmtzcGFjZXMiOiAiV29ya3NwYWNlcyIsCg==</text>
+        <text encoding="base64">ICAgICAgICB0cmFja2VyLnRyYWNrKCdleHBvc2UnLCBhY3Rpb24ucGF5bG9hZC5wYXRobmFtZSwgYWN0aW9uLnBheWxvYWQpOwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">aW1wb3J0IHsgZ29CYWNrIH0gZnJvbSAncmVhY3Qtcm91dGVyLXJlZHV4JzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vZmVhdHVyZS9pMThuCg==</text>
+        <text encoding="base64">Y29uc3QgSGFwcHkgPSByZXF1aXJlKCdoYXBweXBhY2snKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vZmVhdHVyZS9pMThuCg==</text>
+        <text encoding="base64">ICAvLyBoYXBweSBoYWNrCiAgLy8gLS0tLS0tLS0tLS0tLS0tLS0tCiAgd2VicGFja0NvbmZpZy5tb2R1bGUubG9hZGVycyA9IHdlYnBhY2tDb25maWcubW9kdWxlLmxvYWRlcnMubWFwKGZ1bmN0aW9uKGl0ZW0pIHsKICAgIGlmIChpdGVtLnRlc3QudG9TdHJpbmcoKS5tYXRjaCgvXC5qc1wkLykpIHsKICAgICAgcmV0dXJuIE9iamVjdC5hc3NpZ24oe30sIGl0ZW0sIHsKICAgICAgICBoYXBweToge2lkOiAnanMnfQogICAgICB9KQogICAgfSBlbHNlIGlmIChpdGVtLnRlc3QudG9TdHJpbmcoKS5tYXRjaCgvXC5qc3hcJC8pKSB7CiAgICAgIHJldHVybiBPYmplY3QuYXNzaWduKHt9LCBpdGVtLCB7CiAgICAgICAgaGFwcHk6IHtpZDogJ2pzeCd9CiAgICAgIH0pCiAgICB9IGVsc2UgewogICAgICByZXR1cm4gaXRlbQogICAgfQogIH0pOwogIHdlYnBhY2tDb25maWcucGx1Z2lucy5wdXNoKG5ldyBIYXBweSh7CiAgICBpZDogJ2pzJywKICAgIHRocmVhZHM6IDQKICB9KSk7CiAgd2VicGFja0NvbmZpZy5wbHVnaW5zLnB1c2gobmV3IEhhcHB5KHsKICAgIGlkOiAnanN4JywKICAgIHRocmVhZHM6IDQKICB9KSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
