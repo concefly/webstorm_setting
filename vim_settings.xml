@@ -338,11 +338,11 @@
         <mark key="^" line="37" column="14" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/core/flaming-cloud/index.htm" timestamp="1468394832408">
+      <file name="$USER_HOME$/project/antcloud/core/flaming-cloud/index.htm" timestamp="1468396062098">
         <mark key="[" line="126" column="384" />
-        <mark key="]" line="126" column="384" />
-        <mark key="." line="126" column="384" />
-        <mark key="^" line="126" column="406" />
+        <mark key="]" line="126" column="466" />
+        <mark key="." line="126" column="466" />
+        <mark key="^" line="126" column="466" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/author/author.detail.js" timestamp="1450247525097">
         <mark key="[" line="81" column="21" />
