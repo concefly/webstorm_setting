@@ -674,7 +674,6 @@
         <mark key="^" line="44" column="28" />
         <mark key="." line="44" column="28" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/api/logs.js" timestamp="1468318712765" />
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/article-type-list/topic.blade.php" timestamp="1455604672986">
         <mark key="[" line="1" column="26" />
         <mark key="]" line="1" column="27" />
@@ -910,9 +909,9 @@
         <mark key="^" line="33" column="26" />
       </file>
       <file name="$USER_HOME$/project/antcloud/usercenter/client/proxy.js" timestamp="1468318574308">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/home/home.blade.php" timestamp="1455680100079">
         <mark key="[" line="0" column="0" />
@@ -1014,11 +1013,6 @@
         <mark key="]" line="66" column="1" />
         <mark key="^" line="66" column="1" />
         <mark key="." line="66" column="1" />
-      </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/locales/en.json" timestamp="1468327557911">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/label/label-primary.html" timestamp="1449541357036">
         <mark key="[" line="0" column="63" />
@@ -1602,12 +1596,6 @@
         <mark key="]" line="24" column="0" />
         <mark key="^" line="22" column="63" />
         <mark key="." line="24" column="0" />
-      </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/locales/cn.json" timestamp="1468327520470">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
       </file>
       <file name="$USER_HOME$/project/antcloud/usercenter/client/mock/authority.js" timestamp="1467614802373">
         <mark key="[" line="192" column="30" />
