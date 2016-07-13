@@ -141,6 +141,12 @@
         <mark key="^" line="7" column="21" />
         <mark key="." line="18" column="11" />
       </file>
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/containers/DeskBoard.jsx" timestamp="1468398960250">
+        <mark key="[" line="143" column="4" />
+        <mark key="]" line="143" column="11" />
+        <mark key="." line="143" column="11" />
+        <mark key="^" line="143" column="11" />
+      </file>
       <file name="$USER_HOME$/project/my/antd-tracker-core/lib/operation.js" timestamp="1468380643841">
         <mark key="[" line="24" column="7" />
         <mark key="]" line="26" column="0" />
@@ -815,10 +821,6 @@
         <mark key="^" line="28" column="48" />
         <mark key="." line="28" column="48" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/sagas/authorization.js" timestamp="1468376413702">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="2" column="43" />
-      </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/user/base.blade.php" timestamp="1456481044002">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="39" />
@@ -918,6 +920,7 @@
         <mark key="^" line="3" column="25" />
         <mark key="." line="3" column="25" />
       </file>
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/actions/larkActions.js" timestamp="1468399717639" />
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.normal.tpl" timestamp="1450148638114">
         <mark key="[" line="59" column="34" />
         <mark key="]" line="59" column="38" />
@@ -1024,11 +1027,11 @@
         <mark key="^" line="358" column="51" />
         <mark key="." line="358" column="51" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/components/DeskBoard/Chat.jsx" timestamp="1467943700039">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-        <mark key="^" line="42" column="27" />
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/components/DeskBoard/Chat.jsx" timestamp="1468398913269">
+        <mark key="[" line="242" column="5" />
+        <mark key="]" line="242" column="11" />
+        <mark key="." line="242" column="11" />
+        <mark key="^" line="242" column="11" />
       </file>
       <file name="$USER_HOME$/project/antcloud/usercenter/client/src/components/authority/RoleAuthTable.jsx" timestamp="1467612545659">
         <mark key="[" line="62" column="15" />
@@ -1244,12 +1247,12 @@
         <mark key="^" line="1" column="37" />
         <mark key="." line="1" column="37" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/entry/Lark.jsx" timestamp="1467968182297">
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/entry/Lark.jsx" timestamp="1468401031014">
         <mark key="'" line="450" column="11" />
-        <mark key="[" line="465" column="11" />
-        <mark key="]" line="465" column="13" />
-        <mark key="." line="465" column="13" />
-        <mark key="^" line="465" column="13" />
+        <mark key="[" line="130" column="50" />
+        <mark key="]" line="132" column="19" />
+        <mark key="." line="132" column="19" />
+        <mark key="^" line="132" column="19" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/home/base.tpl" timestamp="1455696872098">
         <mark key="[" line="46" column="32" />
@@ -1641,11 +1644,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="^" line="4" column="28" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/project/my/antd-tracker-core/test/operation-test.js" timestamp="1468380754282">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/user/home/app.js" timestamp="1453803260614">
         <mark key="[" line="24" column="0" />
@@ -2113,44 +2111,44 @@
       <jump line="271" column="11" filename="$USER_HOME$/project/flaming-cloud/contactor/src/styles/lark.less" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>http://alipay-rmsdeploy-image.cn-hangzhou.alipay.aliyun-inc.com/rmsportal/VmOCqWlwkMdkONO.js</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGFjdGlvbnMuY2hhbmdlU3RhdHVzKHsKICAgICAgc3RhdHVzOiBzdGF0dXNEYXRhLAogICAgICB0eXBlOiB0eXBlRGF0YSwKICAgICAgdGl0bGU6IHRpdGxlCiAgICB9KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>http://alipay-rmsdeploy-image.cn-hangzhou.alipay.aliyun-inc.com/rmsportal/VmOCqWlwkMdkONO.js</text>
+        <text>statusData</text>
       </register>
       <register name="/" type="4">
         <text>deskboard</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJsaW50IjogIi4vbm9kZV9tb2R1bGVzL2VzbGludC9iaW4vZXNsaW50LmpzIGluZGV4LmpzIGxpYi8iCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUud2Fybih0aGlzLnByb3BzLmxhcmtTdGF0dXMsIHRoaXMucHJvcHMuZGVza0JvYXJkVHlwZSwgc3RhdHVzRGF0YSk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>http://alipay-rmsdeploy-image.cn-hangzhou.alipay.aliyun-inc.com/rmsportal/VmOCqWlwkMdkONO.js</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGFjdGlvbnMuY2hhbmdlU3RhdHVzKHsKICAgICAgc3RhdHVzOiBzdGF0dXNEYXRhLAogICAgICB0eXBlOiB0eXBlRGF0YSwKICAgICAgdGl0bGU6IHRpdGxlCiAgICB9KTsK</text>
       </register>
       <register name="2" type="4">
-        <text>http://alipay-rmsdeploy-image.cn-hangzhou.alipay.aliyun-inc.com/rmsportal/FnxhSXZzaAmtYMv.css</text>
+        <text>statusData</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQ6IHJnYmEoMjU1LCAyNTUsIDI1NSwgMC45NCk7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIC8vIGlmIChzdGF0dXNEYXRhPT0iQ29udGFjdG9yIikgewogICAgLy8gICBhY3Rpb25zLnNldEFsbE1lc3NhZ2VSZWFkKCk7CiAgICAvLyB9</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LmZjLWxhcmsgewogICZfX3ByZS1saW5lIHsKICAgIHdoaQogIH0KfQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUud2Fybih0aGlzLnByb3BzLmxhcmtTdGF0dXMsIHRoaXMucHJvcHMuZGVza0JvYXJkVHlwZSwgc3RhdHVzRGF0YSk7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ki8K</text>
+      <register name="5" type="4">
+        <text>onDeliverWorkOrder</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoYWN0aW9uLnBheWxvYWQuYWN0aW9uPT0iUkVQTEFDRSIpIHsKICAgICAgICB9Cg==</text>
+      <register name="7" type="4">
+        <text>//antcloud.mybank.cn/docs</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHlpZWxkIGNhbGwodHJhY2tlci50cmFjaywnZXhwbycsIGFjdGlvbi5wYXlsb2FkLnBhdGhuYW1lLCBhY3Rpb24ucGF5bG9hZCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLndhcm4oYWN0aW9uKTsK</text>
+      <register name="9" type="4">
+        <text>onClickDoc</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
