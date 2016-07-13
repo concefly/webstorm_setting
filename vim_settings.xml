@@ -1613,8 +1613,11 @@
         <mark key="^" line="4" column="28" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/project/my/antd-tracker-core/test/operation-test.js" timestamp="1468378137560">
-        <mark key="[" line="21" column="6" />
+      <file name="$USER_HOME$/project/my/antd-tracker-core/test/operation-test.js" timestamp="1468380008040">
+        <mark key="[" line="36" column="9" />
+        <mark key="]" line="38" column="54" />
+        <mark key="." line="38" column="54" />
+        <mark key="^" line="38" column="54" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/user/home/app.js" timestamp="1453803260614">
         <mark key="[" line="24" column="0" />
@@ -1843,6 +1846,9 @@
         <mark key="]" line="4" column="5" />
         <mark key="^" line="4" column="5" />
         <mark key="." line="4" column="5" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1468380033106">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/user/profile/add_avatar_dialog.tpl" timestamp="1455596653596">
         <mark key="[" line="11" column="183" />
@@ -2075,43 +2081,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZWxzZSB7CiAgICAgICAgdGhyb3cgU3ludGF4RXJyb3IoZG9tYWluKTsKICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIGl0KCfkuI3luKbmoIforrDnrKZkb21haW4sIOaVsOaNruiiq+mAj+S8oCcsIGZ1bmN0aW9uICgpIHsKICAgICAgdmFyIHJlcyA9IHRyYWNrZXIudHJhY2soJ3NvbWVEb21haW4nLCAnc29tZVR5cGUnLCAxKTsKICAgICAgZXhwZWN0KHJlc1swXSkudG8uYmUuZXF1YWwoJ3NvbWVEb21haW4nKTsKICAgICAgZXhwZWN0KHJlc1sxXSkudG8uYmUuZXF1YWwoJ3NvbWVUeXBlJyk7CiAgICAgIGV4cGVjdChyZXNbMl0pLnRvLmJlLmVxdWFsKDEpOwogICAgfSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>done</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">ICAiYXV0aG9yaXR5Lkdyb3VwQWRkTW9kYWwubW9kYWxUaXRsZSI6ICLmt7vliqDmiJDlkZgiLA==</text>
       </register>
-      <register name="0" type="4">
-        <text>'expose', action.payload.pathname, action.payload</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGl0KCfkuI3luKbmoIforrDnrKZkb21haW4sIOaVsOaNruiiq+mAj+S8oCcsIGZ1bmN0aW9uICgpIHsKICAgICAgdmFyIHJlcyA9IHRyYWNrZXIudHJhY2soJ3NvbWVEb21haW4nLCAnc29tZVR5cGUnLCAxKTsKICAgICAgZXhwZWN0KHJlc1swXSkudG8uYmUuZXF1YWwoJ3NvbWVEb21haW4nKTsKICAgICAgZXhwZWN0KHJlc1sxXSkudG8uYmUuZXF1YWwoJ3NvbWVUeXBlJyk7CiAgICAgIGV4cGVjdChyZXNbMl0pLnRvLmJlLmVxdWFsKDEpOwogICAgfSk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZWxzZSB7CiAgICAgICAgdGhyb3cgU3ludGF4RXJyb3IoZG9tYWluKTsKICAgICAgfQo=</text>
+      <register name="1" type="4">
+        <text>done</text>
       </register>
       <register name="2" type="4">
-        <text>s</text>
+        <text>'someDomain'</text>
       </register>
       <register name="3" type="4">
-        <text>e</text>
+        <text>{</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFja2VyLnRyYWNrKCdleHBvc2UnLCBhY3Rpb24ucGF5bG9hZC5wYXRobmFtZSwgYWN0aW9uLnBheWxvYWQpOwo=</text>
+      <register name="4" type="4">
+        <text>someDomain</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgX2V4cGVjdF9jb250aW51ZQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ29CYWNrIH0gZnJvbSAncmVhY3Qtcm91dGVyLXJlZHV4JzsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgdmFyIGZuID0gZnVuY3Rpb24gKCkgewogICAgICAgIHRyYWNrCiAgICAgIH0=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgSGFwcHkgPSByZXF1aXJlKCdoYXBweXBhY2snKTsK</text>
+        <text encoding="base64">ICAgICAgc2V0VGltZW91dChmdW5jdGlvbiAoKSB7CiAgICAgICAgdmFyIHJlcyA9IAogICAgICB9KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZWxzZSB7CiAgICAgICAgdGhyb3cgU3ludGF4RXJyb3IoZG9tYWluKTsKICAgICAgfQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAvLyBoYXBweSBoYWNrCiAgLy8gLS0tLS0tLS0tLS0tLS0tLS0tCiAgd2VicGFja0NvbmZpZy5tb2R1bGUubG9hZGVycyA9IHdlYnBhY2tDb25maWcubW9kdWxlLmxvYWRlcnMubWFwKGZ1bmN0aW9uKGl0ZW0pIHsKICAgIGlmIChpdGVtLnRlc3QudG9TdHJpbmcoKS5tYXRjaCgvXC5qc1wkLykpIHsKICAgICAgcmV0dXJuIE9iamVjdC5hc3NpZ24oe30sIGl0ZW0sIHsKICAgICAgICBoYXBweToge2lkOiAnanMnfQogICAgICB9KQogICAgfSBlbHNlIGlmIChpdGVtLnRlc3QudG9TdHJpbmcoKS5tYXRjaCgvXC5qc3hcJC8pKSB7CiAgICAgIHJldHVybiBPYmplY3QuYXNzaWduKHt9LCBpdGVtLCB7CiAgICAgICAgaGFwcHk6IHtpZDogJ2pzeCd9CiAgICAgIH0pCiAgICB9IGVsc2UgewogICAgICByZXR1cm4gaXRlbQogICAgfQogIH0pOwogIHdlYnBhY2tDb25maWcucGx1Z2lucy5wdXNoKG5ldyBIYXBweSh7CiAgICBpZDogJ2pzJywKICAgIHRocmVhZHM6IDQKICB9KSk7CiAgd2VicGFja0NvbmZpZy5wbHVnaW5zLnB1c2gobmV3IEhhcHB5KHsKICAgIGlkOiAnanN4JywKICAgIHRocmVhZHM6IDQKICB9KSk7Cg==</text>
+      <register name="9" type="4">
+        <text>s</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
