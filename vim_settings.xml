@@ -69,10 +69,11 @@
         <mark key="^" line="10" column="17" />
         <mark key="." line="10" column="17" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/tracker/index.js" timestamp="1468318080741">
-        <mark key="[" line="26" column="7" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/tracker/index.js" timestamp="1468383958213">
+        <mark key="[" line="6" column="36" />
+        <mark key="]" line="6" column="74" />
+        <mark key="." line="6" column="74" />
+        <mark key="^" line="6" column="74" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/partials/layout/layout.scss" timestamp="1450317123477">
         <mark key="[" line="39" column="19" />
@@ -854,11 +855,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/sagas/tracker.js" timestamp="1468377538028">
-        <mark key="[" line="10" column="38" />
-        <mark key="]" line="10" column="38" />
-        <mark key="^" line="10" column="33" />
-        <mark key="." line="10" column="38" />
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/sagas/tracker.js" timestamp="1468384439447">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="9" column="21" />
       </file>
       <file name="/Dummy.txt" timestamp="1468381741275">
         <mark key="[" line="0" column="0" />
@@ -947,7 +948,7 @@
         <mark key="." line="33" column="26" />
         <mark key="^" line="33" column="26" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/proxy.js" timestamp="1468318574308">
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/proxy.js" timestamp="1468387937618">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
@@ -1905,6 +1906,11 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/node_modules/@alipay/antd-tracker-core/lib/operation.js" timestamp="1468384096243">
+        <mark key="[" line="25" column="14" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/label/label-list.html" timestamp="1449563775349">
         <mark key="[" line="1" column="36" />
         <mark key="]" line="1" column="37" />
@@ -2087,8 +2093,8 @@
       <jump line="16" column="0" filename="$USER_HOME$/project/antcloud/usercenter/client/locales/cn.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ki8K</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -2099,32 +2105,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICJsaW50IjogIi4vbm9kZV9tb2R1bGVzL2VzbGludC9iaW4vZXNsaW50LmpzIGluZGV4LmpzIGxpYi8iCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>,</text>
+      <register name="1" type="2">
+        <text encoding="base64">Ki8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgICJleGNlcHRpb25zIjogewogICAgICAgICAgCiAgICAgICAgfQogICAgICB9Cg==</text>
+        <text encoding="base64">LyoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgImV4Y2VwdGlvbnMiCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoYWN0aW9uLnBheWxvYWQuYWN0aW9uPT0iUkVQTEFDRSIpIHsKICAgICAgICB9Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>:</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIHlpZWxkIGNhbGwodHJhY2tlci50cmFjaywnZXhwbycsIGFjdGlvbi5wYXlsb2FkLnBhdGhuYW1lLCBhY3Rpb24ucGF5bG9hZCkK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLndhcm4oYWN0aW9uKTsK</text>
       </register>
-      <register name="6" type="4">
-        <text>{</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>}</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB5aWVsZCBjYWxsKHRyYWNrZXIudHJhY2ssJ2V4cG8nLCBhY3Rpb24ucGF5bG9hZC5wYXRobmFtZSwgYWN0aW9uLnBheWxvYWQpCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>3.0.1</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS53YXJuKHJlcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIFtkb21haW4sIHR5cGUsIHBheWxvYWRdOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
