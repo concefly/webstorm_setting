@@ -344,11 +344,11 @@
         <mark key="^" line="37" column="14" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/core/flaming-cloud/index.htm" timestamp="1468396062098">
+      <file name="$USER_HOME$/project/antcloud/core/flaming-cloud/index.htm" timestamp="1468401325507">
         <mark key="[" line="126" column="384" />
-        <mark key="]" line="126" column="466" />
-        <mark key="." line="126" column="466" />
-        <mark key="^" line="126" column="466" />
+        <mark key="]" line="126" column="475" />
+        <mark key="." line="126" column="475" />
+        <mark key="^" line="126" column="475" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/author/author.detail.js" timestamp="1450247525097">
         <mark key="[" line="81" column="21" />
@@ -2111,11 +2111,11 @@
       <jump line="271" column="11" filename="$USER_HOME$/project/flaming-cloud/contactor/src/styles/lark.less" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFjdGlvbnMuY2hhbmdlU3RhdHVzKHsKICAgICAgc3RhdHVzOiBzdGF0dXNEYXRhLAogICAgICB0eXBlOiB0eXBlRGF0YSwKICAgICAgdGl0bGU6IHRpdGxlCiAgICB9KTsK</text>
+      <register name="&quot;" type="4">
+        <text>http://alipay-rmsdeploy-image.cn-hangzhou.alipay.aliyun-inc.com/rmsportal/oSBALixqswTPJDC.js</text>
       </register>
       <register name="-" type="4">
-        <text>statusData</text>
+        <text>http://alipay-rmsdeploy-image.cn-hangzhou.alipay.aliyun-inc.com/rmsportal/oSBALixqswTPJDC.js</text>
       </register>
       <register name="/" type="4">
         <text>deskboard</text>
@@ -2123,32 +2123,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUud2Fybih0aGlzLnByb3BzLmxhcmtTdGF0dXMsIHRoaXMucHJvcHMuZGVza0JvYXJkVHlwZSwgc3RhdHVzRGF0YSk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGFjdGlvbnMuY2hhbmdlU3RhdHVzKHsKICAgICAgc3RhdHVzOiBzdGF0dXNEYXRhLAogICAgICB0eXBlOiB0eXBlRGF0YSwKICAgICAgdGl0bGU6IHRpdGxlCiAgICB9KTsK</text>
+      <register name="1" type="4">
+        <text>http://alipay-rmsdeploy-image.cn-hangzhou.alipay.aliyun-inc.com/rmsportal/oSBALixqswTPJDC.js</text>
       </register>
       <register name="2" type="4">
+        <text>http://alipay-rmsdeploy-image.cn-hangzhou.alipay.aliyun-inc.com/rmsportal/BznUpHQVDrCIXdE.css</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGFjdGlvbnMuY2hhbmdlU3RhdHVzKHsKICAgICAgc3RhdHVzOiBzdGF0dXNEYXRhLAogICAgICB0eXBlOiB0eXBlRGF0YSwKICAgICAgdGl0bGU6IHRpdGxlCiAgICB9KTsK</text>
+      </register>
+      <register name="4" type="4">
         <text>statusData</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgIC8vIGlmIChzdGF0dXNEYXRhPT0iQ29udGFjdG9yIikgewogICAgLy8gICBhY3Rpb25zLnNldEFsbE1lc3NhZ2VSZWFkKCk7CiAgICAvLyB9</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUud2Fybih0aGlzLnByb3BzLmxhcmtTdGF0dXMsIHRoaXMucHJvcHMuZGVza0JvYXJkVHlwZSwgc3RhdHVzRGF0YSk7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>onDeliverWorkOrder</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="7" type="4">
-        <text>//antcloud.mybank.cn/docs</text>
+        <text>onDeliverWorkOrder</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>onClickDoc</text>
+        <text>//antcloud.mybank.cn/docs</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
