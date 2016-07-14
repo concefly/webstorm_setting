@@ -1962,11 +1962,11 @@
         <mark key="^" line="29" column="82" />
         <mark key="." line="29" column="82" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/lark-console/web/mock/messages.js" timestamp="1468465128203">
-        <mark key="[" line="1" column="60" />
-        <mark key="]" line="1" column="57" />
-        <mark key="." line="1" column="57" />
-        <mark key="^" line="1" column="57" />
+      <file name="$USER_HOME$/project/antcloud/lark-console/web/mock/messages.js" timestamp="1468466367898">
+        <mark key="[" line="3" column="16" />
+        <mark key="]" line="3" column="18" />
+        <mark key="." line="3" column="18" />
+        <mark key="^" line="3" column="18" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/article_type_list/video.js" timestamp="1455763646475">
         <mark key="[" line="11" column="23" />
@@ -2121,10 +2121,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>onsults</text>
+        <text>{query: res.query}</text>
       </register>
       <register name="-" type="4">
-        <text>onsults</text>
+        <text>{query: res.query}</text>
       </register>
       <register name="/" type="4">
         <text>deskboard</text>
@@ -2133,31 +2133,31 @@
         <text encoding="base64">ICAgICAgICBjYXNlICdjbGljayc6CiAgICAgICAgICBwcmlzbWFUcmFja2VyLmNsaWNrKHR5cGUsIHBheWxvYWQpOwogICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>onsults</text>
+        <text>{query: res.query}</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICdHRVQgL21lc3NhZ2VzLyonOiAnaHR0cDovL2xhcmtjb3JlLTEuanIuYWxpcGF5Lm5ldDo4MDgwL2NvbnN1bHRzJywKCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="3" type="4">
-        <text>consults</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICdHRVQgL21lc3NhZ2VzJzogJ2h0dHA6Ly9sYXJrY29yZS0xLmpyLmFsaXBheS5uZXQ6ODA4MCcK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>onsults</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICdHRVQgL2NvbnN1bHRzLyonOiAnaHR0cDovL2xhcmtjb3JlLTEuanIuYWxpcGF5Lm5ldDo4MDgwJywKCg==</text>
+        <text encoding="base64">ICAgICdHRVQgL21lc3NhZ2VzLyonOiAnaHR0cDovL2xhcmtjb3JlLTEuanIuYWxpcGF5Lm5ldDo4MDgwL2NvbnN1bHRzJywKCg==</text>
       </register>
       <register name="6" type="4">
         <text>consults</text>
       </register>
-      <register name="7" type="4">
-        <text>/</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>-</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICdHRVQgL2NvbnN1bHRzLyonOiAnaHR0cDovL2xhcmtjb3JlLTEuanIuYWxpcGF5Lm5ldDo4MDgwJywKCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFjdGlvbi5wYXlsb2FkLnBhdGhuYW1lLAo=</text>
+      <register name="9" type="4">
+        <text>consults</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
