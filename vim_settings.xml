@@ -9,6 +9,9 @@
         <mark key="^" line="13" column="10" />
         <mark key="." line="13" column="10" />
       </file>
+      <file name="/a.dummy" timestamp="1468485596214">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/project/pet/wechat/views/check/index.blade.php" timestamp="1449714775358">
         <mark key="[" line="12" column="18" />
         <mark key="]" line="12" column="19" />
@@ -141,11 +144,11 @@
         <mark key="^" line="7" column="21" />
         <mark key="." line="18" column="11" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/containers/DeskBoard.jsx" timestamp="1468398960250">
-        <mark key="[" line="143" column="4" />
-        <mark key="]" line="143" column="11" />
-        <mark key="." line="143" column="11" />
-        <mark key="^" line="143" column="11" />
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/containers/DeskBoard.jsx" timestamp="1468485893129">
+        <mark key="[" line="153" column="2" />
+        <mark key="]" line="153" column="38" />
+        <mark key="." line="153" column="38" />
+        <mark key="^" line="153" column="38" />
       </file>
       <file name="$USER_HOME$/project/my/antd-tracker-core/lib/operation.js" timestamp="1468380643841">
         <mark key="[" line="24" column="7" />
@@ -925,8 +928,11 @@
         <mark key="^" line="3" column="25" />
         <mark key="." line="3" column="25" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/actions/larkActions.js" timestamp="1468482815502">
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/actions/larkActions.js" timestamp="1468485591049">
         <mark key="[" line="202" column="1" />
+        <mark key="]" line="210" column="27" />
+        <mark key="^" line="210" column="27" />
+        <mark key="." line="210" column="27" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.normal.tpl" timestamp="1450148638114">
         <mark key="[" line="59" column="34" />
@@ -1034,11 +1040,11 @@
         <mark key="^" line="358" column="51" />
         <mark key="." line="358" column="51" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/components/DeskBoard/Chat.jsx" timestamp="1468398913269">
-        <mark key="[" line="242" column="5" />
-        <mark key="]" line="242" column="11" />
-        <mark key="." line="242" column="11" />
-        <mark key="^" line="242" column="11" />
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/components/DeskBoard/Chat.jsx" timestamp="1468485821212">
+        <mark key="[" line="212" column="0" />
+        <mark key="]" line="212" column="0" />
+        <mark key="." line="212" column="0" />
+        <mark key="^" line="213" column="33" />
       </file>
       <file name="$USER_HOME$/project/antcloud/usercenter/client/src/components/authority/RoleAuthTable.jsx" timestamp="1467612545659">
         <mark key="[" line="62" column="15" />
@@ -1254,12 +1260,12 @@
         <mark key="^" line="1" column="37" />
         <mark key="." line="1" column="37" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/entry/Lark.jsx" timestamp="1468483643726">
-        <mark key="'" line="463" column="26" />
-        <mark key="[" line="173" column="19" />
-        <mark key="]" line="173" column="19" />
-        <mark key="." line="173" column="19" />
-        <mark key="^" line="172" column="15" />
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/entry/Lark.jsx" timestamp="1468486952118">
+        <mark key="'" line="470" column="26" />
+        <mark key="[" line="485" column="30" />
+        <mark key="]" line="66" column="26" />
+        <mark key="." line="66" column="26" />
+        <mark key="^" line="66" column="26" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/home/base.tpl" timestamp="1455696872098">
         <mark key="[" line="46" column="32" />
@@ -2130,43 +2136,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>doc</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>doc</text>
       </register>
       <register name="/" type="4">
         <text>this.addr.track</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlICdjbGljayc6CiAgICAgICAgICBwcmlzbWFUcmFja2VyLmNsaWNrKHR5cGUsIHBheWxvYWQpOwogICAgICAgICAgYnJlYWs7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMudHJhY2tDbGlja1R5cGUoJ2NhbGxfZG9jJyk7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>,</text>
+        <text>doc</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="2" type="4">
+        <text>es</text>
       </register>
-      <register name="3" type="4">
-        <text>,</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJzZXNzaW9uVXVpZCI6IAo=</text>
+        <text encoding="base64">ICAgIHRoaXMudHJhY2tDbGlja1R5cGUoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUud2FybihkYXRhKTsK</text>
+        <text encoding="base64">ICAgIHRoaXMudHJhY2tDbGlja1R5cGUoJ2ZlZWRiYWNrX2NsaWNrXycrYXR0aXR1ZGUpCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>{query: res.query}</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICdHRVQgL21lc3NhZ2VzJzogJ2h0dHA6Ly9sYXJrY29yZS0xLmpyLmFsaXBheS5uZXQ6ODA4MCcK</text>
+        <text encoding="base64">ICAgIG9uQ2xpY2tEb2M9e3RoaXMuaGFuZGxlQ2xpY2tEb2MuYmluZCh0aGlzKX0K</text>
       </register>
       <register name="9" type="4">
-        <text>onsults</text>
+        <text>onClickDoc</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
