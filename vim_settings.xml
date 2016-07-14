@@ -350,7 +350,7 @@
         <mark key="^" line="37" column="14" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/core/flaming-cloud/index.htm" timestamp="1468401325507">
+      <file name="$USER_HOME$/project/antcloud/core/flaming-cloud/index.htm" timestamp="1468490110894">
         <mark key="[" line="126" column="384" />
         <mark key="]" line="126" column="475" />
         <mark key="." line="126" column="475" />
@@ -877,7 +877,7 @@
       <file name="$USER_HOME$/project/antcloud/usercenter/client/src/sagas/tracker.js" timestamp="1468461888799">
         <mark key="[" line="12" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1468401335570">
+      <file name="/Dummy.txt" timestamp="1468490145177">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.list.js" timestamp="1450423705050">
@@ -2136,10 +2136,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>doc</text>
+        <text>http://alipay-rmsdeploy-image.cn-hangzhou.alipay.aliyun-inc.com/rmsportal/ExiKnmgCubORJOS.js</text>
       </register>
       <register name="-" type="4">
-        <text>doc</text>
+        <text>http://alipay-rmsdeploy-image.cn-hangzhou.alipay.aliyun-inc.com/rmsportal/ExiKnmgCubORJOS.js</text>
       </register>
       <register name="/" type="4">
         <text>this.addr.track</text>
@@ -2148,31 +2148,31 @@
         <text encoding="base64">ICAgIHRoaXMudHJhY2tDbGlja1R5cGUoJ2NhbGxfZG9jJyk7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>doc</text>
+        <text>http://alipay-rmsdeploy-image.cn-hangzhou.alipay.aliyun-inc.com/rmsportal/ExiKnmgCubORJOS.js</text>
       </register>
       <register name="2" type="4">
+        <text>http://alipay-rmsdeploy-image.cn-hangzhou.alipay.aliyun-inc.com/rmsportal/JHqQyIqUEpOZAad.css</text>
+      </register>
+      <register name="3" type="4">
+        <text>doc</text>
+      </register>
+      <register name="4" type="4">
         <text>es</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMudHJhY2tDbGlja1R5cGUoKQo=</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMudHJhY2tDbGlja1R5cGUoJ2ZlZWRiYWNrX2NsaWNrXycrYXR0aXR1ZGUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMudHJhY2tDbGlja1R5cGUoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHRoaXMudHJhY2tDbGlja1R5cGUoJ2ZlZWRiYWNrX2NsaWNrXycrYXR0aXR1ZGUpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG9uQ2xpY2tEb2M9e3RoaXMuaGFuZGxlQ2xpY2tEb2MuYmluZCh0aGlzKX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>onClickDoc</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
