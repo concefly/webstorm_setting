@@ -827,6 +827,12 @@
         <mark key="^" line="8" column="4" />
         <mark key="." line="8" column="4" />
       </file>
+      <file name="$USER_HOME$/project/antcloud/lark-console/web/mock/consult.js" timestamp="1468465120187">
+        <mark key="[" line="1" column="59" />
+        <mark key="]" line="1" column="57" />
+        <mark key="." line="1" column="57" />
+        <mark key="^" line="1" column="57" />
+      </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.normal.js" timestamp="1450149524762">
         <mark key="[" line="29" column="25" />
         <mark key="]" line="26" column="23" />
@@ -1956,6 +1962,12 @@
         <mark key="^" line="29" column="82" />
         <mark key="." line="29" column="82" />
       </file>
+      <file name="$USER_HOME$/project/antcloud/lark-console/web/mock/messages.js" timestamp="1468465128203">
+        <mark key="[" line="1" column="60" />
+        <mark key="]" line="1" column="57" />
+        <mark key="." line="1" column="57" />
+        <mark key="^" line="1" column="57" />
+      </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/article_type_list/video.js" timestamp="1455763646475">
         <mark key="[" line="11" column="23" />
         <mark key="]" line="12" column="18" />
@@ -2108,11 +2120,11 @@
       <jump line="271" column="11" filename="$USER_HOME$/project/flaming-cloud/contactor/src/styles/lark.less" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFjdGlvbi5wYXlsb2FkLnBhdGhuYW1lLAo=</text>
+      <register name="&quot;" type="4">
+        <text>onsults</text>
       </register>
       <register name="-" type="4">
-        <text>expo</text>
+        <text>onsults</text>
       </register>
       <register name="/" type="4">
         <text>deskboard</text>
@@ -2120,32 +2132,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjYXNlICdjbGljayc6CiAgICAgICAgICBwcmlzbWFUcmFja2VyLmNsaWNrKHR5cGUsIHBheWxvYWQpOwogICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFjdGlvbi5wYXlsb2FkLnBhdGhuYW1lLAo=</text>
+      <register name="1" type="4">
+        <text>onsults</text>
       </register>
-      <register name="2" type="4">
-        <text>expo</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICdHRVQgL21lc3NhZ2VzLyonOiAnaHR0cDovL2xhcmtjb3JlLTEuanIuYWxpcGF5Lm5ldDo4MDgwL2NvbnN1bHRzJywKCg==</text>
       </register>
       <register name="3" type="4">
-        <text>type</text>
+        <text>consults</text>
       </register>
-      <register name="4" type="4">
-        <text>click</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>click</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICdHRVQgL2NvbnN1bHRzLyonOiAnaHR0cDovL2xhcmtjb3JlLTEuanIuYWxpcGF5Lm5ldDo4MDgwJywKCg==</text>
       </register>
       <register name="6" type="4">
-        <text>http://alipay-rmsdeploy-image.cn-hangzhou.alipay.aliyun-inc.com/rmsportal/oSBALixqswTPJDC.js</text>
+        <text>consults</text>
       </register>
       <register name="7" type="4">
-        <text>http://alipay-rmsdeploy-image.cn-hangzhou.alipay.aliyun-inc.com/rmsportal/BznUpHQVDrCIXdE.css</text>
+        <text>/</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGFjdGlvbnMuY2hhbmdlU3RhdHVzKHsKICAgICAgc3RhdHVzOiBzdGF0dXNEYXRhLAogICAgICB0eXBlOiB0eXBlRGF0YSwKICAgICAgdGl0bGU6IHRpdGxlCiAgICB9KTsK</text>
+      <register name="8" type="4">
+        <text>-</text>
       </register>
-      <register name="9" type="4">
-        <text>statusData</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgIGFjdGlvbi5wYXlsb2FkLnBhdGhuYW1lLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
