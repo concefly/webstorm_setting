@@ -144,11 +144,11 @@
         <mark key="^" line="7" column="21" />
         <mark key="." line="18" column="11" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/containers/DeskBoard.jsx" timestamp="1468485893129">
-        <mark key="[" line="153" column="2" />
-        <mark key="]" line="153" column="38" />
-        <mark key="." line="153" column="38" />
-        <mark key="^" line="153" column="38" />
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/containers/DeskBoard.jsx" timestamp="1468548626895">
+        <mark key="[" line="112" column="34" />
+        <mark key="]" line="112" column="56" />
+        <mark key="." line="112" column="56" />
+        <mark key="^" line="112" column="56" />
       </file>
       <file name="$USER_HOME$/project/my/antd-tracker-core/lib/operation.js" timestamp="1468380643841">
         <mark key="[" line="24" column="7" />
@@ -1260,11 +1260,11 @@
         <mark key="^" line="1" column="37" />
         <mark key="." line="1" column="37" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/entry/Lark.jsx" timestamp="1468486952118">
-        <mark key="'" line="470" column="26" />
-        <mark key="[" line="485" column="30" />
-        <mark key="]" line="66" column="26" />
-        <mark key="." line="66" column="26" />
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/entry/Lark.jsx" timestamp="1468548721691">
+        <mark key="'" line="469" column="26" />
+        <mark key="[" line="305" column="0" />
+        <mark key="]" line="305" column="0" />
+        <mark key="." line="305" column="0" />
         <mark key="^" line="66" column="26" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/home/base.tpl" timestamp="1455696872098">
@@ -2135,11 +2135,11 @@
       <jump line="463" column="26" filename="$USER_HOME$/project/flaming-cloud/contactor/src/entry/Lark.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>http://alipay-rmsdeploy-image.cn-hangzhou.alipay.aliyun-inc.com/rmsportal/ExiKnmgCubORJOS.js</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUud2Fybih0aGlzLnByb3BzLmxhcmtTdGF0dXMsIHRoaXMucHJvcHMuZGVza0JvYXJkVHlwZSwgc3RhdHVzRGF0YSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>http://alipay-rmsdeploy-image.cn-hangzhou.alipay.aliyun-inc.com/rmsportal/ExiKnmgCubORJOS.js</text>
+        <text>rops</text>
       </register>
       <register name="/" type="4">
         <text>this.addr.track</text>
@@ -2147,32 +2147,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRoaXMudHJhY2tDbGlja1R5cGUoJ2NhbGxfZG9jJyk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>http://alipay-rmsdeploy-image.cn-hangzhou.alipay.aliyun-inc.com/rmsportal/ExiKnmgCubORJOS.js</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUud2Fybih0aGlzLnByb3BzLmxhcmtTdGF0dXMsIHRoaXMucHJvcHMuZGVza0JvYXJkVHlwZSwgc3RhdHVzRGF0YSk7Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>http://alipay-rmsdeploy-image.cn-hangzhou.alipay.aliyun-inc.com/rmsportal/JHqQyIqUEpOZAad.css</text>
+        <text>rops</text>
       </register>
       <register name="3" type="4">
-        <text>doc</text>
+        <text>http://alipay-rmsdeploy-image.cn-hangzhou.alipay.aliyun-inc.com/rmsportal/ExiKnmgCubORJOS.js</text>
       </register>
       <register name="4" type="4">
+        <text>http://alipay-rmsdeploy-image.cn-hangzhou.alipay.aliyun-inc.com/rmsportal/JHqQyIqUEpOZAad.css</text>
+      </register>
+      <register name="5" type="4">
+        <text>doc</text>
+      </register>
+      <register name="6" type="4">
         <text>es</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMudHJhY2tDbGlja1R5cGUoKQo=</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMudHJhY2tDbGlja1R5cGUoJ2ZlZWRiYWNrX2NsaWNrXycrYXR0aXR1ZGUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMudHJhY2tDbGlja1R5cGUoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHRoaXMudHJhY2tDbGlja1R5cGUoJ2ZlZWRiYWNrX2NsaWNrXycrYXR0aXR1ZGUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
