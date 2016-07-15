@@ -1266,12 +1266,12 @@
         <mark key="^" line="1" column="37" />
         <mark key="." line="1" column="37" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/entry/Lark.jsx" timestamp="1468548721691">
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/entry/Lark.jsx" timestamp="1468554307424">
         <mark key="'" line="469" column="26" />
-        <mark key="[" line="305" column="0" />
-        <mark key="]" line="305" column="0" />
-        <mark key="." line="305" column="0" />
-        <mark key="^" line="66" column="26" />
+        <mark key="[" line="502" column="69" />
+        <mark key="]" line="505" column="64" />
+        <mark key="." line="505" column="64" />
+        <mark key="^" line="505" column="64" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/home/base.tpl" timestamp="1455696872098">
         <mark key="[" line="46" column="32" />
@@ -2141,44 +2141,44 @@
       <jump line="463" column="26" filename="$USER_HOME$/project/flaming-cloud/contactor/src/entry/Lark.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>`https://${pkg.appid}.h5app.alipay.com/www/`</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy5oYW5kbGVTdWJtaXRNZXNzYWdlKHtzdWJUeXBlOiAnRkVFREJBQ0snLCBjb250ZW50OiAneWVzJ30pCg==</text>
       </register>
       <register name="-" type="4">
-        <text>`https://${pkg.appid}.h5app.alipay.com/www/`</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>this.addr.track</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMudHJhY2tDbGlja1R5cGUoJ2NhbGxfZG9jJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5oYW5kbGVTdWJtaXRNZXNzYWdlKHtzdWJUeXBlOiAnRkVFREJBQ0snLCBjb250ZW50OiAneWVzJ30pCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>`https://${pkg.appid}.h5app.alipay.com/www/`</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHRoaXMuY29ubmVjdG9yLnNlbmQodGhpcy5hZGRyLmNvbnRhY3QsIHt9LCBKU09OLnN0cmluZ2lmeShmaW5hbE1zZykpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGxldCBmaW5hbE1zZyA9IHsKICAgICAgInR5cGUiOiAiVVNFUiIsCiAgICAgICJzdWJUeXBlIjogIkZFRURCQUNLIiwKICAgICAgInR5cGVDb252ZXJzYXRpb25JZCI6IChuZXcgRGF0ZSgpKS52YWx1ZU9mKCksCiAgICAgICJzZW5kZXJJZCI6IDAsCiAgICAgICJzZW5kZXJOYW1lIjogIlBpem4iLAogICAgICAicmVjZWl2ZXJJZCI6ICJsYXJrMDAwMDAwIiwKICAgICAgInJlY2VpdmVyTmFtZSI6ICIiLAogICAgICAibG9jYXRpb24iOiBudWxsLAogICAgICAiY29udGVudCI6ICIiLAogICAgICAiY3JlYXRlZFRpbWUiOiAobmV3IERhdGUoKSkudmFsdWVPZigpLAogICAgICAic2Vzc2lvblV1aWQiOiB0aGlzLnByb3BzLm1lc3NhZ2VTaWQKICAgIH07Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text>,</text>
       </register>
-      <register name="3" type="4">
-        <text>,</text>
+      <register name="5" type="4">
+        <text>yes</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgZW50cnk6ICdkZXRhaWwuaHRtbCcsCiAgICAgIGRlc2M6ICfpobnnm67or6bmg4UnCiAgICB9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgc3RhdGVzOiB7CiAgICAgICAgbmV3OiB7CiAgICAgICAgICBkZXNjOiAn5paw5a6i5oi3JwogICAgICAgIH0sCiAgICAgICAgb2xkOiB7CiAgICAgICAgICBkZXNjOiAn6ICB5a6i5oi3JwogICAgICAgIH0KICAgICAgfQo=</text>
-      </register>
-      <register name="6" type="4">
-        <text>appid</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGxldCBmaW5hbE1zZyA9IHsKICAgICAgInR5cGUiOiAiVVNFUiIsCiAgICAgICJzdWJUeXBlIjogIkZFRURCQUNLIiwKICAgICAgInR5cGVDb252ZXJzYXRpb25JZCI6IChuZXcgRGF0ZSgpKS52YWx1ZU9mKCksCiAgICAgICJzZW5kZXJJZCI6IDAsCiAgICAgICJzZW5kZXJOYW1lIjogIlBpem4iLAogICAgICAicmVjZWl2ZXJJZCI6ICJsYXJrMDAwMDAwIiwKICAgICAgInJlY2VpdmVyTmFtZSI6ICIiLAogICAgICAibG9jYXRpb24iOiBudWxsLAogICAgICAiY29udGVudCI6ICJ5ZXMiLAogICAgICAiY3JlYXRlZFRpbWUiOiAobmV3IERhdGUoKSkudmFsdWVPZigpLAogICAgICAic2Vzc2lvblV1aWQiOiB0aGlzLnByb3BzLm1lc3NhZ2VTaWQsCiAgICB9Owo=</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IC8vIOS6p+WTgWFwcGlk</text>
+        <text>const</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IC8vIOezu+e7n+eahOWQjeensO+8jOS4uuiLseaWhw==</text>
+        <text>yes</text>
       </register>
-      <register name="9" type="4">
-        <text>http://alipay-rmsdeploy-image.cn-hangzhou.alipay.aliyun-inc.com/rmsportal/wExKVRALVWYzltQ.js</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgLi4ubXNnCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
