@@ -251,8 +251,11 @@
         <mark key="^" line="64" column="16" />
         <mark key="." line="64" column="16" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/entry/App.jsx" timestamp="1468482611634">
-        <mark key="[" line="42" column="23" />
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/entry/App.jsx" timestamp="1468555622463">
+        <mark key="[" line="63" column="20" />
+        <mark key="]" line="63" column="21" />
+        <mark key="." line="63" column="21" />
+        <mark key="^" line="63" column="20" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/modal/modal.tpl" timestamp="1453254299359">
         <mark key="[" line="2" column="38" />
@@ -2141,11 +2144,11 @@
       <jump line="463" column="26" filename="$USER_HOME$/project/flaming-cloud/contactor/src/entry/Lark.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5oYW5kbGVTdWJtaXRNZXNzYWdlKHtzdWJUeXBlOiAnRkVFREJBQ0snLCBjb250ZW50OiAneWVzJ30pCg==</text>
+      <register name="&quot;" type="4">
+        <text>30</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>30</text>
       </register>
       <register name="/" type="4">
         <text>this.addr.track</text>
@@ -2153,32 +2156,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdGhpcy5oYW5kbGVTdWJtaXRNZXNzYWdlKHtzdWJUeXBlOiAnRkVFREJBQ0snLCBjb250ZW50OiAneWVzJ30pCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="1" type="4">
+        <text>30</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMuY29ubmVjdG9yLnNlbmQodGhpcy5hZGRyLmNvbnRhY3QsIHt9LCBKU09OLnN0cmluZ2lmeShmaW5hbE1zZykpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIHRoaXMuY29ubmVjdG9yLnNlbmQodGhpcy5hZGRyLmNvbnRhY3QsIHt9LCBKU09OLnN0cmluZ2lmeShmaW5hbE1zZykpOwo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGxldCBmaW5hbE1zZyA9IHsKICAgICAgInR5cGUiOiAiVVNFUiIsCiAgICAgICJzdWJUeXBlIjogIkZFRURCQUNLIiwKICAgICAgInR5cGVDb252ZXJzYXRpb25JZCI6IChuZXcgRGF0ZSgpKS52YWx1ZU9mKCksCiAgICAgICJzZW5kZXJJZCI6IDAsCiAgICAgICJzZW5kZXJOYW1lIjogIlBpem4iLAogICAgICAicmVjZWl2ZXJJZCI6ICJsYXJrMDAwMDAwIiwKICAgICAgInJlY2VpdmVyTmFtZSI6ICIiLAogICAgICAibG9jYXRpb24iOiBudWxsLAogICAgICAiY29udGVudCI6ICIiLAogICAgICAiY3JlYXRlZFRpbWUiOiAobmV3IERhdGUoKSkudmFsdWVPZigpLAogICAgICAic2Vzc2lvblV1aWQiOiB0aGlzLnByb3BzLm1lc3NhZ2VTaWQKICAgIH07Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>,</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>yes</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGxldCBmaW5hbE1zZyA9IHsKICAgICAgInR5cGUiOiAiVVNFUiIsCiAgICAgICJzdWJUeXBlIjogIkZFRURCQUNLIiwKICAgICAgInR5cGVDb252ZXJzYXRpb25JZCI6IChuZXcgRGF0ZSgpKS52YWx1ZU9mKCksCiAgICAgICJzZW5kZXJJZCI6IDAsCiAgICAgICJzZW5kZXJOYW1lIjogIlBpem4iLAogICAgICAicmVjZWl2ZXJJZCI6ICJsYXJrMDAwMDAwIiwKICAgICAgInJlY2VpdmVyTmFtZSI6ICIiLAogICAgICAibG9jYXRpb24iOiBudWxsLAogICAgICAiY29udGVudCI6ICJ5ZXMiLAogICAgICAiY3JlYXRlZFRpbWUiOiAobmV3IERhdGUoKSkudmFsdWVPZigpLAogICAgICAic2Vzc2lvblV1aWQiOiB0aGlzLnByb3BzLm1lc3NhZ2VTaWQsCiAgICB9Owo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>const</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>yes</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLi4ubXNnCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
