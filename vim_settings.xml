@@ -353,7 +353,7 @@
         <mark key="^" line="37" column="14" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/core/flaming-cloud/index.htm" timestamp="1468550523643">
+      <file name="$USER_HOME$/project/antcloud/core/flaming-cloud/index.htm" timestamp="1468565659226">
         <mark key="[" line="126" column="384" />
         <mark key="]" line="126" column="475" />
         <mark key="." line="126" column="475" />
@@ -2145,10 +2145,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IDxiciAvPiDmu6HmhI8=</text>
+        <text>http://alipay-rmsdeploy-image.cn-hangzhou.alipay.aliyun-inc.com/rmsportal/RlvNzHSfyCuEdYL.js</text>
       </register>
       <register name="-" type="4">
-        <text>search</text>
+        <text>http://alipay-rmsdeploy-image.cn-hangzhou.alipay.aliyun-inc.com/rmsportal/RlvNzHSfyCuEdYL.js</text>
       </register>
       <register name="/" type="4">
         <text>comment-body</text>
@@ -2157,31 +2157,31 @@
         <text encoding="base64">IDxiciAvPiDmu6HmhI8=</text>
       </register>
       <register name="1" type="4">
-        <text>search</text>
+        <text>http://alipay-rmsdeploy-image.cn-hangzhou.alipay.aliyun-inc.com/rmsportal/RlvNzHSfyCuEdYL.js</text>
       </register>
       <register name="2" type="4">
-        <text>search</text>
+        <text>http://alipay-rmsdeploy-image.cn-hangzhou.alipay.aliyun-inc.com/rmsportal/GbvlvjKALoSYvin.css</text>
       </register>
       <register name="3" type="4">
-        <text>aaa</text>
+        <text>search</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGhlaWdodDogMzBweDsK</text>
+      <register name="4" type="4">
+        <text>search</text>
       </register>
       <register name="5" type="4">
-        <text>yes</text>
+        <text>aaa</text>
       </register>
-      <register name="6" type="4">
-        <text>button</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGhlaWdodDogMzBweDsK</text>
       </register>
       <register name="7" type="4">
-        <text>button</text>
+        <text>yes</text>
       </register>
       <register name="8" type="4">
         <text>button</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJi1mZWVkYmFjayB7CiAgICAgICAgICAgICAgJi1jbGlja0FyZWEgewogICAgICAgICAgICAgICAgZGlzcGxheTogZmxleDsKICAgICAgICAgICAgICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7CiAgICAgICAgICAgICAgICBqdXN0aWZ5LWNvbnRlbnQ6IHNwYWNlLWFyb3VuZDsKICAgICAgICAgICAgICAgIGJ1dHRvbiB7CiAgICAgICAgICAgICAgICAgIGRpc3BsYXk6IGJsb2NrOwogICAgICAgICAgICAgICAgICBoZWlnaHQ6IDMwcHg7CiAgICAgICAgICAgICAgICAgIHRleHQtYWxpZ246IGNlbnRlcjsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0K</text>
+      <register name="9" type="4">
+        <text>button</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
