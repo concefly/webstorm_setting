@@ -850,6 +850,12 @@
         <mark key="^" line="13" column="40" />
         <mark key="." line="13" column="40" />
       </file>
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/lengjing.config.js" timestamp="1468553627449">
+        <mark key="[" line="6" column="17" />
+        <mark key="]" line="6" column="40" />
+        <mark key="^" line="6" column="40" />
+        <mark key="." line="6" column="40" />
+      </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/column_list/ih.blade.php" timestamp="1455674891398">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="29" />
@@ -2136,10 +2142,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>http://alipay-rmsdeploy-image.cn-hangzhou.alipay.aliyun-inc.com/rmsportal/wExKVRALVWYzltQ.js</text>
+        <text>`https://${pkg.appid}.h5app.alipay.com/www/`</text>
       </register>
       <register name="-" type="4">
-        <text>http://alipay-rmsdeploy-image.cn-hangzhou.alipay.aliyun-inc.com/rmsportal/wExKVRALVWYzltQ.js</text>
+        <text>`https://${pkg.appid}.h5app.alipay.com/www/`</text>
       </register>
       <register name="/" type="4">
         <text>this.addr.track</text>
@@ -2148,31 +2154,31 @@
         <text encoding="base64">ICAgIHRoaXMudHJhY2tDbGlja1R5cGUoJ2NhbGxfZG9jJyk7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>http://alipay-rmsdeploy-image.cn-hangzhou.alipay.aliyun-inc.com/rmsportal/wExKVRALVWYzltQ.js</text>
+        <text>`https://${pkg.appid}.h5app.alipay.com/www/`</text>
       </register>
       <register name="2" type="4">
-        <text>http://alipay-rmsdeploy-image.cn-hangzhou.alipay.aliyun-inc.com/rmsportal/JoYepWHxaByUMEU.css</text>
+        <text>,</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUud2Fybih0aGlzLnByb3BzLmxhcmtTdGF0dXMsIHRoaXMucHJvcHMuZGVza0JvYXJkVHlwZSwgc3RhdHVzRGF0YSk7Cg==</text>
+      <register name="3" type="4">
+        <text>,</text>
       </register>
-      <register name="4" type="4">
-        <text>rops</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHsKICAgICAgZW50cnk6ICdkZXRhaWwuaHRtbCcsCiAgICAgIGRlc2M6ICfpobnnm67or6bmg4UnCiAgICB9Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>http://alipay-rmsdeploy-image.cn-hangzhou.alipay.aliyun-inc.com/rmsportal/ExiKnmgCubORJOS.js</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgc3RhdGVzOiB7CiAgICAgICAgbmV3OiB7CiAgICAgICAgICBkZXNjOiAn5paw5a6i5oi3JwogICAgICAgIH0sCiAgICAgICAgb2xkOiB7CiAgICAgICAgICBkZXNjOiAn6ICB5a6i5oi3JwogICAgICAgIH0KICAgICAgfQo=</text>
       </register>
       <register name="6" type="4">
-        <text>http://alipay-rmsdeploy-image.cn-hangzhou.alipay.aliyun-inc.com/rmsportal/JHqQyIqUEpOZAad.css</text>
+        <text>appid</text>
       </register>
       <register name="7" type="4">
-        <text>doc</text>
+        <text encoding="base64">IC8vIOS6p+WTgWFwcGlk</text>
       </register>
       <register name="8" type="4">
-        <text>es</text>
+        <text encoding="base64">IC8vIOezu+e7n+eahOWQjeensO+8jOS4uuiLseaWhw==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>http://alipay-rmsdeploy-image.cn-hangzhou.alipay.aliyun-inc.com/rmsportal/wExKVRALVWYzltQ.js</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
