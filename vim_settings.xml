@@ -1049,11 +1049,11 @@
         <mark key="^" line="358" column="51" />
         <mark key="." line="358" column="51" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/components/DeskBoard/Chat.jsx" timestamp="1468561017580">
-        <mark key="[" line="107" column="36" />
-        <mark key="]" line="107" column="36" />
-        <mark key="." line="107" column="36" />
-        <mark key="^" line="104" column="40" />
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/components/DeskBoard/Chat.jsx" timestamp="1468563492179">
+        <mark key="[" line="107" column="52" />
+        <mark key="]" line="107" column="52" />
+        <mark key="." line="107" column="52" />
+        <mark key="^" line="107" column="52" />
       </file>
       <file name="$USER_HOME$/project/antcloud/usercenter/client/src/components/authority/RoleAuthTable.jsx" timestamp="1467612545659">
         <mark key="[" line="62" column="15" />
@@ -1866,12 +1866,12 @@
         <mark key="^" line="2" column="33" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/styles/lark.less" timestamp="1468561241564">
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/styles/lark.less" timestamp="1468563577424">
         <mark key="'" line="1234" column="17" />
-        <mark key="[" line="1250" column="31" />
-        <mark key="]" line="1251" column="29" />
-        <mark key="." line="1251" column="29" />
-        <mark key="^" line="1251" column="29" />
+        <mark key="[" line="1263" column="35" />
+        <mark key="]" line="1263" column="48" />
+        <mark key="." line="1263" column="48" />
+        <mark key="^" line="1263" column="48" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/component/loading.scss" timestamp="1449569238770">
         <mark key="[" line="16" column="23" />
@@ -2148,7 +2148,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>search</text>
+        <text encoding="base64">IDxiciAvPiDmu6HmhI8=</text>
       </register>
       <register name="-" type="4">
         <text>search</text>
@@ -2156,8 +2156,8 @@
       <register name="/" type="4">
         <text>comment-body</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICYuZmVlZGJhY2stYnRuLXllcyB7fQo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">IDxiciAvPiDmu6HmhI8=</text>
       </register>
       <register name="1" type="4">
         <text>search</text>
