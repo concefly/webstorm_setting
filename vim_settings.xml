@@ -389,9 +389,9 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/mock/chat.js" timestamp="1468482276942">
-        <mark key="[" line="78" column="18" />
-        <mark key="]" line="78" column="18" />
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/mock/chat.js" timestamp="1468596162410">
+        <mark key="[" line="71" column="21" />
+        <mark key="]" line="71" column="84" />
         <mark key="." line="78" column="18" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/libs/bootstrap-validator/bootstrap-validator.js" timestamp="1453270402363">
@@ -1049,11 +1049,11 @@
         <mark key="^" line="358" column="51" />
         <mark key="." line="358" column="51" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/components/DeskBoard/Chat.jsx" timestamp="1468563492179">
-        <mark key="[" line="107" column="52" />
-        <mark key="]" line="107" column="52" />
-        <mark key="." line="107" column="52" />
-        <mark key="^" line="107" column="52" />
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/components/DeskBoard/Chat.jsx" timestamp="1468596195987">
+        <mark key="[" line="8" column="87" />
+        <mark key="]" line="94" column="88" />
+        <mark key="." line="94" column="88" />
+        <mark key="^" line="94" column="88" />
       </file>
       <file name="$USER_HOME$/project/antcloud/usercenter/client/src/components/authority/RoleAuthTable.jsx" timestamp="1467612545659">
         <mark key="[" line="62" column="15" />
@@ -2145,7 +2145,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>http://alipay-rmsdeploy-image.cn-hangzhou.alipay.aliyun-inc.com/rmsportal/WoCYpyYLgzfCVuR.js</text>
+        <text>https://t.alipayobjects.com/images/rmsweb/T1CEdkXjhXXXXXXXXX.png</text>
       </register>
       <register name="-" type="4">
         <text>http://alipay-rmsdeploy-image.cn-hangzhou.alipay.aliyun-inc.com/rmsportal/WoCYpyYLgzfCVuR.js</text>
@@ -2153,8 +2153,8 @@
       <register name="/" type="4">
         <text>comment-body</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29udGFjdDogJy90b3BpYy9sYXJrL3ByaXZhdGUvJyArIHRoaXMuY2xpZW50VG9rZW4gKyAnL2NvbnN1bHQnLAo=</text>
+      <register name="0" type="4">
+        <text>https://t.alipayobjects.com/images/rmsweb/T1CEdkXjhXXXXXXXXX.png</text>
       </register>
       <register name="1" type="4">
         <text>http://alipay-rmsdeploy-image.cn-hangzhou.alipay.aliyun-inc.com/rmsportal/WoCYpyYLgzfCVuR.js</text>
