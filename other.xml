@@ -59,6 +59,6 @@
     </local-interpreter>
   </component>
   <component name="NodeLocalInterpreterManager">
-    <node-interpreter path="/usr/bin/node" version="(Does not exist)" last-modified="1467882837321" />
+    <node-interpreter path="/usr/bin/node" version="(Does not exist)" last-modified="1468650897870" />
   </component>
 </application>
