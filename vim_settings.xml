@@ -150,11 +150,11 @@
         <mark key="." line="112" column="56" />
         <mark key="^" line="112" column="56" />
       </file>
-      <file name="$USER_HOME$/project/my/iLighting/local-server/model/schema.js" timestamp="1468654949088">
-        <mark key="[" line="34" column="22" />
-        <mark key="]" line="16" column="5" />
-        <mark key="." line="16" column="5" />
-        <mark key="^" line="16" column="5" />
+      <file name="$USER_HOME$/project/my/iLighting/local-server/model/schema.js" timestamp="1468657499175">
+        <mark key="[" line="12" column="4" />
+        <mark key="]" line="12" column="4" />
+        <mark key="." line="12" column="4" />
+        <mark key="^" line="12" column="22" />
       </file>
       <file name="$USER_HOME$/project/my/antd-tracker-core/lib/operation.js" timestamp="1468380643841">
         <mark key="[" line="24" column="7" />
@@ -733,6 +733,9 @@
         <mark key="^" line="1" column="35" />
         <mark key="." line="1" column="27" />
       </file>
+      <file name="$USER_HOME$/project/my/iLighting/local-server/test/model/model-test.js" timestamp="1468657880297">
+        <mark key="[" line="1" column="41" />
+      </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/paragraph/title-info.html" timestamp="1449555759494">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="2" column="27" />
@@ -1036,6 +1039,11 @@
         <mark key="]" line="1" column="45" />
         <mark key="." line="1" column="45" />
         <mark key="^" line="7" column="16" />
+      </file>
+      <file name="$USER_HOME$/project/my/iLighting/local-server/test/model/schema-test.js" timestamp="1468656459765">
+        <mark key="[" line="2" column="35" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/article/publish-timer.tpl" timestamp="1453713861549">
         <mark key="[" line="29" column="15" />
@@ -1583,11 +1591,11 @@
         <mark key="^" line="55" column="32" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/project/my/iLighting/local-server/model/model.js" timestamp="1468653351359">
-        <mark key="[" line="4" column="13" />
-        <mark key="]" line="4" column="12" />
-        <mark key="^" line="4" column="12" />
-        <mark key="." line="4" column="12" />
+      <file name="$USER_HOME$/project/my/iLighting/local-server/model/model.js" timestamp="1468656936776">
+        <mark key="[" line="8" column="16" />
+        <mark key="]" line="9" column="8" />
+        <mark key="^" line="9" column="8" />
+        <mark key="." line="9" column="8" />
       </file>
       <file name="$USER_HOME$/project/iLight/web-client/src/entries/index.js" timestamp="1464925129064">
         <mark key="[" line="13" column="19" />
@@ -2160,43 +2168,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtEZXZpY2UsIEFwcExhbXB9IGZyb20gJy4uLy4uL21vZGVsL21vZGVsJzsK</text>
       </register>
       <register name="-" type="4">
-        <text>Schema.Types.ObjectId</text>
+        <text>import</text>
       </register>
       <register name="/" type="4">
         <text>comment-body</text>
       </register>
-      <register name="0" type="4">
-        <text>https://t.alipayobjects.com/images/rmsweb/T1CEdkXjhXXXXXXXXX.png</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBpZDogewogICAgdHlwZTogU3RyaW5nLAogICAgZW51bTogWydyb3V0ZXInLCAnZW5kRGV2aWNlJywgJ2Nvb3JkaW5hdG9yJ10KICB9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtEZXZpY2UsIEFwcExhbXB9IGZyb20gJy4uLy4uL21vZGVsL21vZGVsJzsK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>import</text>
       </register>
       <register name="3" type="4">
-        <text>Schema.Types.ObjectId</text>
+        <text>checkRequired</text>
       </register>
-      <register name="4" type="4">
-        <text>Model</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGVudW06IFsncm91dGVyJywgJ2VuZERldmljZScsICdjb29yZGluYXRvciddCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>Model</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICB0eXBlOiBTdHJpbmcsCg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICBhcHA6IHsKICAgIAogIH0=</text>
+        <text>id</text>
       </register>
       <register name="7" type="4">
-        <text>r</text>
+        <text>appLampSchema</text>
       </register>
       <register name="8" type="4">
-        <text>,</text>
+        <text>AppLamp</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgewogIGFwcDogbmV3IAp9Cg==</text>
+      <register name="9" type="4">
+        <text>e</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
