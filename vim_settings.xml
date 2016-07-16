@@ -733,8 +733,10 @@
         <mark key="^" line="1" column="35" />
         <mark key="." line="1" column="27" />
       </file>
-      <file name="$USER_HOME$/project/my/iLighting/local-server/test/model/model-test.js" timestamp="1468657880297">
-        <mark key="[" line="1" column="41" />
+      <file name="$USER_HOME$/project/my/iLighting/local-server/test/model/model-test.js" timestamp="1468668905114">
+        <mark key="[" line="10" column="33" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/paragraph/title-info.html" timestamp="1449555759494">
         <mark key="[" line="1" column="0" />
@@ -2168,7 +2170,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHtEZXZpY2UsIEFwcExhbXB9IGZyb20gJy4uLy4uL21vZGVsL21vZGVsJzsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text>import</text>
@@ -2180,31 +2182,31 @@
         <text encoding="base64">ICBpZDogewogICAgdHlwZTogU3RyaW5nLAogICAgZW51bTogWydyb3V0ZXInLCAnZW5kRGV2aWNlJywgJ2Nvb3JkaW5hdG9yJ10KICB9LAo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">aW1wb3J0IHtEZXZpY2UsIEFwcExhbXB9IGZyb20gJy4uLy4uL21vZGVsL21vZGVsJzsK</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>import</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>checkRequired</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGVudW06IFsncm91dGVyJywgJ2VuZERldmljZScsICdjb29yZGluYXRvciddCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICB0eXBlOiBTdHJpbmcsCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>id</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>appLampSchema</text>
       </register>
-      <register name="8" type="4">
-        <text>AppLamp</text>
-      </register>
       <register name="9" type="4">
-        <text>e</text>
+        <text>AppLamp</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
