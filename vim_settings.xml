@@ -1099,11 +1099,11 @@
         <mark key="^" line="358" column="51" />
         <mark key="." line="358" column="51" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/components/DeskBoard/Chat.jsx" timestamp="1468836803020">
-        <mark key="[" line="102" column="23" />
-        <mark key="]" line="102" column="40" />
-        <mark key="." line="102" column="40" />
-        <mark key="^" line="102" column="40" />
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/components/DeskBoard/Chat.jsx" timestamp="1468842283010">
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
+        <mark key="^" line="111" column="42" />
       </file>
       <file name="$USER_HOME$/project/antcloud/usercenter/client/src/components/authority/RoleAuthTable.jsx" timestamp="1467612545659">
         <mark key="[" line="62" column="15" />
@@ -2226,43 +2226,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGxhc3RTdGF0dXMgPSB0aGlzLnByb3BzLmxhcmtTdGF0dXM7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUud2FybihzKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text encoding="base64">PGRpdiBjbGFzc05hbWU9ImlubmVyLXAiPnttc2cuY29udGVudH08L2Rpdg==</text>
       </register>
       <register name="/" type="4">
         <text>comment</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmlubmVyLXAgeyBjb2xvcjogI0U0RTRFNDsgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7c2VsZi51blNhZmVDb250ZW50RWxlfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGxhc3RTdGF0dXMgPSB0aGlzLnByb3BzLmxhcmtTdGF0dXM7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUud2FybihzKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbG9yOiAjZmZmOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9ImlubmVyLXAiPnttc2cuY29udGVudH08L3A+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHMgPSBzLnJlcGxhY2UoJ1x1MDAzYycsICdcYycpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29sb3I6ICNFNEU0RTQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9ImlubmVyLXAiIGRhbmdlcm91c2x5U2V0SW5uZXJIVE1MPXt9Pnttc2cuY29udGVudH08L3A+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29sb3I6ICNDMEMwQzA7Cg==</text>
+        <text encoding="base64">ICAgIHMgPSBzLnJlcGxhY2UoJ1wpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjbwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGxhc3RTdGF0dXMgPSB0aGlzLnByb3BzLmxhcmtTdGF0dXM7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsaW5lLWhlaWdodDogMjsK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbG9yOiAjZmZmOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1heC1yZXNvbHV0aW9uOiByZXM7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHdvcmQtYnJlYWs6IGJyZWFrLWFsbDsKICAgICAgICAgIHAgewogICAgICAgICAgICB3b3JkLWJyZWFrOiBicmVhay1hbGw7CiAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29sb3I6ICNFNEU0RTQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
