@@ -155,11 +155,11 @@
         <mark key="^" line="7" column="21" />
         <mark key="." line="18" column="11" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/containers/DeskBoard.jsx" timestamp="1468548626895">
-        <mark key="[" line="112" column="34" />
-        <mark key="]" line="112" column="56" />
-        <mark key="." line="112" column="56" />
-        <mark key="^" line="112" column="56" />
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/containers/DeskBoard.jsx" timestamp="1468913629262">
+        <mark key="[" line="113" column="0" />
+        <mark key="]" line="113" column="16" />
+        <mark key="." line="113" column="16" />
+        <mark key="^" line="113" column="74" />
       </file>
       <file name="$USER_HOME$/project/my/iLighting/local-server/model/schema.js" timestamp="1468657499175">
         <mark key="[" line="12" column="4" />
@@ -977,11 +977,11 @@
         <mark key="^" line="3" column="25" />
         <mark key="." line="3" column="25" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/actions/larkActions.js" timestamp="1468485591049">
-        <mark key="[" line="202" column="1" />
-        <mark key="]" line="210" column="27" />
-        <mark key="^" line="210" column="27" />
-        <mark key="." line="210" column="27" />
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/actions/larkActions.js" timestamp="1468913273755">
+        <mark key="[" line="270" column="23" />
+        <mark key="]" line="272" column="19" />
+        <mark key="^" line="272" column="19" />
+        <mark key="." line="272" column="19" />
       </file>
       <file name="$USER_HOME$/project/flaming-cloud/contactor/src/components/Contactor/Preview.jsx" timestamp="1468898117544">
         <mark key="[" line="90" column="0" />
@@ -1103,11 +1103,10 @@
         <mark key="^" line="358" column="51" />
         <mark key="." line="358" column="51" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/components/DeskBoard/Chat.jsx" timestamp="1468901858779">
-        <mark key="[" line="41" column="11" />
-        <mark key="]" line="43" column="31" />
-        <mark key="." line="43" column="31" />
-        <mark key="^" line="43" column="31" />
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/components/DeskBoard/Chat.jsx" timestamp="1468914002376">
+        <mark key="[" line="240" column="0" />
+        <mark key="]" line="240" column="0" />
+        <mark key="." line="240" column="0" />
       </file>
       <file name="$USER_HOME$/project/antcloud/usercenter/client/src/components/authority/RoleAuthTable.jsx" timestamp="1467612545659">
         <mark key="[" line="62" column="15" />
@@ -1335,12 +1334,12 @@
         <mark key="^" line="1" column="37" />
         <mark key="." line="1" column="37" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/entry/Lark.jsx" timestamp="1468837492739">
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/entry/Lark.jsx" timestamp="1468913218814">
         <mark key="'" line="470" column="26" />
-        <mark key="[" line="307" column="0" />
-        <mark key="]" line="307" column="0" />
-        <mark key="." line="307" column="0" />
-        <mark key="^" line="313" column="28" />
+        <mark key="[" line="507" column="27" />
+        <mark key="]" line="509" column="0" />
+        <mark key="." line="509" column="0" />
+        <mark key="^" line="509" column="17" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/home/base.tpl" timestamp="1455696872098">
         <mark key="[" line="46" column="32" />
@@ -1947,12 +1946,12 @@
         <mark key="^" line="2" column="33" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/styles/lark.less" timestamp="1468901633422">
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/styles/lark.less" timestamp="1468912318346">
         <mark key="'" line="454" column="30" />
-        <mark key="[" line="37" column="40" />
-        <mark key="]" line="37" column="41" />
-        <mark key="." line="37" column="41" />
-        <mark key="^" line="35" column="13" />
+        <mark key="[" line="1111" column="24" />
+        <mark key="]" line="1113" column="22" />
+        <mark key="." line="1113" column="22" />
+        <mark key="^" line="1113" column="22" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/component/loading.scss" timestamp="1449569238770">
         <mark key="[" line="16" column="23" />
@@ -2231,44 +2230,44 @@
       <jump line="471" column="26" filename="$USER_HOME$/project/flaming-cloud/contactor/src/entry/Lark.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>customerservice</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>customerservice</text>
+        <text>max</text>
       </register>
       <register name="/" type="4">
         <text>comment</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgJi1sYW1wIHsgLmFudGljb24tbWl4aW4oJ1xFNjA0Jyk7IH0K</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLnByb3BzLmdldFVuUmVhZE1lc3NhZ2VDb3VudCgpKSB7CiAgICAgIHRoaXMuc2Nyb2xsMkJvdHRvbSgpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBmb250LWZhbWlseTogJ2ljb25mb250JzsK</text>
+        <text encoding="base64">ICAgIHRoaXMuc2Nyb2xsMkJvdHRvbSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QGZvbnQtZmFjZSB7CiAgZm9udC1mYW1pbHk6ICdjb250YWN0b3ItaWNvbmZvbnQnOwogIHNyYzogdXJsKCcvL2F0LmFsaWNkbi5jb20vdC9mb250XzE0Njg4OTkwNDFfMzYzNjQwNS5lb3QnKTsgLyogSUU5Ki8KICBzcmM6IHVybCgnLy9hdC5hbGljZG4uY29tL3QvZm9udF8xNDY4ODk5MDQxXzM2MzY0MDUuZW90PyNpZWZpeCcpIGZvcm1hdCgnZW1iZWRkZWQtb3BlbnR5cGUnKSwgLyogSUU2LUlFOCAqLwogIHVybCgnLy9hdC5hbGljZG4uY29tL3QvZm9udF8xNDY4ODk5MDQxXzM2MzY0MDUud29mZicpIGZvcm1hdCgnd29mZicpLCAvKiBjaHJvbWXjgIFmaXJlZm94ICovCiAgdXJsKCcvL2F0LmFsaWNkbi5jb20vdC9mb250XzE0Njg4OTkwNDFfMzYzNjQwNS50dGYnKSBmb3JtYXQoJ3RydWV0eXBlJyksIC8qIGNocm9tZeOAgWZpcmVmb3jjgIFvcGVyYeOAgVNhZmFyaSwgQW5kcm9pZCwgaU9TIDQuMisqLwogIHVybCgnLy9hdC5hbGljZG4uY29tL3QvZm9udF8xNDY4ODk5MDQxXzM2MzY0MDUuc3ZnI2ljb25mb250JykgZm9ybWF0KCdzdmcnKTsgLyogaU9TIDQuMS0gKi8KfQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFR3ZWVuTWF4LnRvKHRoaXMucmVmcy5jaGF0LCAwLjQsIHsK</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLnByb3BzLmdldFVuUmVhZE1lc3NhZ2VDb3VudCgpKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgc2Nyb2xsVG86IHsKICAgICAgICB5OiAnbWF4Jwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfQogICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLnByb3BzLmdldFVuUmVhZE1lc3NhZ2VDb3VudCgpKSB7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIFR3ZWVuTWF4LnRvKHRoaXMucmVmcy5jaGF0LCAwLjQsIHsKICAgICAgc2Nyb2xsVG86IHsKICAgICAgICB5OiAnbWF4Jw==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHRoaXMuc2Nyb2xsMkJvdHRvbSgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgfQogICAgfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuc2Nyb2xsMkJvdHRvbSgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
