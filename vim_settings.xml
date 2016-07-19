@@ -72,11 +72,11 @@
         <mark key="^" line="10" column="17" />
         <mark key="." line="10" column="17" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/tracker/index.js" timestamp="1468921071505">
-        <mark key="[" line="29" column="16" />
-        <mark key="]" line="31" column="43" />
-        <mark key="." line="31" column="43" />
-        <mark key="^" line="31" column="43" />
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/tracker/index.js" timestamp="1468928448279">
+        <mark key="[" line="4" column="27" />
+        <mark key="]" line="19" column="17" />
+        <mark key="." line="19" column="17" />
+        <mark key="^" line="19" column="17" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/partials/layout/layout.scss" timestamp="1450317123477">
         <mark key="[" line="39" column="19" />
@@ -903,8 +903,11 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/sagas/tracker.js" timestamp="1468461888799">
-        <mark key="[" line="12" column="18" />
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/sagas/tracker.js" timestamp="1468927999240">
+        <mark key="[" line="14" column="29" />
+        <mark key="]" line="14" column="32" />
+        <mark key="." line="14" column="32" />
+        <mark key="^" line="14" column="32" />
       </file>
       <file name="/Dummy.txt" timestamp="1468842547624">
         <mark key="[" line="0" column="0" />
@@ -1691,6 +1694,9 @@
         <mark key="^" line="22" column="63" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/tracker/mtracker/libs/Wap.js" timestamp="1468929173703">
+        <mark key="[" line="82" column="38" />
+      </file>
       <file name="$USER_HOME$/project/antcloud/usercenter/client/mock/authority.js" timestamp="1467614802373">
         <mark key="[" line="192" column="30" />
         <mark key="]" line="192" column="31" />
@@ -2163,10 +2169,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>OST</text>
+        <text>@alipay/mtracker/lib/mtracker-wap</text>
       </register>
       <register name="-" type="4">
-        <text>OST</text>
+        <text>@alipay/mtracker/lib/mtracker-wap</text>
       </register>
       <register name="/" type="4">
         <text>comment</text>
@@ -2175,31 +2181,31 @@
         <text encoding="base64">ICAgIGlmICh0aGlzLnByb3BzLmdldFVuUmVhZE1lc3NhZ2VDb3VudCgpKSB7CiAgICAgIHRoaXMuc2Nyb2xsMkJvdHRvbSgpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG0udW5zaGlmdCh7CiAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGFjdGlvbi5wYXlsb2FkLnBhdGhuYW1lLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG0udW5zaGlmdCh7CiAgICB9KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgInR5cGUiOiAiQURNSU4iLAogICAgICAidHlwZUNvbnZlcnNhdGlvbklkIjogYCR7TWF0aC5yYW5kb20oKX0tJHsobmV3IERhdGUoKSkudmFsdWVPZigpfWAsCiAgICAgICJzZW5kZXJJZCI6IDAsCiAgICAgICJzZW5kZXJOYW1lIjogIuS6keWwj+iagiIsCiAgICAgICJzZW5kZXJBdmF0YXIiOiAiaHR0cHM6Ly90LmFsaXBheW9iamVjdHMuY29tL2ltYWdlcy9ybXN3ZWIvVDFDRWRrWGpoWFhYWFhYWFhYLnBuZyIsCiAgICAgICJyZWNlaXZlcklkIjogImxhcmswMDAwMDAiLAogICAgICAicmVjZWl2ZXJOYW1lIjogIiIsCiAgICAgICJsb2NhdGlvbiI6IG51bGwsCiAgICAgICJjb250ZW50IjogJ+WOhuWPsua2iOaBrycsCiAgICAgICJjcmVhdGVkVGltZSI6IChuZXcgRGF0ZSgpKS52YWx1ZU9mKCksCiAgICAgICJyZWFkZWQiOiB0cnVlCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG1zZyA9IHRoaXMucHJvcHMubWVzc2FnZTsKICAgIGNvbnN0IGxhc3RNc2cgPSBtc2dbbXNnLmxlbmd0aC0xXTsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgInR5cGUiOiAiQURNSU4iLAogICAgICAidHlwZUNvbnZlcnNhdGlvbklkIjogYCR7TWF0aC5yYW5kb20oKX0tJHsobmV3IERhdGUoKSkudmFsdWVPZigpfWAsCiAgICAgICJzZW5kZXJJZCI6IDAsCiAgICAgICJzZW5kZXJOYW1lIjogIuS6keWwj+iagiIsCiAgICAgICJzZW5kZXJBdmF0YXIiOiAiaHR0cHM6Ly90LmFsaXBheW9iamVjdHMuY29tL2ltYWdlcy9ybXN3ZWIvVDFDRWRrWGpoWFhYWFhYWFhYLnBuZyIsCiAgICAgICJyZWNlaXZlcklkIjogImxhcmswMDAwMDAiLAogICAgICAicmVjZWl2ZXJOYW1lIjogIiIsCiAgICAgICJsb2NhdGlvbiI6IG51bGwsCiAgICAgICJjb250ZW50IjogJ+WOhuWPsua2iOaBrycsCiAgICAgICJjcmVhdGVkVGltZSI6IChuZXcgRGF0ZSgpKS52YWx1ZU9mKCksCiAgICAgICJyZWFkZWQiOiB0cnVlCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IG1zZyA9IHRoaXMucHJvcHMubWVzc2FnZTsKICAgIGNvbnN0IGxhc3RNc2cgPSBtc2dbbXNnLmxlbmd0aC0xXTsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2Nyb2xsMkJvdHRvbSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHRoaXMuc2Nyb2xsMkJvdHRvbSgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLnByb3BzLmdldFVuUmVhZE1lc3NhZ2VDb3VudCgpKSB7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLnByb3BzLmdldFVuUmVhZE1lc3NhZ2VDb3VudCgpKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
