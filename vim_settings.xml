@@ -945,7 +945,7 @@
         <mark key="^" line="6" column="45" />
         <mark key="." line="6" column="45" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/node_modules/@alipay/ajax/lib/index.js" timestamp="1468922578137" />
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/node_modules/@alipay/ajax/lib/index.js" timestamp="1468923434001" />
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/article_type_list/topic.js" timestamp="1455763721203">
         <mark key="[" line="11" column="23" />
         <mark key="]" line="12" column="18" />
@@ -958,11 +958,11 @@
         <mark key="^" line="3" column="25" />
         <mark key="." line="3" column="25" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/actions/larkActions.js" timestamp="1468922493870">
-        <mark key="[" line="263" column="11" />
-        <mark key="]" line="263" column="14" />
-        <mark key="." line="263" column="14" />
-        <mark key="^" line="263" column="14" />
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/actions/larkActions.js" timestamp="1468923716546">
+        <mark key="[" line="263" column="17" />
+        <mark key="]" line="264" column="18" />
+        <mark key="." line="264" column="18" />
+        <mark key="^" line="264" column="18" />
       </file>
       <file name="$USER_HOME$/project/flaming-cloud/contactor/src/components/Contactor/Preview.jsx" timestamp="1468898117544">
         <mark key="[" line="90" column="0" />
@@ -2163,10 +2163,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>jsonp</text>
+        <text>OST</text>
       </register>
       <register name="-" type="4">
-        <text>jsonp</text>
+        <text>OST</text>
       </register>
       <register name="/" type="4">
         <text>comment</text>
