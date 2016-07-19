@@ -15,7 +15,7 @@
         <mark key="^" line="13" column="10" />
         <mark key="." line="13" column="10" />
       </file>
-      <file name="/a.dummy" timestamp="1468834408516">
+      <file name="/a.dummy" timestamp="1468894656683">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/views/check/index.blade.php" timestamp="1449714775358">
@@ -1937,12 +1937,11 @@
         <mark key="^" line="2" column="33" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/styles/lark.less" timestamp="1468837277086">
-        <mark key="'" line="434" column="30" />
-        <mark key="[" line="1210" column="16" />
-        <mark key="]" line="1210" column="18" />
-        <mark key="." line="1210" column="18" />
-        <mark key="^" line="1210" column="18" />
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/styles/lark.less" timestamp="1468895518326">
+        <mark key="'" line="449" column="30" />
+        <mark key="[" line="15" column="15" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/component/loading.scss" timestamp="1449569238770">
         <mark key="[" line="16" column="23" />
@@ -2221,44 +2220,44 @@
       <jump line="471" column="26" filename="$USER_HOME$/project/flaming-cloud/contactor/src/entry/Lark.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>http://alipay-rmsdeploy-image.cn-hangzhou.alipay.aliyun-inc.com/rmsportal/WJHixRIulTfGjsV.js</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgJi1jb250YWN0b3Ige30K</text>
       </register>
       <register name="-" type="4">
-        <text>http://alipay-rmsdeploy-image.cn-hangzhou.alipay.aliyun-inc.com/rmsportal/WJHixRIulTfGjsV.js</text>
+        <text>guide</text>
       </register>
       <register name="/" type="4">
         <text>comment</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7c2VsZi51blNhZmVDb250ZW50RWxlfQo=</text>
+        <text encoding="base64">ICAgICAgJi1ndWlkZSB7fQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUud2FybihzKTsK</text>
+        <text encoding="base64">ICAgICAgJi1jb250YWN0b3Ige30K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9ImlubmVyLXAiPnttc2cuY29udGVudH08L3A+Cg==</text>
+        <text encoding="base64">ICAgICAgJi1ndWlkZSB7fQogICAgICAmLWd1aWRlIHt9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHMgPSBzLnJlcGxhY2UoJ1x1MDAzYycsICdcYycpCg==</text>
+        <text encoding="base64">ICAgICAgY29udGFjdG9yCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9ImlubmVyLXAiIGRhbmdlcm91c2x5U2V0SW5uZXJIVE1MPXt9Pnttc2cuY29udGVudH08L3A+Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUud2FybihzKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHMgPSBzLnJlcGxhY2UoJ1wpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9ImlubmVyLXAiPnttc2cuY29udGVudH08L3A+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGxhc3RTdGF0dXMgPSB0aGlzLnByb3BzLmxhcmtTdGF0dXM7Cg==</text>
+        <text encoding="base64">ICAgIHMgPSBzLnJlcGxhY2UoJ1x1MDAzYycsICdcYycpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbG9yOiAjZmZmOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8cCBjbGFzc05hbWU9ImlubmVyLXAiIGRhbmdlcm91c2x5U2V0SW5uZXJIVE1MPXt9Pnttc2cuY29udGVudH08L3A+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHMgPSBzLnJlcGxhY2UoJ1wpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29sb3I6ICNFNEU0RTQ7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGxhc3RTdGF0dXMgPSB0aGlzLnByb3BzLmxhcmtTdGF0dXM7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
