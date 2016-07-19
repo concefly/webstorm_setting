@@ -77,11 +77,11 @@
         <mark key="^" line="10" column="17" />
         <mark key="." line="10" column="17" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/tracker/index.js" timestamp="1468919790743">
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/tracker/index.js" timestamp="1468921071505">
         <mark key="[" line="29" column="16" />
-        <mark key="]" line="16" column="29" />
-        <mark key="." line="16" column="29" />
-        <mark key="^" line="16" column="29" />
+        <mark key="]" line="31" column="43" />
+        <mark key="." line="31" column="43" />
+        <mark key="^" line="31" column="43" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/partials/layout/layout.scss" timestamp="1450317123477">
         <mark key="[" line="39" column="19" />
