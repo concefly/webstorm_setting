@@ -24,11 +24,6 @@
         <mark key="^" line="12" column="19" />
         <mark key="." line="12" column="19" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/containers/Contactor.jsx" timestamp="1468834201441">
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
-      </file>
       <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/partials/common/_fun.scss" timestamp="1456914855417">
         <mark key="[" line="11" column="34" />
         <mark key="]" line="18" column="0" />
@@ -990,7 +985,7 @@
         <mark key="^" line="44" column="93" />
         <mark key="." line="44" column="93" />
       </file>
-      <file name="/a.regexp" timestamp="1468898383553">
+      <file name="/a.regexp" timestamp="1468931158338">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/mixins/labels.scss" timestamp="1455682211601">
@@ -1585,6 +1580,7 @@
         <mark key="." line="29" column="27" />
         <mark key="^" line="29" column="27" />
       </file>
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/proxy.mock.js" timestamp="1468932000982" />
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/tag/base.tpl" timestamp="1455760475720">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="25" column="9" />
@@ -1699,10 +1695,11 @@
         <mark key="^" line="22" column="63" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/tracker/mtracker/libs/Wap.js" timestamp="1468930700858">
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/tracker/mtracker/libs/Wap.js" timestamp="1468932293273">
+        <mark key="[" line="93" column="36" />
+        <mark key="]" line="93" column="42" />
+        <mark key="." line="93" column="42" />
+        <mark key="^" line="93" column="42" />
       </file>
       <file name="$USER_HOME$/project/antcloud/usercenter/client/mock/authority.js" timestamp="1467614802373">
         <mark key="[" line="192" column="30" />
@@ -2175,53 +2172,53 @@
       <jump line="471" column="26" filename="$USER_HOME$/project/flaming-cloud/contactor/src/entry/Lark.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUud2Fybignc2xpY2UgaGFzaCcsIHNsaWNlSGFzaCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>ref</text>
       </register>
       <register name="-" type="4">
-        <text>hash.match()</text>
+        <text>ref</text>
       </register>
       <register name="/" type="4">
-        <text>comment</text>
+        <text>hack</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLnByb3BzLmdldFVuUmVhZE1lc3NhZ2VDb3VudCgpKSB7CiAgICAgIHRoaXMuc2Nyb2xsMkJvdHRvbSgpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgX3BhcmFtLnJlZiA9IHdpbmRvdy5fbXRyYWNrZXJIYWNrOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUud2Fybignc2xpY2UgaGFzaCcsIHNsaWNlSGFzaCk7Cg==</text>
+        <text encoding="base64">ICAgICAgfQogICAgICBfcGFyYW0ucmVmID0gd2luZG93Ll9tdHJhY2tlckhhY2s7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS53YXJuKCdzbGljZSBoYXNoJywgc2xpY2VIYXNoKTsK</text>
+        <text encoding="base64">ICAgICAgaWYgKCF3aW5kb3cuX210cmFja2VySGFja1JlZikgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5fc2VuZChfcGFyYW0pOwo=</text>
+        <text encoding="base64">ICAgICAgX3BhcmFtLnJlZiA9IGAke2hvc3R9LyR7d29ya3NwYWNlfWAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUud2Fybignc2xpY2UgaGFzaCcsIHNsaWNlSGFzaCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxldCBbXywgd29ya3NwYWNlLCBwcm9qZWN0LCByZXN0XSA9IHNsaWNlSGFzaDsKICAgIF9wYXJhbS5mdWxsVVJMID0gYCR7aG9zdH0vJHt3b3Jrc3BhY2V9LyR7cHJvamVjdH1gOwogICAgX3BhcmFtLm1QYWdlU3RhdGUgPSBgLyR7cmVzdH1gOwogICAgY29uc29sZS53YXJuKF9wYXJhbSk7CiAgICB0aGlzLl9zZW5kKF9wYXJhbSk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS53YXJuKCdzbGljZSBoYXNoJywgc2xpY2VIYXNoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUud2FybihfcGFyYW0pOwo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5fc2VuZChfcGFyYW0pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFjdGlvbi5wYXlsb2FkLnBhdGhuYW1lLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG0udW5zaGlmdCh7CiAgICB9KTsK</text>
+        <text encoding="base64">ICAgIGxldCBbXywgd29ya3NwYWNlLCBwcm9qZWN0LCByZXN0XSA9IHNsaWNlSGFzaDsKICAgIF9wYXJhbS5mdWxsVVJMID0gYCR7aG9zdH0vJHt3b3Jrc3BhY2V9LyR7cHJvamVjdH1gOwogICAgX3BhcmFtLm1QYWdlU3RhdGUgPSBgLyR7cmVzdH1gOwogICAgY29uc29sZS53YXJuKF9wYXJhbSk7CiAgICB0aGlzLl9zZW5kKF9wYXJhbSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUud2FybihfcGFyYW0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>comment</last-search>
+      <last-search>hack</last-search>
       <last-offset />
-      <last-pattern>comment</last-pattern>
+      <last-pattern>hack</last-pattern>
       <last-replace>space</last-replace>
       <last-substitute>time</last-substitute>
       <last-dir>1</last-dir>
@@ -2229,7 +2226,6 @@
     </search>
     <history>
       <history-search>
-        <entry>-by-user</entry>
         <entry>connector</entry>
         <entry>ActionList</entry>
         <entry>tool</entry>
@@ -2249,6 +2245,7 @@
         <entry>deskborad</entry>
         <entry>deskboard</entry>
         <entry>comment</entry>
+        <entry>hack</entry>
       </history-search>
       <history-cmd>
         <entry>33,38 s/password/password2/g</entry>
