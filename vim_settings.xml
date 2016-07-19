@@ -878,11 +878,11 @@
         <mark key="^" line="13" column="40" />
         <mark key="." line="13" column="40" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/lengjing.config.js" timestamp="1468553627449">
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/lengjing.config.js" timestamp="1468917608007">
         <mark key="[" line="6" column="17" />
-        <mark key="]" line="6" column="40" />
-        <mark key="^" line="6" column="40" />
-        <mark key="." line="6" column="40" />
+        <mark key="]" line="6" column="20" />
+        <mark key="^" line="6" column="20" />
+        <mark key="." line="6" column="20" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/column_list/ih.blade.php" timestamp="1455674891398">
         <mark key="[" line="0" column="0" />
@@ -2166,11 +2166,11 @@
       <jump line="471" column="26" filename="$USER_HOME$/project/flaming-cloud/contactor/src/entry/Lark.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG0udW5zaGlmdCh7CiAgICB9KTsK</text>
+      <register name="&quot;" type="4">
+        <text>console</text>
       </register>
       <register name="-" type="4">
-        <text>max</text>
+        <text>console</text>
       </register>
       <register name="/" type="4">
         <text>comment</text>
