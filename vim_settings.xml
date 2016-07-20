@@ -966,11 +966,11 @@
         <mark key="^" line="3" column="25" />
         <mark key="." line="3" column="25" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/actions/larkActions.js" timestamp="1468989856967">
-        <mark key="[" line="277" column="0" />
-        <mark key="]" line="277" column="0" />
-        <mark key="." line="277" column="0" />
-        <mark key="^" line="303" column="4" />
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/actions/larkActions.js" timestamp="1468998612004">
+        <mark key="[" line="266" column="20" />
+        <mark key="]" line="266" column="20" />
+        <mark key="." line="266" column="20" />
+        <mark key="^" line="266" column="20" />
       </file>
       <file name="$USER_HOME$/project/flaming-cloud/contactor/src/components/Contactor/Preview.jsx" timestamp="1468898117544">
         <mark key="[" line="90" column="0" />
@@ -2193,11 +2193,11 @@
       <jump line="471" column="26" filename="$USER_HOME$/project/flaming-cloud/contactor/src/entry/Lark.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>getState().historyMessagePage;</text>
       </register>
       <register name="-" type="4">
-        <text>active</text>
+        <text>getState().historyMessagePage;</text>
       </register>
       <register name="/" type="4">
         <text>hack</text>
@@ -2206,31 +2206,31 @@
         <text encoding="base64">LyoKIGh0dHA6Ly9sb2NhbC5hbGlwYXkubmV0Ojg5ODkvIy9zdGFibGUvZHN0YWJsZS9kYXNoYm9hcmQKIGh0dHA6Ly9sb2NhbC5hbGlwYXkubmV0Ojg5ODkvIy9zdGFibGUvZHN0YWJsZS9hY2NvdW50c2luZm8KIGh0dHA6Ly9sb2NhbC5hbGlwYXkubmV0Ojg5ODkvIy9zdGFibGUvZHN0YWJsZS9tZW1iZXJzL21hbmFnZW1lbnQKIGh0dHA6Ly9sb2NhbC5hbGlwYXkubmV0Ojg5ODkvIy9zdGFibGUvZHN0YWJsZS9tZW1iZXJzL2NyZWF0ZWxvZ3MKIGh0dHA6Ly9sb2NhbC5hbGlwYXkubmV0Ojg5ODkvIy9zdGFibGUvZHN0YWJsZS9hdXRob3JpemF0aW9uL3VzZXJzCiBodHRwOi8vbG9jYWwuYWxpcGF5Lm5ldDo4OTg5LyMvc3RhYmxlL2RzdGFibGUvYXV0aG9yaXphdGlvbi9yb2xlcwogaHR0cDovL2xvY2FsLmFsaXBheS5uZXQ6ODk4OS8jL3N0YWJsZS9kc3RhYmxlL2xvZ3MKIGh0dHA6Ly9sb2NhbC5hbGlwYXkubmV0Ojg5ODkvIy9zdGFibGUvZHN0YWJsZS93b3Jrc3BhY2VzCiAqLwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICBpZiAoWydBRE1JTiddLmluZGV4T2YobWVzc2FnZS50eXBlKSA+PSAwKSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IC8qCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vZGV2Cg==</text>
+        <text encoding="base64">ICBzZXRTdGF0ZSh7CiAgICBtZXNzYWdlOiBtZXNzYWdlLmNvbmNhdChwYXlsb2FkLm1lc3NhZ2UpLAogICAgbGFzdE1lc3NhZ2U6IHBheWxvYWQubWVzc2FnZQogIH0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">IC8qCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vZGV2Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
