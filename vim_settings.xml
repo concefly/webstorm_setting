@@ -1294,12 +1294,12 @@
         <mark key="^" line="1" column="37" />
         <mark key="." line="1" column="37" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/entry/Lark.jsx" timestamp="1468913218814">
-        <mark key="'" line="470" column="26" />
-        <mark key="[" line="507" column="27" />
-        <mark key="]" line="509" column="0" />
-        <mark key="." line="509" column="0" />
-        <mark key="^" line="509" column="17" />
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/entry/Lark.jsx" timestamp="1468932502567">
+        <mark key="'" line="474" column="26" />
+        <mark key="[" line="416" column="41" />
+        <mark key="]" line="417" column="32" />
+        <mark key="." line="417" column="32" />
+        <mark key="^" line="417" column="32" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/home/base.tpl" timestamp="1455696872098">
         <mark key="[" line="46" column="32" />
@@ -2173,10 +2173,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ref</text>
+        <text>content</text>
       </register>
       <register name="-" type="4">
-        <text>ref</text>
+        <text>content</text>
       </register>
       <register name="/" type="4">
         <text>hack</text>
