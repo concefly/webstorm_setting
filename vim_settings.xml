@@ -24,6 +24,11 @@
         <mark key="^" line="12" column="19" />
         <mark key="." line="12" column="19" />
       </file>
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/containers/Contactor.jsx" timestamp="1468834201441">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+      </file>
       <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/partials/common/_fun.scss" timestamp="1456914855417">
         <mark key="[" line="11" column="34" />
         <mark key="]" line="18" column="0" />
@@ -873,11 +878,11 @@
         <mark key="^" line="13" column="40" />
         <mark key="." line="13" column="40" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/lengjing.config.js" timestamp="1468917608007">
-        <mark key="[" line="6" column="17" />
-        <mark key="]" line="6" column="20" />
-        <mark key="^" line="6" column="20" />
-        <mark key="." line="6" column="20" />
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/lengjing.config.js" timestamp="1468997532780">
+        <mark key="[" line="22" column="5" />
+        <mark key="]" line="49" column="22" />
+        <mark key="." line="49" column="22" />
+        <mark key="^" line="49" column="22" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/column_list/ih.blade.php" timestamp="1455674891398">
         <mark key="[" line="0" column="0" />
@@ -1012,6 +1017,11 @@
         <mark key="." line="33" column="26" />
         <mark key="^" line="33" column="26" />
       </file>
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/proxy.js" timestamp="1468997277407">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/home/home.blade.php" timestamp="1455680100079">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="25" />
@@ -1065,6 +1075,12 @@
         <mark key="]" line="30" column="11" />
         <mark key="^" line="30" column="11" />
         <mark key="." line="30" column="11" />
+      </file>
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/.gitignore" timestamp="1468997590306">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="9" />
+        <mark key="^" line="10" column="9" />
+        <mark key="." line="10" column="9" />
       </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/resources/views/cms/index.blade.php" timestamp="1449732496933">
         <mark key="[" line="57" column="47" />
@@ -2178,7 +2194,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS53YXJuKHJlcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>active</text>
@@ -2187,34 +2203,34 @@
         <text>hack</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLnRyaWdnZXIgewogICAgICAgIGRpc3BsYXk6IGlubGluZS1ibG9jazsKICAgICAgICBib3JkZXItcmFkaXVzOiA1cHg7CiAgICAgICAgZm9udC1zaXplOiAxMnB4OwogICAgICAgIHRleHQtZGVjb3JhdGlvbjogdW5kZXJsaW5lOwogICAgICAgIGNvbG9yOiAjYzBjMGMwOwogICAgICAgIGN1cnNvcjogcG9pbnRlcjsKICAgICAgfQo=</text>
+        <text encoding="base64">LyoKIGh0dHA6Ly9sb2NhbC5hbGlwYXkubmV0Ojg5ODkvIy9zdGFibGUvZHN0YWJsZS9kYXNoYm9hcmQKIGh0dHA6Ly9sb2NhbC5hbGlwYXkubmV0Ojg5ODkvIy9zdGFibGUvZHN0YWJsZS9hY2NvdW50c2luZm8KIGh0dHA6Ly9sb2NhbC5hbGlwYXkubmV0Ojg5ODkvIy9zdGFibGUvZHN0YWJsZS9tZW1iZXJzL21hbmFnZW1lbnQKIGh0dHA6Ly9sb2NhbC5hbGlwYXkubmV0Ojg5ODkvIy9zdGFibGUvZHN0YWJsZS9tZW1iZXJzL2NyZWF0ZWxvZ3MKIGh0dHA6Ly9sb2NhbC5hbGlwYXkubmV0Ojg5ODkvIy9zdGFibGUvZHN0YWJsZS9hdXRob3JpemF0aW9uL3VzZXJzCiBodHRwOi8vbG9jYWwuYWxpcGF5Lm5ldDo4OTg5LyMvc3RhYmxlL2RzdGFibGUvYXV0aG9yaXphdGlvbi9yb2xlcwogaHR0cDovL2xvY2FsLmFsaXBheS5uZXQ6ODk4OS8jL3N0YWJsZS9kc3RhYmxlL2xvZ3MKIGh0dHA6Ly9sb2NhbC5hbGlwYXkubmV0Ojg5ODkvIy9zdGFibGUvZHN0YWJsZS93b3Jrc3BhY2VzCiAqLwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS53YXJuKHJlcyk7Cg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICovCg==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMudHJhY2tDbGlja1R5cGUoJ2hlbHAnKTsK</text>
+        <text encoding="base64">IC8qCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLnByb3BzLmNoYXRUb29sU3RhdGUgPT0gJ25vbmUnKSB7CgogICAgfQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vZGV2Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLnByb3BzLmNoYXRUb29sU3RhdGUgPT0gJycpIHsKICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLnByb3BzLmNoYXRUb29sU3RhdGUpCg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjaGF0VG9vbFN0YXRlCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vZGV2Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
