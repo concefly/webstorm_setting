@@ -364,11 +364,11 @@
         <mark key="^" line="37" column="14" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/core/flaming-cloud/index.htm" timestamp="1469000023487">
-        <mark key="[" line="127" column="149" />
-        <mark key="]" line="127" column="149" />
-        <mark key="." line="127" column="149" />
-        <mark key="^" line="103" column="3" />
+      <file name="$USER_HOME$/project/antcloud/core/flaming-cloud/index.htm" timestamp="1469000035544">
+        <mark key="[" line="127" column="384" />
+        <mark key="]" line="127" column="475" />
+        <mark key="." line="127" column="475" />
+        <mark key="^" line="127" column="475" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/author/author.detail.js" timestamp="1450247525097">
         <mark key="[" line="81" column="21" />
@@ -2193,10 +2193,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>http://alipay-rmsdeploy-image.cn-hangzhou.alipay.aliyun-inc.com/rmsportal/kRZMNZTaQrAKjkR.css</text>
+        <text>http://alipay-rmsdeploy-image.cn-hangzhou.alipay.aliyun-inc.com/rmsportal/TPQBuNizQeZiXMH.js</text>
       </register>
       <register name="-" type="4">
-        <text>http://alipay-rmsdeploy-image.cn-hangzhou.alipay.aliyun-inc.com/rmsportal/kRZMNZTaQrAKjkR.css</text>
+        <text>http://alipay-rmsdeploy-image.cn-hangzhou.alipay.aliyun-inc.com/rmsportal/TPQBuNizQeZiXMH.js</text>
       </register>
       <register name="/" type="4">
         <text>hack</text>
