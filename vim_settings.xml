@@ -961,11 +961,11 @@
         <mark key="^" line="3" column="25" />
         <mark key="." line="3" column="25" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/actions/larkActions.js" timestamp="1468985110931">
-        <mark key="[" line="276" column="28" />
-        <mark key="]" line="284" column="41" />
-        <mark key="." line="284" column="41" />
-        <mark key="^" line="284" column="41" />
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/actions/larkActions.js" timestamp="1468987823587">
+        <mark key="[" line="278" column="34" />
+        <mark key="]" line="285" column="21" />
+        <mark key="." line="285" column="21" />
+        <mark key="^" line="285" column="21" />
       </file>
       <file name="$USER_HOME$/project/flaming-cloud/contactor/src/components/Contactor/Preview.jsx" timestamp="1468898117544">
         <mark key="[" line="90" column="0" />
@@ -1078,11 +1078,11 @@
         <mark key="^" line="358" column="51" />
         <mark key="." line="358" column="51" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/components/DeskBoard/Chat.jsx" timestamp="1468985703278">
-        <mark key="[" line="152" column="59" />
-        <mark key="]" line="152" column="59" />
-        <mark key="." line="152" column="59" />
-        <mark key="^" line="269" column="45" />
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/components/DeskBoard/Chat.jsx" timestamp="1468988146550">
+        <mark key="[" line="17" column="30" />
+        <mark key="]" line="17" column="31" />
+        <mark key="." line="17" column="31" />
+        <mark key="^" line="17" column="33" />
       </file>
       <file name="$USER_HOME$/project/antcloud/usercenter/client/src/components/authority/RoleAuthTable.jsx" timestamp="1467612545659">
         <mark key="[" line="62" column="15" />
@@ -1300,12 +1300,12 @@
         <mark key="^" line="1" column="37" />
         <mark key="." line="1" column="37" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/entry/Lark.jsx" timestamp="1468983966804">
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/entry/Lark.jsx" timestamp="1468988459699">
         <mark key="'" line="481" column="26" />
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
-        <mark key="^" line="88" column="14" />
+        <mark key="[" line="520" column="24" />
+        <mark key="]" line="520" column="34" />
+        <mark key="." line="520" column="34" />
+        <mark key="^" line="520" column="34" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/home/base.tpl" timestamp="1455696872098">
         <mark key="[" line="46" column="32" />
@@ -1899,12 +1899,12 @@
         <mark key="^" line="2" column="33" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/styles/lark.less" timestamp="1468912318346">
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/styles/lark.less" timestamp="1468988172154">
         <mark key="'" line="454" column="30" />
-        <mark key="[" line="1111" column="24" />
-        <mark key="]" line="1113" column="22" />
-        <mark key="." line="1113" column="22" />
-        <mark key="^" line="1113" column="22" />
+        <mark key="[" line="1120" column="0" />
+        <mark key="]" line="1120" column="0" />
+        <mark key="." line="1120" column="0" />
+        <mark key="^" line="1116" column="12" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/component/loading.scss" timestamp="1449569238770">
         <mark key="[" line="16" column="23" />
@@ -2178,44 +2178,44 @@
       <jump line="471" column="26" filename="$USER_HOME$/project/flaming-cloud/contactor/src/entry/Lark.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB0ZXh0LWRlY29yYXRpb246IHVuZGVybGluZTsK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>trigger</text>
       </register>
       <register name="/" type="4">
         <text>hack</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZGF0YVVybDogJy8vJyArIGNvcmVEb21haW4gKyBjb3JlUG9ydCwK</text>
+        <text encoding="base64">ICAgICAgLnRyaWdnZXIgewogICAgICAgIGRpc3BsYXk6IGlubGluZS1ibG9jazsKICAgICAgICBib3JkZXItcmFkaXVzOiA1cHg7CiAgICAgICAgZm9udC1zaXplOiAxMnB4OwogICAgICAgIHRleHQtZGVjb3JhdGlvbjogdW5kZXJsaW5lOwogICAgICAgIGNvbG9yOiAjYzBjMGMwOwogICAgICAgIGN1cnNvcjogcG9pbnRlcjsKICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhZ2U6IGdldFN0YXRlKCkuaGlzdG9yeU1lc3NhZ2VQYWdlCg==</text>
+        <text encoding="base64">ICAgICAgICB0ZXh0LWRlY29yYXRpb246IHVuZGVybGluZTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwYWdlOiBOdW1iZXIK</text>
+        <text encoding="base64">ICAgICAgICBjdXJzb3I6IHBvaW50ZXI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBhZ2U6IDEsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcGFnZTogMSwK</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzTmFtZT0idHJpZ2dlciIgb25DbGljaz17dGhpcy5wcm9wcy5vblRyaWdnZXJ9PgogICAgICAgICAg6I635Y+W5Y6G5Y+y5raI5oGvCiAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyBzZXRUaW1lb3V0KGZ1bmN0aW9uICgpIHsKICAvLyAgIGNvbnN0IGxzbSA9IHsKICAvLyAgICAgInR5cGUiOiAiQURNSU4iLAogIC8vICAgICAidHlwZUNvbnZlcnNhdGlvbklkIjogYCR7TWF0aC5yYW5kb20oKX0tJHsobmV3IERhdGUoKSkudmFsdWVPZigpfWAsCiAgLy8gICAgICJzZW5kZXJJZCI6IDAsCiAgLy8gICAgICJzZW5kZXJOYW1lIjogIuS6keWwj+iagiIsCiAgLy8gICAgICJzZW5kZXJBdmF0YXIiOiAiaHR0cHM6Ly90LmFsaXBheW9iamVjdHMuY29tL2ltYWdlcy9ybXN3ZWIvVDFDRWRrWGpoWFhYWFhYWFhYLnBuZyIsCiAgLy8gICAgICJyZWNlaXZlcklkIjogImxhcmswMDAwMDAiLAogIC8vICAgICAicmVjZWl2ZXJOYW1lIjogIiIsCiAgLy8gICAgICJsb2NhdGlvbiI6IG51bGwsCiAgLy8gICAgICJjb250ZW50IjogJ+WOhuWPsua2iOaBrycgKyAobmV3IERhdGUoKSksCiAgLy8gICAgICJjcmVhdGVkVGltZSI6IChuZXcgRGF0ZSgpKS52YWx1ZU9mKCksCiAgLy8gICAgICJyZWFkZWQiOiB0cnVlCiAgLy8gICB9OwogIC8vICAgbS51bnNoaWZ0KGxzbSk7CiAgLy8gICBzZXRTdGF0ZSh7CiAgLy8gICAgIG1lc3NhZ2U6IG0sCiAgLy8gICAgIGxhc3RNZXNzYWdlOiBsc20KICAvLyAgIH0pCiAgLy8gfSwgNTAwKTsK</text>
+        <text encoding="base64">ICAgICAgICB7aGFzSGlzdG9yeU1lc3NhZ2U/Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBlclBhZ2U6IDEwLAo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwZXJQYWdlOiBOdW1iZXIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXY+PC9kaXY+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGltZTogb2xkZXN0TXNnLmNyZWF0ZWRUaW1lCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcGVyUGFnZTogMTAK</text>
+        <text encoding="base64">ICAgICAgLy8g6KaG55uWIHJlYWRlZCDkuLogdHJ1ZSwKICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
