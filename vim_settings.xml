@@ -258,11 +258,11 @@
         <mark key="^" line="64" column="16" />
         <mark key="." line="64" column="16" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/entry/App.jsx" timestamp="1468984673269">
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/entry/App.jsx" timestamp="1468985162124">
         <mark key="[" line="43" column="21" />
-        <mark key="]" line="43" column="24" />
-        <mark key="." line="43" column="24" />
-        <mark key="^" line="43" column="24" />
+        <mark key="]" line="43" column="25" />
+        <mark key="." line="43" column="25" />
+        <mark key="^" line="43" column="25" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/modal/modal.tpl" timestamp="1453254299359">
         <mark key="[" line="2" column="38" />
@@ -360,11 +360,11 @@
         <mark key="^" line="37" column="14" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/core/flaming-cloud/index.htm" timestamp="1468984942136">
+      <file name="$USER_HOME$/project/antcloud/core/flaming-cloud/index.htm" timestamp="1468985006916">
         <mark key="[" line="117" column="35" />
-        <mark key="]" line="117" column="12" />
-        <mark key="." line="117" column="12" />
-        <mark key="^" line="117" column="12" />
+        <mark key="]" line="103" column="3" />
+        <mark key="." line="103" column="3" />
+        <mark key="^" line="103" column="3" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/author/author.detail.js" timestamp="1450247525097">
         <mark key="[" line="81" column="21" />
@@ -961,11 +961,11 @@
         <mark key="^" line="3" column="25" />
         <mark key="." line="3" column="25" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/actions/larkActions.js" timestamp="1468984487410">
-        <mark key="[" line="283" column="28" />
-        <mark key="]" line="283" column="41" />
-        <mark key="." line="283" column="41" />
-        <mark key="^" line="283" column="41" />
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/actions/larkActions.js" timestamp="1468985110931">
+        <mark key="[" line="276" column="28" />
+        <mark key="]" line="284" column="41" />
+        <mark key="." line="284" column="41" />
+        <mark key="^" line="284" column="41" />
       </file>
       <file name="$USER_HOME$/project/flaming-cloud/contactor/src/components/Contactor/Preview.jsx" timestamp="1468898117544">
         <mark key="[" line="90" column="0" />
@@ -1036,11 +1036,11 @@
         <mark key="^" line="2" column="26" />
         <mark key="." line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/app/views/basic.html" timestamp="1468983695584">
-        <mark key="[" line="77" column="82" />
-        <mark key="]" line="77" column="104" />
-        <mark key="." line="77" column="104" />
-        <mark key="^" line="77" column="104" />
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/app/views/basic.html" timestamp="1468985060357">
+        <mark key="[" line="77" column="95" />
+        <mark key="]" line="77" column="94" />
+        <mark key="." line="77" column="94" />
+        <mark key="^" line="77" column="94" />
       </file>
       <file name="$USER_HOME$/project/iLight/web-client/src/components/Devices/Container.jsx" timestamp="1464928866909">
         <mark key="[" line="29" column="21" />
@@ -1078,10 +1078,10 @@
         <mark key="^" line="358" column="51" />
         <mark key="." line="358" column="51" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/components/DeskBoard/Chat.jsx" timestamp="1468984605260">
-        <mark key="[" line="268" column="33" />
-        <mark key="]" line="269" column="45" />
-        <mark key="." line="269" column="45" />
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/components/DeskBoard/Chat.jsx" timestamp="1468985703278">
+        <mark key="[" line="152" column="59" />
+        <mark key="]" line="152" column="59" />
+        <mark key="." line="152" column="59" />
         <mark key="^" line="269" column="45" />
       </file>
       <file name="$USER_HOME$/project/antcloud/usercenter/client/src/components/authority/RoleAuthTable.jsx" timestamp="1467612545659">
@@ -2178,11 +2178,11 @@
       <jump line="471" column="26" filename="$USER_HOME$/project/flaming-cloud/contactor/src/entry/Lark.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZGF0YVVybDogJy8vJyArIGNvcmVEb21haW4gKyBjb3JlUG9ydCwK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>http://alipay-rmsdeploy-image.cn-hangzhou.alipay.aliyun-inc.com/rmsportal/lgggBfcdSURJUmG.js</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>hack</text>
