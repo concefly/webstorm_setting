@@ -1034,9 +1034,9 @@
         <mark key="^" line="33" column="26" />
       </file>
       <file name="$USER_HOME$/project/antcloud/usercenter/client/proxy.js" timestamp="1469002580691">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/home/home.blade.php" timestamp="1455680100079">
         <mark key="[" line="0" column="0" />
@@ -1096,11 +1096,6 @@
         <mark key="]" line="30" column="11" />
         <mark key="^" line="30" column="11" />
         <mark key="." line="30" column="11" />
-      </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/.gitignore" timestamp="1469002546515">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/resources/views/cms/index.blade.php" timestamp="1449732496933">
         <mark key="[" line="57" column="47" />
@@ -1565,11 +1560,6 @@
         <mark key="]" line="61" column="11" />
         <mark key="." line="61" column="11" />
         <mark key="^" line="67" column="4" />
-      </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/webpack.config.js" timestamp="1469003311907">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/project/iLight/iLight-client/build/web/src/main.js" timestamp="1465036627086">
         <mark key="[" line="17" column="0" />
