@@ -1111,11 +1111,11 @@
         <mark key="^" line="358" column="51" />
         <mark key="." line="358" column="51" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/components/DeskBoard/Chat.jsx" timestamp="1468989106018">
-        <mark key="[" line="271" column="22" />
-        <mark key="]" line="273" column="0" />
-        <mark key="." line="273" column="0" />
-        <mark key="^" line="283" column="50" />
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/components/DeskBoard/Chat.jsx" timestamp="1469075427640">
+        <mark key="[" line="16" column="68" />
+        <mark key="]" line="16" column="68" />
+        <mark key="." line="16" column="68" />
+        <mark key="^" line="16" column="67" />
       </file>
       <file name="$USER_HOME$/project/antcloud/usercenter/client/src/components/authority/RoleAuthTable.jsx" timestamp="1467612545659">
         <mark key="[" line="62" column="15" />
@@ -1960,12 +1960,12 @@
         <mark key="^" line="2" column="33" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/styles/lark.less" timestamp="1469073621431">
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/styles/lark.less" timestamp="1469075451144">
         <mark key="'" line="452" column="30" />
-        <mark key="[" line="452" column="0" />
-        <mark key="]" line="452" column="0" />
-        <mark key="." line="452" column="0" />
-        <mark key="^" line="1114" column="12" />
+        <mark key="[" line="1108" column="30" />
+        <mark key="]" line="1109" column="17" />
+        <mark key="." line="1109" column="17" />
+        <mark key="^" line="1109" column="17" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/component/loading.scss" timestamp="1449569238770">
         <mark key="[" line="16" column="23" />
@@ -2244,52 +2244,44 @@
       <jump line="471" column="26" filename="$USER_HOME$/project/flaming-cloud/contactor/src/entry/Lark.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcG9zaXRpb246IGFic29sdXRlOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Li4uPC8=</text>
       </register>
       <register name="-" type="4">
-        <text>月账单</text>
+        <text encoding="base64">Li4uPC8=</text>
       </register>
       <register name="/" type="4">
         <text>hack</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgZW50cnk6ICdiaWxsL21vbnRobHknLAogICAgICBkZXNjOiAn5raI6LS56K6i5Y2VL+aciOi0puWNlScKICAgIH0sCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">c3R5bGU9e3tmb250U2l6ZTogMjJ9fSA=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcG9zaXRpb246IGFic29sdXRlOwo=</text>
+        <text encoding="base64">ICAgICAgICBib3JkZXI6IDFweCBzb2xpZCAjYzBjMGMwOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBvc2l0aW9uOiByZWxhdGl2ZTsK</text>
+        <text encoding="base64">QGZvbnQtZmFjZSB7CiAgc3JjOiB1cmwoJy8vYXQuYWxpY2RuLmNvbS90L2ZvbnRfMTQ2ODkwMTUyNF8zMDQwMTc4LmVvdCcpOyAvKiBJRTkqLwogIHNyYzogdXJsKCcvL2F0LmFsaWNkbi5jb20vdC9mb250XzE0Njg5MDE1MjRfMzA0MDE3OC5lb3Q/I2llZml4JykgZm9ybWF0KCdlbWJlZGRlZC1vcGVudHlwZScpLCAvKiBJRTYtSUU4ICovCiAgdXJsKCcvL2F0LmFsaWNkbi5jb20vdC9mb250XzE0Njg5MDE1MjRfMzA0MDE3OC53b2ZmJykgZm9ybWF0KCd3b2ZmJyksIC8qIGNocm9tZeOAgWZpcmVmb3ggKi8KICB1cmwoJy8vYXQuYWxpY2RuLmNvbS90L2ZvbnRfMTQ2ODkwMTUyNF8zMDQwMTc4LnR0ZicpIGZvcm1hdCgndHJ1ZXR5cGUnKSwgLyogY2hyb21l44CBZmlyZWZveOOAgW9wZXJh44CBU2FmYXJpLCBBbmRyb2lkLCBpT1MgNC4yKyovCiAgdXJsKCcvL2F0LmFsaWNkbi5jb20vdC9mb250XzE0Njg5MDE1MjRfMzA0MDE3OC5zdmcjaWNvbmZvbnQnKSBmb3JtYXQoJ3N2ZycpOyAvKiBpT1MgNC4xLSAqLwp9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ci8qCiAvc3RhYmxlL2RzdGFibGUvZGFzaGJvYXJkCiAvc3RhYmxlL2RzdGFibGUvYWNjb3VudHNpbmZvCiAvc3RhYmxlL2RzdGFibGUvbWVtYmVycy9tYW5hZ2VtZW50CiAvc3RhYmxlL2RzdGFibGUvbWVtYmVycy9jcmVhdGVsb2dzCiAvVFNDUERJQ04vZGVmYXVsdC9iaWxsL21vbnRobHkKIC9UU0NQRElDTi9kZWZhdWx0L2JpbGwvb3JkZXJzCiAvVFNDUERJQ04vZGVmYXVsdC90aWNrZXRzL21pbmUKIC9UU0NQRElDTi9kZWZhdWx0L3RpY2tldHMvc3VibWl0CiAvVFNDUERJQ04vZGVmYXVsdC9iZWlhbi9hcHBseQogL1RTQ1BESUNOL2RlZmF1bHQvYmVpYW4vcmVjb3JkCiAvc3RhYmxlL2RzdGFibGUvYXV0aG9yaXphdGlvbi91c2VycwogL3N0YWJsZS9kc3RhYmxlL2F1dGhvcml6YXRpb24vcm9sZXMKIC9zdGFibGUvZHN0YWJsZS9sb2dzCiAvc3RhYmxlL2RzdGFibGUvd29ya3NwYWNlcwogKi8K</text>
+        <text encoding="base64">ICBmb250LWZhbWlseTogJ2ljb25mb250JzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgZW50cnk6ICdhdXRob3JpemF0aW9uL3VzZXJzJywKICAgICAgZGVzYzogJ+adg+mZkOeuoeeQhicKICAgIH0sCg==</text>
+        <text encoding="base64">ICBmb250LWZhbWlseTogJ2NvbnRhY3Rvci1pY29uZm9udCc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgCiAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcG9zaXRpb246IGFic29sdXRlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgZW50cnk6ICd0aWNrZXRzL21pbmUnLAogICAgICBkZXNjOiAn5oiR55qE5bel5Y2VJwogICAgfSwKICAgIHsKICAgICAgZW50cnk6ICd0aWNrZXRzL3N1Ym1pdCcKICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgIHBvc2l0aW9uOiByZWxhdGl2ZTsK</text>
       </register>
-      <register name="7" type="8">
-        <text>http://local.alipay.net:8989/#
-http://local.alipay.net:8989/#
-http://local.alipay.net:8989/#
-http://local.alipay.net:8989/#
-http://user.dev.pub.jr.alipay.
-http://local.alipay.net:8989/#
-http://local.alipay.net:8989/#
-http://local.alipay.net:8989/#
-http://local.alipay.net:8989/#</text>
+      <register name="7" type="2">
+        <text encoding="base64">Ci8qCiAvc3RhYmxlL2RzdGFibGUvZGFzaGJvYXJkCiAvc3RhYmxlL2RzdGFibGUvYWNjb3VudHNpbmZvCiAvc3RhYmxlL2RzdGFibGUvbWVtYmVycy9tYW5hZ2VtZW50CiAvc3RhYmxlL2RzdGFibGUvbWVtYmVycy9jcmVhdGVsb2dzCiAvVFNDUERJQ04vZGVmYXVsdC9iaWxsL21vbnRobHkKIC9UU0NQRElDTi9kZWZhdWx0L2JpbGwvb3JkZXJzCiAvVFNDUERJQ04vZGVmYXVsdC90aWNrZXRzL21pbmUKIC9UU0NQRElDTi9kZWZhdWx0L3RpY2tldHMvc3VibWl0CiAvVFNDUERJQ04vZGVmYXVsdC9iZWlhbi9hcHBseQogL1RTQ1BESUNOL2RlZmF1bHQvYmVpYW4vcmVjb3JkCiAvc3RhYmxlL2RzdGFibGUvYXV0aG9yaXphdGlvbi91c2VycwogL3N0YWJsZS9kc3RhYmxlL2F1dGhvcml6YXRpb24vcm9sZXMKIC9zdGFibGUvZHN0YWJsZS9sb2dzCiAvc3RhYmxlL2RzdGFibGUvd29ya3NwYWNlcwogKi8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cj4+Pj4+Pj4gb3JpZ2luL2Rldgo=</text>
+        <text encoding="base64">ICAgIHsKICAgICAgZW50cnk6ICdhdXRob3JpemF0aW9uL3VzZXJzJywKICAgICAgZGVzYzogJ+adg+mZkOeuoeeQhicKICAgIH0sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHsKICAgICAgCiAgICB9LAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
