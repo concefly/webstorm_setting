@@ -1111,11 +1111,11 @@
         <mark key="^" line="358" column="51" />
         <mark key="." line="358" column="51" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/components/DeskBoard/Chat.jsx" timestamp="1469079945185">
-        <mark key="[" line="15" column="10" />
-        <mark key="]" line="15" column="10" />
-        <mark key="." line="15" column="10" />
-        <mark key="^" line="16" column="69" />
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/components/DeskBoard/Chat.jsx" timestamp="1469094428854">
+        <mark key="[" line="241" column="23" />
+        <mark key="]" line="237" column="27" />
+        <mark key="." line="237" column="27" />
+        <mark key="^" line="237" column="27" />
       </file>
       <file name="$USER_HOME$/project/antcloud/usercenter/client/src/components/authority/RoleAuthTable.jsx" timestamp="1467612545659">
         <mark key="[" line="62" column="15" />
@@ -1961,12 +1961,12 @@
         <mark key="^" line="2" column="33" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/styles/lark.less" timestamp="1469092320911">
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/styles/lark.less" timestamp="1469094020655">
         <mark key="'" line="452" column="30" />
-        <mark key="[" line="1190" column="23" />
-        <mark key="]" line="1190" column="24" />
-        <mark key="." line="1190" column="24" />
-        <mark key="^" line="455" column="30" />
+        <mark key="[" line="1190" column="27" />
+        <mark key="]" line="1190" column="26" />
+        <mark key="." line="1190" column="26" />
+        <mark key="^" line="1190" column="26" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/component/loading.scss" timestamp="1449569238770">
         <mark key="[" line="16" column="23" />
@@ -2246,13 +2246,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>http://alipay-rmsdeploy-image.cn-hangzhou.alipay.aliyun-inc.com/rmsportal/LRvoXsbiSdsEXZV.js</text>
+        <text>=</text>
       </register>
       <register name="-" type="4">
-        <text>http://alipay-rmsdeploy-image.cn-hangzhou.alipay.aliyun-inc.com/rmsportal/LRvoXsbiSdsEXZV.js</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
-        <text>hack</text>
+        <text>footer-list</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBlbHNlIGlmIChpdGVtLnBhcmFuYW1lX2VuPT0nd29ya3RpY2tldCcpIHsgb2JqLndvcmtPcmRlciA9IGl0ZW0uZW5hYmxlOyB9Cg==</text>
@@ -2289,9 +2289,9 @@
       </register>
     </registers>
     <search>
-      <last-search>hack</last-search>
+      <last-search>footer-list</last-search>
       <last-offset />
-      <last-pattern>hack</last-pattern>
+      <last-pattern>footer-list</last-pattern>
       <last-replace>space</last-replace>
       <last-substitute>time</last-substitute>
       <last-dir>1</last-dir>
@@ -2299,7 +2299,6 @@
     </search>
     <history>
       <history-search>
-        <entry>connector</entry>
         <entry>ActionList</entry>
         <entry>tool</entry>
         <entry>tool-icon</entry>
@@ -2319,6 +2318,7 @@
         <entry>deskboard</entry>
         <entry>comment</entry>
         <entry>hack</entry>
+        <entry>footer-list</entry>
       </history-search>
       <history-cmd>
         <entry>33,38 s/password/password2/g</entry>
