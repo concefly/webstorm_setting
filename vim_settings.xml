@@ -1961,11 +1961,11 @@
         <mark key="^" line="2" column="33" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/styles/lark.less" timestamp="1469094020655">
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/styles/lark.less" timestamp="1469095155882">
         <mark key="'" line="452" column="30" />
-        <mark key="[" line="1190" column="27" />
-        <mark key="]" line="1190" column="26" />
-        <mark key="." line="1190" column="26" />
+        <mark key="[" line="520" column="25" />
+        <mark key="]" line="520" column="26" />
+        <mark key="." line="520" column="26" />
         <mark key="^" line="1190" column="26" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/component/loading.scss" timestamp="1449569238770">
