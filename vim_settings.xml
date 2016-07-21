@@ -268,10 +268,11 @@
         <mark key="^" line="64" column="16" />
         <mark key="." line="64" column="16" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/entry/App.jsx" timestamp="1469092353785">
-        <mark key="[" line="77" column="20" />
-        <mark key="]" line="77" column="21" />
-        <mark key="." line="77" column="21" />
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/entry/App.jsx" timestamp="1469097444857">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="43" column="26" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/modal/modal.tpl" timestamp="1453254299359">
         <mark key="[" line="2" column="38" />
@@ -369,10 +370,10 @@
         <mark key="^" line="37" column="14" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/core/flaming-cloud/index.htm" timestamp="1469096522092">
-        <mark key="[" line="127" column="384" />
-        <mark key="]" line="127" column="475" />
-        <mark key="." line="127" column="475" />
+      <file name="$USER_HOME$/project/antcloud/core/flaming-cloud/index.htm" timestamp="1469097733950">
+        <mark key="[" line="127" column="149" />
+        <mark key="]" line="127" column="149" />
+        <mark key="." line="127" column="149" />
         <mark key="^" line="127" column="475" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/author/author.detail.js" timestamp="1450247525097">
@@ -979,11 +980,11 @@
         <mark key="^" line="3" column="25" />
         <mark key="." line="3" column="25" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/actions/larkActions.js" timestamp="1469091939393">
-        <mark key="[" line="323" column="8" />
-        <mark key="]" line="325" column="20" />
-        <mark key="." line="325" column="20" />
-        <mark key="^" line="325" column="20" />
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/actions/larkActions.js" timestamp="1469097247835">
+        <mark key="[" line="268" column="10" />
+        <mark key="]" line="268" column="10" />
+        <mark key="." line="268" column="10" />
+        <mark key="^" line="268" column="10" />
       </file>
       <file name="$USER_HOME$/project/flaming-cloud/contactor/src/components/Contactor/Preview.jsx" timestamp="1468898117544">
         <mark key="[" line="90" column="0" />
@@ -1003,8 +1004,10 @@
         <mark key="^" line="44" column="93" />
         <mark key="." line="44" column="93" />
       </file>
-      <file name="/a.regexp" timestamp="1469087511816">
+      <file name="/a.regexp" timestamp="1469097077051">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/libs/bootstrap/stylesheets/bootstrap/mixins/labels.scss" timestamp="1455682211601">
         <mark key="[" line="10" column="13" />
@@ -1111,11 +1114,11 @@
         <mark key="^" line="358" column="51" />
         <mark key="." line="358" column="51" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/components/DeskBoard/Chat.jsx" timestamp="1469094428854">
-        <mark key="[" line="241" column="23" />
-        <mark key="]" line="237" column="27" />
-        <mark key="." line="237" column="27" />
-        <mark key="^" line="237" column="27" />
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/components/DeskBoard/Chat.jsx" timestamp="1469097531895">
+        <mark key="[" line="17" column="35" />
+        <mark key="]" line="17" column="57" />
+        <mark key="." line="17" column="57" />
+        <mark key="^" line="17" column="57" />
       </file>
       <file name="$USER_HOME$/project/antcloud/usercenter/client/src/components/authority/RoleAuthTable.jsx" timestamp="1467612545659">
         <mark key="[" line="62" column="15" />
@@ -1961,8 +1964,8 @@
         <mark key="^" line="2" column="33" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/styles/lark.less" timestamp="1469095155882">
-        <mark key="'" line="452" column="30" />
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/styles/lark.less" timestamp="1469097504992">
+        <mark key="'" line="10" column="15" />
         <mark key="[" line="520" column="25" />
         <mark key="]" line="520" column="26" />
         <mark key="." line="520" column="26" />
@@ -2239,59 +2242,59 @@
       <jump line="1261" column="29" filename="$USER_HOME$/project/flaming-cloud/contactor/src/styles/lark.less" />
       <jump line="84" column="25" filename="$USER_HOME$/project/flaming-cloud/contactor/src/styles/lark.less" />
       <jump line="80" column="15" filename="$USER_HOME$/project/flaming-cloud/contactor/src/styles/lark.less" />
-      <jump line="10" column="9" filename="$USER_HOME$/project/flaming-cloud/contactor/src/styles/lark.less" />
       <jump line="434" column="30" filename="$USER_HOME$/project/flaming-cloud/contactor/src/styles/lark.less" />
       <jump line="314" column="8" filename="$USER_HOME$/project/flaming-cloud/contactor/src/entry/Lark.jsx" />
       <jump line="471" column="26" filename="$USER_HOME$/project/flaming-cloud/contactor/src/entry/Lark.jsx" />
+      <jump line="10" column="15" filename="$USER_HOME$/project/flaming-cloud/contactor/src/styles/lark.less" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>http://alipay-rmsdeploy-image.cn-hangzhou.alipay.aliyun-inc.com/rmsportal/JlAdHclnxnWpRjm.js</text>
+        <text>http://alipay-rmsdeploy-image.cn-hangzhou.alipay.aliyun-inc.com/rmsportal/QfbDpaGRvpbNEHx.css</text>
       </register>
       <register name="-" type="4">
-        <text>http://alipay-rmsdeploy-image.cn-hangzhou.alipay.aliyun-inc.com/rmsportal/JlAdHclnxnWpRjm.js</text>
+        <text>http://alipay-rmsdeploy-image.cn-hangzhou.alipay.aliyun-inc.com/rmsportal/QfbDpaGRvpbNEHx.css</text>
       </register>
       <register name="/" type="4">
-        <text>footer-list</text>
+        <text>noMore</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBlbHNlIGlmIChpdGVtLnBhcmFuYW1lX2VuPT0nd29ya3RpY2tldCcpIHsgb2JqLndvcmtPcmRlciA9IGl0ZW0uZW5hYmxlOyB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLndhcm4oaXRlbSk7Cg==</text>
+        <text encoding="base64">ICBoYXNIaXN0b3J5TWVzc2FnZTogZmFsc2UsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS53YXJuKGRhdGEpOwo=</text>
+        <text encoding="base64">ICBsZXQgY3VycmVudFBhZ2UgPSAxOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCFkYXRhKSByZXR1cm47CiAgICAgIGRhdGEuZm9yRWFjaChmdW5jdGlvbihpdGVtKSB7CiAgICAgICAgc3dpdGNoIChpdGVtLnBhcmFuYW1lX2VuKSB7CiAgICAgICAgICBjYXNlICdkb2NjZW50ZXInOgogICAgICAgICAgICBvYmouZG9jID0gaXRlbS5lbmFibGU7CiAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgY2FzZSAnd29ya3RpY2tldCc6CiAgICAgICAgICAgIG9iai53b3JrT3JkZXIgPSBpdGVtLmVuYWJsZTsKICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICBjYXNlICdvbmxpbmVoZWxwJzoKICAgICAgICAgICAgb2JqLnNlcnZpY2VBZ2VudCA9IGl0ZW0uZW5hYmxlOwogICAgICAgICAgICBicmVhazsKICAgICAgICB9CiAgICAgIH0pOwogICAgICBzZXRTdGF0ZSh7CiAgICAgICAgY2hhdFRvb2w6IG9iagogICAgICB9KTsK</text>
+        <text encoding="base64">ICBoaXN0b3J5TWVzc2FnZVBhZ2U6IDEsIC8vIOS4jeWGjeS9v+eUqOS6hgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRTdGF0ZSh7CiAgICAgICAgICBjaGF0VG9vbDogb2JqCiAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICBoaXN0b3J5TWVzc2FnZVBhZ2U6IGN1cnJlbnRQYWdlICsgMSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLndhcm4oaXRlbSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaWYgKGRhdGEpIHsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS53YXJuKGRhdGEpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLndhcm4oZGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKCFkYXRhKSByZXR1cm47CiAgICAgIGRhdGEuZm9yRWFjaChmdW5jdGlvbihpdGVtKSB7CiAgICAgICAgc3dpdGNoIChpdGVtLnBhcmFuYW1lX2VuKSB7CiAgICAgICAgICBjYXNlICdkb2NjZW50ZXInOgogICAgICAgICAgICBvYmouZG9jID0gaXRlbS5lbmFibGU7CiAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgY2FzZSAnd29ya3RpY2tldCc6CiAgICAgICAgICAgIG9iai53b3JrT3JkZXIgPSBpdGVtLmVuYWJsZTsKICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICBjYXNlICdvbmxpbmVoZWxwJzoKICAgICAgICAgICAgb2JqLnNlcnZpY2VBZ2VudCA9IGl0ZW0uZW5hYmxlOwogICAgICAgICAgICBicmVhazsKICAgICAgICB9CiAgICAgIH0pOwogICAgICBzZXRTdGF0ZSh7CiAgICAgICAgY2hhdFRvb2w6IG9iagogICAgICB9KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLndhcm4ob2JqKTsK</text>
+        <text encoding="base64">ICAgICAgICBzZXRTdGF0ZSh7CiAgICAgICAgICBjaGF0VG9vbDogb2JqCiAgICAgICAgfSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLndhcm4oZGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>footer-list</last-search>
+      <last-search>noMore</last-search>
       <last-offset />
-      <last-pattern>footer-list</last-pattern>
+      <last-pattern>noMore</last-pattern>
       <last-replace>space</last-replace>
       <last-substitute>time</last-substitute>
       <last-dir>1</last-dir>
@@ -2299,7 +2302,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ActionList</entry>
         <entry>tool</entry>
         <entry>tool-icon</entry>
         <entry>body-note</entry>
@@ -2319,6 +2321,7 @@
         <entry>comment</entry>
         <entry>hack</entry>
         <entry>footer-list</entry>
+        <entry>noMore</entry>
       </history-search>
       <history-cmd>
         <entry>33,38 s/password/password2/g</entry>
