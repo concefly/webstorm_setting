@@ -78,11 +78,10 @@
         <mark key="^" line="10" column="17" />
         <mark key="." line="10" column="17" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/tracker/index.js" timestamp="1468928448279">
-        <mark key="[" line="4" column="27" />
-        <mark key="]" line="19" column="17" />
-        <mark key="." line="19" column="17" />
-        <mark key="^" line="19" column="17" />
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/tracker/index.js" timestamp="1469105125926">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/partials/layout/layout.scss" timestamp="1450317123477">
         <mark key="[" line="39" column="19" />
@@ -923,11 +922,10 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/sagas/tracker.js" timestamp="1468927999240">
-        <mark key="[" line="14" column="29" />
-        <mark key="]" line="14" column="32" />
-        <mark key="." line="14" column="32" />
-        <mark key="^" line="14" column="32" />
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/sagas/tracker.js" timestamp="1469104746911">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1469097756959">
         <mark key="[" line="0" column="0" />
@@ -2233,8 +2231,8 @@
       <jump line="10" column="15" filename="$USER_HOME$/project/flaming-cloud/contactor/src/styles/lark.less" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>http://alipay-rmsdeploy-image.cn-hangzhou.alipay.aliyun-inc.com/rmsportal/jzOCnYehhnrSHgb.js</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS53YXJuKCd0eXBlPScsIHR5cGUpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>http://alipay-rmsdeploy-image.cn-hangzhou.alipay.aliyun-inc.com/rmsportal/jzOCnYehhnrSHgb.js</text>
@@ -2246,31 +2244,31 @@
         <text encoding="base64">ICAgICAgICBlbHNlIGlmIChpdGVtLnBhcmFuYW1lX2VuPT0nd29ya3RpY2tldCcpIHsgb2JqLndvcmtPcmRlciA9IGl0ZW0uZW5hYmxlOyB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBoYXNIaXN0b3J5TWVzc2FnZTogZmFsc2UsCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS53YXJuKCd0eXBlPScsIHR5cGUpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBsZXQgY3VycmVudFBhZ2UgPSAxOwo=</text>
+        <text encoding="base64">ICBvcGVyYXRpb25NaWRkbGV3YXJlLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBoaXN0b3J5TWVzc2FnZVBhZ2U6IDEsIC8vIOS4jeWGjeS9v+eUqOS6hgo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUud2FybignbmV4dCcpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBoaXN0b3J5TWVzc2FnZVBhZ2U6IGN1cnJlbnRQYWdlICsgMSwK</text>
+        <text encoding="base64">ICBjb25zb2xlLndhcm4oJ3ByaXNtYScpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLndhcm4oaXRlbSk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS53YXJuKGRvbWFpbiwgdHlwZSwgcGF5bG9hZCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS53YXJuKGRhdGEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUud2Fybignc2V0UGFnZVN0YXRlJywgcGF5bG9hZCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaWYgKCFkYXRhKSByZXR1cm47CiAgICAgIGRhdGEuZm9yRWFjaChmdW5jdGlvbihpdGVtKSB7CiAgICAgICAgc3dpdGNoIChpdGVtLnBhcmFuYW1lX2VuKSB7CiAgICAgICAgICBjYXNlICdkb2NjZW50ZXInOgogICAgICAgICAgICBvYmouZG9jID0gaXRlbS5lbmFibGU7CiAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgY2FzZSAnd29ya3RpY2tldCc6CiAgICAgICAgICAgIG9iai53b3JrT3JkZXIgPSBpdGVtLmVuYWJsZTsKICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICBjYXNlICdvbmxpbmVoZWxwJzoKICAgICAgICAgICAgb2JqLnNlcnZpY2VBZ2VudCA9IGl0ZW0uZW5hYmxlOwogICAgICAgICAgICBicmVhazsKICAgICAgICB9CiAgICAgIH0pOwogICAgICBzZXRTdGF0ZSh7CiAgICAgICAgY2hhdFRvb2w6IG9iagogICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLndhcm4oJ0BAJywgYWN0aW9uKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRTdGF0ZSh7CiAgICAgICAgICBjaGF0VG9vbDogb2JqCiAgICAgICAgfSkK</text>
+        <text encoding="base64">ICBoYXNIaXN0b3J5TWVzc2FnZTogZmFsc2UsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICBsZXQgY3VycmVudFBhZ2UgPSAxOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
