@@ -370,11 +370,11 @@
         <mark key="^" line="37" column="14" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/core/flaming-cloud/index.htm" timestamp="1469001016276">
-        <mark key="[" line="117" column="384" />
-        <mark key="]" line="117" column="475" />
-        <mark key="." line="117" column="475" />
-        <mark key="^" line="117" column="475" />
+      <file name="$USER_HOME$/project/antcloud/core/flaming-cloud/index.htm" timestamp="1469083527735">
+        <mark key="[" line="127" column="149" />
+        <mark key="]" line="127" column="241" />
+        <mark key="." line="127" column="241" />
+        <mark key="^" line="127" column="241" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/author/author.detail.js" timestamp="1450247525097">
         <mark key="[" line="81" column="21" />
@@ -929,7 +929,7 @@
         <mark key="." line="14" column="32" />
         <mark key="^" line="14" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1469001021733">
+      <file name="/Dummy.txt" timestamp="1469083456581">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.list.js" timestamp="1450423705050">
@@ -2246,11 +2246,11 @@
       <jump line="471" column="26" filename="$USER_HOME$/project/flaming-cloud/contactor/src/entry/Lark.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS53YXJuKHRoYXQuY2xpZW50RGF0YSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>http://alipay-rmsdeploy-image.cn-hangzhou.alipay.aliyun-inc.com/rmsportal/zFFJNpNhflwRwad.css</text>
       </register>
       <register name="-" type="4">
-        <text>guide</text>
+        <text>http://alipay-rmsdeploy-image.cn-hangzhou.alipay.aliyun-inc.com/rmsportal/zFFJNpNhflwRwad.css</text>
       </register>
       <register name="/" type="4">
         <text>hack</text>
