@@ -369,7 +369,7 @@
         <mark key="^" line="37" column="14" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/core/flaming-cloud/index.htm" timestamp="1469092446920">
+      <file name="$USER_HOME$/project/antcloud/core/flaming-cloud/index.htm" timestamp="1469096522092">
         <mark key="[" line="127" column="384" />
         <mark key="]" line="127" column="475" />
         <mark key="." line="127" column="475" />
@@ -928,7 +928,7 @@
         <mark key="." line="14" column="32" />
         <mark key="^" line="14" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1469092462013">
+      <file name="/Dummy.txt" timestamp="1469096539614">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.list.js" timestamp="1450423705050">
@@ -2246,10 +2246,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>=</text>
+        <text>http://alipay-rmsdeploy-image.cn-hangzhou.alipay.aliyun-inc.com/rmsportal/JlAdHclnxnWpRjm.js</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>http://alipay-rmsdeploy-image.cn-hangzhou.alipay.aliyun-inc.com/rmsportal/JlAdHclnxnWpRjm.js</text>
       </register>
       <register name="/" type="4">
         <text>footer-list</text>
