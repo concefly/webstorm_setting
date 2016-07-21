@@ -980,11 +980,11 @@
         <mark key="^" line="3" column="25" />
         <mark key="." line="3" column="25" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/actions/larkActions.js" timestamp="1469081112396">
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/actions/larkActions.js" timestamp="1469085237331">
         <mark key="[" line="274" column="34" />
-        <mark key="]" line="274" column="52" />
-        <mark key="^" line="274" column="52" />
-        <mark key="." line="274" column="52" />
+        <mark key="]" line="274" column="36" />
+        <mark key="^" line="274" column="36" />
+        <mark key="." line="274" column="36" />
       </file>
       <file name="$USER_HOME$/project/flaming-cloud/contactor/src/components/Contactor/Preview.jsx" timestamp="1468898117544">
         <mark key="[" line="90" column="0" />
@@ -2247,10 +2247,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>http://alipay-rmsdeploy-image.cn-hangzhou.alipay.aliyun-inc.com/rmsportal/zFFJNpNhflwRwad.css</text>
+        <text>messages</text>
       </register>
       <register name="-" type="4">
-        <text>http://alipay-rmsdeploy-image.cn-hangzhou.alipay.aliyun-inc.com/rmsportal/zFFJNpNhflwRwad.css</text>
+        <text>messages</text>
       </register>
       <register name="/" type="4">
         <text>hack</text>
