@@ -369,7 +369,7 @@
         <mark key="^" line="37" column="14" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/core/flaming-cloud/index.htm" timestamp="1469097746508">
+      <file name="$USER_HOME$/project/antcloud/core/flaming-cloud/index.htm" timestamp="1469155756752">
         <mark key="[" line="127" column="384" />
         <mark key="]" line="127" column="475" />
         <mark key="." line="127" column="475" />
@@ -2241,11 +2241,11 @@
       <jump line="10" column="15" filename="$USER_HOME$/project/flaming-cloud/contactor/src/styles/lark.less" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUud2FybihkZXNrQm9hcmRNZW51VHlwZSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>http://alipay-rmsdeploy-image.cn-hangzhou.alipay.aliyun-inc.com/rmsportal/HaVoNkDJcOGzMGj.js</text>
       </register>
       <register name="-" type="4">
-        <text>eceiveProps</text>
+        <text>http://alipay-rmsdeploy-image.cn-hangzhou.alipay.aliyun-inc.com/rmsportal/HaVoNkDJcOGzMGj.js</text>
       </register>
       <register name="/" type="4">
         <text>noMore</text>
