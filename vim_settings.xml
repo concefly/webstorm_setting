@@ -155,10 +155,10 @@
         <mark key="^" line="7" column="21" />
         <mark key="." line="18" column="11" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/containers/DeskBoard.jsx" timestamp="1469087167323">
-        <mark key="[" line="77" column="0" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/containers/DeskBoard.jsx" timestamp="1469154557008">
+        <mark key="[" line="177" column="0" />
+        <mark key="]" line="177" column="0" />
+        <mark key="." line="177" column="0" />
       </file>
       <file name="$USER_HOME$/project/my/iLighting/local-server/model/schema.js" timestamp="1468657499175">
         <mark key="[" line="12" column="4" />
@@ -1008,7 +1008,7 @@
         <mark key="^" line="44" column="93" />
         <mark key="." line="44" column="93" />
       </file>
-      <file name="/a.regexp" timestamp="1469107328608">
+      <file name="/a.regexp" timestamp="1469154748492">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1340,12 +1340,11 @@
         <mark key="^" line="1" column="37" />
         <mark key="." line="1" column="37" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/entry/Lark.jsx" timestamp="1469087172996">
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/entry/Lark.jsx" timestamp="1469154585568">
         <mark key="'" line="486" column="26" />
-        <mark key="[" line="371" column="0" />
-        <mark key="]" line="371" column="0" />
-        <mark key="." line="371" column="0" />
-        <mark key="^" line="371" column="46" />
+        <mark key="[" line="583" column="0" />
+        <mark key="]" line="583" column="0" />
+        <mark key="." line="583" column="0" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/home/base.tpl" timestamp="1455696872098">
         <mark key="[" line="46" column="32" />
@@ -1542,11 +1541,11 @@
       <file name="$USER_HOME$/project/my/antd-tracker-core/lib/core.js" timestamp="1468381864927">
         <mark key="[" line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/components/DeskBoard/Footer.jsx" timestamp="1468898647411">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="33" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="144" column="29" />
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/components/DeskBoard/Footer.jsx" timestamp="1469155584091">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="23" column="30" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/user/user_home.blade.php" timestamp="1453793670852">
         <mark key="[" line="34" column="0" />
@@ -1951,11 +1950,11 @@
         <mark key="^" line="56" column="31" />
         <mark key="." line="56" column="31" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/components/DeskBoard/Book.jsx" timestamp="1469089968393">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="29" column="36" />
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/components/DeskBoard/Book.jsx" timestamp="1469154728674">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+        <mark key="^" line="39" column="5" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/paragraph/paragraph-titled.html" timestamp="1449556151712">
         <mark key="[" line="4" column="0" />
@@ -2243,43 +2242,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHtMaW5rfSBmcm9tICJyZWFjdC1yb3V0ZXIiOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUud2FybihkZXNrQm9hcmRNZW51VHlwZSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>文档中心</text>
+        <text>eceiveProps</text>
       </register>
       <register name="/" type="4">
         <text>noMore</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IHN0eWxlPXtyb3dTdHl9</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS53YXJuKCdzZXQgY3VycmVudCAtPiAnLCBudWxsKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHtMaW5rfSBmcm9tICJyZWFjdC1yb3V0ZXIiOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUud2FybihkZXNrQm9hcmRNZW51VHlwZSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHJlcXdlc3QgZnJvbSAncmVxd2VzdCc7CmltcG9ydCBtb21lbnQgZnJvbSAibW9tZW50IjsKaW1wb3J0ICogYXMgbXNnc0FjdGlvbnMgZnJvbSAnLi4vLi4vYWN0aW9ucy9tZXNzYWdlcyc7Cg==</text>
+        <text encoding="base64">ICBjb21wb25lbnREaWRNb3VudCgpIHsKICAgIGNvbnN0IHRoYXQgPSB0aGlzOwogICAgY29uc29sZS53YXJuKHRoaXMucHJvcHMuZGVza0JvYXJkTWVudVR5cGUpCiAgICBpZiAodGhpcy5wcm9wcy5kZXNrQm9hcmRNZW51VHlwZSA9PT0gJ0NoYXQnKSB7CiAgICAgIHNldFRpbWVvdXQoKCkgPT4gewogICAgICAgIHRoYXQucmVmcy5jaGF0SW5wdXQuZm9jdXMoKTsKICAgICAgfSwgNDAwKTsKICAgIH0KICB9Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb21wb25lbnRXaWxsVXBkYXRlKG5leHRQcm9wcykgewogICAgY29uc3QgdGhhdCA9IHRoaXM7CiAgICBpZiAobmV4dFByb3BzLmRlc2tCb2FyZE1lbnVUeXBlID09PSAnQ2hhdCcpIHsKICAgICAgc2V0VGltZW91dCgoKSA9PiB7CiAgICAgICAgdGhhdC5yZWZzLmNoYXRJbnB1dC5mb2N1cygpOwogICAgICB9LCA0MDApOwogICAgfQogIH0KCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8U3dpdGNoIGNoZWNrZWQ9e3RoaXMuc3RhdGUub25saW5lSGVscH0gb25DaGFuZ2U9e3RoaXMuaGFuZGxlT25saW5lSGVscC5iaW5kKHRoaXMpfSAvPgo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUud2FybignLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLScpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS53YXJuKCdzZXQgY3VycmVudCAtPiAnLCBudWxsKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8U3dpdGNoIGNoZWNrZWQ9e3RoaXMuc3RhdGUud29ya1RpY2tldH0gb25DaGFuZ2U9e3RoaXMuaGFuZGxlV29ya1RpY2tldC5iaW5kKHRoaXMpfSAvPgo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS53YXJuKCdzZXQgY3VycmVudCAtPiAnLCBpbmRleCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUud2FybignLS0tLS0tLS0tLS0gVEcgLS0tLS0tLS0tLS0nKTsKICAgIGNvbnNvbGUud2FybignaW5kZXggLT4gJXMsIGN1cnJlbnQgLT4gJXMnLCBpbmRleCwgdGhpcy5zdGF0ZS5jdXJyZW50KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8U3dpdGNoIGNoZWNrZWQ9e3RoaXMuc3RhdGUuZG9jQ2VudGVyfSBvbkNoYW5nZT17dGhpcy5oYW5kbGVEb2NDZW50ZXIuYmluZCh0aGlzKX0gLz4K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUud2FybignLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS53YXJuKCdzZXQgY3VycmVudCAtPicsIGluZGV4KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
