@@ -15,9 +15,6 @@
         <mark key="^" line="13" column="10" />
         <mark key="." line="13" column="10" />
       </file>
-      <file name="/a.dummy" timestamp="1468898199491">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/project/pet/wechat/views/check/index.blade.php" timestamp="1449714775358">
         <mark key="[" line="12" column="18" />
         <mark key="]" line="12" column="19" />
@@ -267,10 +264,10 @@
         <mark key="^" line="64" column="16" />
         <mark key="." line="64" column="16" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/entry/App.jsx" timestamp="1469097444857">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/src/entry/App.jsx" timestamp="1469424672130">
+        <mark key="[" line="76" column="20" />
+        <mark key="]" line="76" column="21" />
+        <mark key="." line="76" column="21" />
         <mark key="^" line="43" column="26" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/modal/modal.tpl" timestamp="1453254299359">
@@ -626,9 +623,6 @@
         <mark key="^" line="21" column="74" />
         <mark key="." line="21" column="74" />
       </file>
-      <file name="$USER_HOME$/project/my/antd-tracker-core/.eslint.json" timestamp="1468380985477">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/user/profile/base.blade.php" timestamp="1453977227582">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="21" column="5" />
@@ -937,9 +931,6 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1469155767365">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.list.js" timestamp="1450423705050">
         <mark key="[" line="52" column="31" />
@@ -1381,9 +1372,6 @@
         <mark key="^" line="66" column="62" />
         <mark key="." line="44" column="86" />
       </file>
-      <file name="$USER_HOME$/project/my/antd-tracker-core/index.js" timestamp="1468381808957">
-        <mark key="[" line="7" column="42" />
-      </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/column_list/base.blade.php" timestamp="1455763779228">
         <mark key="[" line="36" column="4" />
         <mark key="]" line="36" column="4" />
@@ -1431,9 +1419,6 @@
         <mark key="]" line="23" column="8" />
         <mark key="^" line="32" column="27" />
         <mark key="." line="74" column="0" />
-      </file>
-      <file name="$USER_HOME$/project/my/antd-tracker-core/lib/logger.js" timestamp="1468382201234">
-        <mark key="[" line="0" column="33" />
       </file>
       <file name="$USER_HOME$/project/iLight/web-client/src/components/Home.jsx" timestamp="1464883769624">
         <mark key="[" line="6" column="15" />
@@ -1543,9 +1528,6 @@
         <mark key="^" line="19" column="42" />
         <mark key="." line="19" column="42" />
       </file>
-      <file name="$USER_HOME$/project/my/antd-tracker-core/lib/core.js" timestamp="1468381864927">
-        <mark key="[" line="1" column="34" />
-      </file>
       <file name="$USER_HOME$/project/flaming-cloud/contactor/src/components/DeskBoard/Footer.jsx" timestamp="1469155584091">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -1576,10 +1558,10 @@
         <mark key="^" line="1" column="30" />
         <mark key="." line="1" column="30" />
       </file>
-      <file name="$USER_HOME$/project/flaming-cloud/contactor/package.json" timestamp="1467943943197">
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
+      <file name="$USER_HOME$/project/flaming-cloud/contactor/package.json" timestamp="1469424825199">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="19" />
+        <mark key="." line="2" column="19" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/vue.js" timestamp="1449630253801">
         <mark key="[" line="8" column="19" />
@@ -2002,9 +1984,6 @@
         <mark key="^" line="4" column="5" />
         <mark key="." line="4" column="5" />
       </file>
-      <file name="/JavaScript Console" timestamp="1468380033106">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/user/profile/add_avatar_dialog.tpl" timestamp="1455596653596">
         <mark key="[" line="11" column="183" />
         <mark key="]" line="11" column="188" />
@@ -2057,9 +2036,6 @@
         <mark key="[" line="25" column="14" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
-      </file>
-      <file name="/JavaScript Fragment (zigbee-LAN-interface.md:60).js" timestamp="1468651045082">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/label/label-list.html" timestamp="1449563775349">
         <mark key="[" line="1" column="36" />
