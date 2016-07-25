@@ -155,11 +155,10 @@
         <mark key="^" line="7" column="21" />
         <mark key="." line="18" column="11" />
       </file>
-      <file name="$USER_HOME$/project/donor/proxy.config.js" timestamp="1469440242510">
-        <mark key="[" line="66" column="12" />
-        <mark key="]" line="66" column="12" />
-        <mark key="." line="66" column="12" />
-        <mark key="^" line="66" column="11" />
+      <file name="$USER_HOME$/project/donor/proxy.config.js" timestamp="1469443479301">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/project/flaming-cloud/contactor/src/containers/DeskBoard.jsx" timestamp="1469154557008">
         <mark key="[" line="177" column="0" />
@@ -1321,7 +1320,7 @@
         <mark key="." line="6" column="31" />
       </file>
       <file name="$USER_HOME$/project/donor/src/component/App.jsx" timestamp="1469440318409">
-        <mark key="[" line="67" column="28" />
+        <mark key="[" line="80" column="28" />
         <mark key="]" line="6" column="37" />
         <mark key="." line="6" column="37" />
         <mark key="^" line="6" column="37" />
@@ -1380,10 +1379,11 @@
         <mark key="^" line="121" column="34" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/project/donor/src/component/App.less" timestamp="1469440092939">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/project/donor/src/component/App.less" timestamp="1469443613890">
+        <mark key="[" line="26" column="15" />
+        <mark key="]" line="26" column="16" />
+        <mark key="." line="26" column="16" />
+        <mark key="^" line="17" column="13" />
       </file>
       <file name="$USER_HOME$/project/iLight/web-client/src/components/Container.jsx" timestamp="1464886154476">
         <mark key="[" line="1" column="0" />
@@ -2274,8 +2274,8 @@
       <jump line="10" column="15" filename="$USER_HOME$/project/flaming-cloud/contactor/src/styles/lark.less" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>donor</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbHVtbnNXaWR0aDogWycnXSwK</text>
       </register>
       <register name="-" type="4">
         <text>donor</text>
@@ -2287,31 +2287,31 @@
         <text encoding="base64">ICAgICAgICB0aXRsZTogJ+eIseW/g+aNkOWFpeWQjeWNlScsCiAgICAgICAgcXVlcnk6IHsKICAgICAgICAgIHR5cGU6ICdkb25vcicKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbHVtbnNXaWR0aDogWycnXSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYm9yZGVyLWJvdHRvbTogMXB4IHNvbGlkICNGNEY0RjQ7Cg==</text>
+        <text encoding="base64">ICAgICAgZmxleDogMTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYWxpZ24taXRlbXM6IGNlbnRlcjsKICAgICAganVzdGlmeS1jb250ZW50OiBzcGFjZS1iZXR3ZWVuOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAganVzdGlmeS1pdGVtczogOwo=</text>
+        <text encoding="base64">ICAgICAgYm9yZGVyLWJvdHRvbTogMXB4IHNvbGlkICNGNEY0RjQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYWxpZ24tY29udGVudDogY2VudGVyOwo=</text>
+        <text encoding="base64">ICAgICAgYWxpZ24taXRlbXM6IGNlbnRlcjsKICAgICAganVzdGlmeS1jb250ZW50OiBzcGFjZS1iZXR3ZWVuOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6ICNGNEY0RjQ7Cg==</text>
+        <text encoding="base64">ICAgICAganVzdGlmeS1pdGVtczogOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcGFkZGluZy10b3A6IDE2cHg7CiAgICAgIHBhZGRpbmctYm90dG9tOiAxNnB4Owo=</text>
+        <text encoding="base64">ICAgICAgYWxpZ24tY29udGVudDogY2VudGVyOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6ICNGNEY0RjQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBvc2l0aW9uOiBmaXhlZDsKICAgIHdpZHRoOiAxMDAlOwo=</text>
+        <text encoding="base64">ICAgICAgcGFkZGluZy10b3A6IDE2cHg7CiAgICAgIHBhZGRpbmctYm90dG9tOiAxNnB4Owo=</text>
       </register>
       <register name=":" type="4">
         <text>23</text>
