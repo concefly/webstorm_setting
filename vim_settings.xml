@@ -119,6 +119,11 @@
         <mark key="^" line="18" column="6" />
         <mark key="." line="18" column="6" />
       </file>
+      <file name="$USER_HOME$/project/ANT01190853_20160720_charityprod/htdocs/uisvr/donate/itemDetail.css" timestamp="1469636230990">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/user/user.notification.js" timestamp="1450250038309">
         <mark key="[" line="40" column="41" />
         <mark key="]" line="46" column="18" />
@@ -300,6 +305,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/project/ANT01190853_20160720_charityprod/htdocs/templates/donate/screen/itemDetail.vm" timestamp="1469635833647">
+        <mark key="[" line="120" column="108" />
+        <mark key="]" line="120" column="107" />
+        <mark key="^" line="120" column="107" />
+        <mark key="." line="120" column="107" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/column_list/base.js" timestamp="1455763790163">
         <mark key="[" line="11" column="23" />
@@ -854,7 +865,6 @@
         <mark key="^" line="23" column="27" />
         <mark key="." line="23" column="28" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/src/api/xFetch.js" timestamp="1469431407933" />
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/libs/summernote/lang/summernote-zh-CN.js" timestamp="1453113661534">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="114" column="10" />
@@ -1063,6 +1073,12 @@
         <mark key="]" line="1" column="25" />
         <mark key="^" line="1" column="25" />
         <mark key="." line="1" column="25" />
+      </file>
+      <file name="$USER_HOME$/project/ANT01190853_20160720_charityprod/htdocs/uisvr/donate/itemDetail.js" timestamp="1469635691342">
+        <mark key="[" line="64" column="5" />
+        <mark key="]" line="64" column="62" />
+        <mark key="^" line="64" column="62" />
+        <mark key="." line="64" column="62" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/author/author.list.js" timestamp="1450235430206">
         <mark key="[" line="6" column="0" />
@@ -2009,6 +2025,12 @@
         <mark key="." line="59" column="21" />
         <mark key="^" line="59" column="21" />
       </file>
+      <file name="$USER_HOME$/project/ANT01190853_20160720_charityprod/.editorconfig" timestamp="1469634479615">
+        <mark key="[" line="7" column="10" />
+        <mark key="]" line="5" column="14" />
+        <mark key="." line="5" column="14" />
+        <mark key="^" line="5" column="14" />
+      </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/libs/utils/util.js" timestamp="1455612713858">
         <mark key="[" line="32" column="39" />
         <mark key="]" line="52" column="38" />
@@ -2275,10 +2297,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbHVtbnNXaWR0aDogWycnXSwK</text>
+        <text encoding="base64">KiB7Cglib3gtc2l6aW5nOiBjb250ZW50LWJveCAhaW1wb3J0YW50Owp9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>donor</text>
+        <text>//os.alipayobjects.com/rmsportal/IUFRKhROObfmjKo.css</text>
       </register>
       <register name="/" type="4">
         <text>noMore</text>
@@ -2287,34 +2309,34 @@
         <text encoding="base64">ICAgICAgICB0aXRsZTogJ+eIseW/g+aNkOWFpeWQjeWNlScsCiAgICAgICAgcXVlcnk6IHsKICAgICAgICAgIHR5cGU6ICdkb25vcicKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbHVtbnNXaWR0aDogWycnXSwK</text>
+        <text encoding="base64">KiB7Cglib3gtc2l6aW5nOiBjb250ZW50LWJveCAhaW1wb3J0YW50Owp9Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZmxleDogMTsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">Ci8vIA==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbHVtbnNXaWR0aDogWycnXSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYm9yZGVyLWJvdHRvbTogMXB4IHNvbGlkICNGNEY0RjQ7Cg==</text>
+        <text encoding="base64">ICAgICAgZmxleDogMTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgYWxpZ24taXRlbXM6IGNlbnRlcjsKICAgICAganVzdGlmeS1jb250ZW50OiBzcGFjZS1iZXR3ZWVuOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAganVzdGlmeS1pdGVtczogOwo=</text>
+        <text encoding="base64">ICAgICAgYm9yZGVyLWJvdHRvbTogMXB4IHNvbGlkICNGNEY0RjQ7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYWxpZ24tY29udGVudDogY2VudGVyOwo=</text>
+        <text encoding="base64">ICAgICAgYWxpZ24taXRlbXM6IGNlbnRlcjsKICAgICAganVzdGlmeS1jb250ZW50OiBzcGFjZS1iZXR3ZWVuOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6ICNGNEY0RjQ7Cg==</text>
+        <text encoding="base64">ICAgICAganVzdGlmeS1pdGVtczogOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcGFkZGluZy10b3A6IDE2cHg7CiAgICAgIHBhZGRpbmctYm90dG9tOiAxNnB4Owo=</text>
+        <text encoding="base64">ICAgICAgYWxpZ24tY29udGVudDogY2VudGVyOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>23</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2368,8 +2390,8 @@
         <entry>s RoleMemberTable/RoleGroupTable/g</entry>
         <entry>%s RoleMemberTable/RoleGroupTable/g</entry>
         <entry encoding="base64">JzwsJz5zIE1FTUJFUlMvR1JPVVBT</entry>
-        <entry>w</entry>
         <entry>23</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
