@@ -1471,6 +1471,12 @@
         <mark key="^" line="24" column="80" />
         <mark key="." line="24" column="80" />
       </file>
+      <file name="$USER_HOME$/project/donation/8.3+/www/donation/1.0.0/donation-rec.js" timestamp="1469720512113">
+        <mark key="[" line="5" column="14454" />
+        <mark key="]" line="5" column="14458" />
+        <mark key="." line="5" column="14458" />
+        <mark key="^" line="5" column="14458" />
+      </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/product/product.js" timestamp="1450425665736">
         <mark key="[" line="39" column="42" />
         <mark key="]" line="39" column="62" />
@@ -2418,10 +2424,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>https://as.test.alipay.net/g/huize.hwj/donor-pc/0.0.14/index.css</text>
+        <text>aaa</text>
       </register>
       <register name="-" type="4">
-        <text>https://as.test.alipay.net/g/huize.hwj/donor-pc/0.0.14/index.css</text>
+        <text>aaa</text>
       </register>
       <register name="/" type="4">
         <text>爱心</text>
