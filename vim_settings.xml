@@ -1471,10 +1471,10 @@
         <mark key="^" line="24" column="80" />
         <mark key="." line="24" column="80" />
       </file>
-      <file name="$USER_HOME$/project/donation/8.3+/www/donation/1.0.0/donation-rec.js" timestamp="1469721222487">
-        <mark key="[" line="5" column="14435" />
-        <mark key="]" line="5" column="14435" />
-        <mark key="." line="5" column="14435" />
+      <file name="$USER_HOME$/project/donation/8.3+/www/donation/1.0.0/donation-rec.js" timestamp="1469722100281">
+        <mark key="[" line="5" column="14297" />
+        <mark key="]" line="5" column="14297" />
+        <mark key="." line="5" column="14297" />
         <mark key="^" line="5" column="14458" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/product/product.js" timestamp="1450425665736">
@@ -2423,11 +2423,11 @@
       <jump line="119" column="47" filename="$USER_HOME$/project/donation/8.3+/www/detail.htm" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUud2FybigneFJwYyBzZW5kIC0+ICcsIGVwLCBkYXRhKTsK</text>
+      <register name="&quot;" type="4">
+        <text>AlipayJSBridge||r(&quot;AlipayJSBridge not found&quot;),</text>
       </register>
       <register name="-" type="4">
-        <text>,gateway:&quot;mobilegw.dev01.alipay.net&quot;</text>
+        <text>AlipayJSBridge||r(&quot;AlipayJSBridge not found&quot;),</text>
       </register>
       <register name="/" type="4">
         <text>爱心</text>
