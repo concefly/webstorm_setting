@@ -1017,9 +1017,9 @@
         <mark key="^" line="53" column="103" />
         <mark key="." line="9" column="17" />
       </file>
-      <file name="$USER_HOME$/project/donor-pc/src/components/App.jsx" timestamp="1469693228506">
-        <mark key="[" line="227" column="24" />
-        <mark key="]" line="229" column="52" />
+      <file name="$USER_HOME$/project/donor-pc/src/components/App.jsx" timestamp="1469694999703">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="30" column="1" />
         <mark key="^" line="229" column="52" />
         <mark key="." line="229" column="52" />
       </file>
@@ -1841,11 +1841,11 @@
         <mark key="^" line="39" column="33" />
         <mark key="." line="39" column="33" />
       </file>
-      <file name="$USER_HOME$/project/donor/src/component/App.jsx" timestamp="1469440318409">
-        <mark key="[" line="80" column="28" />
-        <mark key="]" line="6" column="37" />
-        <mark key="." line="6" column="37" />
-        <mark key="^" line="6" column="37" />
+      <file name="$USER_HOME$/project/donor/src/component/App.jsx" timestamp="1469695125537">
+        <mark key="[" line="282" column="31" />
+        <mark key="]" line="282" column="31" />
+        <mark key="." line="282" column="31" />
+        <mark key="^" line="282" column="27" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/libs/style-utils/utils.scss" timestamp="1455612551010">
         <mark key="[" line="56" column="17" />
@@ -2370,16 +2370,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>gbk</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>gbk</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>noMore</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgRW5jb2RpbmdQbHVnaW4gPSByZXF1aXJlKCd3ZWJwYWNrLWVuY29kaW5nLXBsdWdpbicpOwo=</text>
+        <text encoding="base64">Y29uc3QgeEFqYXggPSBmdW5jdGlvbiAodXJsLCB7dHlwZSwgbWV0aG9kLCBkYXRhfT17fSkgewogIHJldHVybiBuZXcgUHJvbWlzZSgocmVzb2x2ZSwgcmVqZWN0KSA9PiB7CiAgICBhamF4KHsKICAgICAgdXJsOiB1cmwsCiAgICAgIG1ldGhvZDogbWV0aG9kIHx8ICdnZXQnLAogICAgICB0eXBlOiB0eXBlIHx8ICdqc29uJywKICAgICAgZGF0YSwKICAgICAgc3VjY2VzczogcmVzID0+IHsgcmVzb2x2ZShyZXMpIH0sCiAgICAgIGVycm9yOiBlcnIgPT4geyByZWplY3QoZXJyKSB9LAogICAgfSkKICB9KQp9Owo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Y29uc3QgRW5jb2RpbmdQbHVnaW4gPSByZXF1aXJlKCd3ZWJwYWNrLWVuY29kaW5nLXBsdWdpbicpOwoK</text>
