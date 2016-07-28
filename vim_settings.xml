@@ -530,10 +530,11 @@
         <mark key="^" line="1" column="25" />
         <mark key="." line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/project/ANT01190853_20160720_charityprod/htdocs/uisvr/donate/itemDetail.js" timestamp="1469686754642">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
+      <file name="$USER_HOME$/project/ANT01190853_20160720_charityprod/htdocs/uisvr/donate/itemDetail.js" timestamp="1469693057625">
+        <mark key="[" line="64" column="58" />
+        <mark key="]" line="64" column="59" />
+        <mark key="." line="64" column="59" />
+        <mark key="^" line="60" column="69" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/article_share_inner.scss" timestamp="1455595086183">
         <mark key="[" line="0" column="0" />
@@ -2360,11 +2361,11 @@
       <jump line="10" column="15" filename="$USER_HOME$/project/flaming-cloud/contactor/src/styles/lark.less" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUud2FybihldmVudCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>https://as.test.alipay.net/g/huize.hwj/donor-pc/0.0.10/common.js</text>
       </register>
       <register name="-" type="4">
-        <text>https://os.alipayobjects.com/rmsportal/hfqLQnyveAwQRwV.css</text>
+        <text>https://as.test.alipay.net/g/huize.hwj/donor-pc/0.0.10/common.js</text>
       </register>
       <register name="/" type="4">
         <text>noMore</text>
