@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/project/donor-pc/src/entries/index.less" timestamp="1469736878030">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="11" column="23" />
-        <mark key="." line="11" column="23" />
-        <mark key="^" line="11" column="25" />
-      </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/libs/pagination/pagination.js" timestamp="1455608652429">
         <mark key="[" line="13" column="4" />
         <mark key="]" line="13" column="10" />
@@ -430,11 +424,7 @@
         <mark key="^" line="1" column="18" />
         <mark key="." line="1" column="18" />
       </file>
-      <file name="$USER_HOME$/project/donor-pc/package.json" timestamp="1469725924068">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
+      <file name="$USER_HOME$/project/donor-pc/package.json" timestamp="1469725924068" />
       <file name="$USER_HOME$/project/heix/passport-frontend/resources/forgot/forgot.blade.php" timestamp="1452844499601">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="32" />
@@ -1001,10 +991,8 @@
         <mark key="." line="9" column="17" />
       </file>
       <file name="$USER_HOME$/project/donor-pc/src/components/App.jsx" timestamp="1469733005596">
-        <mark key="[" line="243" column="0" />
-        <mark key="]" line="245" column="23" />
-        <mark key="^" line="6" column="18" />
-        <mark key="." line="6" column="18" />
+        <mark key="[" line="236" column="0" />
+        <mark key="]" line="238" column="23" />
       </file>
       <file name="$USER_HOME$/project/pet/backend/.env" timestamp="1449199882844">
         <mark key="[" line="5" column="12" />
@@ -1155,9 +1143,6 @@
       </file>
       <file name="$USER_HOME$/project/donor-pc/src/entries/index.html" timestamp="1469732914493">
         <mark key="[" line="8" column="20" />
-        <mark key="]" line="11" column="20" />
-        <mark key="." line="11" column="20" />
-        <mark key="^" line="11" column="20" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/partials/layout/layout.scss" timestamp="1450317123477">
         <mark key="[" line="39" column="19" />
@@ -1945,12 +1930,6 @@
         <mark key="^" line="2" column="100" />
         <mark key="." line="2" column="100" />
       </file>
-      <file name="$USER_HOME$/project/donor-pc/src/entries/index.js" timestamp="1469737400897">
-        <mark key="[" line="32" column="7" />
-        <mark key="]" line="31" column="45" />
-        <mark key="." line="31" column="45" />
-        <mark key="^" line="31" column="45" />
-      </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/user/notification/app.js" timestamp="1453804587182">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="67" />
@@ -2016,12 +1995,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="^" line="4" column="28" />
         <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/project/donor-pc/webpack.config.js" timestamp="1469731263657">
-        <mark key="[" line="33" column="18" />
-        <mark key="]" line="33" column="17" />
-        <mark key="." line="33" column="17" />
-        <mark key="^" line="33" column="17" />
       </file>
       <file name="$USER_HOME$/project/antcloud/usercenter/client/mock/authority.js" timestamp="1467614802373">
         <mark key="[" line="192" column="30" />
