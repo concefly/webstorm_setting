@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/project/donor-pc/src/entries/index.less" timestamp="1469710310946">
+        <mark key="[" line="2" column="16" />
+        <mark key="]" line="2" column="13" />
+        <mark key="^" line="2" column="13" />
+        <mark key="." line="2" column="13" />
+      </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/libs/pagination/pagination.js" timestamp="1455608652429">
         <mark key="[" line="13" column="4" />
         <mark key="]" line="13" column="10" />
@@ -430,7 +436,7 @@
         <mark key="^" line="1" column="18" />
         <mark key="." line="1" column="18" />
       </file>
-      <file name="$USER_HOME$/project/donor-pc/package.json" timestamp="1469693404793">
+      <file name="$USER_HOME$/project/donor-pc/package.json" timestamp="1469710728675">
         <mark key="[" line="1" column="19" />
         <mark key="]" line="1" column="20" />
         <mark key="^" line="1" column="19" />
@@ -2018,6 +2024,7 @@
         <mark key="]" line="1296" column="22" />
         <mark key="." line="1296" column="22" />
       </file>
+      <file name="$USER_HOME$/project/donation/8.3+/www/donation/index.htm" timestamp="1469709950461" />
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/user/notification/app.js" timestamp="1453804587182">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="67" />
@@ -2395,10 +2402,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dist</text>
+        <text>important</text>
       </register>
       <register name="-" type="4">
-        <text>dist</text>
+        <text>important</text>
       </register>
       <register name="/" type="4">
         <text>amount-rec</text>
@@ -2406,33 +2413,33 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUud2FybigneFJwYyBzZW5kIC0+ICcsIGVwLCBkYXRhKTsK</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">ICAvKiBoZWlnaHQ6MTAwJSAqLwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICB3aWR0aDogMTAwJTsK</text>
+      </register>
+      <register name="3" type="8">
         <text>dist/
 dist/</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IGZldGNoIGZyb20gJ2lzb21vcnBoaWMtZmV0Y2gnOwo=</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNobjsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">CnNldFRpbWVvdXQocGFnZS5pbml0LCAyMDAwKTsK</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAgICAgcXVlcnk6IHsKICAgICAgICB0eXBlOgogICAgICB9</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHVybCA9IGAke3RpbWVsaW5lVXJsfT9uYW1lPSR7dGhpcy5wcm9wcy5yZW1vdGVOYW1lfWA7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAvLyBjb21wb25lbnREaWRVcGRhdGUoKSB7CiAgLy8gICBpZiAodGhpcy5pc0N1cnNvckV4cG9zZSkgewogIC8vICAgICAvLyB0aGlzLmZldGNoKHRoaXMuc3RhdGUucGFnZSArIDEpOwogIC8vICAgICBjb25zb2xlLndhcm4odGhpcy5zdGF0ZS5wYWdlKTsKICAvLyAgIH0KICAvLyB9Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">CmNvbnN0IHhBamF4ID0gZnVuY3Rpb24gKHVybCwge3R5cGUsIG1ldGhvZCwgZGF0YX09e30pIHsKICByZXR1cm4gbmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gewogICAgYWpheCh7CiAgICAgIHVybDogdXJsLAogICAgICBtZXRob2Q6IG1ldGhvZCB8fCAnZ2V0JywKICAgICAgdHlwZTogdHlwZSB8fCAnanNvbicsCiAgICAgIGRhdGEsCiAgICAgIHN1Y2Nlc3M6IHJlcyA9PiB7IHJlc29sdmUocmVzKSB9LAogICAgICBlcnJvcjogZXJyID0+IHsgcmVqZWN0KGVycikgfSwKICAgIH0pCiAgfSkKfTsKCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHVybCA9IGAke3RpbWVsaW5lVXJsfT9uYW1lPSR7dGhpcy5wcm9wcy5yZW1vdGVOYW1lfWA7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
