@@ -468,9 +468,9 @@
         <mark key="^" line="8" column="4" />
         <mark key="." line="8" column="4" />
       </file>
-      <file name="$USER_HOME$/project/antcloud/usercenter/client/lengjing.config.js" timestamp="1469069594500">
-        <mark key="[" line="6" column="38" />
-        <mark key="]" line="6" column="38" />
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/lengjing.config.js" timestamp="1469689269677">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="69" column="1" />
         <mark key="." line="6" column="38" />
         <mark key="^" line="6" column="38" />
       </file>
@@ -1270,7 +1270,6 @@
         <mark key="^" line="27" column="25" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/project/donor-pc/proxy.config.js" timestamp="1469671070558" />
       <file name="$USER_HOME$/project/flaming-cloud/contactor/src/entry/App.jsx" timestamp="1469424672130">
         <mark key="[" line="76" column="20" />
         <mark key="]" line="76" column="21" />
@@ -1548,6 +1547,12 @@
         <mark key="]" line="60" column="45" />
         <mark key="^" line="60" column="45" />
         <mark key="." line="60" column="45" />
+      </file>
+      <file name="$USER_HOME$/project/antcloud/usercenter/client/gen-lengjing.js" timestamp="1469689506315">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="19" />
+        <mark key="^" line="3" column="19" />
+        <mark key="." line="3" column="19" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/partials/common/scene.scss" timestamp="1456911164901">
         <mark key="[" line="28" column="1" />
@@ -2356,7 +2361,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBhcHBpZDogcGtnLm5hbWUsCiAgbmFtZTogcGtnLm5hbWUsCiAgZGVzYzogcGtnLmRlc2NyaXB0aW9uLCAvLyDkuqflk4HnmoTkuK3mlofmj4/ov7AKICBob3N0OiAnaHR0cHM6Ly91c2VyLmNsb3VkLmFsaXBheS5jb20vJywgLy/kuIrnur/lkI7nmoTkuqflk4HnmoTomZrmi591cmzliY3nvIAKICBwYWdlczogWwogICAgewogICAgICBlbnRyeTogJ2luZGV4Lmh0bWwnLCAvLyDpobXpnaLlhaXlj6PjgIHlkoxgaG9zdGDmi7zmjqXlvpfliLDlrozmiJDnmoTomZrmi591cmwKICAgICAgZGVzYzogJ+mmlumhtScgLy8g6aG16Z2i55qE5o+P6L+wLAogICAgfSwKICAgIHsKICAgICAgZW50cnk6ICdkYXNoYm9hcmQnLAogICAgICBkZXNjOiAn5oC76KeIJwogICAgfSwKICAgIHsKICAgICAgZW50cnk6ICdhY2NvdW50c2luZm8nLAogICAgICBkZXNjOiAn6LSm5oi35L+h5oGvJwogICAgfSwKICAgIHsKICAgICAgZW50cnk6ICdtZW1iZXJzL21hbmFnZW1lbnQnLAogICAgICBkZXNjOiAn5oiQ5ZGY566h55CGJwogICAgfSwKICAgIHsKICAgICAgZW50cnk6ICdtZW1iZXJzL2NyZWF0ZWxvZ3MnLAogICAgICBkZXNjOiAn5oiQ5ZGY566h55CGL+a3u+WKoOiusOW9lScKICAgIH0sCiAgICB7CiAgICAgIGVudHJ5OiAnYmlsbC9tb250aGx5JywKICAgICAgZGVzYzogJ+a2iOi0ueiuouWNlS/mnIjotKbljZUnCiAgICB9LAogICAgewogICAgICBlbnRyeTogJ2JpbGwvb3JkZXJzJywKICAgICAgZGVzYzogJ+a2iOi0ueiuouWNlS/orqLljZXorrDlvZUnCiAgICB9LAogICAgewogICAgICBlbnRyeTogJ3RpY2tldHMvbWluZScsCiAgICAgIGRlc2M6ICflt6XljZXmnI3liqEv5oiR55qE5bel5Y2VJwogICAgfSwKICAgIHsKICAgICAgZW50cnk6ICd0aWNrZXRzL3N1Ym1pdCcsCiAgICAgIGRlc2M6ICflt6XljZXmnI3liqEv5o+Q5Lqk5bel5Y2VJwogICAgfSwKICAgIHsKICAgICAgZW50cnk6ICdiZWlhbi9hcHBseScsCiAgICAgIGRlc2M6ICflpIfmoYjmnI3liqEv55Sz6K+35aSH5qGI5Y+3JwogICAgfSwKICAgIHsKICAgICAgZW50cnk6ICdiZWlhbi9yZWNvcmQnLAogICAgICBkZXNjOiAn5aSH5qGI5pyN5YqhL+Wkh+ahiOiusOW9lScKICAgIH0sCiAgICB7CiAgICAgIGVudHJ5OiAnYXV0aG9yaXphdGlvbi91c2VycycsCiAgICAgIGRlc2M6ICfmnYPpmZDnrqHnkIYv55So5oi35o6I5p2DJwogICAgfSwKICAgIHsKICAgICAgZW50cnk6ICdhdXRob3JpemF0aW9uL3JvbGVzJywKICAgICAgZGVzYzogJ+adg+mZkOeuoeeQhi/op5LoibLorr7nva4nCiAgICB9LAogICAgewogICAgICBlbnRyeTogJ2xvZ3MnLAogICAgICBkZXNjOiAn5pON5L2c5pel5b+XJwogICAgfSwKICAgIHsKICAgICAgZW50cnk6ICd3b3Jrc3BhY2UnLAogICAgICBkZXNjOiAn546v5aKD6K6+572uJwogICAgfQogIF0KfTsK</text>
       </register>
       <register name="-" type="4">
         <text>https://os.alipayobjects.com/rmsportal/hfqLQnyveAwQRwV.css</text>
@@ -2365,7 +2370,7 @@
         <text>noMore</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAvLyAgIGdhdGV3YXk6ICdtb2JpbGVndy5kZXYwMS5hbGlwYXkubmV0Jwo=</text>
+        <text encoding="base64">ICBhcHBpZDogcGtnLm5hbWUsCiAgbmFtZTogcGtnLm5hbWUsCiAgZGVzYzogcGtnLmRlc2NyaXB0aW9uLCAvLyDkuqflk4HnmoTkuK3mlofmj4/ov7AKICBob3N0OiAnaHR0cHM6Ly91c2VyLmNsb3VkLmFsaXBheS5jb20vJywgLy/kuIrnur/lkI7nmoTkuqflk4HnmoTomZrmi591cmzliY3nvIAKICBwYWdlczogWwogICAgewogICAgICBlbnRyeTogJ2luZGV4Lmh0bWwnLCAvLyDpobXpnaLlhaXlj6PjgIHlkoxgaG9zdGDmi7zmjqXlvpfliLDlrozmiJDnmoTomZrmi591cmwKICAgICAgZGVzYzogJ+mmlumhtScgLy8g6aG16Z2i55qE5o+P6L+wLAogICAgfSwKICAgIHsKICAgICAgZW50cnk6ICdkYXNoYm9hcmQnLAogICAgICBkZXNjOiAn5oC76KeIJwogICAgfSwKICAgIHsKICAgICAgZW50cnk6ICdhY2NvdW50c2luZm8nLAogICAgICBkZXNjOiAn6LSm5oi35L+h5oGvJwogICAgfSwKICAgIHsKICAgICAgZW50cnk6ICdtZW1iZXJzL21hbmFnZW1lbnQnLAogICAgICBkZXNjOiAn5oiQ5ZGY566h55CGJwogICAgfSwKICAgIHsKICAgICAgZW50cnk6ICdtZW1iZXJzL2NyZWF0ZWxvZ3MnLAogICAgICBkZXNjOiAn5oiQ5ZGY566h55CGL+a3u+WKoOiusOW9lScKICAgIH0sCiAgICB7CiAgICAgIGVudHJ5OiAnYmlsbC9tb250aGx5JywKICAgICAgZGVzYzogJ+a2iOi0ueiuouWNlS/mnIjotKbljZUnCiAgICB9LAogICAgewogICAgICBlbnRyeTogJ2JpbGwvb3JkZXJzJywKICAgICAgZGVzYzogJ+a2iOi0ueiuouWNlS/orqLljZXorrDlvZUnCiAgICB9LAogICAgewogICAgICBlbnRyeTogJ3RpY2tldHMvbWluZScsCiAgICAgIGRlc2M6ICflt6XljZXmnI3liqEv5oiR55qE5bel5Y2VJwogICAgfSwKICAgIHsKICAgICAgZW50cnk6ICd0aWNrZXRzL3N1Ym1pdCcsCiAgICAgIGRlc2M6ICflt6XljZXmnI3liqEv5o+Q5Lqk5bel5Y2VJwogICAgfSwKICAgIHsKICAgICAgZW50cnk6ICdiZWlhbi9hcHBseScsCiAgICAgIGRlc2M6ICflpIfmoYjmnI3liqEv55Sz6K+35aSH5qGI5Y+3JwogICAgfSwKICAgIHsKICAgICAgZW50cnk6ICdiZWlhbi9yZWNvcmQnLAogICAgICBkZXNjOiAn5aSH5qGI5pyN5YqhL+Wkh+ahiOiusOW9lScKICAgIH0sCiAgICB7CiAgICAgIGVudHJ5OiAnYXV0aG9yaXphdGlvbi91c2VycycsCiAgICAgIGRlc2M6ICfmnYPpmZDnrqHnkIYv55So5oi35o6I5p2DJwogICAgfSwKICAgIHsKICAgICAgZW50cnk6ICdhdXRob3JpemF0aW9uL3JvbGVzJywKICAgICAgZGVzYzogJ+adg+mZkOeuoeeQhi/op5LoibLorr7nva4nCiAgICB9LAogICAgewogICAgICBlbnRyeTogJ2xvZ3MnLAogICAgICBkZXNjOiAn5pON5L2c5pel5b+XJwogICAgfSwKICAgIHsKICAgICAgZW50cnk6ICd3b3Jrc3BhY2UnLAogICAgICBkZXNjOiAn546v5aKD6K6+572uJwogICAgfQogIF0KfTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
