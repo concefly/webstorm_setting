@@ -1883,10 +1883,10 @@
         <mark key="^" line="39" column="33" />
         <mark key="." line="39" column="33" />
       </file>
-      <file name="$USER_HOME$/project/donor/src/component/App.jsx" timestamp="1469719137233">
-        <mark key="[" line="23" column="26" />
-        <mark key="]" line="24" column="39" />
-        <mark key="." line="24" column="39" />
+      <file name="$USER_HOME$/project/donor/src/component/App.jsx" timestamp="1469721904497">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
         <mark key="^" line="24" column="39" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/libs/style-utils/utils.scss" timestamp="1455612551010">
@@ -2423,8 +2423,8 @@
       <jump line="119" column="47" filename="$USER_HOME$/project/donation/8.3+/www/detail.htm" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,gateway:&quot;mobilegw.dev01.alipay.net&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUud2FybigneFJwYyBzZW5kIC0+ICcsIGVwLCBkYXRhKTsK</text>
       </register>
       <register name="-" type="4">
         <text>,gateway:&quot;mobilegw.dev01.alipay.net&quot;</text>
@@ -2432,36 +2432,35 @@
       <register name="/" type="4">
         <text>爱心</text>
       </register>
-      <register name="0" type="4">
-        <text>./icon/detail/</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUud2FybigneFJwYyBzZW5kIC0+ICcsIGVwLCBkYXRhKTsK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUud2FybigneFJwYyBzZW5kIC0+ICcsIGVwLCBkYXRhKTsK</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">ICAgIGRpc3BsYXk6IGlubGluZS1ibG9jazsKICAgIGhlaWdodDogMTRweDsKICAgIHdpZHRoOiAxNHB4OwogICAgYmFja2dyb3VuZDogIzAwMDs=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">Ym9keSxodG1sIHsKICBoZWlnaHQ6IGF1dG87Cn0KCmJvZHkgKiB7CiAgYm94LXNpemluZzogY29udGVudC1ib3g7Cn0KCiNKLWFtb3VudC1yZWNfX3JlYWN0IHsKCiAgKiB7CiAgICBib3gtc2l6aW5nOiBib3JkZXItYm94OwogIH0KCn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnRlbnQ6ICcnOwo=</text>
+        <text encoding="base64">Ym9keSxodG1sIHsKICBoZWlnaHQ6IGF1dG87Cn0KCmJvZHkgKiB7CiAgYm94LXNpemluZzogY29udGVudC1ib3g7Cn0KCiNKLWFtb3VudC1yZWNfX3JlYWN0IHsKCiAgKiB7CiAgICBib3gtc2l6aW5nOiBib3JkZXItYm94OwogIH0KCn0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnRlbnQ6ICcnOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LmRvbmF0aW9uLQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvKiBoZWlnaHQ6MTAwJSAqLwo=</text>
+        <text encoding="base64">LmRvbmF0aW9uLQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB3aWR0aDogMTAwJTsK</text>
+        <text encoding="base64">ICAvKiBoZWlnaHQ6MTAwJSAqLwo=</text>
       </register>
-      <register name="9" type="8">
-        <text>dist/
-dist/</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICB3aWR0aDogMTAwJTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
