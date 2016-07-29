@@ -168,10 +168,10 @@
         <mark key="^" line="2" column="48" />
         <mark key="." line="2" column="48" />
       </file>
-      <file name="$USER_HOME$/project/ANT01190853_20160720_charityprod/htdocs/templates/donate/screen/itemDetail.vm" timestamp="1469765712860">
+      <file name="$USER_HOME$/project/ANT01190853_20160720_charityprod/htdocs/templates/donate/screen/itemDetail.vm" timestamp="1469789863167">
         <mark key="'" line="214" column="19" />
         <mark key="[" line="242" column="0" />
-        <mark key="]" line="249" column="9" />
+        <mark key="]" line="249" column="8" />
         <mark key="." line="242" column="0" />
         <mark key="^" line="222" column="29" />
       </file>
@@ -497,7 +497,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1469769300240">
+      <file name="/Dummy.txt" timestamp="1469789826707">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.list.js" timestamp="1450423705050">
@@ -2354,8 +2354,8 @@
       <jump line="5" column="13857" filename="$USER_HOME$/project/donation/8.3+/www/donation/1.0.0/donation-rec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ddd</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PHNjcmlwdD4KCXdpbmRvdy5fX2RvbmF0aW9uID0gewoJCXRpbWVsaW5lVXJsOiAnL2RvbmF0ZS9nZXRGdW5kUmVjb3JkLmpzb24nLAoJCWFtb3VudExpc3RVcmw6ICcvZG9uYXRlL3Nob3dGdW5kRGV0YWlsLmpzb24nLAoJCWVsSWQ6ICdfX21vdW50JywKCQlkb25hdGVJZDogJzIwMTYwMTEzMjAxNTEyOTY4OTQnCgl9Cjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="-" type="4">
         <text>ddd</text>
@@ -2364,7 +2364,7 @@
         <text>xRpc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmc6IDE2cHg7Cg==</text>
+        <text encoding="base64">PHNjcmlwdD4KCXdpbmRvdy5fX2RvbmF0aW9uID0gewoJCXRpbWVsaW5lVXJsOiAnL2RvbmF0ZS9nZXRGdW5kUmVjb3JkLmpzb24nLAoJCWFtb3VudExpc3RVcmw6ICcvZG9uYXRlL3Nob3dGdW5kRGV0YWlsLmpzb24nLAoJCWVsSWQ6ICdfX21vdW50JywKCQlkb25hdGVJZDogJzIwMTYwMTEzMjAxNTEyOTY4OTQnCgl9Cjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgbWFyZ2luLWJvdHRvbTogMTVweDsK</text>
