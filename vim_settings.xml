@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/project/donor-pc/src/entries/index.less" timestamp="1469778127473">
-        <mark key="[" line="27" column="44" />
-        <mark key="]" line="27" column="43" />
-        <mark key="^" line="27" column="43" />
-        <mark key="." line="27" column="43" />
+      <file name="$USER_HOME$/project/donor-pc/src/entries/index.less" timestamp="1469778259960">
+        <mark key="[" line="19" column="20" />
+        <mark key="]" line="19" column="31" />
+        <mark key="^" line="19" column="31" />
+        <mark key="." line="19" column="31" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/libs/pagination/pagination.js" timestamp="1455608652429">
         <mark key="[" line="13" column="4" />
@@ -531,7 +531,7 @@
         <mark key="^" line="1" column="25" />
         <mark key="." line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/project/ANT01190853_20160720_charityprod/htdocs/uisvr/donate/itemDetail.js" timestamp="1469777604781">
+      <file name="$USER_HOME$/project/ANT01190853_20160720_charityprod/htdocs/uisvr/donate/itemDetail.js" timestamp="1469778188834">
         <mark key="[" line="88" column="5" />
         <mark key="]" line="88" column="61" />
         <mark key="." line="88" column="61" />
@@ -2341,10 +2341,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>soft.Alpha(opacity=100)&quot;;</text>
+        <text>rgba(0,0,0,.3)</text>
       </register>
       <register name="-" type="4">
-        <text>soft.Alpha(opacity=100)&quot;;</text>
+        <text>rgba(0,0,0,.3)</text>
       </register>
       <register name="/" type="4">
         <text>xRpc</text>
