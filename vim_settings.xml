@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/project/donor-pc/src/entries/index.less" timestamp="1469777560481">
-        <mark key="[" line="27" column="63" />
-        <mark key="]" line="28" column="25" />
-        <mark key="^" line="28" column="25" />
-        <mark key="." line="28" column="25" />
+      <file name="$USER_HOME$/project/donor-pc/src/entries/index.less" timestamp="1469778127473">
+        <mark key="[" line="27" column="44" />
+        <mark key="]" line="27" column="43" />
+        <mark key="^" line="27" column="43" />
+        <mark key="." line="27" column="43" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/libs/pagination/pagination.js" timestamp="1455608652429">
         <mark key="[" line="13" column="4" />
@@ -2341,10 +2341,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>//os.alipayobjects.com/rmsportal/XipqZrHOqIooUle.js</text>
+        <text>soft.Alpha(opacity=100)&quot;;</text>
       </register>
       <register name="-" type="4">
-        <text>//os.alipayobjects.com/rmsportal/XipqZrHOqIooUle.js</text>
+        <text>soft.Alpha(opacity=100)&quot;;</text>
       </register>
       <register name="/" type="4">
         <text>xRpc</text>
