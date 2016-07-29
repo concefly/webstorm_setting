@@ -531,11 +531,11 @@
         <mark key="^" line="1" column="25" />
         <mark key="." line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/project/ANT01190853_20160720_charityprod/htdocs/uisvr/donate/itemDetail.js" timestamp="1469777357113">
+      <file name="$USER_HOME$/project/ANT01190853_20160720_charityprod/htdocs/uisvr/donate/itemDetail.js" timestamp="1469777604781">
         <mark key="[" line="88" column="5" />
-        <mark key="]" line="88" column="5" />
-        <mark key="." line="88" column="5" />
-        <mark key="^" line="88" column="12" />
+        <mark key="]" line="88" column="61" />
+        <mark key="." line="88" column="61" />
+        <mark key="^" line="88" column="61" />
       </file>
       <file name="$USER_HOME$/project/donor/package.json" timestamp="1469710934762">
         <mark key="[" line="38" column="52" />
@@ -2341,10 +2341,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>50</text>
+        <text>//os.alipayobjects.com/rmsportal/XipqZrHOqIooUle.js</text>
       </register>
       <register name="-" type="4">
-        <text>50</text>
+        <text>//os.alipayobjects.com/rmsportal/XipqZrHOqIooUle.js</text>
       </register>
       <register name="/" type="4">
         <text>xRpc</text>
