@@ -4,9 +4,6 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/project/donor-pc/src/entries/index.less" timestamp="1469806158275">
-        <mark key="[" line="98" column="45" />
-        <mark key="]" line="98" column="45" />
-        <mark key="." line="98" column="45" />
         <mark key="^" line="9" column="21" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/libs/pagination/pagination.js" timestamp="1455608652429">
@@ -2056,11 +2053,6 @@
         <mark key="]" line="2" column="100" />
         <mark key="^" line="2" column="100" />
         <mark key="." line="2" column="100" />
-      </file>
-      <file name="$USER_HOME$/project/donor-pc/src/entries/index.js" timestamp="1469811196741">
-        <mark key="]" line="207" column="42" />
-        <mark key="." line="207" column="42" />
-        <mark key="^" line="207" column="42" />
       </file>
       <file name="$USER_HOME$/project/donation/8.3+/www/donation/index.htm" timestamp="1469803494035">
         <mark key="[" line="5" column="11" />
