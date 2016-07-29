@@ -2025,11 +2025,11 @@
         <mark key="^" line="4" column="28" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/project/donor-pc/webpack.config.js" timestamp="1469766157253">
-        <mark key="[" line="19" column="24" />
-        <mark key="]" line="20" column="30" />
-        <mark key="." line="20" column="30" />
-        <mark key="^" line="20" column="30" />
+      <file name="$USER_HOME$/project/donor-pc/webpack.config.js" timestamp="1469771186698">
+        <mark key="[" line="28" column="17" />
+        <mark key="]" line="28" column="21" />
+        <mark key="." line="28" column="21" />
+        <mark key="^" line="28" column="21" />
       </file>
       <file name="$USER_HOME$/project/antcloud/usercenter/client/mock/authority.js" timestamp="1467614802373">
         <mark key="[" line="192" column="30" />
@@ -2337,10 +2337,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>https://os.alipayobjects.com/rmsportal/jGOOGBasqemPZFl.js</text>
+        <text>gbk</text>
       </register>
       <register name="-" type="4">
-        <text>https://os.alipayobjects.com/rmsportal/jGOOGBasqemPZFl.js</text>
+        <text>gbk</text>
       </register>
       <register name="/" type="4">
         <text>xRpc</text>
