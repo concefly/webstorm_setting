@@ -1403,12 +1403,12 @@
         <mark key="^" line="24" column="80" />
         <mark key="." line="24" column="80" />
       </file>
-      <file name="$USER_HOME$/project/donation/8.3+/www/donation/1.0.0/donation-rec.js" timestamp="1469767531870">
+      <file name="$USER_HOME$/project/donation/8.3+/www/donation/1.0.0/donation-rec.js" timestamp="1469768048303">
         <mark key="'" line="5" column="13857" />
-        <mark key="[" line="5" column="14297" />
-        <mark key="]" line="5" column="14297" />
-        <mark key="." line="5" column="14297" />
-        <mark key="^" line="5" column="14458" />
+        <mark key="[" line="5" column="14333" />
+        <mark key="]" line="5" column="14340" />
+        <mark key="." line="5" column="14340" />
+        <mark key="^" line="5" column="14340" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/product/product.js" timestamp="1450425665736">
         <mark key="[" line="39" column="42" />
@@ -2327,11 +2327,11 @@
       <jump line="5" column="13857" filename="$USER_HOME$/project/donation/8.3+/www/donation/1.0.0/donation-rec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsb2FkZXI6IEV4dHJhY3RUZXh0UGx1Z2luLmV4dHJhY3QoInN0eWxlIiwgImNzcyIsICJsZXNzIikK</text>
+      <register name="&quot;" type="4">
+        <text>window</text>
       </register>
       <register name="-" type="4">
-        <text>J-amount-rec__react</text>
+        <text>window</text>
       </register>
       <register name="/" type="4">
         <text>xRpc</text>
