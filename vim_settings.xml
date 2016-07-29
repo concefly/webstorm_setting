@@ -522,7 +522,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1469823095149">
+      <file name="/Dummy.txt" timestamp="1469825259123">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.list.js" timestamp="1450423705050">
@@ -561,11 +561,11 @@
         <mark key="^" line="1" column="25" />
         <mark key="." line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/project/ANT01190853_20160720_charityprod/htdocs/uisvr/donate/itemDetail.js" timestamp="1469823049865">
-        <mark key="[" line="87" column="16" />
-        <mark key="]" line="88" column="61" />
-        <mark key="." line="88" column="61" />
-        <mark key="^" line="88" column="61" />
+      <file name="$USER_HOME$/project/ANT01190853_20160720_charityprod/htdocs/uisvr/donate/itemDetail.js" timestamp="1469825206486">
+        <mark key="[" line="88" column="5" />
+        <mark key="]" line="88" column="5" />
+        <mark key="." line="88" column="5" />
+        <mark key="^" line="88" column="4" />
       </file>
       <file name="$USER_HOME$/project/donor/package.json" timestamp="1469710934762">
         <mark key="[" line="39" column="52" />
@@ -2448,11 +2448,11 @@
       <jump line="241" column="0" filename="$USER_HOME$/project/ANT01190853_20160720_charityprod/htdocs/templates/donate/screen/itemDetail.vm" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICcvL2xvY2FsaG9zdDo5MDAyCg==</text>
+      <register name="&quot;" type="4">
+        <text>:</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>爱心</text>
