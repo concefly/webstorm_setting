@@ -1941,10 +1941,11 @@
         <mark key="." line="23" column="29" />
         <mark key="^" line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/project/donor-pc/src/templates/amountlist.tpl" timestamp="1469790538491">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/project/donor-pc/src/templates/amountlist.tpl" timestamp="1469793658691">
+        <mark key="[" line="47" column="18" />
+        <mark key="]" line="48" column="17" />
+        <mark key="." line="48" column="17" />
+        <mark key="^" line="48" column="17" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/article_video.blade.php" timestamp="1455759458422">
         <mark key="[" line="3" column="0" />
@@ -1964,16 +1965,11 @@
         <mark key="^" line="2" column="100" />
         <mark key="." line="2" column="100" />
       </file>
-      <file name="$USER_HOME$/project/donor-pc/src/entries/index.js" timestamp="1469790864612">
-        <mark key="[" line="38" column="58" />
-        <mark key="]" line="46" column="63" />
-        <mark key="^" line="46" column="63" />
-        <mark key="." line="46" column="63" />
-      </file>
-      <file name="$USER_HOME$/project/donation/8.3+/www/js/lib/appConfig.js" timestamp="1469706752358">
-        <mark key="[" line="1296" column="22" />
-        <mark key="]" line="1296" column="22" />
-        <mark key="." line="1296" column="22" />
+      <file name="$USER_HOME$/project/donor-pc/src/entries/index.js" timestamp="1469791617416">
+        <mark key="[" line="69" column="26" />
+        <mark key="]" line="71" column="52" />
+        <mark key="^" line="71" column="52" />
+        <mark key="." line="71" column="52" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/user/notification/app.js" timestamp="1453804587182">
         <mark key="[" line="4" column="0" />
@@ -2358,44 +2354,44 @@
       <jump line="5" column="13857" filename="$USER_HOME$/project/donation/8.3+/www/donation/1.0.0/donation-rec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>mg</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>mg</text>
+        <text encoding="base64">IHRpdGxlPSLlkJHlkI4gNSDpobUi</text>
       </register>
       <register name="/" type="4">
         <text>xRpc</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjWzJdID0gJzxzcGFuIGNsYXNzPSJ0aW1lU29ydFRvZ2dsZSI+5o2Q6LWg5pe26Ze0PGkgY2xhc3M9IicrIGRhdGEudGltZVNvcnQgKyciPjwvc3Bhbj4nOwo=</text>
+        <text encoding="base64">ICAgICAgICA8bGkgdGl0bGU9IuesrDwlLSBuKzEgJT7pobUiCiAgICAgICAgICAgIGRhdGEtcGFnZT0iPCUtIG4rMSAlPiIKICAgICAgICAgICAgY2xhc3M9ImFudC1wYWdpbmF0aW9uLWl0ZW0gPCU9IHBhZ2U9PW4rMSAmJiAnYW50LXBhZ2luYXRpb24taXRlbS1hY3RpdmUnICU+ICI+CiAgICAgICAgICA8YT48JS0gbisxICU+PC9hPgogICAgICAgIDwvbGk+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLmljb24gewogICAgICAgIGRpc3BsYXk6IGlubGluZS1ibG9jazsKICAgICAgICBoZWlnaHQ6IDE1cHg7CiAgICAgICAgd2lkdGg6IDE1cHg7CiAgICAgICAgYmFja2dyb3VuZC1zaXplOiBjb250YWluOwogICAgICAgIGJhY2tncm91bmQtcG9zdGlvbjogY2VudGVyOwogICAgICAgICYuYXNjIHsKICAgICAgICAgIGJhY2tncm91bmQtaW1nOiB1cmwoJy4uL2Fzc2V0cy9hc2MucG5nJykKICAgICAgICB9CiAgICAgICAgJi5kZXNjIHsKICAgICAgICAgIGJhY2tncm91bmQtaW1nOiB1cmwoJy4uL2Fzc2V0cy9kZXNjLnBuZycpCiAgICAgICAgfQogICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjWzVdID0gJzxzcGFuIGNsYXNzPSJ0aW1lU29ydFRvZ2dsZSI+5YiS5ouo5pe26Ze0PC9zcGFuPic7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjWzVdID0gJzxzcGFuIGNsYXNzPSJ0aW1lU29ydFRvZ2dsZSI+5YiS5ouo5pe26Ze0PC9zcGFuPic7Cg==</text>
+        <text encoding="base64">ICAgICAgLmljb24gewogICAgICAgIGRpc3BsYXk6IGlubGluZS1ibG9jazsKICAgICAgICBoZWlnaHQ6IDE1cHg7CiAgICAgICAgd2lkdGg6IDE1cHg7CiAgICAgICAgYmFja2dyb3VuZC1zaXplOiBjb250YWluOwogICAgICAgIGJhY2tncm91bmQtcG9zdGlvbjogY2VudGVyOwogICAgICAgICYuYXNjIHsKICAgICAgICAgIGJhY2tncm91bmQtaW1nOiB1cmwoJy4uL2Fzc2V0cy9hc2MucG5nJykKICAgICAgICB9CiAgICAgICAgJi5kZXNjIHsKICAgICAgICAgIGJhY2tncm91bmQtaW1nOiB1cmwoJy4uL2Fzc2V0cy9kZXNjLnBuZycpCiAgICAgICAgfQogICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPGkgY2xhc3M9Imljb24gPCU9IHRpbWVTb3J0TmFtZSAlPiI+PC9pPgo=</text>
+        <text encoding="base64">ICAgICAgICBjWzVdID0gJzxzcGFuIGNsYXNzPSJ0aW1lU29ydFRvZ2dsZSI+5YiS5ouo5pe26Ze0PC9zcGFuPic7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjWzVdID0gJzxzcGFuIGNsYXNzPSJ0aW1lU29ydFRvZ2dsZSI+5YiS5ouo5pe26Ze0PC9zcGFuPic7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PT09PT09PQoKPj4+Pj4+PiAucjEyMzI5Cg==</text>
+        <text encoding="base64">ICAgICAgPGkgY2xhc3M9Imljb24gPCU9IHRpbWVTb3J0TmFtZSAlPiI+PC9pPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCAubWluZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbWFyZ2luLWJvdHRvbTogMTVweDsK</text>
+        <text encoding="base64">PT09PT09PQoKPj4+Pj4+PiAucjEyMzI5Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCAubWluZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
