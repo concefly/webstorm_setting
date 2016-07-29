@@ -2063,11 +2063,11 @@
         <mark key="^" line="2" column="100" />
         <mark key="." line="2" column="100" />
       </file>
-      <file name="$USER_HOME$/project/donor-pc/src/entries/index.js" timestamp="1469805936463">
-        <mark key="[" line="82" column="29" />
-        <mark key="]" line="82" column="33" />
-        <mark key="." line="82" column="33" />
-        <mark key="^" line="82" column="33" />
+      <file name="$USER_HOME$/project/donor-pc/src/entries/index.js" timestamp="1469808191446">
+        <mark key="[" line="31" column="15" />
+        <mark key="]" line="31" column="18" />
+        <mark key="." line="31" column="18" />
+        <mark key="^" line="31" column="18" />
       </file>
       <file name="$USER_HOME$/project/donation/8.3+/www/donation/index.htm" timestamp="1469803494035">
         <mark key="[" line="5" column="11" />
@@ -2464,10 +2464,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>//localhost:9002/dist/index.js</text>
+        <text encoding="base64">bGV0IA==</text>
       </register>
       <register name="-" type="4">
-        <text>//localhost:9002/dist/index.js</text>
+        <text encoding="base64">bGV0IA==</text>
       </register>
       <register name="/" type="4">
         <text>xRpc</text>
