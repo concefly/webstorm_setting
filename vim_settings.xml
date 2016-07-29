@@ -162,11 +162,11 @@
         <mark key="^" line="2" column="48" />
         <mark key="." line="2" column="48" />
       </file>
-      <file name="$USER_HOME$/project/ANT01190853_20160720_charityprod/htdocs/templates/donate/screen/itemDetail.vm" timestamp="1469765463554">
+      <file name="$USER_HOME$/project/ANT01190853_20160720_charityprod/htdocs/templates/donate/screen/itemDetail.vm" timestamp="1469765712860">
         <mark key="'" line="214" column="19" />
-        <mark key="[" line="222" column="23" />
-        <mark key="]" line="222" column="29" />
-        <mark key="." line="222" column="29" />
+        <mark key="[" line="242" column="0" />
+        <mark key="]" line="249" column="9" />
+        <mark key="." line="242" column="0" />
         <mark key="^" line="222" column="29" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/column_list/base.js" timestamp="1455763790163">
@@ -1149,8 +1149,9 @@
         <mark key="^" line="10" column="17" />
         <mark key="." line="10" column="17" />
       </file>
-      <file name="$USER_HOME$/project/donor-pc/src/entries/index.html" timestamp="1469764213977">
-        <mark key="]" line="47" column="10" />
+      <file name="$USER_HOME$/project/donor-pc/src/entries/index.html" timestamp="1469765700211">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="16" column="10" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/partials/layout/layout.scss" timestamp="1450317123477">
         <mark key="[" line="39" column="19" />
@@ -2318,8 +2319,8 @@
       <jump line="214" column="19" filename="$USER_HOME$/project/ANT01190853_20160720_charityprod/htdocs/templates/donate/screen/itemDetail.vm" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>J-amount-rec__react</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICA8c2NyaXB0PgogICAgd2luZG93Ll9fZG9uYXRpb24gPSB7CiAgICAgIHRpbWVsaW5lVXJsOiAnL2RvbmF0ZS9nZXRGdW5kUmVjb3JkLmpzb24nLAogICAgICBhbW91bnRMaXN0VXJsOiAnL2RvbmF0ZS9zaG93RnVuZERldGFpbC5qc29uJywKICAgICAgZWxJZDogJ19fbW91bnQnLAogICAgICBkb25hdGVJZDogJzIwMTYwMTEzMjAxNTEyOTY4OTQnCiAgICB9CiAgPC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>J-amount-rec__react</text>
@@ -2328,7 +2329,7 @@
         <text>J-amount</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgRW5jb2RpbmdQbHVnaW4gPSByZXF1aXJlKCd3ZWJwYWNrLWVuY29kaW5nLXBsdWdpbicpOwo=</text>
+        <text encoding="base64">ICA8c2NyaXB0PgogICAgd2luZG93Ll9fZG9uYXRpb24gPSB7CiAgICAgIHRpbWVsaW5lVXJsOiAnL2RvbmF0ZS9nZXRGdW5kUmVjb3JkLmpzb24nLAogICAgICBhbW91bnRMaXN0VXJsOiAnL2RvbmF0ZS9zaG93RnVuZERldGFpbC5qc29uJywKICAgICAgZWxJZDogJ19fbW91bnQnLAogICAgICBkb25hdGVJZDogJzIwMTYwMTEzMjAxNTEyOTY4OTQnCiAgICB9CiAgPC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICdodHRwczovL29zLmFsaXBheW9iamVjdHMuY29tL3Jtc3BvcnRhbC9FdnJiVGdMYm51WEdLTEouanMnLAo=</text>
