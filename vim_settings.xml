@@ -522,7 +522,7 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1469849359494">
+      <file name="/Dummy.txt" timestamp="1469858383598">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/article/article.list.js" timestamp="1450423705050">
@@ -561,11 +561,11 @@
         <mark key="^" line="1" column="25" />
         <mark key="." line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/project/ANT01190853_20160720_charityprod/htdocs/uisvr/donate/itemDetail.js" timestamp="1469849332314">
+      <file name="$USER_HOME$/project/ANT01190853_20160720_charityprod/htdocs/uisvr/donate/itemDetail.js" timestamp="1469858298490">
         <mark key="[" line="88" column="5" />
-        <mark key="]" line="88" column="61" />
-        <mark key="." line="88" column="61" />
-        <mark key="^" line="88" column="61" />
+        <mark key="]" line="88" column="5" />
+        <mark key="." line="88" column="5" />
+        <mark key="^" line="88" column="6" />
       </file>
       <file name="$USER_HOME$/project/donor/package.json" timestamp="1469710934762">
         <mark key="[" line="39" column="52" />
@@ -2449,10 +2449,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>//os.alipayobjects.com/rmsportal/PKlWuNLBKWEBxmO.js</text>
+        <text>http:</text>
       </register>
       <register name="-" type="4">
-        <text>//os.alipayobjects.com/rmsportal/PKlWuNLBKWEBxmO.js</text>
+        <text>http:</text>
       </register>
       <register name="/" type="4">
         <text>爱心</text>
