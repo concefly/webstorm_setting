@@ -291,6 +291,7 @@
         <mark key="^" line="19" column="40" />
         <mark key="." line="19" column="40" />
       </file>
+      <file name="$USER_HOME$/project/antcloud/home/app/controllers/home.js" timestamp="1470298148833" />
       <file name="$USER_HOME$/project/pet/backend/resources/views/wechat/check/demo.blade.php" timestamp="1449202896549">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="16" column="0" />
@@ -1224,6 +1225,12 @@
         <mark key="." line="8" column="13" />
         <mark key="^" line="8" column="13" />
       </file>
+      <file name="$USER_HOME$/project/my/news/package.json" timestamp="1469893431260">
+        <mark key="[" line="11" column="13" />
+        <mark key="]" line="11" column="28" />
+        <mark key="." line="11" column="28" />
+        <mark key="^" line="11" column="28" />
+      </file>
       <file name="$USER_HOME$/project/antcloud/usercenter/client/src/entry/en-US.js" timestamp="1468228007176">
         <mark key="[" line="10" column="3" />
         <mark key="]" line="10" column="17" />
@@ -1756,7 +1763,7 @@
         <mark key="^" line="44" column="93" />
         <mark key="." line="44" column="93" />
       </file>
-      <file name="/a.regexp" timestamp="1469794534319">
+      <file name="/a.regexp" timestamp="1470298706470">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -2108,6 +2115,7 @@
         <mark key="^" line="1" column="31" />
         <mark key="." line="1" column="31" />
       </file>
+      <file name="$USER_HOME$/project/antcloud/home/app/models/Mode.js" timestamp="1470298699432" />
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/about/about.scss" timestamp="1456481865045">
         <mark key="[" line="1" column="10" />
         <mark key="]" line="3" column="22" />
@@ -2449,10 +2457,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>http:</text>
+        <text>concefly@foxmail.com</text>
       </register>
       <register name="-" type="4">
-        <text>http:</text>
+        <text>concefly@foxmail.com</text>
       </register>
       <register name="/" type="4">
         <text>爱心</text>
