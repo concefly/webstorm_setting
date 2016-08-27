@@ -154,10 +154,10 @@
         <mark key="^" line="4" column="89" />
         <mark key="." line="4" column="89" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/launch.js" timestamp="1472267373976">
-        <mark key="[" line="1" column="46" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="E:/hwj/project/iLighting/local-server/src/launch.js" timestamp="1472270895446">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/article_type_list/topic.blade.php" timestamp="1455763708724">
         <mark key="[" line="32" column="4" />
@@ -561,6 +561,11 @@
         <mark key="]" line="31" column="16" />
         <mark key="^" line="30" column="38" />
         <mark key="." line="30" column="38" />
+      </file>
+      <file name="E:/hwj/project/iLighting/local-server/src/libs/zigbee.js" timestamp="1472271003022">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/catalog_news/catalog_news.scss" timestamp="1456910821590">
         <mark key="[" line="19" column="13" />
@@ -2112,10 +2117,10 @@
         <mark key="^" line="32" column="39" />
         <mark key="." line="32" column="39" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/mock/db.js" timestamp="1472267871171">
-        <mark key="[" line="3" column="37" />
-        <mark key="]" line="3" column="37" />
-        <mark key="." line="3" column="37" />
+      <file name="E:/hwj/project/iLighting/local-server/src/mock/db.js" timestamp="1472270766068">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/views/disease/index.js" timestamp="1449744477301">
         <mark key="[" line="21" column="29" />
@@ -2488,44 +2493,44 @@
       <jump line="241" column="0" filename="$USER_HOME$/project/ANT01190853_20160720_charityprod/htdocs/templates/donate/screen/itemDetail.vm" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHsKICAgIAogIH0=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnQEAnLGFwcHNSZXEpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>dev</text>
+        <text>Random</text>
       </register>
       <register name="/" type="4">
         <text>爱心</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBjb25zdCB7IERldmljZSwgQXBwIH0gPSB0aGlzLm1vdW50Lm1vZGVsczsKICB0cnkgewogICAgbGV0IGRldiA9IHlpZWxkIERldmljZS5maW5kT25lKGRiUXVlcnkpLmV4ZWMoKTsKICAgIGlmIChkZXYpIHsKICAgICAgZGV2LmFwcHMgPSB5aWVsZCBBcHAKICAgICAgICAuZmluZCgpCiAgICAgICAgLndoZXJlKCdkZXZpY2UnKQogICAgICAgIC5lcXVhbHMoZGV2Lm53aykKICAgICAgICAuZXhlYygpOwogICAgfSBlbHNlIHsKICAgICAgdGhyb3cgbmV3IEVycm9yKCfJ6LG4zrTV0rW9Jyk7CiAgICB9CiAgICB0aGlzLmJvZHkgPSBuZXcgTXNnKGRldik7CiAgfSBjYXRjaCAoZSkgewogICAgdGhpcy5ib2R5ID0gbmV3IE1zZyhkYlF1ZXJ5LCBlKTsKICB9Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">WzEsMiwzLDQsNSw2LDcsOF0ubWFwKG53ayA9PiBtb2NrKHsKICAgICdud2snOiBud2ssCiAgICAnaWVlZSc6ICdAZ3VpZCcsCiAgICAndHlwZXwxJzogWydyb3V0ZXInLCAnZW5kRGV2aWNlJ10sCiAgICAnYXBwc3wzJzogZ2VuQXBwcygpCiAgfSkp</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IHsKICAgIAogIH0=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnQEAnLGFwcHNSZXEpOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICByZXR1cm4gbW9jayh7CiAgICAKICB9KQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhtb2NrRGF0ZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly9ub2luc3BlY3Rpb24gSlNVbnJlc29sdmVkVmFyaWFibGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvL25vaW5zcGVjdGlvbiBKU1VucmVzb2x2ZWRWYXJpYWJsZQo=</text>
+        <text encoding="base64">Ly8gY29uc29sZS5kaXIoZ2VuKCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0gZWxzZSB7CiAgICAgIHRocm93IG5ldyBFcnJvcignyeixuM601dK1vScpOwogICAgfQo=</text>
+        <text encoding="base64">ICB5aWVsZCByZXF1aXJlKCcuL2xpYnMvemlnYmVlJykuZGV2aWNlSm9pbihtb2NrKCkpOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIChkZXYpIHsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICByZXR1cm4gbW9jayh7CiAgICBkZXZpY2U6IGdlbkRldmljZXMKICB9KQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxldCBlcEFwcCA9IEFwcC5maW5kKCkK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHIuYXBwcykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxldCBkZXYgPSB5aWVsZCBEZXZpY2UuZmluZE9uZShkYlF1ZXJ5KS5leGVjKCk7Cg==</text>
+        <text encoding="base64">ICAgIHIuYXBwcyA9IGdlbkFwcHMoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZGV2LmFwcHMgPSBhcHBzOwo=</text>
+        <text encoding="base64">ICAgICAgJ2FwcHN8Myc6IGdlbkFwcHMoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
