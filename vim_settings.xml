@@ -152,6 +152,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="E:/hwj/project/iLighting/web-client/src/services/xFetch.js" timestamp="1472291153975">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/article_type_list/topic.blade.php" timestamp="1455763708724">
         <mark key="[" line="32" column="4" />
         <mark key="]" line="32" column="4" />
@@ -783,6 +788,12 @@
         <mark key="]" line="7" column="1" />
         <mark key="^" line="7" column="1" />
         <mark key="." line="7" column="1" />
+      </file>
+      <file name="E:/hwj/project/iLighting/web-client/package.json" timestamp="1472290919264">
+        <mark key="[" line="7" column="17" />
+        <mark key="]" line="11" column="29" />
+        <mark key="^" line="11" column="29" />
+        <mark key="." line="11" column="29" />
       </file>
       <file name="$USER_HOME$/project/antcloud/usercenter/client/tracker/index.js" timestamp="1469168162023">
         <mark key="[" line="48" column="62" />
@@ -2500,8 +2511,8 @@
       <jump line="241" column="0" filename="$USER_HOME$/project/ANT01190853_20160720_charityprod/htdocs/templates/donate/screen/itemDetail.vm" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>frame.parse(srsp)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CmZ1bmN0aW9uIGNoZWNrVHlwZShyZXMpIHsKICAKfQo=</text>
       </register>
       <register name="-" type="4">
         <text>frame.parse(srsp)</text>
@@ -2513,31 +2524,31 @@
         <text encoding="base64">ICAgKiBAcmV0dXJuIHt7Y21kMCwgY21kMSwgZGF0YX19Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmZ1bmN0aW9uIGNoZWNrVHlwZShyZXMpIHsKICAKfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICByZXR1cm4geyBjbWQwLCBjbWQxLCBkYXRhIH07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgKiBAcmV0dXJuIHtPYmplY3R9Cg==</text>
+        <text encoding="base64">ICByZXR1cm4geyBjbWQwLCBjbWQxLCBkYXRhIH07Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gT2JqZWN0Cg==</text>
+        <text encoding="base64">ICAgKiBAcmV0dXJuIHtPYmplY3R9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gT2JqZWN0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4geyBjbWQwLCBjbWQxLCB9Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGxldCByZSA9IHt9Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4geyBjbWQwLCBjbWQxLCB9Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGxldCByZSA9IHt9Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwYXJzZVNyc3A6IGZ1bmN0aW9uIChmcmFtZSkgewogICAgCiAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
