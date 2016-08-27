@@ -147,10 +147,11 @@
         <mark key="^" line="4" column="89" />
         <mark key="." line="4" column="89" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/launch.js" timestamp="1472293590304">
+      <file name="E:/hwj/project/iLighting/local-server/src/launch.js" timestamp="1472296449574">
         <mark key="[" line="3" column="30" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+        <mark key="]" line="20" column="10" />
+        <mark key="." line="20" column="10" />
+        <mark key="^" line="20" column="10" />
       </file>
       <file name="E:/hwj/project/iLighting/web-client/src/services/xFetch.js" timestamp="1472291153975">
         <mark key="[" line="30" column="0" />
@@ -660,6 +661,12 @@
         <mark key="^" line="6" column="31" />
         <mark key="." line="6" column="31" />
       </file>
+      <file name="E:/hwj/project/iLighting/web-client/src/components/Lamps/LampList.jsx" timestamp="1472299453642">
+        <mark key="[" line="36" column="12" />
+        <mark key="]" line="40" column="27" />
+        <mark key="." line="40" column="27" />
+        <mark key="^" line="40" column="27" />
+      </file>
       <file name="$USER_HOME$/project/iLight/web-client/src/components/Home.jsx" timestamp="1464883769624">
         <mark key="[" line="6" column="15" />
         <mark key="]" line="7" column="9" />
@@ -790,11 +797,11 @@
         <mark key="^" line="7" column="1" />
         <mark key="." line="7" column="1" />
       </file>
-      <file name="E:/hwj/project/iLighting/web-client/package.json" timestamp="1472290919264">
-        <mark key="[" line="7" column="17" />
-        <mark key="]" line="11" column="29" />
+      <file name="E:/hwj/project/iLighting/web-client/package.json" timestamp="1472299502751">
+        <mark key="[" line="52" column="103" />
+        <mark key="]" line="52" column="103" />
         <mark key="^" line="11" column="29" />
-        <mark key="." line="11" column="29" />
+        <mark key="." line="52" column="103" />
       </file>
       <file name="$USER_HOME$/project/antcloud/usercenter/client/tracker/index.js" timestamp="1469168162023">
         <mark key="[" line="48" column="62" />
@@ -813,11 +820,10 @@
         <mark key="^" line="1" column="35" />
         <mark key="." line="1" column="27" />
       </file>
-      <file name="E:/hwj/project/iLighting/web-client/src/actions/lamps.js" timestamp="1472291628683">
-        <mark key="[" line="22" column="30" />
-        <mark key="]" line="22" column="31" />
-        <mark key="^" line="5" column="19" />
-        <mark key="." line="22" column="31" />
+      <file name="E:/hwj/project/iLighting/web-client/src/actions/lamps.js" timestamp="1472299624992">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/validator2/validator.js" timestamp="1453264053696">
         <mark key="[" line="9" column="0" />
@@ -931,6 +937,17 @@
         <mark key="]" line="6" column="37" />
         <mark key="^" line="6" column="40" />
         <mark key="." line="6" column="37" />
+      </file>
+      <file name="E:/hwj/project/iLighting/web-client/src/sagas/lamps.js" timestamp="1472296671662">
+        <mark key="[" line="11" column="3" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="E:/hwj/project/iLighting/web-client/src/components/Lamps/Lamps.jsx" timestamp="1472298923080">
+        <mark key="[" line="39" column="14" />
+        <mark key="]" line="39" column="14" />
+        <mark key="." line="39" column="14" />
+        <mark key="^" line="39" column="14" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/label/main.js" timestamp="1449563890918">
         <mark key="[" line="14" column="0" />
@@ -1345,9 +1362,6 @@
         <mark key="]" line="5" column="51" />
         <mark key="^" line="5" column="51" />
         <mark key="." line="5" column="51" />
-      </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/model/schema.js" timestamp="1472266725738">
-        <mark key="[" line="39" column="1" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/user/profile/add_avatar_dialog.tpl" timestamp="1455596653596">
         <mark key="[" line="11" column="183" />
@@ -2314,6 +2328,12 @@
         <mark key="^" line="7" column="53" />
         <mark key="." line="7" column="53" />
       </file>
+      <file name="E:/hwj/project/iLighting/web-client/src/services/lamps.js" timestamp="1472296543371">
+        <mark key="[" line="15" column="1" />
+        <mark key="]" line="7" column="35" />
+        <mark key="." line="7" column="35" />
+        <mark key="^" line="7" column="35" />
+      </file>
       <file name="$USER_HOME$/project/my/news/src/entries/index.js" timestamp="1468725408841">
         <mark key="[" line="42" column="37" />
         <mark key="]" line="42" column="47" />
@@ -2377,10 +2397,10 @@
         <mark key="^" line="46" column="18" />
         <mark key="." line="46" column="18" />
       </file>
-      <file name="E:/hwj/project/iLighting/web-client/src/reducers/lamps.js" timestamp="1472291619574">
-        <mark key="[" line="13" column="17" />
-        <mark key="]" line="13" column="18" />
-        <mark key="." line="13" column="18" />
+      <file name="E:/hwj/project/iLighting/web-client/src/reducers/lamps.js" timestamp="1472297165970">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="16" column="18" />
+        <mark key="." line="16" column="18" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/article_type_list/video.tpl" timestamp="1455674249134">
         <mark key="[" line="31" column="0" />
@@ -2529,10 +2549,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGV4cGVjdChlcnIpLnRvLmJlLmFuLmluc3RhbmNlT2YoRXJyb3IpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>爱心</text>
@@ -2541,31 +2561,31 @@
         <text encoding="base64">ICBjb25zdCB7IEFwcCB9ID0gdGhpcy5tb3VudC5tb2RlbHM7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGV4cGVjdChlcnIpLnRvLmJlLmFuLmluc3RhbmNlT2YoRXJyb3IpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZAo=</text>
+        <text encoding="base64">ICAgIGV4cGVjdChkYXRhKS50by5iZS5hbignYXJyYXknKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLndoZXJlKCd0eXBlJykuZXF1YWwodHlwZSkK</text>
+        <text encoding="base64">ICAgICAgPGRpdj5BPC9kaXY+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgPFRhYmxlCiAgICAgICAgY29sdW1ucz17Z2VuQ29scygpfQogICAgICAgIGRhdGFTb3VyY2U9e3NlbGYuZGF0YVNvdXJjZX0KICAgICAgICBvblJvd0NsaWNrPXtzZWxmLmhhbmRsZVJvd0NsaWNrLmJpbmQoc2VsZil9CiAgICAgICAgc2hvd0hlYWRlcj17ZmFsc2V9CiAgICAgICAgdXNlRml4ZWRIZWFkZXI9e2ZhbHNlfQogICAgICAgIGJvcmRlcmVkPXt0cnVlfQogICAgICAgIHBhZ2luYXRpb249e2ZhbHNlfQogICAgICAvPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBleHBlY3QodHlwZSkudG8uYmUuYSgnc3RyaW5nJyk7Cg==</text>
+        <text encoding="base64">ICBnZXREYXRhU291cmNlID0gKCkgPT4gewogICAgY29uc3QgbGFtcHMgPSB0aGlzLnByb3BzLmxhbXBzOwogICAgY29uc3QgaWRzID0gT2JqZWN0LmtleXMobGFtcHMpOwogICAgY29uc3Qgcm91dGVySWQgPSB0aGlzLnByb3BzLmFjdGl2ZUlkOwogICAgcmV0dXJuIGlkcy5tYXAoaWQgPT4gewogICAgICBjb25zdCBzdCA9IHJvdXRlcklkPT1pZD8gc3R5bGVzWydsaXN0LWl0ZW0taW5uZXItLWFjdGl2ZSddOiIiOwogICAgICByZXR1cm4gewogICAgICAgIGtleTogaWQsCiAgICAgICAgbmFtZTogPGRpdiBjbGFzc05hbWU9e3N0fT57bGFtcHNbaWRdLm5hbWV9PC9kaXY+CiAgICAgIH0KICAgIH0pCiAgfTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAnL2FwaS9sYW1wcy8qJzogJ2h0dHA6Ly9sb2NhbGhvc3Q6MzAwMC8nLAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgZ2V0RGF0YVNvdXJjZSB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CmZ1bmN0aW9uIGNoZWNrVHlwZShyZXMpIHsKICAKfQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHNlbGYgPSB0aGlzOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHNlbGYgPSB0aGlzOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByZXR1cm4geyBjbWQwLCBjbWQxLCBkYXRhIH07Cg==</text>
+        <text encoding="base64">ICBhY3RpdmVJZDogUHJvcFR5cGVzLm9uZU9mVHlwZShbCiAgICBQcm9wVHlwZXMubnVtYmVyLAogICAgUHJvcFR5cGVzLnN0cmluZwogIF0pLmlzUmVxdWlyZWQsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
