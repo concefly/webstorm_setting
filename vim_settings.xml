@@ -53,13 +53,6 @@
         <mark key="^" line="2" column="50" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/project/ANT01190853_20160720_charityprod/htdocs/templates/donate/screen/itemDetail.vm" timestamp="1469819656284">
-        <mark key="'" line="241" column="0" />
-        <mark key="[" line="121" column="108" />
-        <mark key="]" line="121" column="107" />
-        <mark key="." line="121" column="107" />
-        <mark key="^" line="121" column="107" />
-      </file>
       <file name="$USER_HOME$/project/donor-pc/src/entries/a.html" timestamp="1469674509685">
         <mark key="[" line="1" column="5" />
         <mark key="]" line="1" column="13" />
@@ -562,10 +555,11 @@
         <mark key="^" line="30" column="38" />
         <mark key="." line="30" column="38" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/libs/zigbee.js" timestamp="1472271003022">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
+      <file name="E:/hwj/project/iLighting/local-server/src/libs/zigbee.js" timestamp="1472277271250">
+        <mark key="[" line="47" column="17" />
+        <mark key="]" line="47" column="18" />
+        <mark key="." line="47" column="18" />
+        <mark key="^" line="47" column="18" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/catalog_news/catalog_news.scss" timestamp="1456910821590">
         <mark key="[" line="19" column="13" />
@@ -806,6 +800,9 @@
         <mark key="]" line="10" column="26" />
         <mark key="^" line="10" column="26" />
         <mark key="." line="10" column="26" />
+      </file>
+      <file name="E:/hwj/project/iLighting/local-server/src/libs/mt.js" timestamp="1472277761791">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/flaming-cloud/contactor/node_modules/sockjs-client/lib/transport/websocket.js" timestamp="1467872864436">
         <mark key="[" line="28" column="6" />
@@ -1847,13 +1844,6 @@
       <file name="$USER_HOME$/project/my/antd-tracker-core/lib/core.js" timestamp="1468381864927">
         <mark key="[" line="1" column="34" />
       </file>
-      <file name="$USER_HOME$/project/donation/8.3+/www/donation/1.0.0/donation-rec.js" timestamp="1469768048303">
-        <mark key="'" line="5" column="13857" />
-        <mark key="[" line="5" column="14333" />
-        <mark key="]" line="5" column="14340" />
-        <mark key="." line="5" column="14340" />
-        <mark key="^" line="5" column="14340" />
-      </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/app/Http/Controllers/Admin/AdminController.php" timestamp="1450066153291">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -1922,11 +1912,11 @@
         <mark key="^" line="48" column="26" />
         <mark key="." line="48" column="26" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/routers/client.js" timestamp="1472274172504">
-        <mark key="[" line="23" column="24" />
-        <mark key="]" line="23" column="75" />
-        <mark key="." line="23" column="75" />
-        <mark key="^" line="23" column="75" />
+      <file name="E:/hwj/project/iLighting/local-server/src/routers/client.js" timestamp="1472276886161">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+        <mark key="^" line="40" column="19" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/product/product.tpl" timestamp="1450425778324">
         <mark key="[" line="3" column="59" />
@@ -2494,43 +2484,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>dev</text>
+        <text>have.property('nwk').that.is</text>
       </register>
       <register name="-" type="4">
-        <text>dev</text>
+        <text>have.property('nwk').that.is</text>
       </register>
       <register name="/" type="4">
         <text>爱心</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">WzEsMiwzLDQsNSw2LDcsOF0ubWFwKG53ayA9PiBtb2NrKHsKICAgICdud2snOiBud2ssCiAgICAnaWVlZSc6ICdAZ3VpZCcsCiAgICAndHlwZXwxJzogWydyb3V0ZXInLCAnZW5kRGV2aWNlJ10sCiAgICAnYXBwc3wzJzogZ2VuQXBwcygpCiAgfSkp</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBjb25zdCB7IERldmljZSwgQXBwIH0gPSBtb2RlbHM7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRldi50b09iamVjdCgpKQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRldi5hcHBzKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnQEAnLGFwcHNSZXEpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhtb2NrRGF0ZSkK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgLndoZXJlKCdkZXZpY2UnKS5lcXVhbHMobndrKQogICAgICAud2hlcmUoJ2VuZFBvaW50JykuZXF1YWxzKGVwKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAvLyDH5b/VtbHHsMnosbjPwmFwcAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICB5aWVsZCBBcHAucmVtb3ZlKHtkZXZpY2U6IG53a30pLmV4ZWMoKTsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gY29uc29sZS5kaXIoZ2VuKCkpOwo=</text>
+        <text encoding="base64">ICAgIC8vIMflv9W1scewyeixuM/CYXBwCiAgICB5aWVsZCBBcHAucmVtb3ZlKHtkZXZpY2U6IGRldi5ud2t9KS5leGVjKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB5aWVsZCByZXF1aXJlKCcuL2xpYnMvemlnYmVlJykuZGV2aWNlSm9pbihtb2NrKCkpOwo=</text>
+        <text encoding="base64">Ly8gY29uc3QgZGV2aWNlSm9pbiA9IGZ1bmN0aW9uIChkZXZSZXEpIHsKLy8gICByZXR1cm4gbmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gewovLyAgICAgdHJ5IHsKLy8gICAgICAgZXhwZWN0KGRldlJlcSkudG8uaGF2ZS5wcm9wZXJ0eSgnbndrJykudGhhdC5pcy5hKCdudW1iZXInKTsKLy8gICAgICAgZXhwZWN0KGRldlJlcSkudG8uaGF2ZS5wcm9wZXJ0eSgnaWVlZScpLnRoYXQuaXMuYSgnc3RyaW5nJyk7Ci8vICAgICAgIGV4cGVjdChkZXZSZXEpLnRvLmhhdmUucHJvcGVydHkoJ3R5cGUnKS50aGF0LmlzLmEoJ3N0cmluZycpOwovLyAgICAgICBleHBlY3QoZGV2UmVxKS50by5oYXZlLnByb3BlcnR5KCdhcHBzJykudGhhdC5pcy5hKCdhcnJheScpOwovLyAgICAgfSBjYXRjaCAoZSkgewovLyAgICAgICByZWplY3QoZSkKLy8gICAgIH0KLy8gICAgIGNvbnN0IHsgRGV2aWNlLCBBcHAgfSA9IG1vZGVsczsKLy8gICAgIGNvbnN0IHsgbndrLCBpZWVlLCB0eXBlLCBhcHBzIH0gPSBkZXZSZXE7Ci8vICAgICBEZXZpY2UuY3JlYXRlKHtud2ssIGllZWUsIHR5cGV9LCAoZXJyLCBkZXYpID0+IHsKLy8gICAgICAgaWYgKGVycikgeyByZWplY3QoZXJyKTsgfQovLyAgICAgICBpZiAoYXBwcy5sZW5ndGggPiAwKSB7Ci8vICAgICAgICAgbGV0IGFwcHNSZXEgPSBhcHBzLm1hcChpdGVtID0+IE9iamVjdC5hc3NpZ24oe30sIGl0ZW0sIHtkZXZpY2U6IGRldi5ud2t9KSk7Ci8vICAgICAgICAgLy8gx+W/1bWxx7DJ6LG4z8K1xGFwcAovLyAgICAgICAgIEFwcC5yZW1vdmUoe2RldmljZTogZGV2Lm53a30pLmV4ZWMoKTsKLy8gICAgICAgICBBcHAuY3JlYXRlKGFwcHNSZXEsIChlcnIsIGFwcEluc0xpc3QpID0+IHsKLy8gICAgICAgICAgIGlmIChlcnIpIHsgcmVqZWN0KGVycikgfQovLyAgICAgICAgICAgcmVzb2x2ZSh7ZGV2aWNlOiBkZXYsIGFwcHM6IGFwcEluc0xpc3R9KTsKLy8gICAgICAgICB9KQovLyAgICAgICB9IGVsc2UgewovLyAgICAgICAgIHJlc29sdmUoe2RldmljZTogZGV2LCBhcHBzOiBbXX0pOwovLyAgICAgICB9Ci8vICAgICB9KTsKLy8gICB9KTsKLy8gfTsKCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICByZXR1cm4gbW9jayh7CiAgICBkZXZpY2U6IGdlbkRldmljZXMKICB9KQ==</text>
+      <register name="8" type="8">
+        <text encoding="base64">Ly8gICAgCi8vICAgIA==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHIuYXBwcykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
