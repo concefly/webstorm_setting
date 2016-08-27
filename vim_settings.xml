@@ -154,8 +154,8 @@
         <mark key="^" line="4" column="89" />
         <mark key="." line="4" column="89" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/launch.js" timestamp="1472230901034">
-        <mark key="[" line="3" column="0" />
+      <file name="E:/hwj/project/iLighting/local-server/src/launch.js" timestamp="1472265023114">
+        <mark key="[" line="13" column="51" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
@@ -187,9 +187,6 @@
         <mark key="]" line="105" column="4" />
         <mark key="." line="105" column="4" />
         <mark key="^" line="105" column="2" />
-      </file>
-      <file name="$USER_HOME$/project/donor-pc/src/entries/index.less" timestamp="1469806158275">
-        <mark key="^" line="9" column="21" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/catalog_news/catalog_news.js" timestamp="1456901333402">
         <mark key="[" line="6" column="31" />
@@ -499,6 +496,12 @@
         <mark key="^" line="40" column="66" />
         <mark key="." line="40" column="66" />
       </file>
+      <file name="E:/hwj/project/iLighting/local-server/src/utils/msg.js" timestamp="1472265546881">
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="5" column="12" />
+        <mark key="." line="5" column="12" />
+        <mark key="^" line="5" column="12" />
+      </file>
       <file name="$USER_HOME$/project/donor-pc/src/components/App.less" timestamp="1469712327352">
         <mark key="[" line="16" column="1" />
         <mark key="]" line="17" column="0" />
@@ -571,7 +574,7 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="6" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1469860022679">
+      <file name="/Dummy.txt" timestamp="1472265138570">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/gulpfile.js" timestamp="1450060083570">
@@ -1316,6 +1319,9 @@
         <mark key="^" line="5" column="51" />
         <mark key="." line="5" column="51" />
       </file>
+      <file name="E:/hwj/project/iLighting/local-server/src/model/schema.js" timestamp="1472266216617">
+        <mark key="[" line="39" column="1" />
+      </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/user/profile/add_avatar_dialog.tpl" timestamp="1455596653596">
         <mark key="[" line="11" column="183" />
         <mark key="]" line="11" column="188" />
@@ -1912,6 +1918,12 @@
         <mark key="^" line="48" column="26" />
         <mark key="." line="48" column="26" />
       </file>
+      <file name="E:/hwj/project/iLighting/local-server/src/routers/client.js" timestamp="1472266281856">
+        <mark key="[" line="38" column="14" />
+        <mark key="]" line="40" column="28" />
+        <mark key="." line="40" column="28" />
+        <mark key="^" line="40" column="28" />
+      </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/product/product.tpl" timestamp="1450425778324">
         <mark key="[" line="3" column="59" />
         <mark key="]" line="3" column="72" />
@@ -2338,6 +2350,12 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="E:/hwj/project/iLighting/local-server/bin/server.js" timestamp="1472265078270">
+        <mark key="[" line="7" column="12" />
+        <mark key="]" line="7" column="26" />
+        <mark key="." line="7" column="26" />
+        <mark key="^" line="7" column="26" />
+      </file>
       <file name="$USER_HOME$/project/heix/passport-frontend/libs/utils/query.js" timestamp="1452675816328">
         <mark key="[" line="5" column="91" />
         <mark key="]" line="6" column="2" />
@@ -2466,44 +2484,44 @@
       <jump line="241" column="0" filename="$USER_HOME$/project/ANT01190853_20160720_charityprod/htdocs/templates/donate/screen/itemDetail.vm" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>dev</text>
       </register>
       <register name="-" type="4">
-        <text>, err</text>
+        <text>dev</text>
       </register>
       <register name="/" type="4">
         <text>爱心</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZGJMb2cudHJhY2UoJ8r9vt2/4srXtM7BrL3TJywgcGF0aCk7Cg==</text>
+        <text encoding="base64">ICBjb25zdCB7IERldmljZSwgQXBwIH0gPSB0aGlzLm1vdW50Lm1vZGVsczsKICB0cnkgewogICAgbGV0IGRldiA9IHlpZWxkIERldmljZS5maW5kT25lKGRiUXVlcnkpLmV4ZWMoKTsKICAgIGlmIChkZXYpIHsKICAgICAgZGV2LmFwcHMgPSB5aWVsZCBBcHAKICAgICAgICAuZmluZCgpCiAgICAgICAgLndoZXJlKCdkZXZpY2UnKQogICAgICAgIC5lcXVhbHMoZGV2Lm53aykKICAgICAgICAuZXhlYygpOwogICAgfSBlbHNlIHsKICAgICAgdGhyb3cgbmV3IEVycm9yKCfJ6LG4zrTV0rW9Jyk7CiAgICB9CiAgICB0aGlzLmJvZHkgPSBuZXcgTXNnKGRldik7CiAgfSBjYXRjaCAoZSkgewogICAgdGhpcy5ib2R5ID0gbmV3IE1zZyhkYlF1ZXJ5LCBlKTsKICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0gZWxzZSB7CiAgICAgIHRocm93IG5ldyBFcnJvcignyeixuM601dK1vScpOwogICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlc29sdmUoe2RiLCBtb2RlbHN9KTsK</text>
+        <text encoding="base64">ICAgIGlmIChkZXYpIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZGJMb2cudHJhY2UoJ8r9vt2/4srXtM7BrL3TJywgcGF0aCk7Cg==</text>
+        <text encoding="base64">ICAgIGxldCBlcEFwcCA9IEFwcC5maW5kKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gY29uc3QgbGF1bmNoID0gZnVuY3Rpb24gKGNvbmZpZykgewovLyAgIHJldHVybiBuZXcgUHJvbWlzZSgocmVzb2x2ZSwgcmVqZWN0KSA9PiB7Ci8vICAgICB0cnkgewovLyAgICAgICAvLyCz9cq8u6/K/b7dv+IKLy8gICAgICAgY29uc3QgeyBpbml0OmluaXREYiB9ID0gcmVxdWlyZSgnLi9kYicpOwovLyAgICAgICBjb25zdCB7IGRiLCBtb2RlbHMgfSA9IGluaXREYihjb25maWcuZGIucGF0aCk7Ci8vICAgICAgIC8vILP1yry7r2FwcAovLyAgICAgICBjb25zdCBhcHAgPSByZXF1aXJlKCcuL2FwcCcpOwovLyAgICAgICBhcHAuY29udGV4dC5tb3VudCA9IHt9OwovLyAgICAgICBhcHAuY29udGV4dC5tb3VudC5kYiA9IGRiOwovLyAgICAgICBhcHAuY29udGV4dC5tb3VudC5tb2RlbHMgPSBtb2RlbHM7Ci8vICAgICAgIGFwcC5saXN0ZW4oY29uZmlnLnNlcnZlci5wb3J0KTsKLy8gICAgICAgc3lzTG9nLm1hcmsoJ9Om08PG9Lavs8m5pqOstsu/2rrFICVzJywgY29uZmlnLnNlcnZlci5wb3J0KTsKLy8gICAgIH0gY2F0Y2ggKGUpIHsKLy8gICAgICAgcmVqZWN0KGUpOwovLyAgICAgfQovLyAgIH0pCi8vIH0KCg==</text>
+        <text encoding="base64">ICAgIGxldCBkZXYgPSB5aWVsZCBEZXZpY2UuZmluZE9uZShkYlF1ZXJ5KS5leGVjKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgZGV2LmFwcHMgPSBhcHBzOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB0cnkgewo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHJlc29sdmUoe2RiLCBtb2RlbHN9KTsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgY28gPSByZXF1aXJlKCdjbycpOwo=</text>
+        <text encoding="base64">ICAgICAgZGJMb2cudHJhY2UoJ8r9vt2/4srXtM7BrL3TJywgcGF0aCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRocm93IG5ldyBFcnJvcignyv2+3b/iway908qnsNwnKTsK</text>
+        <text encoding="base64">Ly8gY29uc3QgbGF1bmNoID0gZnVuY3Rpb24gKGNvbmZpZykgewovLyAgIHJldHVybiBuZXcgUHJvbWlzZSgocmVzb2x2ZSwgcmVqZWN0KSA9PiB7Ci8vICAgICB0cnkgewovLyAgICAgICAvLyCz9cq8u6/K/b7dv+IKLy8gICAgICAgY29uc3QgeyBpbml0OmluaXREYiB9ID0gcmVxdWlyZSgnLi9kYicpOwovLyAgICAgICBjb25zdCB7IGRiLCBtb2RlbHMgfSA9IGluaXREYihjb25maWcuZGIucGF0aCk7Ci8vICAgICAgIC8vILP1yry7r2FwcAovLyAgICAgICBjb25zdCBhcHAgPSByZXF1aXJlKCcuL2FwcCcpOwovLyAgICAgICBhcHAuY29udGV4dC5tb3VudCA9IHt9OwovLyAgICAgICBhcHAuY29udGV4dC5tb3VudC5kYiA9IGRiOwovLyAgICAgICBhcHAuY29udGV4dC5tb3VudC5tb2RlbHMgPSBtb2RlbHM7Ci8vICAgICAgIGFwcC5saXN0ZW4oY29uZmlnLnNlcnZlci5wb3J0KTsKLy8gICAgICAgc3lzTG9nLm1hcmsoJ9Om08PG9Lavs8m5pqOstsu/2rrFICVzJywgY29uZmlnLnNlcnZlci5wb3J0KTsKLy8gICAgIH0gY2F0Y2ggKGUpIHsKLy8gICAgICAgcmVqZWN0KGUpOwovLyAgICAgfQovLyAgIH0pCi8vIH0KCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
