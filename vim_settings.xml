@@ -459,6 +459,12 @@
         <mark key="^" line="16" column="30" />
         <mark key="." line="16" column="30" />
       </file>
+      <file name="E:/hwj/project/iLighting/local-server/package.json" timestamp="1472360034292">
+        <mark key="[" line="8" column="5" />
+        <mark key="]" line="8" column="43" />
+        <mark key="." line="8" column="43" />
+        <mark key="^" line="8" column="43" />
+      </file>
       <file name="E:/hwj/project/iLighting/local-server/src/utils/mt.js" timestamp="1472290336648">
         <mark key="[" line="91" column="5" />
         <mark key="]" line="122" column="12" />
@@ -606,6 +612,9 @@
         <mark key="]" line="0" column="14" />
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
+      </file>
+      <file name="E:/hwj/project/iLighting/local-server/jsdoc.json" timestamp="1472360265166">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/components/modal/modal.tpl" timestamp="1453254299359">
         <mark key="[" line="2" column="38" />
@@ -2556,16 +2565,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>debug</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>debug</text>
       </register>
       <register name="/" type="4">
         <text>爱心</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB0cnkgewogICAgbGV0IGVwQXBwID0geWllbGQgQXBwCiAgICAgIC5maW5kT25lKHsKICAgICAgICBkZXZpY2U6IG53aywKICAgICAgICBlbmRQb2ludDogZXAKICAgICAgfSkKICAgICAgLmV4ZWMoKTsKICAgIGlmICghZXBBcHApIHRocm93IG5ldyBFcnJvcigntsu/2tOm08POtNXStb0nKTsKICAgIHRoaXMuYm9keSA9IG5ldyBNc2coZXBBcHAudG9PYmplY3QoKSk7CiAgfSBjYXRjaCAoZSkgewogICAgdGhpcy5ib2R5ID0gbmV3IE1zZyh7bndrLCBlcH0sIGUpOwogIH0K</text>
+        <text encoding="base64">ICAgICJkZWJ1ZyI6ICIuL25vZGVfbW9kdWxlcy8uYmluL25vZGUtZGVidWcgLi9iaW4vc2VydmVyLmpzIiwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICB0cnkgewogICAgCiAgfQo=</text>
