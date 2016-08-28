@@ -429,11 +429,11 @@
         <mark key="^" line="93" column="27" />
         <mark key="." line="93" column="27" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/utils/mtAppMsg.js" timestamp="1472396363277">
-        <mark key="[" line="3" column="3" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="7" column="25" />
-        <mark key="." line="7" column="0" />
+      <file name="E:/hwj/project/iLighting/local-server/src/utils/mtAppMsg.js" timestamp="1472397502380">
+        <mark key="[" line="35" column="32" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="23" column="30" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/label/label-mute.html" timestamp="1449539760161">
         <mark key="[" line="0" column="0" />
@@ -2614,10 +2614,8 @@
       <jump line="241" column="0" filename="$USER_HOME$/project/ANT01190853_20160720_charityprod/htdocs/templates/donate/screen/itemDetail.vm" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>const clusters = new Map({
-  
-});</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text>Addr</text>
@@ -2628,34 +2626,45 @@
       <register name="0" type="2">
         <text encoding="base64">Y29uc3QgY28gPSByZXF1aXJlKCdjbycpOwpjb25zdCB7IGV4cGVjdCB9ID0gcmVxdWlyZSgnY2hhaScpOwo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">ICBzdGF0aWMgZ2VuUGF5bG9hZChjbWQsIHJhdykgewogICAgCiAgfQ==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="4">
+        <text>function () {
+  
+}</text>
+      </register>
+      <register name="5" type="4">
+        <text>class AppMsgBase {
+  
+};
+
+class OnOfLamp {
+  static clusterId = clusters.ON_OF_LAMP;
+}</text>
+      </register>
+      <register name="6" type="4">
+        <text>/**
+ * 
+ * @type {{ON_OF_LAMP: number, GRAY_LAMP: number, ON_OF_SWITCH: number, GRAY_SWITCH: number}}
+ */</text>
+      </register>
+      <register name="7" type="4">
         <text>const clusters = new Map({
   
 });</text>
       </register>
-      <register name="2" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgKgo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC50aGVuKCkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICB0cmFuc2Zlci5zZW5kKCk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAvLyBUT0RPOiDNxsvNtb3UtrbLyeixuAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86ILeiy821vbSuv9oKICAgIHRoaXMuX3NlcmlhbC5lbmQobXRCdWYsICgpID0+IHsKICAgICAgCiAgICB9KTsKICAgIHJldHVybiBQcm9taXNlLnJlc29sdmUobXRCdWYpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHBtID0gCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMuX3NlcmlhbCA9IAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">bW9kdWxlLmV4cG9ydHMK</text>
+        <text encoding="base64">ICAgIC50aGVuKCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
