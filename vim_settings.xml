@@ -464,6 +464,9 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="E:/hwj/project/iLighting/local-server/src/libs/serial.js" timestamp="1472389887511">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="E:/hwj/project/iLighting/local-server/src/utils/mt.js" timestamp="1472365471027">
         <mark key="[" line="96" column="0" />
         <mark key="]" line="96" column="0" />
@@ -643,6 +646,12 @@
         <mark key="]" line="41" column="41" />
         <mark key="^" line="41" column="41" />
         <mark key="." line="41" column="41" />
+      </file>
+      <file name="E:/hwj/project/iLighting/local-server/src/libs/mt-transfer.js" timestamp="1472389665752">
+        <mark key="[" line="15" column="32" />
+        <mark key="]" line="15" column="3" />
+        <mark key="." line="15" column="3" />
+        <mark key="^" line="15" column="3" />
       </file>
       <file name="$USER_HOME$/project/antcloud/lark-console/web/mock/consult.js" timestamp="1468465120187">
         <mark key="[" line="1" column="59" />
@@ -1816,9 +1825,9 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/libs/client.js" timestamp="1472388374164">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="28" column="18" />
+      <file name="E:/hwj/project/iLighting/local-server/src/libs/client.js" timestamp="1472389065702">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="34" />
         <mark key="." line="28" column="18" />
         <mark key="^" line="28" column="18" />
       </file>
@@ -2597,7 +2606,14 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIC5maW5kKCkKICAgIC5ieU53a0VwKG53aywgZXAp</text>
+        <text>function * send (mtBuf) {
+  // TODO: 发送到串口
+}
+send = co.wrap(send);
+
+function () {
+  
+}</text>
       </register>
       <register name="-" type="4">
         <text>One</text>
@@ -2606,34 +2622,43 @@
         <text>爱心</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB5aWVsZCBBcHAuZmluZE9uZShhcHBRdWVyeSkuZXhlYygpOwo=</text>
+        <text encoding="base64">Y29uc3QgY28gPSByZXF1aXJlKCdjbycpOwpjb25zdCB7IGV4cGVjdCB9ID0gcmVxdWlyZSgnY2hhaScpOwo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAgIC5maW5kKCkKICAgIC5ieU53a0VwKG53aywgZXAp</text>
+        <text>function * send (mtBuf) {
+  // TODO: 发送到串口
+}
+send = co.wrap(send);
+
+function () {
+  
+}</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC51cGRhdGUocHJvcHMpCg==</text>
+        <text encoding="base64">ICByZXR1cm4gMDsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhhcHApOwo=</text>
+      <register name="3" type="4">
+        <text>function * write() {
+  
+}</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMuYm9keSA9IG5ldyBNc2coZXBBcHAudG9PYmplY3QoKSk7Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIC5maW5kKCkKICAgIC5ieU53a0VwKG53aywgZXAp</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC51cGRhdGUocHJvcHMpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxldCBlcEFwcCA9IHlpZWxkIEFwcC5maW5kT25lQW5kVXBkYXRlKAogICAgICB7IGRldmljZTogbndrLCBlbmRQb2ludDogZXAgfSwKICAgICAgdXBkYXRlUmVxLAogICAgICB7ICduZXcnOiB0cnVlIH0KICAgICkKICAgICAgLnNlbGVjdCgnZGV2aWNlIGVuZFBvaW50IHR5cGUgbmFtZSBwYXlsb2FkJykKICAgICAgLmV4ZWMoKTsKICAgIGlmICghZXBBcHApIHRocm93IG5ldyBFcnJvcigntsu/2tOm08POtNXStb0nKTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhhcHApOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">YXBwU2NoZW1hLnF1ZXJ5LmJ5RXAgPSBmdW5jdGlvbiAoZXApIHsKICByZXR1cm4gdGhpcy5maW5kKHsgZW5kUG9pbnQ6IGVwfSk7Cn07Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuYm9keSA9IG5ldyBNc2coZXBBcHAudG9PYmplY3QoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gLyoqCi8vICAqILLp0a/J6LG4o6yyu7qsYXBwCi8vICAqIEBwYXJhbSB7T2JqZWN0fSBkYlF1ZXJ5Ci8vICAqIEBwYXJhbSB7Ym9vbGVhbn0gW211bHRpID0gZmFsc2VdIC0gZmluZCBhbGwKLy8gICogQHJldHVybiB7UHJvbWlzZX0KLy8gICovCi8vIGZ1bmN0aW9uICogZGV2aWNlR2V0KGRiUXVlcnksIG11bHRpPWZhbHNlKSB7Ci8vICAgZXhwZWN0KGRiUXVlcnkpLnRvLmJlLmFuKCdvYmplY3QnKTsKLy8gICBleHBlY3QobXVsdGkpLnRvLmJlLmEoJ2Jvb2wnKTsKLy8gICBjb25zdCB7IERldmljZSB9ID0gbW9kZWxzOwovLyAgIGlmIChtdWx0aSkgewovLyAgICAgcmV0dXJuIHlpZWxkIERldmljZS5maW5kKGRiUXVlcnkpLmV4ZWMoKTsKLy8gICB9IGVsc2UgewovLyAgICAgcmV0dXJuIHlpZWxkIERldmljZS5maW5kT25lKGRiUXVlcnkpLmV4ZWMoKTsKLy8gICB9Ci8vIH0KLy8gZGV2aWNlR2V0ID0gY28ud3JhcChkZXZpY2VHZXQpOwovLwovLyAvKioKLy8gICogsunRr2FwcAovLyAgKiBAcGFyYW0ge09iamVjdH0gYXBwUXVlcnkKLy8gICogQHBhcmFtIHtib29sZWFufSBbbXVsdGkgPSBmYWxzZV0gLSBmaW5kIGFsbAovLyAgKiBAcmV0dXJuIHtQcm9taXNlfQovLyAgKi8KLy8gZnVuY3Rpb24gKiBhcHBHZXQoYXBwUXVlcnksIG11bHRpPWZhbHNlKSB7Ci8vICAgZXhwZWN0KGFwcFF1ZXJ5KS50by5iZS5hbignb2JqZWN0Jyk7Ci8vICAgZXhwZWN0KG11bHRpKS50by5iZS5hKCdib29sJyk7Ci8vICAgY29uc3QgeyBBcHAgfSA9IG1vZGVsczsKLy8gICBpZiAobXVsdGkpIHsKLy8gICAgIHJldHVybiB5aWVsZCBBcHAuZmluZChhcHBRdWVyeSkuZXhlYygpOwovLyAgIH0gZWxzZSB7Ci8vICAgICByZXR1cm4geWllbGQgQXBwLmZpbmRPbmUoYXBwUXVlcnkpLmV4ZWMoKTsKLy8gICB9Ci8vIH0KLy8gYXBwR2V0ID0gY28ud3JhcChhcHBHZXQpOwoKLy8gZnVuY3Rpb24gKiBkZXZpY2VHZXRXaXRoQXBwKGRiUXVlcnksIG11bHRpOiBmYWxzZSkgewovLyAgIGV4cGVjdChkYlF1ZXJ5KS50by5iZS5hbignb2JqZWN0Jyk7Ci8vICAgZXhwZWN0KG11bHRpKS50by5iZS5hKCdib29sZWFuJyk7Ci8vICAgY29uc3QgeyBBcHAgfSA9IG1vZGVsczsKLy8gICBpZiAoIW11bHRpKSB7Ci8vICAgICBjb25zdCBkZXYgPSB5aWVsZCBkZXZpY2VHZXQoZGJRdWVyeSk7Ci8vICAgICBpZiAoIWRldikgcmV0dXJuIG51bGw7Ci8vICAgfQovLyB9Cg==</text>
+        <text encoding="base64">ICAgIGxldCBlcEFwcCA9IHlpZWxkIEFwcC5maW5kT25lQW5kVXBkYXRlKAogICAgICB7IGRldmljZTogbndrLCBlbmRQb2ludDogZXAgfSwKICAgICAgdXBkYXRlUmVxLAogICAgICB7ICduZXcnOiB0cnVlIH0KICAgICkKICAgICAgLnNlbGVjdCgnZGV2aWNlIGVuZFBvaW50IHR5cGUgbmFtZSBwYXlsb2FkJykKICAgICAgLmV4ZWMoKTsKICAgIGlmICghZXBBcHApIHRocm93IG5ldyBFcnJvcigntsu/2tOm08POtNXStb0nKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
