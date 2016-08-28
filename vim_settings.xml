@@ -1955,6 +1955,9 @@
         <mark key="^" line="60" column="45" />
         <mark key="." line="60" column="45" />
       </file>
+      <file name="E:/hwj/project/iLighting/local-server/src/routers/zigbee.js" timestamp="1472378200525">
+        <mark key="[" line="9" column="16" />
+      </file>
       <file name="$USER_HOME$/project/donation/open-detail.sh" timestamp="1469677446305">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="56" />
@@ -1999,11 +2002,11 @@
         <mark key="^" line="48" column="26" />
         <mark key="." line="48" column="26" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/routers/client.js" timestamp="1472371565867">
-        <mark key="[" line="11" column="29" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
-        <mark key="^" line="65" column="48" />
+      <file name="E:/hwj/project/iLighting/local-server/src/routers/client.js" timestamp="1472378952955">
+        <mark key="[" line="79" column="23" />
+        <mark key="]" line="79" column="14" />
+        <mark key="." line="79" column="14" />
+        <mark key="^" line="79" column="14" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/product/product.tpl" timestamp="1450425778324">
         <mark key="[" line="3" column="59" />
@@ -2589,11 +2592,11 @@
       <jump line="241" column="0" filename="$USER_HOME$/project/ANT01190853_20160720_charityprod/htdocs/templates/donate/screen/itemDetail.vm" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLnNlbGVjdCgnJykK</text>
+      <register name="&quot;" type="4">
+        <text>{ name, payload }</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>{ name, payload }</text>
       </register>
       <register name="/" type="4">
         <text>爱心</text>
@@ -2602,33 +2605,33 @@
         <text encoding="base64">ICAgICAgLnNlbGVjdCgnZGV2aWNlIGVuZFBvaW50IHR5cGUgbmFtZSBwYXlsb2FkJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLnNlbGVjdCgnJykK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh0eXBlb2YgYm9keURhdGEpCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICBjb25zdCBuYW1lID0gYm9keURhdGFbJ25hbWUnXTsKICBjb25zdCBwYXlsb2FkID0gYm9keURhdGFbJ3BheWxvYWQnXTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhib2R5RGF0YSk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZyh5aWVsZCBib2R5KHRoaXMpKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgLnNlbGVjdCgnJykK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICByZXF1aXJlKCcuL3NoY2VtYS1mZWF0dXJlJykK</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>module.exports = {
   
 };</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlcXVpcmVkOiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogQHR5cGUge2FueX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
