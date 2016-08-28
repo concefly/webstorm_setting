@@ -570,11 +570,11 @@
         <mark key="^" line="30" column="38" />
         <mark key="." line="30" column="38" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/libs/zigbee.js" timestamp="1472370671161">
-        <mark key="[" line="42" column="41" />
-        <mark key="]" line="44" column="55" />
-        <mark key="^" line="44" column="55" />
-        <mark key="." line="44" column="55" />
+      <file name="E:/hwj/project/iLighting/local-server/src/libs/zigbee.js" timestamp="1472384257483">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="9" column="26" />
+        <mark key="^" line="1" column="9" />
+        <mark key="." line="1" column="9" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/catalog_news/catalog_news.scss" timestamp="1456910821590">
         <mark key="[" line="19" column="13" />
@@ -1817,6 +1817,11 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="E:/hwj/project/iLighting/local-server/src/libs/client.js" timestamp="1472385277469">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/project/antcloud/lark-console/web/src/containers/Message/consultSettings.jsx" timestamp="1469108478188">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -2002,11 +2007,11 @@
         <mark key="^" line="48" column="26" />
         <mark key="." line="48" column="26" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/routers/client.js" timestamp="1472383881362">
-        <mark key="[" line="79" column="23" />
-        <mark key="]" line="77" column="35" />
-        <mark key="." line="77" column="35" />
-        <mark key="^" line="77" column="35" />
+      <file name="E:/hwj/project/iLighting/local-server/src/routers/client.js" timestamp="1472384863705">
+        <mark key="[" line="21" column="36" />
+        <mark key="]" line="31" column="23" />
+        <mark key="." line="31" column="23" />
+        <mark key="^" line="31" column="23" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/product/product.tpl" timestamp="1450425778324">
         <mark key="[" line="3" column="59" />
@@ -2593,7 +2598,12 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{ name, payload }</text>
+        <text>/**
+ * 查询设备（不包含app）
+ * @param {Object} dbQuery
+ * @param {
+ * @return {Promise}
+ */</text>
       </register>
       <register name="-" type="4">
         <text>{ name, payload }</text>
@@ -2602,36 +2612,39 @@
         <text>爱心</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLnNlbGVjdCgnZGV2aWNlIGVuZFBvaW50IHR5cGUgbmFtZSBwYXlsb2FkJykK</text>
+        <text encoding="base64">LyoqCiAqIEBtb2R1bGUKICovCgpjb25zdCBjbyA9IHJlcXVpcmUoJ2NvJyk7CmNvbnN0IHsgZXhwZWN0IH0gPSByZXF1aXJlKCdjaGFpJyk7CmNvbnN0IHsgZ2V0RGIsIGdldE1vZGVscyB9ID0gcmVxdWlyZSgnLi4vZGInKTsKCmNvbnN0IGRiID0gZ2V0RGIoKTsKY29uc3QgbW9kZWxzID0gZ2V0TW9kZWxzKCk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh0eXBlb2YgYm9keURhdGEpCg==</text>
+      <register name="1" type="4">
+        <text>/**
+ * 查询设备（不包含app）
+ * @param {Object} dbQuery
+ * @param {
+ * @return {Promise}
+ */</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCBuYW1lID0gYm9keURhdGFbJ25hbWUnXTsKICBjb25zdCBwYXlsb2FkID0gYm9keURhdGFbJ3BheWxvYWQnXTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhib2R5RGF0YSk7Cg==</text>
+        <text encoding="base64">QGNvLndyYXAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZyh5aWVsZCBib2R5KHRoaXMpKTsK</text>
+        <text encoding="base64">QGNvLndyYXAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLnNlbGVjdCgnJykK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyh0eXBlb2YgYm9keURhdGEpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICByZXF1aXJlKCcuL3NoY2VtYS1mZWF0dXJlJykK</text>
+        <text encoding="base64">ICBjb25zdCBuYW1lID0gYm9keURhdGFbJ25hbWUnXTsKICBjb25zdCBwYXlsb2FkID0gYm9keURhdGFbJ3BheWxvYWQnXTsK</text>
       </register>
-      <register name="7" type="4">
-        <text>module.exports = {
-  
-};</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhib2R5RGF0YSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZyh5aWVsZCBib2R5KHRoaXMpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLnNlbGVjdCgnJykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
