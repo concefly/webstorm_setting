@@ -464,8 +464,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/libs/serial.js" timestamp="1472389887511">
-        <mark key="[" line="0" column="0" />
+      <file name="E:/hwj/project/iLighting/local-server/src/libs/serial.js" timestamp="1472391141662">
+        <mark key="[" line="8" column="37" />
+        <mark key="]" line="16" column="20" />
+        <mark key="^" line="16" column="20" />
+        <mark key="." line="16" column="20" />
       </file>
       <file name="E:/hwj/project/iLighting/local-server/src/utils/mt.js" timestamp="1472365471027">
         <mark key="[" line="96" column="0" />
@@ -647,11 +650,11 @@
         <mark key="^" line="41" column="41" />
         <mark key="." line="41" column="41" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/libs/mt-transfer.js" timestamp="1472389665752">
-        <mark key="[" line="15" column="32" />
-        <mark key="]" line="15" column="3" />
-        <mark key="." line="15" column="3" />
-        <mark key="^" line="15" column="3" />
+      <file name="E:/hwj/project/iLighting/local-server/src/libs/mt-transfer.js" timestamp="1472391525798">
+        <mark key="[" line="20" column="10" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="20" column="9" />
       </file>
       <file name="$USER_HOME$/project/antcloud/lark-console/web/mock/consult.js" timestamp="1468465120187">
         <mark key="[" line="1" column="59" />
@@ -2605,18 +2608,11 @@
       <jump line="241" column="0" filename="$USER_HOME$/project/ANT01190853_20160720_charityprod/htdocs/templates/donate/screen/itemDetail.vm" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>function * send (mtBuf) {
-  // TODO: 发送到串口
-}
-send = co.wrap(send);
-
-function () {
-  
-}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8vIFRPRE86ILeiy821vbSuv9oKICAgIHRoaXMuX3NlcmlhbC5lbmQobXRCdWYsICgpID0+IHsKICAgICAgCiAgICB9KTsKICAgIHJldHVybiBQcm9taXNlLnJlc29sdmUobXRCdWYpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>One</text>
+        <text encoding="base64">PT4=</text>
       </register>
       <register name="/" type="4">
         <text>爱心</text>
@@ -2624,7 +2620,19 @@ function () {
       <register name="0" type="2">
         <text encoding="base64">Y29uc3QgY28gPSByZXF1aXJlKCdjbycpOwpjb25zdCB7IGV4cGVjdCB9ID0gcmVxdWlyZSgnY2hhaScpOwo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIC8vIFRPRE86ILeiy821vbSuv9oKICAgIHRoaXMuX3NlcmlhbC5lbmQobXRCdWYsICgpID0+IHsKICAgICAgCiAgICB9KTsKICAgIHJldHVybiBQcm9taXNlLnJlc29sdmUobXRCdWYpOwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHBtID0gCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHRoaXMuX3NlcmlhbCA9IAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">bW9kdWxlLmV4cG9ydHMK</text>
+      </register>
+      <register name="5" type="4">
         <text>function * send (mtBuf) {
   // TODO: 发送到串口
 }
@@ -2634,31 +2642,19 @@ function () {
   
 }</text>
       </register>
-      <register name="2" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICByZXR1cm4gMDsK</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>function * write() {
   
 }</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAgIC5maW5kKCkKICAgIC5ieU53a0VwKG53aywgZXAp</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIC51cGRhdGUocHJvcHMpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhhcHApOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMuYm9keSA9IG5ldyBNc2coZXBBcHAudG9PYmplY3QoKSk7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxldCBlcEFwcCA9IHlpZWxkIEFwcC5maW5kT25lQW5kVXBkYXRlKAogICAgICB7IGRldmljZTogbndrLCBlbmRQb2ludDogZXAgfSwKICAgICAgdXBkYXRlUmVxLAogICAgICB7ICduZXcnOiB0cnVlIH0KICAgICkKICAgICAgLnNlbGVjdCgnZGV2aWNlIGVuZFBvaW50IHR5cGUgbmFtZSBwYXlsb2FkJykKICAgICAgLmV4ZWMoKTsKICAgIGlmICghZXBBcHApIHRocm93IG5ldyBFcnJvcigntsu/2tOm08POtNXStb0nKTsK</text>
+        <text encoding="base64">ICAgIC51cGRhdGUocHJvcHMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
