@@ -466,9 +466,9 @@
       </file>
       <file name="E:/hwj/project/iLighting/local-server/src/libs/serial.js" timestamp="1472391141662">
         <mark key="[" line="8" column="37" />
-        <mark key="]" line="16" column="20" />
-        <mark key="^" line="16" column="20" />
-        <mark key="." line="16" column="20" />
+        <mark key="]" line="17" column="20" />
+        <mark key="^" line="17" column="20" />
+        <mark key="." line="17" column="20" />
       </file>
       <file name="E:/hwj/project/iLighting/local-server/src/utils/mt.js" timestamp="1472365471027">
         <mark key="[" line="96" column="0" />
@@ -651,10 +651,10 @@
         <mark key="." line="41" column="41" />
       </file>
       <file name="E:/hwj/project/iLighting/local-server/src/libs/mt-transfer.js" timestamp="1472391525798">
-        <mark key="[" line="20" column="10" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="20" column="9" />
+        <mark key="[" line="23" column="10" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="23" column="9" />
       </file>
       <file name="$USER_HOME$/project/antcloud/lark-console/web/mock/consult.js" timestamp="1468465120187">
         <mark key="[" line="1" column="59" />
@@ -1828,11 +1828,11 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/libs/client.js" timestamp="1472389065702">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="5" column="34" />
-        <mark key="." line="28" column="18" />
-        <mark key="^" line="28" column="18" />
+      <file name="E:/hwj/project/iLighting/local-server/src/libs/client.js" timestamp="1472392651043">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="7" column="28" />
+        <mark key="." line="7" column="28" />
+        <mark key="^" line="25" column="9" />
       </file>
       <file name="$USER_HOME$/project/antcloud/lark-console/web/src/containers/Message/consultSettings.jsx" timestamp="1469108478188">
         <mark key="[" line="3" column="0" />
@@ -2608,11 +2608,11 @@
       <jump line="241" column="0" filename="$USER_HOME$/project/ANT01190853_20160720_charityprod/htdocs/templates/donate/screen/itemDetail.vm" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86ILeiy821vbSuv9oKICAgIHRoaXMuX3NlcmlhbC5lbmQobXRCdWYsICgpID0+IHsKICAgICAgCiAgICB9KTsKICAgIHJldHVybiBQcm9taXNlLnJlc29sdmUobXRCdWYpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PT4=</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
         <text>爱心</text>
@@ -2621,18 +2621,27 @@
         <text encoding="base64">Y29uc3QgY28gPSByZXF1aXJlKCdjbycpOwpjb25zdCB7IGV4cGVjdCB9ID0gcmVxdWlyZSgnY2hhaScpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86ILeiy821vbSuv9oKICAgIHRoaXMuX3NlcmlhbC5lbmQobXRCdWYsICgpID0+IHsKICAgICAgCiAgICB9KTsKICAgIHJldHVybiBQcm9taXNlLnJlc29sdmUobXRCdWYpOwo=</text>
+        <text encoding="base64">ICAgIC50aGVuKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHBtID0gCg==</text>
+        <text encoding="base64">ICB0cmFuc2Zlci5zZW5kKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMuX3NlcmlhbCA9IAo=</text>
+        <text encoding="base64">ICAvLyBUT0RPOiDNxsvNtb3UtrbLyeixuAo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIC8vIFRPRE86ILeiy821vbSuv9oKICAgIHRoaXMuX3NlcmlhbC5lbmQobXRCdWYsICgpID0+IHsKICAgICAgCiAgICB9KTsKICAgIHJldHVybiBQcm9taXNlLnJlc29sdmUobXRCdWYpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHBtID0gCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHRoaXMuX3NlcmlhbCA9IAo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">bW9kdWxlLmV4cG9ydHMK</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>function * send (mtBuf) {
   // TODO: 发送到串口
 }
@@ -2642,19 +2651,8 @@ function () {
   
 }</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICByZXR1cm4gMDsK</text>
-      </register>
-      <register name="7" type="4">
-        <text>function * write() {
-  
-}</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIC5maW5kKCkKICAgIC5ieU53a0VwKG53aywgZXAp</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC51cGRhdGUocHJvcHMpCg==</text>
+        <text encoding="base64">ICByZXR1cm4gMDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
