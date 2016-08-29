@@ -429,11 +429,11 @@
         <mark key="^" line="93" column="27" />
         <mark key="." line="93" column="27" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/utils/mtAppMsg.js" timestamp="1472397990021">
-        <mark key="[" line="42" column="11" />
-        <mark key="]" line="43" column="10" />
-        <mark key="." line="43" column="10" />
-        <mark key="^" line="43" column="10" />
+      <file name="E:/hwj/project/iLighting/local-server/src/utils/mtAppMsg.js" timestamp="1472441574388">
+        <mark key="[" line="41" column="2" />
+        <mark key="]" line="41" column="3" />
+        <mark key="." line="41" column="3" />
+        <mark key="^" line="30" column="1" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/label/label-mute.html" timestamp="1449539760161">
         <mark key="[" line="0" column="0" />
@@ -476,8 +476,8 @@
         <mark key="^" line="17" column="20" />
         <mark key="." line="17" column="20" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/utils/mt.js" timestamp="1472395693686">
-        <mark key="[" line="100" column="0" />
+      <file name="E:/hwj/project/iLighting/local-server/src/utils/mt.js" timestamp="1472438545559">
+        <mark key="[" line="163" column="18" />
         <mark key="]" line="100" column="0" />
         <mark key="." line="100" column="0" />
       </file>
@@ -2400,11 +2400,10 @@
         <mark key="." line="7" column="35" />
         <mark key="^" line="7" column="35" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/libs/transfer.js" timestamp="1472400467640">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="^" line="25" column="17" />
-        <mark key="." line="25" column="0" />
+      <file name="E:/hwj/project/iLighting/local-server/src/libs/transfer.js" timestamp="1472440967855">
+        <mark key="[" line="53" column="68" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/project/my/news/src/entries/index.js" timestamp="1468725408841">
         <mark key="[" line="42" column="37" />
@@ -2620,57 +2619,44 @@
       <jump line="241" column="0" filename="$USER_HOME$/project/ANT01190853_20160720_charityprod/htdocs/templates/donate/screen/itemDetail.vm" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICByZXNvbHZlKCk7CiAgICAgICAgdGhpcy5lbWl0KCdzZW50JywgbXRCdWYpOw==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y2xhc3MgT25PZkxhbXAgZXh0ZW5kcyBNc2dCYXNlIHsKICAvKioKICAgKiC/qrnYtcYKICAgKiBAcGFyYW0ge051bWJlcn0gbndrCiAgICogQHBhcmFtIHtOdW1iZXJ9IGVwCiAgICogQHBhcmFtIHtCb29sZWFufSB4CiAgICogQHJldHVybiB7QnVmZmVyfQogICAqLwogIHN0YXRpYyB0dXJuKG53aywgZXAsIHgpIHsKICAgIGNvbnN0IHR1cm5DbWRJZCA9IDA7CiAgICByZXR1cm4gZ2VuRnJhbWVCeU5hbWUoCiAgICAgICdBUFBfTVNHJywgbXNnRXAsIG53aywgZXAsCiAgICAgIEJ1ZmZlci5mcm9tKFt0dXJuQ21kSWQsICt4XSkKICAgICkKICB9Cn0KT25PZkxhbXAuY2x1c3RlcklkID0gY2x1c3RlcnMuT05fT0ZfTEFNUDsKCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Addr</text>
+        <text>static</text>
       </register>
       <register name="/" type="4">
         <text>爱心</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgY28gPSByZXF1aXJlKCdjbycpOwpjb25zdCB7IGV4cGVjdCB9ID0gcmVxdWlyZSgnY2hhaScpOwo=</text>
+        <text encoding="base64">ICAvKioKICAgKiC/qrnYtcYKICAgKiBAcGFyYW0ge051bWJlcn0gbndrCiAgICogQHBhcmFtIHtOdW1iZXJ9IGVwCiAgICogQHBhcmFtIHtCb29sZWFufSB4CiAgICogQHJldHVybiB7QnVmZmVyfQogICAqLwogIHN0YXRpYyB0dXJuKG53aywgZXAsIHgpIHsKICAgIGNvbnN0IHR1cm5DbWRJZCA9IDA7CiAgICByZXR1cm4gZ2VuRnJhbWVCeU5hbWUoCiAgICAgICdBUFBfTVNHJywgbXNnRXAsIG53aywgZXAsCiAgICAgIEJ1ZmZlci5mcm9tKFt0dXJuQ21kSWQsICt4XSkKICAgICkKICB9Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICByZXNvbHZlKCk7CiAgICAgICAgdGhpcy5lbWl0KCdzZW50JywgbXRCdWYpOw==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Y2xhc3MgT25PZkxhbXAgZXh0ZW5kcyBNc2dCYXNlIHsKICAvKioKICAgKiC/qrnYtcYKICAgKiBAcGFyYW0ge051bWJlcn0gbndrCiAgICogQHBhcmFtIHtOdW1iZXJ9IGVwCiAgICogQHBhcmFtIHtCb29sZWFufSB4CiAgICogQHJldHVybiB7QnVmZmVyfQogICAqLwogIHN0YXRpYyB0dXJuKG53aywgZXAsIHgpIHsKICAgIGNvbnN0IHR1cm5DbWRJZCA9IDA7CiAgICByZXR1cm4gZ2VuRnJhbWVCeU5hbWUoCiAgICAgICdBUFBfTVNHJywgbXNnRXAsIG53aywgZXAsCiAgICAgIEJ1ZmZlci5mcm9tKFt0dXJuQ21kSWQsICt4XSkKICAgICkKICB9Cn0KT25PZkxhbXAuY2x1c3RlcklkID0gY2x1c3RlcnMuT05fT0ZfTEFNUDsKCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICBzdGF0aWMgZ2VuUGF5bG9hZChjbWQsIHJhdykgewogICAgCiAgfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Y2xhc3MgTXNnQmFzZSB7IH0K</text>
       </register>
-      <register name="5" type="4">
-        <text>function () {
-  
-}</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAvKioKICAgKiBAdHlwZSB7bnVtYmVyfQogICAqLwogIHN0YXRpYyBjbHVzdGVySWQgPSBjbHVzdGVycy5PTl9PRl9MQU1QOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>class AppMsgBase {
-  
-};
-
-class OnOfLamp {
-  static clusterId = clusters.ON_OF_LAMP;
-}</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgKiBACg==</text>
       </register>
-      <register name="7" type="4">
-        <text>/**
- * 
- * @type {{ON_OF_LAMP: number, GRAY_LAMP: number, ON_OF_SWITCH: number, GRAY_SWITCH: number}}
- */</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAvKioKICAgKiBAZXZlbnQgZnJhbWUKICAgKiBAdHlwZQogICAqIEBwYXJhbSBjaHVuawogICAqLwo=</text>
       </register>
-      <register name="8" type="4">
-        <text>const clusters = new Map({
-  
-});</text>
+      <register name="8" type="2">
+        <text encoding="base64">Y29uc3QgXyA9IHJlcXVpcmUoJ2xvZGFzaCcpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgKgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
