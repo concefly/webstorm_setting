@@ -476,10 +476,10 @@
         <mark key="^" line="17" column="20" />
         <mark key="." line="17" column="20" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/utils/mt.js" timestamp="1472448448610">
-        <mark key="[" line="164" column="0" />
-        <mark key="]" line="164" column="0" />
-        <mark key="." line="164" column="0" />
+      <file name="E:/hwj/project/iLighting/local-server/src/utils/mt.js" timestamp="1472449051042">
+        <mark key="[" line="183" column="20" />
+        <mark key="]" line="180" column="0" />
+        <mark key="." line="180" column="0" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/article.scss" timestamp="1449221982648">
         <mark key="[" line="5" column="17" />
@@ -2620,7 +2620,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcm9wcykgewogIH0K</text>
+        <text encoding="base64">ICAgIGlmIChjbWQwID09ICkK</text>
       </register>
       <register name="-" type="4">
         <text>isSRSP</text>
@@ -2632,31 +2632,31 @@
         <text encoding="base64">ICBpc1NSU1AoZnJhbWUpIHsgdGhyb3cgbmV3IEVycm9yKCfOtMq1z9YnKSB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcm9wcykgewogIH0K</text>
+        <text encoding="base64">ICAgIGlmIChjbWQwID09ICkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZHVtcAo=</text>
+        <text encoding="base64">ICBjb25zdHJ1Y3Rvcihwcm9wcykgewogIH0K</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIHRoaXMuZHVtcAo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICBzdGF0aWMgY21kMCA9IDB4MjE7CiAgc3RhdGljIGNtZDEgPSAweDAxOw==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHRoaXMuX3NlbmRMb2NrID0gZmFsc2U7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAvLyBjaGVjayBsb2NrCiAgICAgICAgCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBpZiAodGhpcy5fc2VuZExvY2spIHsgcmVqZWN0KG5ldyBFcnJvcignc2VuZMv4tqgnKSl9Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5vbmNlKCdlcnJvcicsIHJlamVjdCk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGVyciAmJiByZWplY3QoZXJyKTsK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5vbmNlKCdlcnJvcicsIHJlamVjdCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
