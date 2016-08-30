@@ -466,11 +466,11 @@
         <mark key="^" line="16" column="30" />
         <mark key="." line="16" column="30" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/libs/serial.js" timestamp="1472529913525">
-        <mark key="[" line="24" column="19" />
-        <mark key="]" line="19" column="29" />
-        <mark key="." line="19" column="29" />
-        <mark key="^" line="19" column="29" />
+      <file name="E:/hwj/project/iLighting/local-server/src/libs/serial.js" timestamp="1472538889625">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="32" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="34" column="48" />
       </file>
       <file name="E:/hwj/project/iLighting/local-server/src/utils/mt.js" timestamp="1472534927167">
         <mark key="'" line="261" column="13" />
@@ -1393,6 +1393,12 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="E:/hwj/project/iLighting/local-server/src/mock/serial.js" timestamp="1472538431782">
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="8" column="4" />
+        <mark key="^" line="7" column="26" />
+        <mark key="." line="8" column="4" />
+      </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/resources/assets/js/admin/components/modal/imageModal.vue" timestamp="1449822121728">
         <mark key="[" line="30" column="34" />
         <mark key="]" line="30" column="34" />
@@ -1840,7 +1846,7 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/libs/client.js" timestamp="1472536162948">
+      <file name="E:/hwj/project/iLighting/local-server/src/libs/client.js" timestamp="1472538474211">
         <mark key="[" line="40" column="7" />
         <mark key="]" line="41" column="47" />
         <mark key="." line="41" column="47" />
@@ -2413,10 +2419,10 @@
         <mark key="." line="7" column="35" />
         <mark key="^" line="7" column="35" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/libs/transfer.js" timestamp="1472535720445">
-        <mark key="[" line="119" column="43" />
-        <mark key="]" line="120" column="53" />
-        <mark key="." line="120" column="53" />
+      <file name="E:/hwj/project/iLighting/local-server/src/libs/transfer.js" timestamp="1472539451876">
+        <mark key="[" line="87" column="44" />
+        <mark key="]" line="87" column="44" />
+        <mark key="." line="87" column="44" />
         <mark key="^" line="120" column="53" />
       </file>
       <file name="$USER_HOME$/project/my/news/src/entries/index.js" timestamp="1468725408841">
@@ -2425,7 +2431,7 @@
         <mark key="^" line="42" column="47" />
         <mark key="." line="42" column="47" />
       </file>
-      <file name="/JavaScript Console" timestamp="1472472018176">
+      <file name="/JavaScript Console" timestamp="1472539163941">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/antcloud/usercenter/client/src/components/logs/LogList.less" timestamp="1466836039144">
@@ -2632,44 +2638,44 @@
       <jump line="235" column="13" filename="E:/hwj/project/iLighting/local-server/src/utils/mt.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FsbGJhY2soKTsK</text>
+      <register name="&quot;" type="4">
+        <text>this._cache.length-1</text>
       </register>
       <register name="-" type="4">
-        <text>Obj</text>
+        <text>this._cache.length-1</text>
       </register>
       <register name="/" type="4">
         <text>爱心</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgbG9nLnRyYWNlKCdkaXNwYXRjaCBBUkVRJywgYnVmLCAnXG4nLCBmcmFtZU9iaik7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuX2NhY2hlID0gQnVmZmVyLmNvbmNhdChbdGhpcy5fY2FjaGUsIGNodW5rXSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FsbGJhY2soKTsK</text>
+        <text encoding="base64">ICAgIHRoaXMuX2ZlZWRiYWNrKHRoaXMuX2NhY2hlKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHRoaXMuX2NhY2hlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbG9nLnRyYWNlKCdkaXNwYXRjaCBTUlNQXG4nLCBmcmFtZU9iaik7Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuX2ZlZWRiYWNrKGJ1Zik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCc9PT09PScsIGJ1Ziwgc3JzcE9iaik7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGRhdGEgPSBnZW5GcmFtZSgweDY5LCAwLCBCdWZmZXIuZnJvbShbMF0pKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICogCg==</text>
+        <text encoding="base64">Y28obW9jayk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICogQHByb3BlcnR5IHtGcmFtZX0gbXRGcmFtZQo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5vbmNlKCdlcnJvcicsIHJlamVjdCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICogQHByb3BlcnR5IHtCdWZmZXJ9IGNodW5rCg==</text>
+        <text encoding="base64">ICAgIH0pCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICogQHR5cGUge09iamVjdH0K</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICB0YWtlID0gZnVuY3Rpb24gKiAoKSB7CiAgICAKICB9</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICogQHByb3BlcnR5IHsK</text>
+        <text encoding="base64">ICB0YWtlICogKCkgewogICAgCiAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
