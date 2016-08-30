@@ -1840,11 +1840,11 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/libs/client.js" timestamp="1472530761737">
-        <mark key="[" line="23" column="54" />
-        <mark key="]" line="24" column="44" />
-        <mark key="." line="24" column="44" />
-        <mark key="^" line="24" column="44" />
+      <file name="E:/hwj/project/iLighting/local-server/src/libs/client.js" timestamp="1472533923462">
+        <mark key="[" line="24" column="64" />
+        <mark key="]" line="24" column="64" />
+        <mark key="." line="24" column="64" />
+        <mark key="^" line="24" column="64" />
       </file>
       <file name="$USER_HOME$/project/antcloud/lark-console/web/src/containers/Message/consultSettings.jsx" timestamp="1469108478188">
         <mark key="[" line="3" column="0" />
@@ -2413,11 +2413,11 @@
         <mark key="." line="7" column="35" />
         <mark key="^" line="7" column="35" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/libs/transfer.js" timestamp="1472530743155">
-        <mark key="[" line="97" column="56" />
-        <mark key="]" line="98" column="47" />
-        <mark key="." line="98" column="47" />
-        <mark key="^" line="98" column="47" />
+      <file name="E:/hwj/project/iLighting/local-server/src/libs/transfer.js" timestamp="1472534277329">
+        <mark key="[" line="50" column="26" />
+        <mark key="]" line="36" column="8" />
+        <mark key="." line="36" column="8" />
+        <mark key="^" line="36" column="8" />
       </file>
       <file name="$USER_HOME$/project/my/news/src/entries/index.js" timestamp="1468725408841">
         <mark key="[" line="42" column="37" />
@@ -2632,44 +2632,44 @@
       <jump line="235" column="13" filename="E:/hwj/project/iLighting/local-server/src/utils/mt.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ0FBQScsIHNyc3ApOwo=</text>
+      <register name="&quot;" type="4">
+        <text>AREQ</text>
       </register>
       <register name="-" type="4">
-        <text>srsp</text>
+        <text>AREQ</text>
       </register>
       <register name="/" type="4">
         <text>爱心</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnYmVmb3JlJywgYXBwLnBheWxvYWQubGV2ZWwpOwo=</text>
+        <text encoding="base64">ICAgICAgbG9nLnRyYWNlKCdkaXNwYXRjaCBBUkVRJywgYnVmLCAnXG4nLCBmcmFtZU9iaik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ0FBQScsIHNyc3ApOwo=</text>
+        <text encoding="base64">ICAgICAgbG9nLnRyYWNlKCdkaXNwYXRjaCBTUlNQXG4nLCBmcmFtZU9iaik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgcGFyc2VkID0gZnJhbWUuaXNTUlNQKHNyc3ApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCc9PT09PScsIGJ1Ziwgc3JzcE9iaik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCiAqINa4tqhidWZmZXKjrL3izvZNVNa4we7WoQogKiBAcGFyYW0ge0J1ZmZlcn0gZnJhbWUKICogQHJldHVybiB7e2NtZDAsIGNtZDEsIGRhdGF9fEJvb2xlYW59CiAqLwpmdW5jdGlvbiBwYXJzZUZyYW1lKGZyYW1lKSB7CiAgZXhwZWN0KGZyYW1lKS50by5iZS5hbi5pbnN0YW5jZU9mKEJ1ZmZlcik7CiAgcmV0dXJuIF9wYXJzZUZyYW1lKGZyYW1lKTsKfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICogCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZW1pdCgnZGF0YScsIEJ1ZmZlci5mcm9tKFsweEZFLCAweDAyLCAweDYxLCAweDAxLCAweDExLCAweDAwLCAweDczXSkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICogQHByb3BlcnR5IHtGcmFtZX0gbXRGcmFtZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgKiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICogQHByb3BlcnR5IHtCdWZmZXJ9IGNodW5rCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5vbmNlKCdmcmFtZScsIHNyc3AgPT4gewogICAgICAgICAgICAgIC8vIGNoZWNrOiBpcyB0aGUgc3JzcCBjb3JyZWN0PwogICAgICAgICAgICAgIGNvbnN0IGNoZWNrUmVzdWx0ID0gbXRGcmFtZS5pc1NSU1Aoc3JzcC5vcmlnaW4pOwogICAgICAgICAgICAgIGlmIChjaGVja1Jlc3VsdCkgewogICAgICAgICAgICAgICAgLyoqCiAgICAgICAgICAgICAgICAgKiBAZXZlbnQgc3JzcAogICAgICAgICAgICAgICAgICogQHNlZSBldmVudDpmcmFtZQogICAgICAgICAgICAgICAgICovCiAgICAgICAgICAgICAgICB0aGlzLmVtaXQoJ3Nyc3AnLCBzcnNwKTsKICAgICAgICAgICAgICAgIGNhbGxiYWNrKG51bGwsIHNyc3ApOwogICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBjb25zdCBlcnIgPSBuZXcgRXJyb3IoYCR7bXRGcmFtZS5uYW1lfcrVtb2yu7bU06a1xFNSU1BgKTsKICAgICAgICAgICAgICAgIGNhbGxiYWNrKGVycikKICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICogQHR5cGUge09iamVjdH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gbW9kdWxlLmV4cG9ydHMgPSBteUR1cGxleDsK</text>
+        <text encoding="base64">ICAgICAgICogQHByb3BlcnR5IHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CmNvbnN0IG15RHVwbGV4ID0gbmV3IER1cGxleCAoewogIHdyaXRlKGNodW5rLCBlbmNvZGluZywgY2FsbGJhY2spIHsKICAgIC8vIFRoZSB1bmRlcmx5aW5nIHNvdXJjZSBvbmx5IGRlYWxzIHdpdGggc3RyaW5ncwogICAgY2FsbGJhY2soKTsKICB9LAogIHJlYWQoc2l6ZSkgewogICAgdGhpcy5wdXNoKG5ldyBCdWZmZXIoc2l6ZSkpCiAgfQp9KTsK</text>
+        <text encoding="base64">ICBoYW5kbGVBcmVxKGZyYW1lKSB7CiAgICBjb25zdCB7IG9yaWdpbiB9ID0gZnJhbWU7CiAgICBpZiAoIWlzQXJlcShvcmlnaW4pKSB7IHJldHVybiB9CiAgICAvKioKICAgICAqIEBldmVudCBhcmVxCiAgICAgKiBAc2VlIGV2ZW50OmZyYW1lCiAgICAgKi8KICAgIHRoaXMuZW1pdCgnYXJlcScsIGZyYW1lKTsKICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgKiAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
