@@ -472,12 +472,12 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="34" column="48" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/utils/mt.js" timestamp="1472543158067">
-        <mark key="'" line="308" column="13" />
-        <mark key="[" line="321" column="9" />
-        <mark key="]" line="157" column="20" />
-        <mark key="." line="157" column="20" />
-        <mark key="^" line="157" column="20" />
+      <file name="E:/hwj/project/iLighting/local-server/src/utils/mt.js" timestamp="1472543623730">
+        <mark key="'" line="310" column="13" />
+        <mark key="[" line="179" column="28" />
+        <mark key="]" line="179" column="28" />
+        <mark key="." line="179" column="28" />
+        <mark key="^" line="179" column="28" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/article.scss" timestamp="1449221982648">
         <mark key="[" line="5" column="17" />
@@ -1654,7 +1654,12 @@
         <mark key="^" line="31" column="87" />
         <mark key="." line="31" column="57" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/test/util-mt-test.js" timestamp="1472528670588" />
+      <file name="E:/hwj/project/iLighting/local-server/test/util-mt-test.js" timestamp="1472544241012">
+        <mark key="[" line="28" column="26" />
+        <mark key="]" line="28" column="28" />
+        <mark key="." line="28" column="28" />
+        <mark key="^" line="28" column="28" />
+      </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/config.js" timestamp="1449711795748">
         <mark key="[" line="5" column="32" />
         <mark key="]" line="5" column="33" />
@@ -2638,43 +2643,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>首字节必须是SOF</text>
+        <text>frame</text>
       </register>
       <register name="-" type="4">
-        <text>return [frameBuf, restBuf]</text>
+        <text>frame</text>
       </register>
       <register name="/" type="4">
         <text>爱心</text>
       </register>
-      <register name="0" type="4">
-        <text>首字节必须是SOF</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHN0YW5kYXJkQm9keSA9IEJ1ZmZlci5mcm9tKFsweGZlLCAweDAwLCAweDIxLCAweDAxLCAweDIwXSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IFtmcmFtZSwgcmVzdF0gPSBfc2hpZnRGcmFtZUZyb21CdWYodGFyZ2V0QnVmLnNsaWNlKDQrZGF0YUxlbisxKSk7CiAgICBpZiAoZnJhbWUubGVuZ3RoID09IDApIHsKICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgbGV0IGJ1ZiA9IHN0YW5kYXJkQm9keS5jb25jYXQoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBmb3IgKCkK</text>
+        <text encoding="base64">ICAgICAgYnVmW10K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByZXR1cm4gX3NoaWZ0RnJhbWVGcm9tQnVmKHRhcmdldEJ1Zik7Cg==</text>
+        <text encoding="base64">ICAgICAgbGV0IGJ1ZiA9IEJ1ZmZlci5mcm9tKFsweGZlLCAweDAwLCAweDIxLCAweDAxLCAweDIxXSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2MgX3NoaWZ0RnJhbWVGcm9tQnVmKHRhcmdldEJ1Zik7Cg==</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KHJlc3QubGVuZ3RoKS50by5iZS5lcXVhbCgwKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpZiAoZnJhbWVCdWYubGVuZ3RoID09IDApIHsKICAgIAogIH0K</text>
+        <text encoding="base64">ICAgIGl0KCcnKQo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICBsZXQgZGF0YUxlbiA9IDA7CiAgaWYgKHRhcmdldEJ1Zi5sZW5ndGggPCA0KSB7CiAgICAvLyCzpLbIsrvX4zSjrNTyt7W72AogICAgcmV0dXJuIFtuZXcgQnVmZmVyKDApLCB0YXJnZXRCdWZdOwogIH0KICBkYXRhTGVuID0gdGFyZ2V0QnVmLnJlYWRVSW50OCgxKTsKICBjb25zdCBmcmFtZUJ1ZiA9IHRhcmdldEJ1Zi5zbGljZSgwLCA0K2RhdGFMZW4rMSk7CiAgLy8gRkNT0KPR6QogIGNvbnN0IGZyYW1lRmNzID0gdGFyZ2V0QnVmLnJlYWRVSW50OCh0YXJnZXRCdWYubGVuZ3RoIC0gMSk7CiAgY29uc3QgZnJhbWVGY3NDYWxjID0gX2dlbkZjcyh0YXJnZXRCdWYuc2xpY2UoMSwgdGFyZ2V0QnVmLmxlbmd0aC0xKSk7CiAgaWYgKGZyYW1lRmNzICE9IGZyYW1lRmNzQ2FsYykgewogICAgLy8g0KPR6cqnsNyjrNTyyeHG+tCj0enKp7DctcTH+LbOCiAgICAKICB9</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZnJhbWUsIHJlc2V0KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCByZXN0QnVmCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGxldCBidWYgPSBCdWZmZXIuZnJvbShbMHhmZSwgMHgwMCwgMHgyMSwgMHgwMSwgMHgyMF0pOwogICAgbGV0IFtmcmFtZSwgcmVzZXRdID0gc2hpZnRGcmFtZUZyb21CdWYoYnVmKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
