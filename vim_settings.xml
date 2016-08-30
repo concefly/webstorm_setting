@@ -430,10 +430,11 @@
         <mark key="^" line="93" column="27" />
         <mark key="." line="93" column="27" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/utils/mtAppMsg.js" timestamp="1472487917258">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="E:/hwj/project/iLighting/local-server/src/utils/mtAppMsg.js" timestamp="1472489075187">
+        <mark key="[" line="7" column="17" />
+        <mark key="]" line="8" column="18" />
+        <mark key="." line="8" column="18" />
+        <mark key="^" line="8" column="18" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/label/label-mute.html" timestamp="1449539760161">
         <mark key="[" line="0" column="0" />
@@ -2629,11 +2630,11 @@
       <jump line="235" column="13" filename="E:/hwj/project/iLighting/local-server/src/utils/mt.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgKiBAcHVibGljCg==</text>
+      <register name="&quot;" type="4">
+        <text>0xff00</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0xff00</text>
       </register>
       <register name="/" type="4">
         <text>爱心</text>
@@ -2642,31 +2643,31 @@
         <text encoding="base64">ICBjb25zb2xlLmxvZygnYmVmb3JlJywgYXBwLnBheWxvYWQubGV2ZWwpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgKiBAcHVibGljCg==</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLy8gY29uc3Qgc3JzcCA9IHlpZWxkIHByeSh0cmFuc2Zlci53cml0ZS5iaW5kKHRyYW5zZmVyKSkoZnJhbWUpOwo=</text>
+        <text encoding="base64">ICogMS4gY2x1c3RlcklkOiAweGZmMDAKICogMS4gcGF5bG9hZDogMHwxICgxIGJ5dGUpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB5aWVsZCBhcHAudXBkYXRlKHByb3BzKS5leGVjKCk7Cg==</text>
+        <text encoding="base64">ICogMS4gY3VzdG9tIGNsdXN0ZXJJZCAoMiBieXRlcykKICogMS4gY3VzdG9tIHBheWxvYWQgKHggYnl0ZSkKICoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICByZXR1cm4gT2JqZWN0KHt9LCBhcHAudG9PYmplY3QoKSwgcHJvcHMpOwo=</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnYWZ0ZXInLCBhcHAucGF5bG9hZC5sZXZlbCk7Cg==</text>
+        <text encoding="base64">LyoqCiAqIAogKiBAdHlwZSB7e09OX09GX0xBTVA6IG51bWJlciwgR1JBWV9MQU1QOiBudW1iZXIsIE9OX09GX1NXSVRDSDogbnVtYmVyLCBHUkFZX1NXSVRDSDogbnVtYmVyfX0KICovCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnYmVmb3JlJywgYXBwLnBheWxvYWQubGV2ZWwpOwo=</text>
+        <text encoding="base64">ICAgKiBAcHVibGljCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgZW1pdChzLCBmcmFtZSkgewogICAgCiAgfQo=</text>
+        <text encoding="base64">ICAgICAgLy8gY29uc3Qgc3JzcCA9IHlpZWxkIHByeSh0cmFuc2Zlci53cml0ZS5iaW5kKHRyYW5zZmVyKSkoZnJhbWUpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vbm9pbnNwZWN0aW9uIEpTVW5yZXNvbHZlZEZ1bmN0aW9uCg==</text>
+        <text encoding="base64">ICB5aWVsZCBhcHAudXBkYXRlKHByb3BzKS5leGVjKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogZGVsZXRlIGxhdGVyCiAgICAgICAgICAgIGNhbGxiYWNrKG51bGwsIG51bGwpOwo=</text>
+        <text encoding="base64">ICByZXR1cm4gT2JqZWN0KHt9LCBhcHAudG9PYmplY3QoKSwgcHJvcHMpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
