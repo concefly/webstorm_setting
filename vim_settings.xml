@@ -1849,10 +1849,10 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/libs/client.js" timestamp="1472613247837">
-        <mark key="[" line="105" column="12" />
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="105" column="0" />
+      <file name="E:/hwj/project/iLighting/local-server/src/libs/client.js" timestamp="1472615043249">
+        <mark key="[" line="112" column="45" />
+        <mark key="]" line="114" column="0" />
+        <mark key="." line="114" column="0" />
       </file>
       <file name="$USER_HOME$/project/antcloud/lark-console/web/src/containers/Message/consultSettings.jsx" timestamp="1469108478188">
         <mark key="[" line="3" column="0" />
@@ -2640,43 +2640,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgKiAK</text>
+        <text encoding="base64">ICAgICAgLmRlbGV0ZSgpCg==</text>
       </register>
       <register name="-" type="4">
-        <text>origin</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>爱心</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgZGF0YSB9ID0gdGhpcy5wcmVQYXJzZShvcmlnaW4pOwo=</text>
+      <register name="0" type="4">
+        <text>new Error(`${handlerName}处理器未定义`)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgKiAK</text>
+        <text encoding="base64">ICAgICAgLmRlbGV0ZSgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAge30sCiAgICApCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBjbGllbnQK</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIHN3aXRjaCAoYXJlcS5uYW1lKSB7CiAgICAgIGNhc2UgJ1pkb0VuZERldmljZUFubmNlSW5kJzoKICAgICAgICBicmVhazsKICAgIH0=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgIGlmIChhcmVxIGluc3RhbmNlb2YgbXQuWmRvRW5kRGV2aWNlQW5uY2VJbmQpIHsKICAgICAgCiAgICB9</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Q2xpZW50LnNldEFwcFByb3BlcnR5ID0gc2V0QXBwUHJvcGVydHk7Cg==</text>
+        <text encoding="base64">Y29uc3QgeyBwYXJzZVNyc3AsIGZyYW1lTWFwIH0gPSByZXF1aXJlKCcuLi91dGlscy9tdCcpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyBUT0RPOiC198rUvde2zqOssru+rcD6IHN5bmMgUmVtb3RlCg==</text>
+        <text encoding="base64">Y29uc3QgCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIGxldCBjbWQwLCBjbWQxOwogICAgdHJ5IHsKICAgICAgCiAgICB9CiAgICB7IGNtZDAsIGNtZDEgfSA9IF9wYXJzZUZyYW1lKGJ1Zik7</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgKiAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgJ0RhdGEnOiBkYXRhCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjbGllbnQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
