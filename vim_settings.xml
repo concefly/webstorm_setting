@@ -1849,11 +1849,10 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/libs/client.js" timestamp="1472612355346">
-        <mark key="[" line="91" column="20" />
-        <mark key="]" line="91" column="96" />
-        <mark key="." line="91" column="96" />
-        <mark key="^" line="91" column="96" />
+      <file name="E:/hwj/project/iLighting/local-server/src/libs/client.js" timestamp="1472613247837">
+        <mark key="[" line="105" column="12" />
+        <mark key="]" line="105" column="0" />
+        <mark key="." line="105" column="0" />
       </file>
       <file name="$USER_HOME$/project/antcloud/lark-console/web/src/containers/Message/consultSettings.jsx" timestamp="1469108478188">
         <mark key="[" line="3" column="0" />
@@ -2641,7 +2640,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Q2xpZW50LnNldEFwcFByb3BlcnR5ID0gc2V0QXBwUHJvcGVydHk7Cg==</text>
+        <text encoding="base64">ICAgKiAK</text>
       </register>
       <register name="-" type="4">
         <text>origin</text>
@@ -2653,31 +2652,31 @@
         <text encoding="base64">ICAgIGNvbnN0IHsgZGF0YSB9ID0gdGhpcy5wcmVQYXJzZShvcmlnaW4pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Q2xpZW50LnNldEFwcFByb3BlcnR5ID0gc2V0QXBwUHJvcGVydHk7Cg==</text>
+        <text encoding="base64">ICAgKiAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyBUT0RPOiC198rUvde2zqOssru+rcD6IHN5bmMgUmVtb3RlCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIGxldCBjbWQwLCBjbWQxOwogICAgdHJ5IHsKICAgICAgCiAgICB9CiAgICB7IGNtZDAsIGNtZDEgfSA9IF9wYXJzZUZyYW1lKGJ1Zik7</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICBjbGllbnQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgJ0RhdGEnOiBkYXRhCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q2xpZW50LnNldEFwcFByb3BlcnR5ID0gc2V0QXBwUHJvcGVydHk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBUT0RPOiC198rUvde2zqOssru+rcD6IHN5bmMgUmVtb3RlCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQG1lbWJlciBvcmlnaW4KICAgICAqLwogICAgdGhpcy5vcmlnaW4gPSBvcmlnaW47Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIGxldCBjbWQwLCBjbWQxOwogICAgdHJ5IHsKICAgICAgCiAgICB9CiAgICB7IGNtZDAsIGNtZDEgfSA9IF9wYXJzZUZyYW1lKGJ1Zik7</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMub3JpZ2luCg==</text>
+        <text encoding="base64">ICAgICAgJ0RhdGEnOiBkYXRhCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBzcnNwQ21kMDogeyB2YWx1ZTogMHg2OSwgd3JpdGFibGU6IGZhbHNlLCBjb25maWd1cmFibGU6IGZhbHNlLCBlbnVtZXJhYmxlOiB0cnVlIH0sCiAgc3JzcENtZDE6IHsgdmFsdWU6IDB4MDAsIHdyaXRhYmxlOiBmYWxzZSwgY29uZmlndXJhYmxlOiBmYWxzZSwgZW51bWVyYWJsZTogdHJ1ZSB9LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
