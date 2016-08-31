@@ -466,11 +466,11 @@
         <mark key="^" line="16" column="30" />
         <mark key="." line="16" column="30" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/libs/serial.js" timestamp="1472545991926">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="32" column="48" />
+      <file name="E:/hwj/project/iLighting/local-server/src/libs/serial.js" timestamp="1472629021412">
+        <mark key="[" line="1" column="7" />
+        <mark key="]" line="1" column="7" />
+        <mark key="." line="1" column="7" />
+        <mark key="^" line="1" column="7" />
       </file>
       <file name="E:/hwj/project/iLighting/local-server/src/utils/mt.js" timestamp="1472621862585">
         <mark key="'" line="382" column="14" />
@@ -1041,6 +1041,12 @@
         <mark key="]" line="384" column="19" />
         <mark key="." line="384" column="19" />
         <mark key="^" line="384" column="19" />
+      </file>
+      <file name="E:/hwj/project/iLighting/local-server/src/libs/appmsg.js" timestamp="1472629709197">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="11" column="15" />
+        <mark key="^" line="11" column="15" />
+        <mark key="." line="11" column="15" />
       </file>
       <file name="$USER_HOME$/project/my/antd-tracker-core/test/operation-test.js" timestamp="1468380754282">
         <mark key="[" line="32" column="0" />
@@ -1850,11 +1856,11 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/libs/client.js" timestamp="1472624932905">
-        <mark key="[" line="111" column="16" />
-        <mark key="]" line="112" column="11" />
-        <mark key="." line="112" column="11" />
-        <mark key="^" line="112" column="11" />
+      <file name="E:/hwj/project/iLighting/local-server/src/libs/client.js" timestamp="1472629627277">
+        <mark key="[" line="1" column="7" />
+        <mark key="]" line="15" column="12" />
+        <mark key="." line="15" column="12" />
+        <mark key="^" line="15" column="12" />
       </file>
       <file name="$USER_HOME$/project/antcloud/lark-console/web/src/containers/Message/consultSettings.jsx" timestamp="1469108478188">
         <mark key="[" line="3" column="0" />
@@ -2185,6 +2191,12 @@
         <mark key="^" line="3" column="86" />
         <mark key="." line="3" column="79" />
       </file>
+      <file name="E:/hwj/project/iLighting/local-server/src/libs/appMsg.js" timestamp="1472630036288">
+        <mark key="[" line="17" column="21" />
+        <mark key="]" line="10" column="22" />
+        <mark key="." line="10" column="22" />
+        <mark key="^" line="10" column="22" />
+      </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/article/article_topic.blade.php" timestamp="1455761198747">
         <mark key="[" line="28" column="33" />
         <mark key="]" line="28" column="48" />
@@ -2424,10 +2436,10 @@
         <mark key="." line="7" column="35" />
         <mark key="^" line="7" column="35" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/libs/transfer.js" timestamp="1472621516560">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
+      <file name="E:/hwj/project/iLighting/local-server/src/libs/transfer.js" timestamp="1472629029904">
+        <mark key="[" line="0" column="3" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/project/my/news/src/entries/index.js" timestamp="1468725408841">
         <mark key="[" line="42" column="37" />
@@ -2643,10 +2655,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/nwk/:nwk</text>
+        <text>EventEmitter</text>
       </register>
       <register name="-" type="4">
-        <text>/nwk/:nwk</text>
+        <text>EventEmitter</text>
       </register>
       <register name="/" type="4">
         <text>爱心</text>
@@ -2655,31 +2667,31 @@
         <text encoding="base64">ICogIyMjIGAvYXBpL2RldmljZS9ud2svOm53a2AKICogLSBgR0VUYAogKgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">ICogQGZpcmVzIGZlZWRiYWNrCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzdWx0W2ldKQo=</text>
+        <text encoding="base64">ICogLSAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzdWx0W2ldKQo=</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxldCByZXN1bHQgPSBbXTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzdWx0W2ldKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocmVzdWx0W2ldKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGxldCByZXN1bHQgPSBbXTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIGlmIChkZXZzLmxlbmd0aCA+IDApIHsKICAgICAgZm9yIChsZXQgaSA9MDsgaTxkZXZzLmxlbmd0aCkKICAgIH0=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxldCBkZXZPYmogPSB7fTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
