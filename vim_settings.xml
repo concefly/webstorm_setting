@@ -472,11 +472,11 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="32" column="48" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/utils/mt.js" timestamp="1472571521713">
+      <file name="E:/hwj/project/iLighting/local-server/src/utils/mt.js" timestamp="1472619803783">
         <mark key="'" line="295" column="35" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+        <mark key="[" line="394" column="13" />
+        <mark key="]" line="396" column="11" />
+        <mark key="." line="396" column="11" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/article.scss" timestamp="1449221982648">
         <mark key="[" line="5" column="17" />
@@ -707,11 +707,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/schema/zigbee.js" timestamp="1472460870542">
-        <mark key="[" line="84" column="18" />
-        <mark key="]" line="57" column="53" />
-        <mark key="." line="57" column="53" />
-        <mark key="^" line="57" column="53" />
+      <file name="E:/hwj/project/iLighting/local-server/src/schema/zigbee.js" timestamp="1472619414906">
+        <mark key="[" line="44" column="3" />
+        <mark key="]" line="44" column="14" />
+        <mark key="." line="44" column="23" />
+        <mark key="^" line="44" column="14" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/permission/admin.list.js" timestamp="1452146198904">
         <mark key="[" line="51" column="27" />
@@ -1652,11 +1652,11 @@
         <mark key="^" line="31" column="87" />
         <mark key="." line="31" column="57" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/test/util-mt-test.js" timestamp="1472616397878">
-        <mark key="[" line="42" column="22" />
-        <mark key="]" line="41" column="12" />
-        <mark key="." line="41" column="13" />
-        <mark key="^" line="41" column="12" />
+      <file name="E:/hwj/project/iLighting/local-server/test/util-mt-test.js" timestamp="1472618819754">
+        <mark key="[" line="45" column="29" />
+        <mark key="]" line="45" column="29" />
+        <mark key="." line="45" column="29" />
+        <mark key="^" line="45" column="29" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/app/js/config.js" timestamp="1449711795748">
         <mark key="[" line="5" column="32" />
@@ -2640,11 +2640,11 @@
       <jump line="248" column="35" filename="E:/hwj/project/iLighting/local-server/src/utils/mt.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>爱心</text>
@@ -2653,31 +2653,31 @@
         <text>new Error(`${handlerName}处理器未定义`)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybgo=</text>
+        <text encoding="base64">ICAgIC5tYXAoKQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYXBwczogW10K</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICBpZiAoIWllZWUubWF0Y2goL14oW0EtWjAtOV0tKXs3fVtBLVowLTldJC8pKSB7CiAgICBuZXh0KG5ldyBFcnJvcigpKQogIH0=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLmNyZWF0ZSgpCg==</text>
+        <text encoding="base64">ICAgIHJldHVybgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLmRlbGV0ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgYXBwczogW10K</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgLmNyZWF0ZSgpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgLmRlbGV0ZSgpCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAge30sCiAgICApCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAgIHN3aXRjaCAoYXJlcS5uYW1lKSB7CiAgICAgIGNhc2UgJ1pkb0VuZERldmljZUFubmNlSW5kJzoKICAgICAgICBicmVhazsKICAgIH0=</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICAgIGlmIChhcmVxIGluc3RhbmNlb2YgbXQuWmRvRW5kRGV2aWNlQW5uY2VJbmQpIHsKICAgICAgCiAgICB9</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgeyBwYXJzZVNyc3AsIGZyYW1lTWFwIH0gPSByZXF1aXJlKCcuLi91dGlscy9tdCcpOwo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
