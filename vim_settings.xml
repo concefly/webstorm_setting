@@ -1933,10 +1933,11 @@
       <file name="$USER_HOME$/project/my/antd-tracker-core/.eslint.json" timestamp="1468380985477">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/libs/msgTransfer.js" timestamp="1472644515373">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
+      <file name="E:/hwj/project/iLighting/local-server/src/libs/msgTransfer.js" timestamp="1472811395319">
+        <mark key="[" line="79" column="8" />
+        <mark key="]" line="79" column="11" />
+        <mark key="." line="79" column="11" />
+        <mark key="^" line="79" column="11" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/index/index.scss" timestamp="1457487364499">
         <mark key="[" line="26" column="25" />
@@ -2660,11 +2661,11 @@
       <jump line="50" column="2" filename="E:/hwj/project/iLighting/local-server/src/routers/client.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAuc2VsZWN0KCdkZXZpY2UgZW5kUG9pbnQgdHlwZSBuYW1lIHBheWxvYWQnKQo=</text>
+      <register name="&quot;" type="4">
+        <text>this</text>
       </register>
       <register name="-" type="4">
-        <text>handler</text>
+        <text>this</text>
       </register>
       <register name="/" type="4">
         <text>爱心</text>
