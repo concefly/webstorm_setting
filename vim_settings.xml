@@ -705,10 +705,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/socket/client.js" timestamp="1472976573123">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="E:/hwj/project/iLighting/local-server/src/socket/client.js" timestamp="1472977183566">
+        <mark key="[" line="16" column="26" />
+        <mark key="]" line="16" column="75" />
+        <mark key="." line="16" column="75" />
+        <mark key="^" line="16" column="75" />
       </file>
       <file name="E:/hwj/project/iLighting/local-server/src/schema/zigbee.js" timestamp="1472643941791">
         <mark key="[" line="93" column="56" />
@@ -2674,11 +2675,11 @@
       <jump line="118" column="9" filename="E:/hwj/project/iLighting/local-server/node_modules/socket.io/lib/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vILeiyeTW2Mb0ysK8/gogICAgc29ja2V0LmVtaXQoJycpCg==</text>
+      <register name="&quot;" type="4">
+        <text>areq</text>
       </register>
       <register name="-" type="4">
-        <text>this</text>
+        <text>areq</text>
       </register>
       <register name="/" type="4">
         <text>use</text>
