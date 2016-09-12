@@ -1944,11 +1944,11 @@
       <file name="$USER_HOME$/project/my/antd-tracker-core/.eslint.json" timestamp="1468380985477">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/libs/msgTransfer.js" timestamp="1473671787086">
-        <mark key="[" line="37" column="37" />
-        <mark key="]" line="37" column="37" />
-        <mark key="." line="37" column="16" />
-        <mark key="^" line="37" column="15" />
+      <file name="E:/hwj/project/iLighting/local-server/src/libs/msgTransfer.js" timestamp="1473672663811">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="47" column="52" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/index/index.scss" timestamp="1457487364499">
         <mark key="[" line="26" column="25" />
@@ -2675,11 +2675,11 @@
       <jump line="118" column="9" filename="E:/hwj/project/iLighting/local-server/node_modules/socket.io/lib/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>OnOffLampFeedbackTurn</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8vIFRPRE86ILSmwO0gT25PZmZMYW1wRmVlZGJhY2tUdXJuCg==</text>
       </register>
       <register name="-" type="4">
-        <text>throw</text>
+        <text>frame</text>
       </register>
       <register name="/" type="4">
         <text>use</text>
@@ -2688,31 +2688,31 @@
         <text>OnOffLampFeedbackTurn</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIC8vIFRPRE86ILSmwO0gT25PZmZMYW1wRmVlZGJhY2tUdXJuCg==</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIHN3aXRjaCAoRmVlZGJhY2tDbHMubmFtZSkgewogICAgICBjYXNlIE9uT2ZmTGFtcEZlZWRiYWNrVHVybi5uYW1lOgogICAgICAgIAogICAgICAgIGJyZWFrOwogICAgfQ==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICB5aWVsZCBBcHAudXBkYXRlKHsKICAgICAgICAgIGRldmljZTogZnJhbWUucmVtb3RlTndrLAogICAgICAgICAgZW5kUG9pbnQ6IGZyYW1lLnJlbW90ZUVwLAogICAgICAgIH0sIHsKICAgICAgICAgIHBheWxvYWQ6IAogICAgICAgIH0pLmV4ZWMoKTs=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgLyoqCiAgICAgICAqIEBldmVudCBmZWVkYmFjawogICAgICAgKiBAdHlwZSB7RnJhbWVBcmVxfQogICAgICAgKi8KICAgICAgdGhpcy5lbWl0KCdmZWVkYmFjaycsIGZyYW1lKTsK</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgICAgY29uc3QgQXBwTXNnRmVlZGJhY2tDbHMgPSBhcHBNc2dNYXAuZ2V0QnlDbHVzdGVyKGZyYW1lLmNsdXN0ZXJJZCk7CiAgICAgIGlmIChBcHBNc2dGZWVkYmFja0NscykgewogICAgICAgIGNvbnN0IGlucyA9IG5ldyBBcHBNc2dGZWVkYmFja0NscygpOwogICAgICAgIGlucy5mcm9tUGF5bG9hZChmcmFtZS5yZW1vdGVQYXlsb2FkKTsKCiAgICAgIH0=</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICBnZW5GZWVkYmFja0luc0J5UGF5bG9hZChkYXRhKSB7CiAgfQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIDsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMucGFyc2VkID0gdGhpcy5nZW5QYXJzZWRWYWx1ZSh7CiAgICAgICdEYXRhJzogZGF0YSwKICAgICAgLy8gVE9ETzoKICAgICAgCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IAo=</text>
+        <text encoding="base64">ICAgIDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
