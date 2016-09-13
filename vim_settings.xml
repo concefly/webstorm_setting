@@ -147,11 +147,11 @@
         <mark key="^" line="4" column="89" />
         <mark key="." line="4" column="89" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/launch.js" timestamp="1472903755479">
-        <mark key="[" line="25" column="49" />
-        <mark key="]" line="25" column="58" />
-        <mark key="." line="25" column="58" />
-        <mark key="^" line="25" column="58" />
+      <file name="E:/hwj/project/iLighting/local-server/src/launch.js" timestamp="1473759727784">
+        <mark key="[" line="13" column="44" />
+        <mark key="]" line="27" column="58" />
+        <mark key="." line="27" column="58" />
+        <mark key="^" line="27" column="58" />
       </file>
       <file name="E:/hwj/project/iLighting/web-client/src/services/xFetch.js" timestamp="1472291153975">
         <mark key="[" line="30" column="0" />
@@ -705,11 +705,11 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/socket/client.js" timestamp="1472977183566">
-        <mark key="[" line="16" column="26" />
-        <mark key="]" line="16" column="75" />
-        <mark key="." line="16" column="75" />
-        <mark key="^" line="16" column="75" />
+      <file name="E:/hwj/project/iLighting/local-server/src/socket/client.js" timestamp="1473766132448">
+        <mark key="[" line="37" column="73" />
+        <mark key="]" line="44" column="52" />
+        <mark key="." line="44" column="52" />
+        <mark key="^" line="44" column="52" />
       </file>
       <file name="E:/hwj/project/iLighting/local-server/src/schema/zigbee.js" timestamp="1472643941791">
         <mark key="[" line="93" column="56" />
@@ -1870,11 +1870,11 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/libs/client.js" timestamp="1472904909554">
-        <mark key="[" line="97" column="25" />
-        <mark key="]" line="97" column="0" />
-        <mark key="." line="97" column="24" />
-        <mark key="^" line="82" column="23" />
+      <file name="E:/hwj/project/iLighting/local-server/src/libs/client.js" timestamp="1473765164018">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="81" column="23" />
       </file>
       <file name="$USER_HOME$/project/antcloud/lark-console/web/src/containers/Message/consultSettings.jsx" timestamp="1469108478188">
         <mark key="[" line="3" column="0" />
@@ -1944,11 +1944,11 @@
       <file name="$USER_HOME$/project/my/antd-tracker-core/.eslint.json" timestamp="1468380985477">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/libs/msgTransfer.js" timestamp="1473672663811">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-        <mark key="^" line="47" column="52" />
+      <file name="E:/hwj/project/iLighting/local-server/src/libs/msgTransfer.js" timestamp="1473765861005">
+        <mark key="[" line="53" column="5" />
+        <mark key="]" line="55" column="24" />
+        <mark key="^" line="55" column="24" />
+        <mark key="." line="55" column="24" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/index/index.scss" timestamp="1457487364499">
         <mark key="[" line="26" column="25" />
@@ -2257,6 +2257,9 @@
         <mark key="^" line="19" column="56" />
         <mark key="." line="19" column="56" />
       </file>
+      <file name="E:/hwj/project/iLighting/local-server/bin/config.js" timestamp="1473759353986">
+        <mark key="[" line="11" column="1" />
+      </file>
       <file name="$USER_HOME$/project/antcloud/core/flaming-cloud/index.htm" timestamp="1469426859816">
         <mark key="[" line="128" column="70" />
         <mark key="]" line="128" column="71" />
@@ -2436,6 +2439,12 @@
         <mark key="^" line="13" column="57" />
         <mark key="." line="13" column="57" />
       </file>
+      <file name="E:/hwj/project/iLighting/local-server/src/utils/appMsg.js" timestamp="1473765560685">
+        <mark key="[" line="28" column="16" />
+        <mark key="]" line="28" column="15" />
+        <mark key="." line="28" column="15" />
+        <mark key="^" line="28" column="15" />
+      </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/column_list/vr.blade.php" timestamp="1455674843174">
         <mark key="[" line="2" column="24" />
         <mark key="]" line="2" column="26" />
@@ -2542,10 +2551,10 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/bin/server.js" timestamp="1472463773451">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="E:/hwj/project/iLighting/local-server/bin/server.js" timestamp="1473759717604">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/project/heix/passport-frontend/libs/utils/query.js" timestamp="1452675816328">
         <mark key="[" line="5" column="91" />
@@ -2676,10 +2685,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86ILSmwO0gT25PZmZMYW1wRmVlZGJhY2tUdXJuCg==</text>
+        <text encoding="base64">ICAgICAgLm9uKCcnKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>frame</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>use</text>
@@ -2688,31 +2697,31 @@
         <text>OnOffLampFeedbackTurn</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86ILSmwO0gT25PZmZMYW1wRmVlZGJhY2tUdXJuCg==</text>
+        <text encoding="base64">ICAgICAgLm9uKCcnKQo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIHN3aXRjaCAoRmVlZGJhY2tDbHMubmFtZSkgewogICAgICBjYXNlIE9uT2ZmTGFtcEZlZWRiYWNrVHVybi5uYW1lOgogICAgICAgIAogICAgICAgIGJyZWFrOwogICAgfQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBAZXZlbnQgZmVlZGJhY2sKICAgICAgICAgKiBAdHlwZSB7RnJhbWVBcmVxfQogICAgICAgICAqLwogICAgICAgIHNlbGYuZW1pdCgnZmVlZGJhY2snLCBmcmFtZSk7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICB5aWVsZCBBcHAudXBkYXRlKHsKICAgICAgICAgIGRldmljZTogZnJhbWUucmVtb3RlTndrLAogICAgICAgICAgZW5kUG9pbnQ6IGZyYW1lLnJlbW90ZUVwLAogICAgICAgIH0sIHsKICAgICAgICAgIHBheWxvYWQ6IAogICAgICAgIH0pLmV4ZWMoKTs=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLyoqCiAgICAgICAqIEBldmVudCBmZWVkYmFjawogICAgICAgKiBAdHlwZSB7RnJhbWVBcmVxfQogICAgICAgKi8KICAgICAgdGhpcy5lbWl0KCdmZWVkYmFjaycsIGZyYW1lKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="6" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgY29uc3QgQXBwTXNnRmVlZGJhY2tDbHMgPSBhcHBNc2dNYXAuZ2V0QnlDbHVzdGVyKGZyYW1lLmNsdXN0ZXJJZCk7CiAgICAgIGlmIChBcHBNc2dGZWVkYmFja0NscykgewogICAgICAgIGNvbnN0IGlucyA9IG5ldyBBcHBNc2dGZWVkYmFja0NscygpOwogICAgICAgIGlucy5mcm9tUGF5bG9hZChmcmFtZS5yZW1vdGVQYXlsb2FkKTsKCiAgICAgIH0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAvKioKICAgKiC3osvNbXNn1rjB7taho6zQtMjrtK6/2rrzcmVzb2x2ZQogICAqIEBwYXJhbSB7TXNnU2VuZH0gbXNnRnJhbWUKICAgKiBAcmV0dXJuIHtQcm9taXNlfQogICAqIEBwdWJsaWMKICAgKiBAc2VlIG1vZHVsZTp1dGlscy9tdEFwcE1zZwogICAqLwogIHNlbmQobXNnRnJhbWUpIHsKICAgIHJldHVybiBuZXcgUHJvbWlzZSgocmVzb2x2ZSwgcmVqZWN0KSA9PiB7CiAgICAgIHRoaXMuX3RyYW5zZmVyLndyaXRlKG1zZ0ZyYW1lLCBudWxsLCBlcnIgPT4gewogICAgICAgIGlmIChlcnIpIHsgcmVqZWN0KGVycikgfSBlbHNlIHsgcmVzb2x2ZSgpIH0KICAgICAgfSk7CiAgICB9KTsKICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Y29uc3QgYXBwTXNnID0gcmVxdWlyZSgnLi4vdXRpbHMvbXRBcHBNc2cnKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Y29uc3QgeyBvbk9mTGFtcCB9ID0gcmVxdWlyZSgnLi4vdXRpbHMvbXRBcHBNc2cnKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Y29uc3QgewogIGFwcE1zZ01hcCwKICBNc2dTZW5kLAogIE9uT2ZmTGFtcFR1cm4sCiAgT25PZmZMYW1wRmVlZGJhY2tUdXJuLAp9ID0gcmVxdWlyZSgnLi4vdXRpbHMvbXRBcHBNc2cnKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBnZW5GZWVkYmFja0luc0J5UGF5bG9hZChkYXRhKSB7CiAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIDsK</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgIHN3aXRjaCAoY21kVHlwZSkgewogICAgICBjYXNlICd0dXJuJzoKICAgICAgICBicmVhazsKICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
