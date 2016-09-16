@@ -476,12 +476,12 @@
         <mark key="]" line="36" column="19" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/utils/mt.js" timestamp="1473671536779">
+      <file name="E:/hwj/project/iLighting/local-server/src/utils/mt.js" timestamp="1473997116603">
         <mark key="'" line="413" column="14" />
-        <mark key="[" line="378" column="40" />
-        <mark key="]" line="384" column="28" />
-        <mark key="." line="384" column="28" />
-        <mark key="^" line="384" column="28" />
+        <mark key="[" line="379" column="38" />
+        <mark key="]" line="384" column="26" />
+        <mark key="." line="384" column="26" />
+        <mark key="^" line="384" column="26" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/article.scss" timestamp="1449221982648">
         <mark key="[" line="5" column="17" />
@@ -1423,10 +1423,11 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/mock/serial.js" timestamp="1473995277654">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="E:/hwj/project/iLighting/local-server/src/mock/serial.js" timestamp="1473997268055">
+        <mark key="[" line="15" column="11" />
+        <mark key="]" line="19" column="50" />
+        <mark key="." line="19" column="50" />
+        <mark key="^" line="19" column="50" />
       </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/resources/assets/js/admin/components/modal/imageModal.vue" timestamp="1449822121728">
         <mark key="[" line="30" column="34" />
