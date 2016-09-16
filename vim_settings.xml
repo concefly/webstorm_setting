@@ -1425,7 +1425,7 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/mock/serial.js" timestamp="1474000837808">
+      <file name="E:/hwj/project/iLighting/local-server/src/mock/serial.js" timestamp="1474006917613">
         <mark key="[" line="19" column="53" />
         <mark key="]" line="19" column="78" />
         <mark key="." line="19" column="78" />
@@ -2284,11 +2284,11 @@
         <mark key="^" line="32" column="39" />
         <mark key="." line="32" column="39" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/mock/db.js" timestamp="1472643903445">
-        <mark key="[" line="17" column="23" />
-        <mark key="]" line="17" column="24" />
-        <mark key="." line="17" column="24" />
-        <mark key="^" line="17" column="24" />
+      <file name="E:/hwj/project/iLighting/local-server/src/mock/db.js" timestamp="1474006817303">
+        <mark key="[" line="13" column="23" />
+        <mark key="]" line="13" column="28" />
+        <mark key="." line="13" column="28" />
+        <mark key="^" line="13" column="28" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/views/disease/index.js" timestamp="1449744477301">
         <mark key="[" line="21" column="29" />
@@ -2554,9 +2554,6 @@
         <mark key="]" line="16" column="18" />
         <mark key="." line="16" column="18" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/node_modules/socket.io/lib/index.js" timestamp="1472902791127">
-        <mark key="'" line="118" column="9" />
-      </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/article_type_list/video.tpl" timestamp="1455674249134">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="34" column="96" />
@@ -2703,10 +2700,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>重构appMsg，doc</text>
+        <text>light-sensor</text>
       </register>
       <register name="-" type="4">
-        <text>重构appMsg，doc</text>
+        <text>light-sensor</text>
       </register>
       <register name="/" type="4">
         <text>use</text>
