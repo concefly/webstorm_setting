@@ -601,8 +601,10 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="6" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1473767736500">
+      <file name="/Dummy.txt" timestamp="1474001267594">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/gulpfile.js" timestamp="1450060083570">
         <mark key="[" line="61" column="28" />
@@ -1423,11 +1425,11 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/mock/serial.js" timestamp="1474000146445">
-        <mark key="[" line="20" column="5" />
-        <mark key="]" line="20" column="6" />
-        <mark key="." line="20" column="6" />
-        <mark key="^" line="19" column="50" />
+      <file name="E:/hwj/project/iLighting/local-server/src/mock/serial.js" timestamp="1474000837808">
+        <mark key="[" line="19" column="53" />
+        <mark key="]" line="19" column="78" />
+        <mark key="." line="19" column="78" />
+        <mark key="^" line="19" column="78" />
       </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/resources/assets/js/admin/components/modal/imageModal.vue" timestamp="1449822121728">
         <mark key="[" line="30" column="34" />
@@ -2700,11 +2702,11 @@
       <jump line="118" column="9" filename="E:/hwj/project/iLighting/local-server/node_modules/socket.io/lib/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>重构appMsg，doc</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>重构appMsg，doc</text>
       </register>
       <register name="/" type="4">
         <text>use</text>
