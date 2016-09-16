@@ -601,7 +601,7 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="6" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1474001267594">
+      <file name="/Dummy.txt" timestamp="1474010796399">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1425,11 +1425,11 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/mock/serial.js" timestamp="1474006917613">
-        <mark key="[" line="19" column="53" />
-        <mark key="]" line="19" column="78" />
-        <mark key="." line="19" column="78" />
-        <mark key="^" line="19" column="78" />
+      <file name="E:/hwj/project/iLighting/local-server/src/mock/serial.js" timestamp="1474010542016">
+        <mark key="[" line="25" column="65" />
+        <mark key="]" line="25" column="50" />
+        <mark key="." line="25" column="50" />
+        <mark key="^" line="25" column="50" />
       </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/resources/assets/js/admin/components/modal/imageModal.vue" timestamp="1449822121728">
         <mark key="[" line="30" column="34" />
@@ -1956,11 +1956,11 @@
       <file name="$USER_HOME$/project/my/antd-tracker-core/.eslint.json" timestamp="1468380985477">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/libs/msgTransfer.js" timestamp="1474009183930">
-        <mark key="[" line="45" column="16" />
-        <mark key="]" line="195" column="0" />
-        <mark key="." line="195" column="0" />
-        <mark key="^" line="195" column="0" />
+      <file name="E:/hwj/project/iLighting/local-server/src/libs/msgTransfer.js" timestamp="1474010826803">
+        <mark key="[" line="46" column="16" />
+        <mark key="]" line="71" column="36" />
+        <mark key="." line="71" column="36" />
+        <mark key="^" line="71" column="36" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/index/index.scss" timestamp="1457487364499">
         <mark key="[" line="26" column="25" />
@@ -2284,10 +2284,10 @@
         <mark key="^" line="32" column="39" />
         <mark key="." line="32" column="39" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/mock/db.js" timestamp="1474006817303">
-        <mark key="[" line="13" column="23" />
-        <mark key="]" line="13" column="28" />
-        <mark key="." line="13" column="28" />
+      <file name="E:/hwj/project/iLighting/local-server/src/mock/db.js" timestamp="1474010397899">
+        <mark key="[" line="13" column="15" />
+        <mark key="]" line="13" column="15" />
+        <mark key="." line="13" column="15" />
         <mark key="^" line="13" column="28" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/views/disease/index.js" timestamp="1449744477301">
@@ -2699,44 +2699,44 @@
       <jump line="118" column="9" filename="E:/hwj/project/iLighting/local-server/node_modules/socket.io/lib/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxvZy5pbmZvKGC/qsq8zayyvdS2tstQdWxzZSAke253a30uJHtlcH1cbmAsIHByb3BzKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ID4gMC41ID8gMSA6IDBd</text>
       </register>
       <register name="-" type="4">
-        <text>Lamp</text>
+        <text encoding="base64">ID4gMC41ID8gMSA6IDBd</text>
       </register>
       <register name="/" type="4">
         <text>use</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGxvZy5pbmZvKGC/qsq8zayyvdS2tstMYW1wICR7bndrfS4ke2VwfVxuYCwgcHJvcHMpOwo=</text>
+        <text encoding="base64">ICAvLyBzZXRJbnRlcnZhbCgoKSA9PiB7CiAgLy8gICBzZXJpYWwucHV0KGZyYW1lKDB4NDksIDAsIFswLDEsIDgsIDB4ZmYsMCwgMiwgMSxNYXRoLnJhbmRvbSgpID4gMC41ID8gMSA6IDBdKSkKICAvLyB9LCA1MDAwKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxvZy5pbmZvKGC/qsq8zayyvdS2tstQdWxzZSAke253a30uJHtlcH1cbmAsIHByb3BzKTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvZy5pbmZvKGC/qsq8zayyvdS2tstQdWxzZSAke253a30uJHtlcH1cbmAsIHByb3BzKTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGxvZy50cmFjZShSZW1vdGVOd2ssIFJlbW90ZUVwLCBSZW1vdGVQYXlsb2FkLCBjbWRUeXBlLCBmZWVkYmFjayk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxvZy50cmFjZShSZW1vdGVOd2ssIFJlbW90ZUVwLCBSZW1vdGVQYXlsb2FkLCBjbWRUeXBlLCBmZWVkYmFjayk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAogICAgKiBfaGFuZGxlRmVlZGJhY2tfcHVsc2UgKGZyYW1lKSB7CiAgICAgIDAKICAgIH0KICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy8gdHVybiBmZWVkYmFjawo=</text>
+        <text encoding="base64">ICAgIAogICAgKiBfaGFuZGxlRmVlZGJhY2tfcHVsc2UgKGZyYW1lKSB7CiAgICAgIDAKICAgIH0KICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY2FzZSAxOgogICAgICAgIHJldHVybiBbJ3R1cm4nLCB7b246ICEhYnVmLnJlYWRVSW50OCgxKX1dOwo=</text>
+        <text encoding="base64">ICAgICAgLy8gdHVybiBmZWVkYmFjawo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY2FzZSAxOgogICAgICAgIHJldHVybiBbJ3R1cm4nLCB7b246ICEhYnVmLnJlYWRVSW50OCgxKX1dOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
