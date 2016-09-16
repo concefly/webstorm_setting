@@ -1956,11 +1956,11 @@
       <file name="$USER_HOME$/project/my/antd-tracker-core/.eslint.json" timestamp="1468380985477">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/libs/msgTransfer.js" timestamp="1473998919961">
-        <mark key="[" line="91" column="9" />
-        <mark key="]" line="84" column="7" />
-        <mark key="." line="91" column="35" />
-        <mark key="^" line="84" column="7" />
+      <file name="E:/hwj/project/iLighting/local-server/src/libs/msgTransfer.js" timestamp="1474007733598">
+        <mark key="[" line="89" column="16" />
+        <mark key="]" line="89" column="20" />
+        <mark key="." line="89" column="20" />
+        <mark key="^" line="89" column="20" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/index/index.scss" timestamp="1457487364499">
         <mark key="[" line="26" column="25" />
@@ -2451,11 +2451,11 @@
         <mark key="^" line="13" column="57" />
         <mark key="." line="13" column="57" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/utils/appMsg.js" timestamp="1473998716880">
-        <mark key="[" line="27" column="7" />
-        <mark key="]" line="28" column="12" />
-        <mark key="." line="28" column="12" />
-        <mark key="^" line="28" column="12" />
+      <file name="E:/hwj/project/iLighting/local-server/src/utils/appMsg.js" timestamp="1474007163288">
+        <mark key="[" line="43" column="17" />
+        <mark key="]" line="49" column="20" />
+        <mark key="." line="49" column="20" />
+        <mark key="^" line="49" column="20" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/column_list/vr.blade.php" timestamp="1455674843174">
         <mark key="[" line="2" column="24" />
@@ -2700,43 +2700,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>light-sensor</text>
+        <text>lamp</text>
       </register>
       <register name="-" type="4">
-        <text>light-sensor</text>
+        <text>lamp</text>
       </register>
       <register name="/" type="4">
         <text>use</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLy8gdHVybgogICAgICBjYXNlIDA6CiAgICAgICAgcmV0dXJuIFsndHVybicsIHtvbjogISFidWYucmVhZFVJbnQ4KDEpfV07Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQGV2ZW50IGFwcEZlZWRiYWNrCiAgICAgKi8KICAgIHRoaXMuZW1pdCgnYXBwRmVlZGJhY2snLCB7CiAgICAgIG53azogUmVtb3RlTndrLAogICAgICBlcDogUmVtb3RlRXAsCiAgICAgIGFwcFR5cGU6ICdsYW1wJywKICAgICAgY21kVHlwZSwKICAgICAgcGF5bG9hZDogZmVlZGJhY2ssCiAgICB9KQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB5aWVsZCBzZWxmW2hhbmRsZU5hbWVdKGZyYW1lKTsK</text>
+        <text encoding="base64">ICAgIGxvZy50cmFjZShSZW1vdGVOd2ssIFJlbW90ZUVwLCBSZW1vdGVQYXlsb2FkLCBjbWRUeXBlLCBmZWVkYmFjayk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxvZy50cmFjZSgnJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgUmVtb3RlTndrLCBSZW1vdGVFcCwgQ2x1c3RlcklkLCBSZW1vdGVQYXlsb2FkIH0gPSBhcmVxLnBhcnNlZDsK</text>
+        <text encoding="base64">ICAgIAogICAgKiBfaGFuZGxlRmVlZGJhY2tfcHVsc2UgKGZyYW1lKSB7CiAgICAgIDAKICAgIH0KICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgLy8gdHVybiBmZWVkYmFjawo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgY2FzZSAxOgogICAgICAgIHJldHVybiBbJ3R1cm4nLCB7b246ICEhYnVmLnJlYWRVSW50OCgxKX1dOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMucmVtb3RlTndrID0gcmVtb3RlTndrOwogICAgdGhpcy5yZW1vdGVFcCA9IHJlbW90ZUVwOwogICAgdGhpcy5jbHVzdGVySWQgPSBjbHVzdGVySWQ7CiAgICB0aGlzLnJlbW90ZVBheWxvYWQgPSBwYXlsb2FkOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGhyb3cgbmV3IEVycm9yKGVycik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNhbGxiYWNrKG51bGwpOwo=</text>
+        <text encoding="base64">ICAgICAgICB5aWVsZCBzZWxmW2hhbmRsZU5hbWVdKGZyYW1lKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
