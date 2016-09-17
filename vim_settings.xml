@@ -553,11 +553,11 @@
         <mark key="^" line="60" column="15" />
         <mark key="." line="60" column="15" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/routers/scene.js" timestamp="1474111837865">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="10" column="2" />
-        <mark key="^" line="88" column="33" />
-        <mark key="." line="88" column="33" />
+      <file name="E:/hwj/project/iLighting/local-server/src/routers/scene.js" timestamp="1474120630562">
+        <mark key="[" line="1" column="8" />
+        <mark key="]" line="28" column="2" />
+        <mark key="^" line="108" column="33" />
+        <mark key="." line="108" column="33" />
       </file>
       <file name="E:/hwj/project/iLighting/local-server/src/routers/mode.js" timestamp="1474112116237">
         <mark key="[" line="31" column="3" />
@@ -816,6 +816,9 @@
         <mark key="]" line="191" column="0" />
         <mark key="^" line="12" column="16" />
         <mark key="." line="191" column="0" />
+      </file>
+      <file name="E:/hwj/project/iLighting/local-server/src/scenes/static.js" timestamp="1474119484069">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/my/news/src/components/Home.jsx" timestamp="1468728940207">
         <mark key="[" line="31" column="0" />
@@ -1349,6 +1352,12 @@
         <mark key="]" line="7" column="40" />
         <mark key="^" line="7" column="40" />
         <mark key="." line="7" column="40" />
+      </file>
+      <file name="E:/hwj/project/iLighting/local-server/src/routers/sceneEdit.js" timestamp="1474120613220">
+        <mark key="[" line="1" column="7" />
+        <mark key="]" line="1" column="4" />
+        <mark key="^" line="1" column="4" />
+        <mark key="." line="1" column="4" />
       </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/resources/assets/js/cms/post/post_normal.js" timestamp="1449742339269">
         <mark key="[" line="6" column="40" />
