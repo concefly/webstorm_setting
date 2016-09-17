@@ -150,21 +150,21 @@
         <mark key="^" line="4" column="89" />
         <mark key="." line="4" column="89" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/launch.js" timestamp="1474111576494">
-        <mark key="[" line="25" column="31" />
-        <mark key="]" line="27" column="45" />
-        <mark key="." line="27" column="45" />
-        <mark key="^" line="27" column="45" />
+      <file name="E:/hwj/project/iLighting/local-server/src/launch.js" timestamp="1474124401254">
+        <mark key="[" line="15" column="34" />
+        <mark key="]" line="18" column="17" />
+        <mark key="." line="18" column="17" />
+        <mark key="^" line="18" column="17" />
       </file>
       <file name="E:/hwj/project/iLighting/web-client/src/services/xFetch.js" timestamp="1472291153975">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/schema/sys.js" timestamp="1474122645178">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="E:/hwj/project/iLighting/local-server/src/schema/sys.js" timestamp="1474124391389">
+        <mark key="[" line="9" column="30" />
+        <mark key="]" line="9" column="30" />
+        <mark key="." line="9" column="30" />
       </file>
       <file name="E:/hwj/project/iLighting/local-server/src/libs/zigbee/frameHandler.js" timestamp="1474100593774">
         <mark key="[" line="25" column="0" />
@@ -859,10 +859,11 @@
         <mark key="^" line="27" column="2" />
         <mark key="." line="27" column="2" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/libs/proxy.js" timestamp="1474112619973">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="E:/hwj/project/iLighting/local-server/src/libs/proxy.js" timestamp="1474124208052">
+        <mark key="[" line="111" column="14" />
+        <mark key="]" line="112" column="48" />
+        <mark key="^" line="112" column="48" />
+        <mark key="." line="112" column="48" />
       </file>
       <file name="$USER_HOME$/project/flaming-cloud/contactor/.gitignore" timestamp="1467873346298">
         <mark key="[" line="7" column="0" />
@@ -2714,11 +2715,11 @@
       <jump line="118" column="9" filename="E:/hwj/project/iLighting/local-server/node_modules/socket.io/lib/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">c3lzU3RhdHVzLnF1ZXJ5LmdldEN1cnJlbnQgPSBmdW5jdGlvbiAoKSB7CiAgcmV0dXJuIHRoaXMuZgp9Owo=</text>
+      <register name="&quot;" type="4">
+        <text>, required: true }</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>, required: true }</text>
       </register>
       <register name="/" type="4">
         <text>use</text>
@@ -2739,31 +2740,31 @@
 }</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">c3lzU3RhdHVzLnF1ZXJ5LmdldEN1cnJlbnQgPSBmdW5jdGlvbiAoKSB7CiAgcmV0dXJuIHRoaXMuZgp9Owo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICBpZiAoc3lzU3RhdHVzLl9zYXZlZCkgewogICAgbmV4dCgpCiAgfSBlbHNlIHsKICAgIAogIH0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAvLyDXosjrIGNvbmZpZwogIGdsb2JhbC5fX2NvbmZpZyA9IGNvbmZpZzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBzY2VuZVR5cGU6IHsKICAgIHR5cGU6IFN0cmluZywKICAgIGVudW06IFsnc3RhdGljJywgJ2F1dG8nXQogIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIFByb3h5Lm1vZGUgPSAoc3RhdHVzICYmIHN0YXR1cy5tb2RlKSB8fCAnJzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB0eXBlS2V5OiAnJHR5cGUnLAo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQGV2ZW50IGluaXQKICAgICAqLwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogQGZpcmVzIHByb3h5Om1vZGVDaGFuZ2UK</text>
+        <text encoding="base64">ICAgICAgICBldmVudC5lbWl0KCdpbml0Jyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcC5zZXRNb2RlKG1vZGUpOwo=</text>
+        <text encoding="base64">ICAgIGV2ZW50LmVtaXQoJ2luaXQnKTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIHJldHVybiBjby53cmFwKGZ1bmN0aW9uICogKCkgewogICAgICB5aWVsZCBhcHAKICAgIH0pKCk=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAvKioKICAgKiDJ6NbDz7XNs8Sjyr0KICAgKiBAcGFyYW0ge1N0cmluZ30gbW9kZQogICAqLwogIHNldE1vZGUobW9kZSkgewogICAgdGhpcy5fbW9kZSA9IG1vZGU7CiAgICByZXR1cm4gdGhpczsKICB9Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgIHJldHVybiBuZXcgUHJvbWlzZSgocmVzb2x2ZSwgcmVqZWN0KSA9PiB7CiAgICB9KTs=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgUHJveHkuYnJpZGdlRXAgPSBicmlkZ2VFcDsKICAgICAgUHJveHkuYXBwTXNnQ2x1c3RlciA9IGFwcE1zZ0NsdXN0ZXI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
