@@ -601,7 +601,7 @@
         <mark key="^" line="0" column="16" />
         <mark key="." line="6" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1474010796399">
+      <file name="/Dummy.txt" timestamp="1474096329370">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -840,6 +840,9 @@
         <mark key="]" line="27" column="2" />
         <mark key="^" line="27" column="2" />
         <mark key="." line="27" column="2" />
+      </file>
+      <file name="E:/hwj/project/iLighting/local-server/src/libs/proxy.js" timestamp="1474096431993">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/flaming-cloud/contactor/.gitignore" timestamp="1467873346298">
         <mark key="[" line="7" column="0" />
