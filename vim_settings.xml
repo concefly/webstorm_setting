@@ -558,11 +558,11 @@
         <mark key="^" line="60" column="15" />
         <mark key="." line="60" column="15" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/routers/scene.js" timestamp="1474249901542">
-        <mark key="[" line="43" column="29" />
-        <mark key="]" line="43" column="29" />
-        <mark key="." line="43" column="29" />
-        <mark key="^" line="10" column="1" />
+      <file name="E:/hwj/project/iLighting/local-server/src/routers/scene.js" timestamp="1474255400781">
+        <mark key="[" line="125" column="13" />
+        <mark key="]" line="125" column="23" />
+        <mark key="." line="125" column="23" />
+        <mark key="^" line="125" column="23" />
       </file>
       <file name="E:/hwj/project/iLighting/local-server/src/routers/mode.js" timestamp="1474112116237">
         <mark key="[" line="31" column="3" />
@@ -870,11 +870,11 @@
         <mark key="]" line="113" column="0" />
         <mark key="." line="113" column="0" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/mock/db2.js" timestamp="1474251462485">
-        <mark key="[" line="18" column="11" />
-        <mark key="]" line="18" column="18" />
-        <mark key="." line="18" column="18" />
-        <mark key="^" line="18" column="18" />
+      <file name="E:/hwj/project/iLighting/local-server/src/mock/db2.js" timestamp="1474252924972">
+        <mark key="[" line="77" column="15" />
+        <mark key="]" line="77" column="23" />
+        <mark key="." line="77" column="23" />
+        <mark key="^" line="77" column="23" />
       </file>
       <file name="$USER_HOME$/project/flaming-cloud/contactor/.gitignore" timestamp="1467873346298">
         <mark key="[" line="7" column="0" />
@@ -1424,11 +1424,11 @@
         <mark key="^" line="4" column="31" />
         <mark key="." line="4" column="31" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/schema/scene.js" timestamp="1474121488087">
-        <mark key="[" line="10" column="1" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="42" column="38" />
-        <mark key="^" line="42" column="38" />
+      <file name="E:/hwj/project/iLighting/local-server/src/schema/scene.js" timestamp="1474252888651">
+        <mark key="[" line="6" column="9" />
+        <mark key="]" line="6" column="29" />
+        <mark key="." line="6" column="29" />
+        <mark key="^" line="6" column="29" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/libs/bootstrap-validator/bootstrap-validator.js" timestamp="1453270402363">
         <mark key="[" line="196" column="44" />
@@ -2725,48 +2725,44 @@
       <jump line="118" column="9" filename="E:/hwj/project/iLighting/local-server/node_modules/socket.io/lib/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>${this.type}@${this.nwk}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>${this.type}@${this.nwk}</text>
+        <text>.find({scene: sScene.id})</text>
       </register>
       <register name="/" type="4">
         <text>use</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAvLyDH5b/Vyv2+3b/iCiAgY29uc3QgeyBEZXZpY2UsIEFwcCwgU3RhdGljU2NlbmUsIFN0YXRpY1NjZW5lSXRlbSB9ID0gbW9kZWxzOwogIHlpZWxkIERldmljZS5yZW1vdmUoKS5leGVjKCk7CiAgeWllbGQgQXBwLnJlbW92ZSgpLmV4ZWMoKTsKICB5aWVsZCBTdGF0aWNTY2VuZS5yZW1vdmUoKS5leGVjKCk7CiAgeWllbGQgU3RhdGljU2NlbmVJdGVtLnJlbW92ZSgpLmV4ZWMoKTsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHN0YXRpY1NjZW5lSXRlbXMgPSB5aWVsZCBTdGF0aWNTY2VuZUl0ZW0uZmluZCh7c2NlbmU6IHN0YXRpY1NjZW5lLmlkfSkuZXhlYygpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdCB7IERldmljZSwgQXBwIH0gPSBtb2RlbHM7Cg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHlpZWxkIFN0YXRpY1NjZW5lSXRlbS5jcmVhdGUoKTsK</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgeyBlbmR9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHNJdGVtcyA9IHlpZWxkIFN0YXRpY1NjZW5lSXRlbS5jcmVhdGUocXVlcnkuaXRlbXMpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbndrOiBkZXZEZXNjW2ldLm53aywKICAgICAgaWVlZTogZGV2RGVzY1tpXS5pZWVlLAogICAgICB0eXBlOiBkZXZEZXNjW2ldLnR5cGUsCiAgICAgIG5hbWU6IGRldkRlc2NbaV0ubmFtZQo=</text>
+        <text encoding="base64">ICAgICAgaXRlbXM6IHNJdGVtcy5tYXAoaXRlbSA9PiBpdGVtLmlkKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zdCBzdGF0aWNTY2VuZUl0ZW1zID0geWllbGQgc3RhdGljU2NlbmUuaXRlbXMubWFwKGl0ZW1JZCA9PiAoCiAgICAgICAgLy8gICBTdGF0aWNTY2VuZUl0ZW0uZmluZEJ5SWQoaXRlbUlkKS5leGVjKCkKICAgICAgICAvLyApKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIGNvbnN0IHN0YXRpY1NjZW5lSXRlbXMgPSB5aWVsZCBzdGF0aWNTY2VuZS5pdGVtcy5tYXAoaXRlbUlkID0+ICgKICAgIC8vICAgU3RhdGljU2NlbmVJdGVtLmZpbmRCeUlkKGl0ZW1JZCkuZXhlYygpCiAgICAvLyApKTsK</text>
       </register>
-      <register name="7" type="4">
-        <text>const devMap = {
-  0: {
-    ieee:
-  }
-};</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBuYW1lLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCiAqIEBwYXJhbSBtb2RlbHMKICogQHJldHVybiB7UHJvbWlzZX0KICovCg==</text>
+        <text encoding="base64">ICBpdGVtczogW1NjaGVtYS5UeXBlcy5PYmplY3RJZF0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICogCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
