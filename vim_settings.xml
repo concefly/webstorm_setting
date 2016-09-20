@@ -822,11 +822,11 @@
         <mark key="." line="57" column="0" />
         <mark key="^" line="39" column="5" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/libs/zigbee/msgTransfer.js" timestamp="1474100160130">
-        <mark key="[" line="191" column="0" />
-        <mark key="]" line="191" column="0" />
-        <mark key="^" line="12" column="16" />
-        <mark key="." line="191" column="0" />
+      <file name="E:/hwj/project/iLighting/local-server/src/libs/zigbee/msgTransfer.js" timestamp="1474335563740">
+        <mark key="[" line="170" column="22" />
+        <mark key="]" line="170" column="33" />
+        <mark key="^" line="170" column="33" />
+        <mark key="." line="170" column="33" />
       </file>
       <file name="E:/hwj/project/iLighting/local-server/src/scenes/static.js" timestamp="1474119484069">
         <mark key="[" line="0" column="0" />
@@ -865,10 +865,11 @@
         <mark key="^" line="27" column="2" />
         <mark key="." line="27" column="2" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/libs/proxy.js" timestamp="1474126517599">
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="113" column="0" />
-        <mark key="." line="113" column="0" />
+      <file name="E:/hwj/project/iLighting/local-server/src/libs/proxy.js" timestamp="1474335510256">
+        <mark key="[" line="64" column="30" />
+        <mark key="]" line="64" column="42" />
+        <mark key="." line="64" column="42" />
+        <mark key="^" line="64" column="42" />
       </file>
       <file name="E:/hwj/project/iLighting/local-server/src/mock/db2.js" timestamp="1474252924972">
         <mark key="[" line="77" column="15" />
@@ -2725,11 +2726,11 @@
       <jump line="118" column="9" filename="E:/hwj/project/iLighting/local-server/node_modules/socket.io/lib/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>models</text>
       </register>
       <register name="-" type="4">
-        <text>.find({scene: sScene.id})</text>
+        <text>models</text>
       </register>
       <register name="/" type="4">
         <text>use</text>
