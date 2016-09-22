@@ -558,17 +558,17 @@
         <mark key="^" line="60" column="15" />
         <mark key="." line="60" column="15" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/routers/scene.js" timestamp="1474530047671">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="64" />
+      <file name="E:/hwj/project/iLighting/local-server/src/routers/scene.js" timestamp="1474535256257">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="51" column="4" />
         <mark key="." line="156" column="0" />
         <mark key="^" line="74" column="22" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/routers/mode.js" timestamp="1474112116237">
-        <mark key="[" line="31" column="3" />
-        <mark key="]" line="23" column="20" />
-        <mark key="." line="23" column="20" />
-        <mark key="^" line="23" column="20" />
+      <file name="E:/hwj/project/iLighting/local-server/src/routers/mode.js" timestamp="1474535601071">
+        <mark key="[" line="21" column="4" />
+        <mark key="]" line="21" column="4" />
+        <mark key="." line="21" column="4" />
+        <mark key="^" line="22" column="0" />
       </file>
       <file name="$USER_HOME$/project/pet/backend/.env" timestamp="1449199882844">
         <mark key="[" line="5" column="12" />
@@ -1106,9 +1106,9 @@
         <mark key="^" line="11" column="15" />
         <mark key="." line="11" column="15" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/routers/manualMode.js" timestamp="1474531954009">
-        <mark key="[" line="3" column="39" />
-        <mark key="]" line="34" column="44" />
+      <file name="E:/hwj/project/iLighting/local-server/src/routers/manualMode.js" timestamp="1474535378424">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="7" column="3" />
         <mark key="." line="34" column="44" />
         <mark key="^" line="34" column="44" />
       </file>
@@ -1249,11 +1249,11 @@
         <mark key="^" line="190" column="13" />
         <mark key="." line="192" column="31" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/routers/index.js" timestamp="1474530235657">
-        <mark key="[" line="4" column="30" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="5" column="0" />
+      <file name="E:/hwj/project/iLighting/local-server/src/routers/index.js" timestamp="1474535487655">
+        <mark key="[" line="7" column="22" />
+        <mark key="]" line="7" column="30" />
+        <mark key="." line="7" column="30" />
+        <mark key="^" line="7" column="30" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/file-upload/file-upload.js" timestamp="1450259135864">
         <mark key="[" line="3" column="26" />
@@ -1475,10 +1475,11 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/routers/sceneMode.js" timestamp="1474530277890">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="E:/hwj/project/iLighting/local-server/src/routers/sceneMode.js" timestamp="1474535687970">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="40" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="32" column="29" />
       </file>
       <file name="E:/hwj/project/iLighting/local-server/src/mock/serial.js" timestamp="1474035320392">
         <mark key="[" line="25" column="65" />
@@ -2735,44 +2736,44 @@
       <jump line="118" column="9" filename="E:/hwj/project/iLighting/local-server/node_modules/socket.io/lib/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/device/nwk/:nwk/ep/:ep</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY29uc3Qgc2NlbmUgPSB5aWVsZCBib2R5Lmpzb24odGhpcyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>updateReq</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>use</text>
       </register>
-      <register name="0" type="4">
-        <text>/device/nwk/:nwk/ep/:ep</text>
+      <register name="0" type="2">
+        <text encoding="base64">cm91dGVyLnVzZShyZXF1aXJlKCcuL21hbnVhbE1vZGUnKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogQHR5cGUge1JvdXRlcn0K</text>
+        <text encoding="base64">ICAgICAgY29uc3Qgc2NlbmUgPSB5aWVsZCBib2R5Lmpzb24odGhpcyk7Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHVwZGF0ZVJlcSA9IHt9OwogICAgbmFtZSAmJiAodXBkYXRlUmVxLm5hbWUgPSBuYW1lKTsKICAgIHBheWxvYWQgJiYgKHVwZGF0ZVJlcS5wYXlsb2FkID0gcGF5bG9hZCk7Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CnJvdXRlcg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgUm91dGVyID0gcmVxdWlyZSgna29hLXJvdXRlcicpOwpjb25zdCBib2R5ID0gcmVxdWlyZSgnY28tYm9keScpOwpjb25zdCB7IGFwcDogbG9nIH0gPSByZXF1aXJlKCcuLi91dGlscy9sb2cnKTsKY29uc3QgXyA9IHJlcXVpcmUoJ2xvZGFzaCcpOwpjb25zdCBNc2cgPSByZXF1aXJlKCcuLi91dGlscy9tc2cnKTsKY29uc3QgcHJveHkgPSByZXF1aXJlKCcuLi9saWJzL3Byb3h5JykuZ2V0SW5zKCdtYW51YWwnKTsKY29uc3Qgc3lzU3RhdHVzID0gcmVxdWlyZSgnLi4vbGlicy9zeXMnKS5nZXRJbnMoKTsKCmNvbnN0IHJvdXRlciA9IG5ldyBSb3V0ZXIoewogIHByZWZpeDogJy9hcGkvbWFudWFsJwp9KTsKCmZ1bmN0aW9uICogbW9kZUNoZWNrZXIgKG5leHQpIHsKICBjb25zdCB7IG1vZGUgfSA9IHN5c1N0YXR1cy5nZXRTdGF0dXMoKTsKICBpZiAobW9kZT09J21hbnVhbCcpIHsKICAgIHlpZWxkIG5leHQoKQogIH0gZWxzZSB7CiAgICB0aGlzLmJvZHkgPSBuZXcgTXNnKG1vZGUsIG5ldyBFcnJvcignxKPKvbK71MrQ7ScpKQogIH0KfQoKcm91dGVyCiAgLnB1dCgnL2RldmljZS9ud2svOm53ay9lcC86ZXAnLCBtb2RlQ2hlY2tlciwgZnVuY3Rpb24gKiAobmV4dCkgewogICAgY29uc3QgbndrID0gcGFyc2VJbnQodGhpcy5wYXJhbXMubndrLCAxMCk7CiAgICBjb25zdCBlcCA9IHBhcnNlSW50KHRoaXMucGFyYW1zLmVwLCAxMCk7CiAgICBjb25zdCB7IG5hbWUsIHBheWxvYWQgfSA9IHlpZWxkIGJvZHkuanNvbih0aGlzKTsKICAgIGNvbnN0IHVwZGF0ZVJlcSA9IHt9OwogICAgbmFtZSAmJiAodXBkYXRlUmVxLm5hbWUgPSBuYW1lKTsKICAgIHBheWxvYWQgJiYgKHVwZGF0ZVJlcS5wYXlsb2FkID0gcGF5bG9hZCk7CiAgICB0cnkgewogICAgICBjb25zdCBhcHAgPSB5aWVsZCBwcm94eS5zZXRBcHBQcm9wcyhud2ssIGVwLCB1cGRhdGVSZXEpOwogICAgICB0aGlzLmJvZHkgPSBuZXcgTXNnKF8ucGljayhhcHAsIFsKICAgICAgICAnZGV2aWNlJywgJ2VuZFBvaW50JywgJ3R5cGUnLCAnbmFtZScsICdwYXlsb2FkJywKICAgICAgXSkpOwogICAgfSBjYXRjaCAoZSkgewogICAgICBsb2cuZXJyb3IoZSk7CiAgICAgIHRoaXMuYm9keSA9IG5ldyBNc2coe253aywgZXB9LCBlKTsKICAgIH0KICB9KTsKCm1vZHVsZS5leHBvcnRzID0gcm91dGVyLnJvdXRlcygpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHNjZW5lID0geWllbGQgYm9keS5qc29uKHRoaXMpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHNjZW5lID0geWllbGQgYm9keS5qc29uKHRoaXMpOwogICAgdHJ5IHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgXyA9IHJlcXVpcmUoJ2xvZGFzaCcpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgbW9kZTogY3VycmVudE1vZGUgfSA9IHN5c1N0YXR1cy5nZXRTdGF0dXMoKTsKICAgIGlmIChjdXJyZW50TW9kZSA9PT0gJ21hbnVhbCcpIHsKICAgICAgdGhpcy5ib2R5ID0gbmV3IE1zZyhzY2VuZSwgbmV3IEVycm9yKCfPtc2ztKbT2srWtq/Eo8q9o6yyu7/JuPy7u7OhvrBpZCcpKQogICAgfSBlbHNlIHsKICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdHJ5IHsKICAgICAgICB5aWVsZCBzeXNTdGF0dXMuc2V0U3RhdHVzKHtzY2VuZX0pOwogICAgICAgIHRoaXMuYm9keSA9IG5ldyBNc2coc2NlbmUpOwogICAgICB9IGNhdGNoIChlKSB7IHRoaXMuYm9keSA9IG5ldyBNc2coc2NlbmUsIGUpIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8g17yxuMq1wP0KUHJveHkuX3NlcmlhbCA9IHNlcmlhbDsKUHJveHkuX2ZyYW1lVHJhbnNmZXIgPSBuZXcgRnJhbWVUcmFuc2Zlcih7c2VyaWFsOiBQcm94eS5fc2VyaWFsfSk7ClByb3h5Ll9mcmFtZUhhbmRsZXIgPSBuZXcgRnJhbWVIYW5kbGVyKHsKICB0cmFuc2ZlcjogUHJveHkuX2ZyYW1lVHJhbnNmZXIsCiAgZnJhbWVNYXAsIG1vZGVscwp9KTsKUHJveHkuX21zZ1RyYW5zZmVyID0gbmV3IE1zZ1RyYW5zZmVyKHsKICBtb2RlbHMsCiAgY2xpZW50OiBQcm94eS5fZnJhbWVIYW5kbGVyLAogIHRyYW5zZmVyOiBQcm94eS5fZnJhbWVUcmFuc2ZlciwKICBicmlkZ2VFcDogUHJveHkuYnJpZGdlRXAsCiAgYXBwTXNnQ2x1c3RlcjogUHJveHkuYXBwTXNnQ2x1c3RlciwKfSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IG53ayA9IHBhcnNlSW50KHRoaXMucGFyYW1zLm53aywgMTApOwogICAgY29uc3QgZXAgPSBwYXJzZUludCh0aGlzLnBhcmFtcy5lcCwgMTApOwogICAgY29uc3QgYXBwUGF5bG9hZCA9IHlpZWxkIGJvZHkuanNvbih0aGlzKTsKICAgIHRyeSB7CiAgICAgIGNvbnN0IGFwcCA9IHlpZWxkIHByb3h5LnNldEFwcFByb3BzKG53aywgZXAsIHtwYXlsb2FkOiBhcHBQYXlsb2FkfSk7CiAgICAgIHRoaXMuYm9keSA9IG5ldyBNc2coXy5waWNrKGFwcCwgWwogICAgICAgICdkZXZpY2UnLCAnZW5kUG9pbnQnLCAndHlwZScsICduYW1lJywgJ3BheWxvYWQnLAogICAgICBdKSk7CiAgICB9IGNhdGNoIChlKSB7CiAgICAgIGxvZy5lcnJvcihlKTsKICAgICAgdGhpcy5ib2R5ID0gbmV3IE1zZyh7bndrLCBlcCwgcGF5bG9hZDogYXBwUGF5bG9hZH0sIGUpOwogICAgfQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgbmFtZSwgaXRlbXMgfSA9IHF1ZXJ5Owo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAucHV0KCcvZGV2aWNlL253ay86bndrL2VwLzplcCcsIG1vZGVDaGVja2VyLCBmdW5jdGlvbiAqIChuZXh0KSB7CiAgICBjb25zdCBud2sgPSBwYXJzZUludCh0aGlzLnBhcmFtcy5ud2ssIDEwKTsKICAgIGNvbnN0IGVwID0gcGFyc2VJbnQodGhpcy5wYXJhbXMuZXAsIDEwKTsKICAgIGNvbnN0IGFwcFBheWxvYWQgPSB5aWVsZCBib2R5Lmpzb24odGhpcyk7CiAgICB0cnkgewogICAgICBjb25zdCBhcHAgPSB5aWVsZCBwcm94eS5zZXRBcHBQcm9wcyhud2ssIGVwLCB7cGF5bG9hZDogYXBwUGF5bG9hZH0pOwogICAgICB0aGlzLmJvZHkgPSBuZXcgTXNnKF8ucGljayhhcHAsIFsKICAgICAgICAnZGV2aWNlJywgJ2VuZFBvaW50JywgJ3R5cGUnLCAnbmFtZScsICdwYXlsb2FkJywKICAgICAgXSkpOwogICAgfSBjYXRjaCAoZSkgewogICAgICBsb2cuZXJyb3IoZSk7CiAgICAgIHRoaXMuYm9keSA9IG5ldyBNc2coe253aywgZXAsIHBheWxvYWQ6IGFwcFBheWxvYWR9LCBlKTsKICAgIH0KICB9KTs=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
