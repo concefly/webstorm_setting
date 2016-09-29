@@ -213,8 +213,11 @@
         <mark key="^" line="64" column="16" />
         <mark key="." line="64" column="16" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/zigbee/index.js" timestamp="1475120605051">
-        <mark key="[" line="0" column="0" />
+      <file name="E:/hwj/project/iLighting/local-server/src/zigbee/index.js" timestamp="1475132386926">
+        <mark key="[" line="20" column="40" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="14" column="21" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/README.md" timestamp="1456305253256">
         <mark key="[" line="38" column="17" />
@@ -836,9 +839,6 @@
         <mark key="]" line="170" column="33" />
         <mark key="^" line="170" column="33" />
         <mark key="." line="170" column="33" />
-      </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/scenes/static.js" timestamp="1474119484069">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/my/news/src/components/Home.jsx" timestamp="1468728940207">
         <mark key="[" line="31" column="0" />
@@ -1816,6 +1816,12 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="E:/hwj/project/iLighting/local-server/src/zigbee/middleware/frame.js" timestamp="1475131730850">
+        <mark key="[" line="8" column="21" />
+        <mark key="]" line="8" column="24" />
+        <mark key="." line="8" column="24" />
+        <mark key="^" line="8" column="24" />
+      </file>
       <file name="$USER_HOME$/project/heix/passport-frontend/README.md" timestamp="1452768404548">
         <mark key="[" line="4" column="38" />
         <mark key="]" line="5" column="31" />
@@ -1916,9 +1922,9 @@
         <mark key="." line="6" column="6" />
         <mark key="^" line="6" column="6" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/zigbee/plugins/lamp.js" timestamp="1475121509363">
-        <mark key="[" line="14" column="13" />
-        <mark key="]" line="9" column="3" />
+      <file name="E:/hwj/project/iLighting/local-server/src/zigbee/plugins/lamp.js" timestamp="1475130700626">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="5" column="0" />
         <mark key="^" line="9" column="3" />
         <mark key="." line="9" column="3" />
       </file>
@@ -2386,6 +2392,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="E:/hwj/project/iLighting/local-server/src/zigbee/middleware/lamp.js" timestamp="1475130741044">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="8" column="27" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/account/signin/signin.view.tpl" timestamp="1451468031010">
         <mark key="[" line="29" column="68" />
         <mark key="]" line="29" column="82" />
@@ -2758,43 +2770,47 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>sendFrame</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>use</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBjbGllbnRJbzogbG9nNGpzLmdldExvZ2dlcignY2xpZW50SW8nKSwK</text>
+        <text encoding="base64">CgpmdW5jdGlvbiBtaWRkbGV3YXJlICh7bW9kZWwsIGVtaXR9KSB7CiAgcmV0dXJuIGZ1bmN0aW9uICogKG5leHQpIHsKICAgIHlpZWxkIG5leHQoKTsKICB9Cn0KCm1vZHVsZS5leHBvcnRzID0gbWlkZGxld2FyZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogQGZpcmVzIG1vZGVDaGFuZ2UK</text>
+        <text encoding="base64">ICAgICAgICBtb2RlbDogMCwKICAgICAgICBlbWl0OiAwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbG9nLnRyYWNlKGDH0Lu7xKPKvc6qICR7c3RhdHVzLm1vZGV9YCk7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbG9nLnRyYWNlKGDH0Lu7xKPKvc6qICR7bW9kZX1gKTsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">Y29uc3QgbWlkZGx3YXJlID0gKHttb2RlbCwgZW1pdH0pID0+IGRhdGEgPT4gbmV4dCA9PiB7CiAgCn07</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>function middleware ({model, emit}) {
+  return function (data) {
+    return 
+  }
+}</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvKioKICAgKiDH0Lu7xKPKvQogICAqIEBwYXJhbSB7U3RyaW5nfSBtb2RlCiAgICovCiAgc2V0TW9kZShtb2RlKSB7CiAgICBsb2cudHJhY2UoYMfQu7vEo8q9zqogJHttb2RlfWApOwogICAgUHJveHkubW9kZSA9IG1vZGU7CiAgICAvKioKICAgICAqIEBldmVudCBtb2RlQ2hhbmdlCiAgICAgKi8KICAgIGV2ZW50LmVtaXQoJ21vZGVDaGFuZ2UnLCBtb2RlKTsKICB9LAogIGN1cnJlbnRNb2RlKCkgewogICAgcmV0dXJuIFByb3h5Lm1vZGU7CiAgfSwK</text>
+        <text encoding="base64">ICAgIHlpZWxkIG5leHQoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgeyBtb2RlIH0gPSBzdGF0dXM7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
