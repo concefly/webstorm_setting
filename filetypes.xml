@@ -7,8 +7,9 @@
       <mapping ext="vm" type="HTML" />
       <mapping ext="php" type="PHP" />
       <mapping pattern="thumb.scss" type="PLAIN_TEXT" />
-      <mapping pattern="__index__" type="PLAIN_TEXT" />
+      <mapping pattern="simpleAreq.js" type="PLAIN_TEXT" />
       <mapping pattern="selector-single.tpl" type="PLAIN_TEXT" />
+      <mapping pattern="__index__" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

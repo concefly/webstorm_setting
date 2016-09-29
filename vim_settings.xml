@@ -213,10 +213,11 @@
         <mark key="^" line="64" column="16" />
         <mark key="." line="64" column="16" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/zigbee/index.js" timestamp="1475133628991">
-        <mark key="[" line="30" column="3" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="E:/hwj/project/iLighting/local-server/src/zigbee/index.js" timestamp="1475134982460">
+        <mark key="[" line="25" column="9" />
+        <mark key="]" line="25" column="9" />
+        <mark key="." line="25" column="9" />
+        <mark key="^" line="25" column="13" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/README.md" timestamp="1456305253256">
         <mark key="[" line="38" column="17" />
@@ -253,6 +254,12 @@
         <mark key="]" line="12" column="4" />
         <mark key="." line="12" column="4" />
         <mark key="^" line="12" column="22" />
+      </file>
+      <file name="E:/hwj/project/iLighting/local-server/src/zigbee/middleware/index.js" timestamp="1475134047182">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="17" />
+        <mark key="^" line="1" column="17" />
+        <mark key="." line="1" column="17" />
       </file>
       <file name="$USER_HOME$/project/antcloud/usercenter/client/src/reducers/authority.js" timestamp="1467613663857">
         <mark key="[" line="247" column="2" />
@@ -325,11 +332,11 @@
         <mark key="^" line="5" column="10" />
         <mark key="." line="5" column="10" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/utils/log.js" timestamp="1475133428628">
-        <mark key="[" line="24" column="33" />
-        <mark key="]" line="24" column="43" />
-        <mark key="." line="24" column="43" />
-        <mark key="^" line="24" column="43" />
+      <file name="E:/hwj/project/iLighting/local-server/src/utils/log.js" timestamp="1475134296953">
+        <mark key="[" line="25" column="28" />
+        <mark key="]" line="25" column="33" />
+        <mark key="." line="25" column="33" />
+        <mark key="^" line="25" column="33" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/tag/base.scss" timestamp="1455760886320">
         <mark key="[" line="16" column="0" />
@@ -491,6 +498,11 @@
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="19" />
         <mark key="." line="36" column="0" />
+      </file>
+      <file name="E:/hwj/project/iLighting/local-server/src/utils/mt.js" timestamp="1475134544773">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="26" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/article.scss" timestamp="1449221982648">
         <mark key="[" line="5" column="17" />
@@ -1821,11 +1833,11 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/zigbee/middleware/frame.js" timestamp="1475131730850">
-        <mark key="[" line="8" column="21" />
-        <mark key="]" line="8" column="24" />
-        <mark key="." line="8" column="24" />
-        <mark key="^" line="8" column="24" />
+      <file name="E:/hwj/project/iLighting/local-server/src/zigbee/middleware/frame.js" timestamp="1475135224155">
+        <mark key="[" line="3" column="20" />
+        <mark key="]" line="5" column="23" />
+        <mark key="." line="5" column="23" />
+        <mark key="^" line="5" column="23" />
       </file>
       <file name="$USER_HOME$/project/heix/passport-frontend/README.md" timestamp="1452768404548">
         <mark key="[" line="4" column="38" />
@@ -2774,44 +2786,44 @@
       <jump line="118" column="9" filename="E:/hwj/project/iLighting/local-server/node_modules/socket.io/lib/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBfaGFuZGxlU2VyaWFsKCkgewogICAgY29uc3Qgc2VyaWFsID0gdGhpcy5fc2VyaWFsOwogICAgc2VyaWFsLm9uKCdkYXRhJywgKQogIH0K</text>
+      <register name="&quot;" type="4">
+        <text>例</text>
       </register>
       <register name="-" type="4">
-        <text>hardware</text>
+        <text>例</text>
       </register>
       <register name="/" type="4">
         <text>use</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBzdGF0aWNTY2VuZTogbG9nNGpzLmdldExvZ2dlcignc3RhdGljU2NlbmUnKSwK</text>
+        <text encoding="base64">ICogQHBhcmFtIHtGdW5jdGlvbn0gZW1pdAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBfaGFuZGxlU2VyaWFsKCkgewogICAgY29uc3Qgc2VyaWFsID0gdGhpcy5fc2VyaWFsOwogICAgc2VyaWFsLm9uKCdkYXRhJywgKQogIH0K</text>
+        <text encoding="base64">ICAKICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyoqCiAgICAgICAgICAgICAqIEBldmVudCBzcmVxCiAgICAgICAgICAgICAqCiAgICAgICAgICAgICAqIEB0eXBlIHtCdWZmZXJ9CiAgICAgICAgICAgICAqIEB0eXBlIHtGcmFtZX0KICAgICAgICAgICAgICovCiAgICAgICAgICAgIHRoaXMuZW1pdCgnc3JlcScsIGNodW5rLCBtdEZyYW1lKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGxvZy50cmFjZSgnytW1vda4we7WoaOs17yxuNC0yOu0rr/aXG4nLCBjaHVuayk7Cg==</text>
+        <text encoding="base64">ICBjb25zdCB7IGZyYW1lTWFwIH0gPSByZXF1aXJlKCcuLi8uLi91dGlscy9tdCcpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdChjaHVuaykudG8uYmUuYW4uaW5zdGFuY2VPZihGcmFtZVNyZXEpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgKiBAbWVtYmVyT2YgVHJhbnNmZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgKiBAc2VlIHBhcnNlU3JzcAo=</text>
+        <text encoding="base64">ICAgIHRoaXMuX2pvaW5kTWlkZGxld2FyZUZ1bmMoewogICAgICByYXdGcmFtZQogICAgfSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgKiBAcHJpdmF0ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgeyBFdmVudEVtaXR0ZXIgfSA9IHJlcXVpcmUoJ2V2ZW50cycpOwo=</text>
+        <text encoding="base64">Y29uc3QgbW9kZWwgPSBnZXRNb2RlbCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBmcmFtZU9iaiA9IHBhcnNlRnJhbWUoZnJhbWVCdWYpOwo=</text>
+        <text encoding="base64">Y29uc3Qgc2VyaWFsID0gcmVxdWlyZSgnLi9mcmFtZVNlcmlhbCcpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
