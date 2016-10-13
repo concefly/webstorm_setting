@@ -499,11 +499,11 @@
         <mark key="]" line="36" column="19" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/utils/mt.js" timestamp="1476336217247">
+      <file name="E:/hwj/project/iLighting/local-server/src/utils/mt.js" timestamp="1476359467405">
         <mark key="[" line="455" column="11" />
-        <mark key="]" line="456" column="11" />
-        <mark key="." line="456" column="11" />
-        <mark key="^" line="456" column="11" />
+        <mark key="]" line="457" column="0" />
+        <mark key="." line="457" column="0" />
+        <mark key="^" line="437" column="39" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/article.scss" timestamp="1449221982648">
         <mark key="[" line="5" column="17" />
@@ -2788,7 +2788,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>`${cmd0}`</text>
@@ -2800,33 +2800,33 @@
         <text>ZDO_END_DEVICE_ANNCE_IND</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjbWRNYXAuZW50cmllcygpCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBjbWRNYXAuZm9yRWFjaChrZXkgPT4gewogICAgaWYgKGtleSA9PT0gY21kU3RyKSBuYW1lID09IAogIH0pOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBjb25zdCB7IGNtZDAsIGNtZDEgfSA9IAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="6" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">ICBjbWRNYXAuZW50cmllcygpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBjbWRNYXAuZm9yRWFjaChrZXkgPT4gewogICAgaWYgKGtleSA9PT0gY21kU3RyKSBuYW1lID09IAogIH0pOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBjb25zdCB7IGNtZDAsIGNtZDEgfSA9IAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="7" type="4">
         <text>function cmdMap() {
   
 }</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBaRE9fU0VDX0RFVklDRV9SRU1PVkUoYnVmKSB7fSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
