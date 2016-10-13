@@ -225,11 +225,11 @@
         <mark key="^" line="54" column="9" />
         <mark key="." line="54" column="9" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/zigbee/serial.js" timestamp="1475117955627">
-        <mark key="[" line="47" column="26" />
-        <mark key="]" line="47" column="24" />
-        <mark key="." line="47" column="24" />
-        <mark key="^" line="47" column="24" />
+      <file name="E:/hwj/project/iLighting/local-server/src/zigbee/serial.js" timestamp="1476361670099">
+        <mark key="[" line="47" column="25" />
+        <mark key="]" line="47" column="25" />
+        <mark key="." line="47" column="25" />
+        <mark key="^" line="7" column="35" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/views/user/user.notification.tpl" timestamp="1450250073493">
         <mark key="[" line="9" column="114" />
@@ -499,11 +499,11 @@
         <mark key="]" line="36" column="19" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/utils/mt.js" timestamp="1476360627873">
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
-        <mark key="^" line="81" column="1" />
+      <file name="E:/hwj/project/iLighting/local-server/src/utils/mt.js" timestamp="1476361548360">
+        <mark key="[" line="529" column="9" />
+        <mark key="]" line="530" column="8" />
+        <mark key="." line="530" column="8" />
+        <mark key="^" line="530" column="8" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/article.scss" timestamp="1449221982648">
         <mark key="[" line="5" column="17" />
@@ -2787,44 +2787,44 @@
       <jump line="118" column="9" filename="E:/hwj/project/iLighting/local-server/node_modules/socket.io/lib/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBleHBlY3QoZnJhbWUpLnRvLmJlLmFuLmluc3RhbmNlT2YoQnVmZmVyKTsK</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>Boolean</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>use</text>
       </register>
-      <register name="0" type="4">
-        <text>ZDO_END_DEVICE_ANNCE_IND</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHNyY0FkZHIgPSBkYXRhLnJlYWRVSW50MTZCRSgwKTsKICAgIGNvbnN0IG53a0FkZHIgPSBkYXRhLnJlYWRVSW50MTZCRSgyKTsKICAgIGNvbnN0IGllZWVBZGRyID0gYnVmMkllZWUoZGF0YS5zbGljZSg0LCA0KzgpKTsKICAgIGNvbnN0IGNhcGFiaWxpdGllcyA9IGRhdGEucmVhZFVJbnQ4KDEyKTsKICAgIGNvbnN0IHR5cGUgPSAhIShjYXBhYmlsaXRpZXMgJiAweDAyKSA/ICdyb3V0ZXInIDogJ2VuZERldmljZSc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBleHBlY3QoZnJhbWUpLnRvLmJlLmFuLmluc3RhbmNlT2YoQnVmZmVyKTsK</text>
+        <text encoding="base64">ICAgKiAK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IGVsc2UgewogICAgcmV0dXJuIGZhbHNlOwogIH0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgKiAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgKiAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgKiAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgKiBAY29uc3RydWN0b3IK</text>
       </register>
-      <register name="7" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBleHBlY3QoZnJhbWUpLnRvLmJlLmFuLmluc3RhbmNlT2YoQnVmZmVyKTsK</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">IGVsc2UgewogICAgcmV0dXJuIGZhbHNlOwogIH0=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjbWRNYXAuZW50cmllcygpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
