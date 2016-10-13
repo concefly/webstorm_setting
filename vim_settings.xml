@@ -499,8 +499,11 @@
         <mark key="]" line="36" column="19" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/utils/mt.js" timestamp="1476331099739">
-        <mark key="[" line="435" column="1" />
+      <file name="E:/hwj/project/iLighting/local-server/src/utils/mt.js" timestamp="1476334864388">
+        <mark key="[" line="440" column="30" />
+        <mark key="]" line="441" column="38" />
+        <mark key="." line="441" column="38" />
+        <mark key="^" line="441" column="38" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/article.scss" timestamp="1449221982648">
         <mark key="[" line="5" column="17" />
@@ -2785,43 +2788,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>例</text>
+        <text>ZDO_END_DEVICE_ANNCE_IND</text>
       </register>
       <register name="-" type="4">
-        <text>例</text>
+        <text>buf</text>
       </register>
       <register name="/" type="4">
         <text>use</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICogQHBhcmFtIHtGdW5jdGlvbn0gZW1pdAo=</text>
+      <register name="0" type="4">
+        <text>ZDO_END_DEVICE_ANNCE_IND</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAKICAK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdCB7IGZyYW1lTWFwIH0gPSByZXF1aXJlKCcuLi8uLi91dGlscy9tdCcpOwo=</text>
+        <text encoding="base64">ICBaRE9fU0VDX0RFVklDRV9SRU1PVkUoYnVmKSB7fSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAKICAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMuX2pvaW5kTWlkZGxld2FyZUZ1bmMoewogICAgICByYXdGcmFtZQogICAgfSk7Cg==</text>
+        <text encoding="base64">ICBjb25zdCB7IGZyYW1lTWFwIH0gPSByZXF1aXJlKCcuLi8uLi91dGlscy9tdCcpOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgbW9kZWwgPSBnZXRNb2RlbCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3Qgc2VyaWFsID0gcmVxdWlyZSgnLi9mcmFtZVNlcmlhbCcpOwo=</text>
+        <text encoding="base64">ICAgIHRoaXMuX2pvaW5kTWlkZGxld2FyZUZ1bmMoewogICAgICByYXdGcmFtZQogICAgfSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
