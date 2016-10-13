@@ -213,11 +213,11 @@
         <mark key="^" line="64" column="16" />
         <mark key="." line="64" column="16" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/zigbee/index.js" timestamp="1476363019555">
-        <mark key="[" line="26" column="19" />
-        <mark key="]" line="26" column="20" />
-        <mark key="." line="26" column="20" />
-        <mark key="^" line="26" column="24" />
+      <file name="E:/hwj/project/iLighting/local-server/src/zigbee/index.js" timestamp="1476364518307">
+        <mark key="[" line="31" column="2" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="33" column="18" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/README.md" timestamp="1456305253256">
         <mark key="[" line="38" column="17" />
@@ -499,10 +499,11 @@
         <mark key="]" line="36" column="19" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/utils/mt.js" timestamp="1476362822033">
-        <mark key="[" line="499" column="12" />
-        <mark key="]" line="506" column="0" />
-        <mark key="." line="506" column="0" />
+      <file name="E:/hwj/project/iLighting/local-server/src/utils/mt.js" timestamp="1476364879916">
+        <mark key="[" line="515" column="5" />
+        <mark key="]" line="515" column="19" />
+        <mark key="." line="515" column="19" />
+        <mark key="^" line="515" column="19" />
       </file>
       <file name="$USER_HOME$/project/pet/wechat/components/frozenui/sass/util/article.scss" timestamp="1449221982648">
         <mark key="[" line="5" column="17" />
@@ -2786,8 +2787,8 @@
       <jump line="118" column="9" filename="E:/hwj/project/iLighting/local-server/node_modules/socket.io/lib/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgKiBAY29uc3RydWN0b3IK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -2795,35 +2796,35 @@
       <register name="/" type="4">
         <text>use</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHNyY0FkZHIgPSBkYXRhLnJlYWRVSW50MTZCRSgwKTsKICAgIGNvbnN0IG53a0FkZHIgPSBkYXRhLnJlYWRVSW50MTZCRSgyKTsKICAgIGNvbnN0IGllZWVBZGRyID0gYnVmMkllZWUoZGF0YS5zbGljZSg0LCA0KzgpKTsKICAgIGNvbnN0IGNhcGFiaWxpdGllcyA9IGRhdGEucmVhZFVJbnQ4KDEyKTsKICAgIGNvbnN0IHR5cGUgPSAhIShjYXBhYmlsaXRpZXMgJiAweDAyKSA/ICdyb3V0ZXInIDogJ2VuZERldmljZSc7Cg==</text>
+      <register name="0" type="4">
+        <text>ep, destNwk, destEp, clusterId, msg</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gaGVscGVycwoKZnVuY3Rpb24gZ2V0Q21kRnJvbUJ1ZihidWYpIHsKICAKfQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgKiAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MgWmlnYmVlIGV4dGVuZHMgRXZlbnRFbWl0dGVyIHsKICBjb25zdHJ1Y3Rvcih7bWlkcywgbW9kZWwsIHNlcmlhbH0pIHsKICAgIHN1cGVyKCk7CiAgICB0aGlzLl9taWRzID0gbWlkczsKICAgIHRoaXMuX21vZGVsID0gbW9kZWw7CiAgICB0aGlzLl9zZXJpYWwgPSBzZXJpYWw7CiAgICB0aGlzLl9qb2luZE1pZGRsZXdhcmVGdW5jID0gbnVsbDsKICAgIC8vINe8sbjW0LzksuMKICAgIHRoaXMuX2pvaW5NaWQoKTsKICAgIC8vILDztqgKICAgIHRoaXMuX3NlcmlhbC5vbignZGF0YScsIHRoaXMuX2hhbmRsZVNlcmlhbERhdGEuYmluZCh0aGlzKSk7CiAgfQogIF9qb2luTWlkKCkgewogICAgY29uc3QgbWlkcyA9IHRoaXMuX21pZHMuY29uY2F0KCk7CiAgICBtaWRzLnJldmVyc2UoKTsKICAgIGxldCBoYW5kbGVyID0gbnVsbDsKICAgIGxldCBwcm9wcyA9IHsKICAgICAgbW9kZWw6IHRoaXMuX21vZGVsLAogICAgICBlbWl0OiB0aGlzLmVtaXQuYmluZCh0aGlzKSwKICAgICAgbG9nCiAgICB9OwogICAgT2JqZWN0LmZyZWV6ZShwcm9wcyk7CiAgICBmb3IgKGxldCBpPTA7IGk8bWlkcy5sZW5ndGg7IGkrKykgewogICAgICBoYW5kbGVyID0gbWlkc1tpXShwcm9wcykoaGFuZGxlcik7CiAgICB9CiAgICB0aGlzLl9qb2luZE1pZGRsZXdhcmVGdW5jID0gaGFuZGxlcjsKICB9CiAgX2hhbmRsZVNlcmlhbERhdGEocmF3RnJhbWUpIHsKICAgIHRyeSB7CiAgICAgIHRoaXMuX2pvaW5kTWlkZGxld2FyZUZ1bmMoeyByYXdGcmFtZSB9KTsKICAgIH0gY2F0Y2ggKGUpIHsKICAgICAgbG9nLmVycm9yKCfOtLK2u/G1xLTtzvNcbicsIGUpOwogICAgfQogIH0KfQoKbW9kdWxlLmV4cG9ydHMgPSBuZXcgWmlnYmVlKHsKICBtaWRzOiByZXF1aXJlKCcuL21pZGRsZXdhcmUnKSwKICBtb2RlbDogZ2V0TW9kZWwoKSwKICBzZXJpYWw6IHJlcXVpcmUoJy4vZnJhbWVTZXJpYWwnKQp9KTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgeyBnZXRNb2RlbCB9ID0gcmVxdWlyZSgnLi4vZGInKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgKiAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgKiAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgKiBAY29uc3RydWN0b3IK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgKiAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgKiBAY29uc3RydWN0b3IK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgKgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICB3cml0ZShud2ssIGVwLCBpaSkge30K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8gaGVscGVycwoKZnVuY3Rpb24gZ2V0Q21kRnJvbUJ1ZihidWYpIHsKICAKfQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgKiAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
