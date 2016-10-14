@@ -166,9 +166,9 @@
         <mark key="]" line="9" column="30" />
         <mark key="." line="9" column="30" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/libs/zigbee/frameHandler.js" timestamp="1474100593774">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
+      <file name="E:/hwj/project/iLighting/local-server/src/libs/zigbee/frameHandler.js" timestamp="1476411880308">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="51" column="49" />
         <mark key="." line="25" column="0" />
         <mark key="^" line="20" column="41" />
       </file>
@@ -213,11 +213,11 @@
         <mark key="^" line="64" column="16" />
         <mark key="." line="64" column="16" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/zigbee/index.js" timestamp="1476364518307">
-        <mark key="[" line="31" column="2" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="33" column="18" />
+      <file name="E:/hwj/project/iLighting/local-server/src/zigbee/index.js" timestamp="1476412506525">
+        <mark key="[" line="34" column="9" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="32" column="0" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/README.md" timestamp="1456305253256">
         <mark key="[" line="38" column="17" />
@@ -332,11 +332,11 @@
         <mark key="^" line="5" column="10" />
         <mark key="." line="5" column="10" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/utils/log.js" timestamp="1475134296953">
-        <mark key="[" line="25" column="28" />
-        <mark key="]" line="25" column="33" />
-        <mark key="." line="25" column="33" />
-        <mark key="^" line="25" column="33" />
+      <file name="E:/hwj/project/iLighting/local-server/src/utils/log.js" timestamp="1476411184948">
+        <mark key="[" line="24" column="36" />
+        <mark key="]" line="24" column="49" />
+        <mark key="." line="24" column="49" />
+        <mark key="^" line="24" column="49" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/tag/base.scss" timestamp="1455760886320">
         <mark key="[" line="16" column="0" />
@@ -499,9 +499,9 @@
         <mark key="]" line="36" column="19" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/utils/mt.js" timestamp="1476369023032">
-        <mark key="[" line="526" column="11" />
-        <mark key="]" line="526" column="19" />
+      <file name="E:/hwj/project/iLighting/local-server/src/utils/mt.js" timestamp="1476411550086">
+        <mark key="[" line="522" column="15" />
+        <mark key="]" line="522" column="51" />
         <mark key="." line="526" column="19" />
         <mark key="^" line="526" column="19" />
       </file>
@@ -774,6 +774,12 @@
         <mark key="]" line="8" column="22" />
         <mark key="^" line="8" column="22" />
         <mark key="." line="8" column="22" />
+      </file>
+      <file name="E:/hwj/project/iLighting/local-server/src/runtine/zigbeeMediator.js" timestamp="1476412636587">
+        <mark key="[" line="48" column="3" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+        <mark key="^" line="23" column="2" />
       </file>
       <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/components/vrVideo/vrVideo.js" timestamp="1457515479272">
         <mark key="[" line="8" column="44" />
@@ -1645,11 +1651,11 @@
         <mark key="^" line="34" column="26" />
         <mark key="." line="34" column="26" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/zigbee/frameSerial.js" timestamp="1476362138741">
-        <mark key="[" line="23" column="32" />
-        <mark key="]" line="5" column="13" />
-        <mark key="." line="5" column="13" />
-        <mark key="^" line="5" column="13" />
+      <file name="E:/hwj/project/iLighting/local-server/src/zigbee/frameSerial.js" timestamp="1476409461936">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+        <mark key="^" line="38" column="22" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/fis-watch.sh" timestamp="1450232375649">
         <mark key="[" line="2" column="80" />
@@ -2156,13 +2162,6 @@
         <mark key="^" line="48" column="26" />
         <mark key="." line="48" column="26" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/routers/client.js" timestamp="1474529817758">
-        <mark key="'" line="54" column="2" />
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="123" column="2" />
-        <mark key="." line="27" column="52" />
-        <mark key="^" line="27" column="52" />
-      </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/product/product.tpl" timestamp="1450425778324">
         <mark key="[" line="3" column="59" />
         <mark key="]" line="3" column="72" />
@@ -2654,6 +2653,12 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="E:/hwj/project/iLighting/local-server/src/runtine/zigbeeMiddleware.js" timestamp="1476410880330">
+        <mark key="[" line="16" column="37" />
+        <mark key="]" line="16" column="36" />
+        <mark key="^" line="16" column="11" />
+        <mark key="." line="16" column="12" />
+      </file>
       <file name="E:/hwj/project/iLighting/local-server/bin/server.js" timestamp="1473759717604">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -2788,43 +2793,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgKiAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>remoteEp</text>
+        <text>areq</text>
       </register>
       <register name="/" type="4">
         <text>use</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJlbW90ZU53ayA9IGRhdGEucmVhZFVJbnQxNkJFKDApOwogICAgY29uc3QgcmVtb3RlRXAgPSBkYXRhLnJlYWRVSW50OCgyKTsKICAgIGNvbnN0IGNsdXN0ZXJJZCA9IGRhdGEucmVhZFVJbnQxNkJFKDMpOwogICAgY29uc3QgbXNnTGVuID0gZGF0YS5yZWFkVUludDgoNSk7CiAgICBjb25zdCBwYXlsb2FkID0gbmV3IEJ1ZmZlcihtc2dMZW4pOwogICAgZGF0YS5jb3B5KHBheWxvYWQsIDAsIDYpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGRldmljZSA9IHlpZWxkIERldmljZS5jcmVhdGUoewogICAgICBud2s6IE53a0FkZHIsCiAgICAgIGllZWU6IElFRUVBZGRyLAogICAgICB0eXBlOiBEZXZpY2VUeXBlLAogICAgICBuYW1lOiBg0MLJ6LG4IEAke053a0FkZHJ9YCwKICAgIH0pOwogICAgbG9nLmluZm8oYNDCyeixuNLRvNPI6yBAJHtOd2tBZGRyfVxuYCwgYXJlcS5wYXJzZWQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgKiAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgKiBAY29uc3RydWN0b3IK</text>
+        <text encoding="base64">ICAgIHdyaXRlKCkge30K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvKioKICAgKiBAcGFyYW0ge0J1ZmZlcn0gYnVmCiAgICogQHJldHVybiB7T2JqZWN0fQogICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgKiBAY29uc3RydWN0b3IK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgKiAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHRoaXMuX3NlcmlhbC53cml0ZShidWYpCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgKiBAY29uc3RydWN0b3IK</text>
+        <text encoding="base64">ICAvKioKICAgKiC0y7SmuMTQtGB3cml0ZWC3vbeoo6zS1LHjxNy908rcRnJhbWXA4NDNtcRjaHVua6GjCiAgICoKICAgKiCyu7/J0MW12Leiy83WuMHu1qGho7Wx0LTI67Suv9rKsaOsyM/Oqreiy82zybmmoaMKICAgKiBAcGFyYW0ge0ZyYW1lU3JlcX0gY2h1bmsKICAgKiBAcGFyYW0gZW5jb2RpbmcKICAgKiBAcGFyYW0gY2FsbGJhY2sKICAgKiBAY2FsbGJhY2sge09iamVjdH0gY2FsbGJhY2sKICAgKi8KICB3cml0ZShjaHVuaywgZW5jb2RpbmcsIGNhbGxiYWNrKSB7CiAgICB0aGlzLl90ZW1wQ2h1bmsgPSBjaHVuazsKICAgIGxvZy50cmFjZSgnytW1vda4we7WoaOs17yxuNC0yOu0rr/aXG4nLCBjaHVuayk7CiAgICBzdXBlci53cml0ZShjaHVuay5kdW1wKCksIGVuY29kaW5nLCBjYWxsYmFjayk7CiAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
