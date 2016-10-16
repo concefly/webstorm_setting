@@ -1283,11 +1283,11 @@
         <mark key="." line="7" column="30" />
         <mark key="^" line="7" column="30" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/runtime/sys.js" timestamp="1476588515920">
-        <mark key="[" line="27" column="3" />
-        <mark key="]" line="30" column="24" />
-        <mark key="." line="30" column="24" />
-        <mark key="^" line="30" column="24" />
+      <file name="E:/hwj/project/iLighting/local-server/src/runtime/sys.js" timestamp="1476589607705">
+        <mark key="[" line="58" column="6" />
+        <mark key="]" line="58" column="11" />
+        <mark key="." line="58" column="11" />
+        <mark key="^" line="58" column="11" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/file-upload/file-upload.js" timestamp="1450259135864">
         <mark key="[" line="3" column="26" />
@@ -2811,40 +2811,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>}</text>
+        <text>const</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>const</text>
       </register>
       <register name="/" type="4">
         <text>use</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBbc3lzU3RhdHVzLm5hbWVdOiBzeXNTdGF0dXMsCg==</text>
+        <text encoding="base64">ICAgIGlmICghdGhpcy5faXNJbml0KSB0aHJvdyBuZXcgRXJyb3IoJ860aW5pdENhY2hlJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0dXM6IHt9ICAK</text>
+        <text encoding="base64">ICAgICAgaWYgKCFzeXMpIHRocm93IG5ldyBFcnJvcigpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHByb3BzKSB7CiAgICAgIH0K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB5aWVsZCBTeXMuY3JlYXRlKHByb3BzKTsK</text>
+        <text encoding="base64">ICAgIHJldHVybiB0aGlzLl9kYkNhY2hlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdGF0dXM6IHt9ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgeWllbGQgU3lzLmNyZWF0ZShwcm9wcykK</text>
+        <text encoding="base64">ICAgICAgaWYgKHByb3BzKSB7CiAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB5aWVsZCBTeXMuY3JlYXRlKHByb3BzKTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHByb3BzLAo=</text>
+        <text encoding="base64">ICAgICAgeWllbGQgU3lzLmNyZWF0ZShwcm9wcykK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
