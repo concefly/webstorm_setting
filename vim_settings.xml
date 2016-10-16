@@ -161,10 +161,11 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/schema/sys.js" timestamp="1474124391389">
-        <mark key="[" line="9" column="30" />
-        <mark key="]" line="9" column="30" />
-        <mark key="." line="9" column="30" />
+      <file name="E:/hwj/project/iLighting/local-server/src/schema/sys.js" timestamp="1476587250962">
+        <mark key="[" line="61" column="30" />
+        <mark key="]" line="61" column="35" />
+        <mark key="." line="61" column="35" />
+        <mark key="^" line="61" column="35" />
       </file>
       <file name="E:/hwj/project/iLighting/local-server/src/libs/zigbee/frameHandler.js" timestamp="1476411880308">
         <mark key="[" line="45" column="0" />
@@ -1282,6 +1283,12 @@
         <mark key="." line="7" column="30" />
         <mark key="^" line="7" column="30" />
       </file>
+      <file name="E:/hwj/project/iLighting/local-server/src/runtime/sys.js" timestamp="1476588515920">
+        <mark key="[" line="27" column="3" />
+        <mark key="]" line="30" column="24" />
+        <mark key="." line="30" column="24" />
+        <mark key="^" line="30" column="24" />
+      </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/components/file-upload/file-upload.js" timestamp="1450259135864">
         <mark key="[" line="3" column="26" />
         <mark key="]" line="3" column="26" />
@@ -1957,11 +1964,11 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="9" column="3" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/runtime/controller.js" timestamp="1476438943288">
-        <mark key="[" line="29" column="35" />
-        <mark key="]" line="30" column="15" />
-        <mark key="." line="30" column="15" />
-        <mark key="^" line="30" column="15" />
+      <file name="E:/hwj/project/iLighting/local-server/src/runtime/controller.js" timestamp="1476586879116">
+        <mark key="[" line="65" column="9" />
+        <mark key="]" line="65" column="22" />
+        <mark key="." line="65" column="22" />
+        <mark key="^" line="65" column="22" />
       </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/libs/share/share.js" timestamp="1454038706754">
         <mark key="[" line="27" column="38" />
@@ -2804,43 +2811,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Y29uc3QgZmluYWxBcHAgPSA=</text>
+        <text>}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29uc3QgZmluYWxBcHAgPSA=</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>use</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgZmluYWxBcHAgPSB5aWVsZCBBcHAuZmluZE9uZUFuZFVwZGF0ZSgKICAgICAgICB7ZGV2aWNlOiBud2ssIGVuZFBvaW50OiBlcH0sCiAgICAgICAgcHJvcHMsCiAgICAgICAgeyAnbmV3JzogdHJ1ZSB9CiAgICAgICkuZXhlYygpOwo=</text>
+        <text encoding="base64">ICBbc3lzU3RhdHVzLm5hbWVdOiBzeXNTdGF0dXMsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHByb3BzLAo=</text>
+        <text encoding="base64">ICAgICAgICBzdGF0dXM6IHt9ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKHByb3BzKSB7CiAgICAgIH0K</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgLnRoZW4oKCkgPT4gewogICAgICAgIAogICAgICB9KQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB5aWVsZCBTeXMuY3JlYXRlKHByb3BzKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgYXBwTXNnID0gcmVxdWlyZSgnLi4vdXRpbHMvYXBwTXNnJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIChPYmplY3Qua2V5cyh0aGlzLl90YXJnZXRJbnNNYXApLmluZGV4T2YobW9kZSkpCg==</text>
+        <text encoding="base64">ICAgICAgeWllbGQgU3lzLmNyZWF0ZShwcm9wcykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgKiAK</text>
+        <text encoding="base64">ICAgICAgICAgIHByb3BzLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGFwcE1zZy4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
