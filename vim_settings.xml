@@ -141,11 +141,6 @@
         <mark key="^" line="4" column="89" />
         <mark key="." line="4" column="89" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/launch.js" timestamp="1476793457130">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
       <file name="E:/hwj/project/iLighting/local-server/src/schema/sys.js" timestamp="1476587250962">
         <mark key="[" line="61" column="30" />
         <mark key="]" line="61" column="35" />
@@ -362,6 +357,7 @@
         <mark key="^" line="6" column="45" />
         <mark key="." line="6" column="45" />
       </file>
+      <file name="E:/hwj/project/iLighting/web-client/src/index.js" timestamp="1477997994774" />
       <file name="$USER_HOME$/project/donor-pc/src/templates/timeline.tpl" timestamp="1469797024041">
         <mark key="[" line="9" column="63" />
         <mark key="]" line="9" column="66" />
@@ -617,12 +613,6 @@
         <mark key="." line="98" column="0" />
         <mark key="^" line="102" column="36" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/libs/sys.js" timestamp="1476792851869">
-        <mark key="[" line="71" column="25" />
-        <mark key="]" line="72" column="24" />
-        <mark key="." line="72" column="24" />
-        <mark key="^" line="72" column="24" />
-      </file>
       <file name="$USER_HOME$/project/donor-pc/src/templates/timeline-fail.tpl" timestamp="1469764126724">
         <mark key="[" line="0" column="5" />
         <mark key="]" line="0" column="14" />
@@ -707,12 +697,7 @@
         <mark key="^" line="358" column="51" />
         <mark key="." line="358" column="51" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/schema/zigbee.js" timestamp="1476691537654">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="73" column="6" />
-        <mark key="." line="51" column="28" />
-        <mark key="^" line="51" column="28" />
-      </file>
+      <file name="E:/hwj/project/iLighting/local-server/src/schema/zigbee.js" timestamp="1477998665131" />
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/permission/admin.list.js" timestamp="1452146198904">
         <mark key="[" line="51" column="27" />
         <mark key="]" line="51" column="28" />
@@ -1358,12 +1343,6 @@
         <mark key="^" line="4" column="31" />
         <mark key="." line="4" column="31" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/schema/scene.js" timestamp="1476791801886">
-        <mark key="[" line="82" column="67" />
-        <mark key="]" line="83" column="19" />
-        <mark key="." line="83" column="19" />
-        <mark key="^" line="83" column="19" />
-      </file>
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/libs/bootstrap-validator/bootstrap-validator.js" timestamp="1453270402363">
         <mark key="[" line="196" column="44" />
         <mark key="]" line="196" column="44" />
@@ -1730,7 +1709,7 @@
         <mark key="^" line="34" column="81" />
         <mark key="." line="34" column="81" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/routers/api.js" timestamp="1476794805405">
+      <file name="E:/hwj/project/iLighting/local-server/src/routers/api.js" timestamp="1477998863433">
         <mark key="[" line="110" column="26" />
         <mark key="]" line="110" column="32" />
         <mark key="." line="110" column="32" />
