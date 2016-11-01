@@ -1363,11 +1363,11 @@
         <mark key="^" line="88" column="2" />
         <mark key="." line="88" column="2" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/sio.js" timestamp="1477999167623">
-        <mark key="[" line="10" column="35" />
-        <mark key="]" line="10" column="36" />
-        <mark key="." line="10" column="36" />
-        <mark key="^" line="10" column="36" />
+      <file name="E:/hwj/project/iLighting/local-server/src/sio.js" timestamp="1478001416584">
+        <mark key="[" line="32" column="2" />
+        <mark key="]" line="41" column="24" />
+        <mark key="." line="41" column="24" />
+        <mark key="^" line="41" column="5" />
       </file>
       <file name="$USER_HOME$/project/my/news/src/routes/index.js" timestamp="1468728302281">
         <mark key="[" line="9" column="42" />
@@ -1837,11 +1837,8 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/libs/event.js" timestamp="1477999985844">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="12" column="53" />
+      <file name="E:/hwj/project/iLighting/local-server/src/libs/event.js" timestamp="1478000242961">
+        <mark key="^" line="15" column="32" />
       </file>
       <file name="$USER_HOME$/project/antcloud/lark-console/web/src/containers/Message/consultSettings.jsx" timestamp="1469108478188">
         <mark key="[" line="3" column="0" />
@@ -2602,11 +2599,13 @@
       <jump line="118" column="9" filename="E:/hwj/project/iLighting/local-server/node_modules/socket.io/lib/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>{
+        type: 
+      }</text>
       </register>
       <register name="-" type="4">
-        <text>sreq</text>
+        <text>const</text>
       </register>
       <register name="/" type="4">
         <text>time</text>
@@ -2614,32 +2613,34 @@
       <register name="0" type="2">
         <text encoding="base64">Y29uc3QgemlnYmVlID0gcmVxdWlyZSgnLi4vemlnYmVlJyk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="1" type="4">
+        <text>{
+        type: 
+      }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBldmVudE5hbWVzLmZvckVhY2gobmFtZSA9PiB7CiAgICAgICAgICBlcy5yZW1vdmVMaXN0ZW5lcihuYW1lLCBfaW5uZXJIYW5kbGVyKTsKICAgICAgICB9KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHppZ2JlZS5vbignc3JlcScsIHRoaXMuaGFuZGxlRXZlbnQuYmluZCh0aGlzLCAnc3JlcScpKTsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGhhbmRsZUV2ZW50ID0gdGhpcy5oYW5kbGVFdmVudC5iaW5kKHRoaXMpOwo=</text>
+        <text encoding="base64">ICAgICAgZXMub24obmFtZSwgX2lubmVySGFuZGxlcik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogQHR5cGUge1ppZ2JlZX0K</text>
+        <text encoding="base64">ICAgIGNvbnN0IF9pbm5lckhhbmRsZXIgPSBoYW5kbGVyLmJpbmQoc29ja2V0KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgcHJveHkgPSByZXF1aXJlKCcuLi9saWJzL3Byb3h5JykuZ2V0SW5zKCk7Cg==</text>
+        <text encoding="base64">ICBzd2l0Y2ggCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgQWRtaW5pc3RyYXRvciBvbiAyMDE2LzExLzEgMDAwMS4KICovCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgc2NlbmVJZCA9IHlpZWxkIGJvZHkuanNvbih0aGlzKTsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IF9pbm5lckhhbmRsZUNsaWVudExpYkV2ZW50ID0gaGFuZGxlQ2xpZW50TGliRXZlbnQuYmluZChudWxsLCBzb2NrZXQpOwogICAgY29uc3QgX2lubmVySGFuZGxlQXBwTXNnTGliRXZlbnQgPSBoYW5kbGVBcHBNc2dMaWJFdmVudC5iaW5kKG51bGwsIHNvY2tldCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcm94eS5yZW1vdmVMaXN0ZW5lcignZnJhbWU6YXJlcVByb2Nlc3NlZCcsIF9pbm5lckhhbmRsZUNsaWVudExpYkV2ZW50KTsKICAgICAgICBwcm94eS5yZW1vdmVMaXN0ZW5lcignYXBwOmZlZWRiYWNrJywgX2lubmVySGFuZGxlQXBwTXNnTGliRXZlbnQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
