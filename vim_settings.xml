@@ -586,6 +586,10 @@
         <mark key="^" line="30" column="38" />
         <mark key="." line="30" column="38" />
       </file>
+      <file name="E:/hwj/project/iLighting/local-server/src/libs/zigbee.js" timestamp="1477999529917">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="36" />
+      </file>
       <file name="$USER_HOME$/project/heix/blackbox-mobile-frontend/views/catalog_news/catalog_news.scss" timestamp="1456910821590">
         <mark key="[" line="19" column="13" />
         <mark key="]" line="19" column="23" />
@@ -696,6 +700,10 @@
         <mark key="]" line="358" column="51" />
         <mark key="^" line="358" column="51" />
         <mark key="." line="358" column="51" />
+      </file>
+      <file name="E:/hwj/project/iLighting/local-server/src/socket/client.js" timestamp="1477999147115">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="50" column="2" />
       </file>
       <file name="E:/hwj/project/iLighting/local-server/src/schema/zigbee.js" timestamp="1477998665131" />
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/permission/admin.list.js" timestamp="1452146198904">
@@ -1355,6 +1363,12 @@
         <mark key="^" line="88" column="2" />
         <mark key="." line="88" column="2" />
       </file>
+      <file name="E:/hwj/project/iLighting/local-server/src/sio.js" timestamp="1477999167623">
+        <mark key="[" line="10" column="35" />
+        <mark key="]" line="10" column="36" />
+        <mark key="." line="10" column="36" />
+        <mark key="^" line="10" column="36" />
+      </file>
       <file name="$USER_HOME$/project/my/news/src/routes/index.js" timestamp="1468728302281">
         <mark key="[" line="9" column="42" />
         <mark key="]" line="9" column="48" />
@@ -1799,11 +1813,6 @@
         <mark key="^" line="9" column="3" />
         <mark key="." line="9" column="3" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/runtime/controller.js" timestamp="1476617293318">
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="0" />
-        <mark key="." line="88" column="0" />
-      </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/libs/share/share.js" timestamp="1454038706754">
         <mark key="[" line="27" column="38" />
         <mark key="]" line="27" column="37" />
@@ -1827,6 +1836,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="E:/hwj/project/iLighting/local-server/src/libs/event.js" timestamp="1477999985844">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="12" column="53" />
       </file>
       <file name="$USER_HOME$/project/antcloud/lark-console/web/src/containers/Message/consultSettings.jsx" timestamp="1469108478188">
         <mark key="[" line="3" column="0" />
@@ -2587,44 +2602,44 @@
       <jump line="118" column="9" filename="E:/hwj/project/iLighting/local-server/node_modules/socket.io/lib/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>null</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>sreq</text>
       </register>
       <register name="/" type="4">
         <text>time</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgbG9nLmVycm9yKGUpOwogICAgICB0aGlzLmJvZHkgPSBuZXcgTXNnKG51bGwsIGUpOwo=</text>
+        <text encoding="base64">Y29uc3QgemlnYmVlID0gcmVxdWlyZSgnLi4vemlnYmVlJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgc2NlbmVJZCA9IHlpZWxkIGJvZHkuanNvbih0aGlzKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgc3lzIH0gPSB0aGlzLm1vdW50OwogICAgdHJ5IHsKICAgICAgY29uc3Qgc2NlbmVJZCA9IHlpZWxkIGJvZHkuanNvbih0aGlzKTsKICAgICAgeWllbGQgc3lzLm1lcmdlU3lzSW4oJ3N0YXR1cycsIHsgc2NlbmVJZCB9KTsKICAgICAgeWllbGQgc3lzLmZsdXNoKCk7CiAgICAgIHRoaXMuYm9keSA9IG5ldyBNc2coc2NlbmVJZCk7CiAgICB9IGNhdGNoIChlKSB7CiAgICAgIGxvZy5lcnJvcihlKTsKICAgICAgdGhpcy5ib2R5ID0gbmV3IE1zZyhudWxsLCBlKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIHppZ2JlZS5vbignc3JlcScsIHRoaXMuaGFuZGxlRXZlbnQuYmluZCh0aGlzLCAnc3JlcScpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgc3lzIH0gPSB0aGlzLm1vdW50OwogICAgdHJ5IHsKICAgICAgY29uc3Qgc2NlbmVJZCA9IHlpZWxkIGJvZHkuanNvbih0aGlzKTsKICAgICAgeWllbGQgc3lzLm1lcmdlU3lzSW4oJ3N0YXR1cycsIHsgc2NlbmVJZCB9KTsKICAgICAgeWllbGQgc3lzLmZsdXNoKCk7CiAgICAgIHRoaXMuYm9keSA9IG5ldyBNc2coc2NlbmVJZCk7CiAgICB9IGNhdGNoIChlKSB7CiAgICAgIGxvZy5lcnJvcihlKTsKICAgICAgdGhpcy5ib2R5ID0gbmV3IE1zZyhudWxsLCBlKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIGNvbnN0IGhhbmRsZUV2ZW50ID0gdGhpcy5oYW5kbGVFdmVudC5iaW5kKHRoaXMpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgY29udHJvbGxlciB9ID0gdGhpcy5tb3VudDsKICAgIHRyeSB7CiAgICAgIHlpZWxkICBjb250cm9sbGVyLnNldFNjZW5lKCk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICogQHR5cGUge1ppZ2JlZX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgcHJveHkgPSByZXF1aXJlKCcuLi9saWJzL3Byb3h5JykuZ2V0SW5zKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgQWRtaW5pc3RyYXRvciBvbiAyMDE2LzExLzEgMDAwMS4KICovCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3Qgc2NlbmVJZCA9IHlpZWxkIGJvZHkuanNvbih0aGlzKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgU3RhdGljU2NlbmUgfSA9IG1vZGVsczsKICAgIGNvbnN0IFtbc2NlbmVdXSA9IG1peC53cmFwMlJldHVyblByb21pc2UoU3RhdGljU2NlbmUuam9pbkl0ZW1zLmJpbmQoU3RhdGljU2NlbmUpKSh7CiAgICAgIF9pZDogc2lkCiAgICB9KTsKICAgIGZvcihsZXQgaT0wOyBpPHNjZW5lLml0ZW1zLmxlbmd0aDsgaSsrKSB7CiAgICAgIGNvbnN0IHsgaWVlZSwgZXAsIHNjZW5lUGF5bG9hZCB9ID0gc2NlbmUuaXRlbXNbaV07CiAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
