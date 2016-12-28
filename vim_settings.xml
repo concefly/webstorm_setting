@@ -195,12 +195,7 @@
         <mark key="^" line="64" column="16" />
         <mark key="." line="64" column="16" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/zigbee/index.js" timestamp="1476420387862">
-        <mark key="[" line="44" column="9" />
-        <mark key="]" line="46" column="11" />
-        <mark key="." line="46" column="11" />
-        <mark key="^" line="46" column="11" />
-      </file>
+      <file name="E:/hwj/project/iLighting/local-server/src/zigbee/index.js" timestamp="1482915854826" />
       <file name="$USER_HOME$/project/heix/cms-frontend/README.md" timestamp="1456305253256">
         <mark key="[" line="38" column="17" />
         <mark key="]" line="54" column="9" />
@@ -363,7 +358,6 @@
         <mark key="^" line="6" column="45" />
         <mark key="." line="6" column="45" />
       </file>
-      <file name="E:/hwj/project/iLighting/web-client/src/index.js" timestamp="1477997994774" />
       <file name="$USER_HOME$/project/donor-pc/src/templates/timeline.tpl" timestamp="1469797024041">
         <mark key="[" line="9" column="63" />
         <mark key="]" line="9" column="66" />
@@ -711,7 +705,6 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="50" column="2" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/schema/zigbee.js" timestamp="1477998665131" />
       <file name="$USER_HOME$/project/heix/blackbox-manager-frontend/views/permission/admin.list.js" timestamp="1452146198904">
         <mark key="[" line="51" column="27" />
         <mark key="]" line="51" column="28" />
@@ -1369,12 +1362,6 @@
         <mark key="^" line="88" column="2" />
         <mark key="." line="88" column="2" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/sio.js" timestamp="1478054010068">
-        <mark key="[" line="16" column="38" />
-        <mark key="]" line="17" column="30" />
-        <mark key="^" line="17" column="30" />
-        <mark key="." line="17" column="30" />
-      </file>
       <file name="$USER_HOME$/project/my/news/src/routes/index.js" timestamp="1468728302281">
         <mark key="[" line="9" column="42" />
         <mark key="]" line="9" column="48" />
@@ -1400,10 +1387,10 @@
         <mark key="^" line="13" column="49" />
       </file>
       <file name="E:/hwj/project/iLighting/local-server/src/mock/serial.js" timestamp="1478054041285">
-        <mark key="[" line="15" column="6" />
-        <mark key="]" line="15" column="5" />
-        <mark key="." line="15" column="5" />
-        <mark key="^" line="15" column="5" />
+        <mark key="[" line="29" column="6" />
+        <mark key="]" line="29" column="5" />
+        <mark key="." line="29" column="5" />
+        <mark key="^" line="29" column="5" />
       </file>
       <file name="$USER_HOME$/project/blackbox/backend-cms/resources/assets/js/admin/components/modal/imageModal.vue" timestamp="1449822121728">
         <mark key="[" line="30" column="34" />
@@ -1536,12 +1523,6 @@
         <mark key="]" line="40" column="5" />
         <mark key="^" line="34" column="26" />
         <mark key="." line="34" column="26" />
-      </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/zigbee/frameSerial.js" timestamp="1476670273581">
-        <mark key="[" line="47" column="17" />
-        <mark key="]" line="47" column="20" />
-        <mark key="." line="47" column="20" />
-        <mark key="^" line="47" column="20" />
       </file>
       <file name="$USER_HOME$/project/blackbox/blackbox-manager-frontend/fis-watch.sh" timestamp="1450232375649">
         <mark key="[" line="2" column="80" />
@@ -1729,12 +1710,6 @@
         <mark key="^" line="34" column="81" />
         <mark key="." line="34" column="81" />
       </file>
-      <file name="E:/hwj/project/iLighting/local-server/src/routers/api.js" timestamp="1477998863433">
-        <mark key="[" line="110" column="26" />
-        <mark key="]" line="110" column="32" />
-        <mark key="." line="110" column="32" />
-        <mark key="^" line="110" column="32" />
-      </file>
       <file name="$USER_HOME$/project/heix/cms-frontend/resources/user/user_home.blade.php" timestamp="1453793670852">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -1844,10 +1819,10 @@
         <mark key="." line="3" column="0" />
       </file>
       <file name="E:/hwj/project/iLighting/local-server/src/libs/event.js" timestamp="1478002143489">
-        <mark key="[" line="18" column="38" />
-        <mark key="]" line="18" column="37" />
-        <mark key="^" line="18" column="37" />
-        <mark key="." line="18" column="37" />
+        <mark key="[" line="36" column="38" />
+        <mark key="]" line="36" column="37" />
+        <mark key="^" line="36" column="37" />
+        <mark key="." line="36" column="37" />
       </file>
       <file name="$USER_HOME$/project/antcloud/lark-console/web/src/containers/Message/consultSettings.jsx" timestamp="1469108478188">
         <mark key="[" line="3" column="0" />
@@ -2405,7 +2380,7 @@
         <mark key="^" line="42" column="47" />
         <mark key="." line="42" column="47" />
       </file>
-      <file name="/JavaScript Console" timestamp="1476695226186">
+      <file name="/JavaScript Console" timestamp="1482915865223">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/project/antcloud/usercenter/client/src/components/logs/LogList.less" timestamp="1466836039144">
